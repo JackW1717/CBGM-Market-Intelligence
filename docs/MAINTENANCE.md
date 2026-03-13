@@ -25,3 +25,9 @@ npm run fetch:news
 - Confirm **Settings → Pages → Source = GitHub Actions**
 - Re-run **Deploy to GitHub Pages** workflow
 - Verify `npm run build` succeeds locally
+
+
+## Debug empty updates
+- Open `data/fetch-status.json` after a run
+- Check which sources succeeded/failed and how many articles were added
+- Replace consistently failing sources in `data/sources.json`

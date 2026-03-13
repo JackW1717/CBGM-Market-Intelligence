@@ -30,9 +30,19 @@ interface Article {
   fetched_at_optional: string | null;
 }
 
+interface SourceStatus {
+  source: string;
+  url: string;
+  status: 'ok' | 'skipped' | 'error';
+  scanned: number;
+  added: number;
+  message: string;
+}
+
 const root = path.resolve(process.cwd());
 const sourcesPath = path.join(root, 'data/sources.json');
 const articlesPath = path.join(root, 'data/articles.json');
+const statusPath = path.join(root, 'data/fetch-status.json');
 
 const keywordRules: Array<{ pattern: RegExp; category: string; marketTag: string; issuer: string; score: number; reason: string }> = [
   { pattern: /\bbond|note issuance|debt issuance|syndicated debt|fixed income|credit markets?\b/i, category: 'Global Bonds', marketTag: 'bond issuance', issuer: 'Corporate', score: 14, reason: 'Bond issuance activity is core to CBGM market intelligence priorities.' },
@@ -51,12 +61,12 @@ const keywordRules: Array<{ pattern: RegExp; category: string; marketTag: string
 const sourceRegionHints: Array<{ pattern: RegExp; region: string }> = [
   { pattern: /\buk|london|fca/i, region: 'United Kingdom' },
   { pattern: /\beu|europe|ec\.europa|ebrd/i, region: 'Europe' },
-  { pattern: /\bsec\b|sifma|united states|reuters|ifc|techcrunch/i, region: 'United States' },
+  { pattern: /\bsec\b|sifma|united states|reuters|ifc|techcrunch|federal reserve/i, region: 'United States' },
   { pattern: /\bmas\b|asia|singapore/i, region: 'Asia' },
   { pattern: /\bafrica|afdb/i, region: 'Africa' },
   { pattern: /\blatin america|iadb/i, region: 'Latin America' },
   { pattern: /\bmiddle east|gcc|mena/i, region: 'Middle East' },
-  { pattern: /\bworld bank|bis/i, region: 'Global' },
+  { pattern: /\bworld bank|bis|imf|google news/i, region: 'Global' },
 ];
 
 const sanitize = (value: string): string =>
@@ -77,7 +87,10 @@ const parseItems = (xml: string) => {
 
   return chunks.map((chunk) => {
     const title = extractTag(chunk, 'title');
-    const link = extractTag(chunk, 'link') || chunk.match(/<link[^>]*href="([^"]+)"/i)?.[1] || '';
+    const link =
+      chunk.match(/<link[^>]*rel="alternate"[^>]*href="([^"]+)"/i)?.[1]
+      || chunk.match(/<link[^>]*href="([^"]+)"/i)?.[1]
+      || extractTag(chunk, 'link');
     const pubDate = extractTag(chunk, 'pubDate') || extractTag(chunk, 'published') || extractTag(chunk, 'updated') || new Date().toISOString();
     const summary = extractTag(chunk, 'description') || extractTag(chunk, 'summary') || extractTag(chunk, 'content');
     return { title, link, pubDate, summary };
@@ -111,6 +124,28 @@ const classify = (textBlob: string) => {
   };
 };
 
+async function fetchText(url: string): Promise<string> {
+  const controller = new AbortController();
+  const timeout = setTimeout(() => controller.abort(), 20_000);
+  try {
+    const response = await fetch(url, {
+      headers: {
+        'User-Agent': 'CBGM-Market-Intelligence-Hub/1.0 (+github-actions)',
+        Accept: 'application/rss+xml, application/atom+xml, application/xml, text/xml, */*',
+      },
+      signal: controller.signal,
+    });
+
+    if (!response.ok) {
+      throw new Error(`${response.status} ${response.statusText}`);
+    }
+
+    return await response.text();
+  } finally {
+    clearTimeout(timeout);
+  }
+}
+
 async function main() {
   const sources = JSON.parse(await fs.readFile(sourcesPath, 'utf8')) as FeedSource[];
   const existingRaw = JSON.parse(await fs.readFile(articlesPath, 'utf8')) as Article[];
@@ -119,14 +154,13 @@ async function main() {
   const dedupe = new Set(existing.map((article) => article.article_url));
   const now = new Date().toISOString();
   const created: Article[] = [];
+  const sourceStatuses: SourceStatus[] = [];
 
   for (const source of sources.filter((candidate) => candidate.rss)) {
     try {
-      const response = await fetch(source.url, { headers: { 'User-Agent': 'CBGM-Market-Intelligence-Hub/1.0 (+github-actions)' } });
-      if (!response.ok) throw new Error(`${response.status} ${response.statusText}`);
-
-      const xml = await response.text();
-      const items = parseItems(xml).slice(0, 20);
+      const xml = await fetchText(source.url);
+      const items = parseItems(xml).slice(0, 25);
+      let addedForSource = 0;
 
       for (const item of items) {
         if (!item.title || !item.link || dedupe.has(item.link)) continue;
@@ -157,25 +191,47 @@ async function main() {
         });
 
         dedupe.add(item.link);
+        addedForSource += 1;
       }
 
-      console.log(`Source OK: ${source.name} (${items.length} scanned)`);
-    } catch (error) {
-      console.warn(`Source skipped: ${source.name} -> ${(error as Error).message}`);
-    }
-  }
+      sourceStatuses.push({
+        source: source.name,
+        url: source.url,
+        status: 'ok',
+        scanned: items.length,
+        added: addedForSource,
+        message: 'Fetched and parsed successfully.',
+      });
 
-  if (created.length === 0) {
-    console.log('No new items found. Existing non-demo dataset retained.');
-    await fs.writeFile(articlesPath, JSON.stringify(existing, null, 2) + '\n');
-    return;
+      console.log(`Source OK: ${source.name} (${items.length} scanned, ${addedForSource} added)`);
+    } catch (error) {
+      const message = error instanceof Error
+        ? `${error.message}${(error as Error & { cause?: { message?: string } }).cause?.message ? ` | cause: ${(error as Error & { cause?: { message?: string } }).cause?.message}` : ''}`
+        : 'Unknown fetch error';
+      sourceStatuses.push({
+        source: source.name,
+        url: source.url,
+        status: 'error',
+        scanned: 0,
+        added: 0,
+        message,
+      });
+      console.warn(`Source skipped: ${source.name} -> ${message}`);
+    }
   }
 
   const merged = [...created, ...existing]
     .sort((a, b) => new Date(b.published_at).getTime() - new Date(a.published_at).getTime())
-    .slice(0, 300);
+    .slice(0, 500);
 
   await fs.writeFile(articlesPath, JSON.stringify(merged, null, 2) + '\n');
+  await fs.writeFile(statusPath, JSON.stringify({ fetched_at: now, total_added: created.length, sources: sourceStatuses }, null, 2) + '\n');
+
+  if (created.length === 0) {
+    console.log('No new items found. Wrote fetch-status report for diagnostics.');
+    return;
+  }
+
   console.log(`Added ${created.length} new real articles. Total stored: ${merged.length}.`);
 }
 

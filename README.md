@@ -69,6 +69,7 @@ That’s it — no manual base-path tweaks needed (routing uses hash-based URLs 
 ## Troubleshooting
 - If deploy fails: check **Actions → Deploy to GitHub Pages** logs.
 - If feed update fails: check **Actions → Daily news update** logs for source-specific skip messages.
+- Fetch diagnostics: see `data/fetch-status.json` for per-source success/failure and article counts.
 - If one source breaks: remove or replace that feed in `data/sources.json`.
 
 ## Cheapest future upgrades
