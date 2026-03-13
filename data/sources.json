@@ -1,0 +1,14 @@
+[
+  { "name": "Reuters Markets", "url": "https://www.reutersagency.com/feed/?best-topics=business-finance&post_type=best", "type": "major_financial_news", "rss": true },
+  { "name": "Financial Times Markets", "url": "https://www.ft.com/markets?format=rss", "type": "major_financial_news", "rss": true },
+  { "name": "IFR (Refinitiv)", "url": "https://www.ifre.com/feed/", "type": "bond_publication", "rss": true },
+  { "name": "SIFMA News", "url": "https://www.sifma.org/feed/", "type": "market_structure", "rss": true },
+  { "name": "BIS Speeches", "url": "https://www.bis.org/rss/speeches.xml", "type": "multilateral", "rss": true },
+  { "name": "World Bank News", "url": "https://www.worldbank.org/en/news/all?format=rss", "type": "multilateral", "rss": true },
+  { "name": "SEC Press Releases", "url": "https://www.sec.gov/news/pressreleases.rss", "type": "regulator", "rss": true },
+  { "name": "FCA News", "url": "https://www.fca.org.uk/news/rss.xml", "type": "regulator", "rss": true },
+  { "name": "MAS News", "url": "https://www.mas.gov.sg/news/media-releases/rss", "type": "regulator", "rss": true },
+  { "name": "London Stock Exchange News", "url": "https://www.londonstockexchange.com/exchange/news/market-news/market-news-home.html?lang=en&format=rss", "type": "exchange", "rss": true },
+  { "name": "TechCrunch Fintech", "url": "https://techcrunch.com/category/fintech/feed/", "type": "venture_fintech", "rss": true },
+  { "name": "EU Commission Financial Services", "url": "https://ec.europa.eu/info/news_en?f%5B0%5D=im_field_mentioned_topics%3A623&format=feed&type=rss", "type": "regulator", "rss": true }
+]

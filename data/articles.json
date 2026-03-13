@@ -1,0 +1,941 @@
+[
+  {
+    "id": "demo-001",
+    "title": "[DEMO] Global Bonds signal #1: capital markets update",
+    "source_name": "Demo Regulatory Digest",
+    "source_url": "https://example.com/demo-source",
+    "article_url": "https://example.com/demo-article-1",
+    "published_at": "2026-03-02T03:00:00Z",
+    "summary": "Sample/demo content for MVP testing focused on global bonds and early-stage funding.",
+    "full_excerpt_optional": "This is synthetic demo content and not real reporting.",
+    "category": [
+      "Global Bonds",
+      "Early-Stage Funding"
+    ],
+    "region": [
+      "Global",
+      "Global"
+    ],
+    "issuer_type": [
+      "Corporate"
+    ],
+    "market_tags": [
+      "cross-border financing",
+      "market transparency",
+      "fixed income technology"
+    ],
+    "featured": false,
+    "relevance_score": 65,
+    "cbgm_relevance_reason": "Demo article flagged for cross-border financing and market transparency, both aligned with CBGM debt market strategy.",
+    "image_url_optional": null,
+    "source_type_optional": "demo",
+    "fetched_at_optional": null
+  },
+  {
+    "id": "demo-002",
+    "title": "[DEMO] Global Bonds signal #2: capital markets update",
+    "source_name": "Demo Regulatory Digest",
+    "source_url": "https://example.com/demo-source",
+    "article_url": "https://example.com/demo-article-2",
+    "published_at": "2026-03-02T21:00:00Z",
+    "summary": "Sample/demo content for MVP testing focused on global bonds and fintech.",
+    "full_excerpt_optional": "This is synthetic demo content and not real reporting.",
+    "category": [
+      "Global Bonds",
+      "Fintech"
+    ],
+    "region": [
+      "United Kingdom"
+    ],
+    "issuer_type": [
+      "Startup"
+    ],
+    "market_tags": [
+      "tokenized debt",
+      "auction",
+      "cross-border financing"
+    ],
+    "featured": false,
+    "relevance_score": 75,
+    "cbgm_relevance_reason": "Demo article flagged for tokenized debt and auction, both aligned with CBGM debt market strategy.",
+    "image_url_optional": null,
+    "source_type_optional": "demo",
+    "fetched_at_optional": null
+  },
+  {
+    "id": "demo-003",
+    "title": "[DEMO] Emerging Markets signal #3: capital markets update",
+    "source_name": "Demo Financial Wire",
+    "source_url": "https://example.com/demo-source",
+    "article_url": "https://example.com/demo-article-3",
+    "published_at": "2026-03-03T15:00:00Z",
+    "summary": "Sample/demo content for MVP testing focused on emerging markets and digital assets / tokenization.",
+    "full_excerpt_optional": "This is synthetic demo content and not real reporting.",
+    "category": [
+      "Emerging Markets",
+      "Digital Assets / Tokenization"
+    ],
+    "region": [
+      "Asia"
+    ],
+    "issuer_type": [
+      "Municipal"
+    ],
+    "market_tags": [
+      "allocation",
+      "primary markets",
+      "debt distribution"
+    ],
+    "featured": false,
+    "relevance_score": 65,
+    "cbgm_relevance_reason": "Demo article flagged for allocation and primary markets, both aligned with CBGM debt market strategy.",
+    "image_url_optional": null,
+    "source_type_optional": "demo",
+    "fetched_at_optional": null
+  },
+  {
+    "id": "demo-004",
+    "title": "[DEMO] Fixed Income Technology signal #4: capital markets update",
+    "source_name": "Demo Emerging Markets Bulletin",
+    "source_url": "https://example.com/demo-source",
+    "article_url": "https://example.com/demo-article-4",
+    "published_at": "2026-03-04T09:00:00Z",
+    "summary": "Sample/demo content for MVP testing focused on fixed income technology and early-stage funding.",
+    "full_excerpt_optional": "This is synthetic demo content and not real reporting.",
+    "category": [
+      "Fixed Income Technology",
+      "Early-Stage Funding"
+    ],
+    "region": [
+      "Global"
+    ],
+    "issuer_type": [
+      "Startup"
+    ],
+    "market_tags": [
+      "cross-border financing",
+      "market transparency",
+      "debt distribution"
+    ],
+    "featured": false,
+    "relevance_score": 65,
+    "cbgm_relevance_reason": "Demo article flagged for cross-border financing and market transparency, both aligned with CBGM debt market strategy.",
+    "image_url_optional": null,
+    "source_type_optional": "demo",
+    "fetched_at_optional": null
+  },
+  {
+    "id": "demo-005",
+    "title": "[DEMO] Market Infrastructure signal #5: capital markets update",
+    "source_name": "Demo Regulatory Digest",
+    "source_url": "https://example.com/demo-source",
+    "article_url": "https://example.com/demo-article-5",
+    "published_at": "2026-03-05T03:00:00Z",
+    "summary": "Sample/demo content for MVP testing focused on market infrastructure and regulation.",
+    "full_excerpt_optional": "This is synthetic demo content and not real reporting.",
+    "category": [
+      "Market Infrastructure",
+      "Regulation"
+    ],
+    "region": [
+      "United Kingdom"
+    ],
+    "issuer_type": [
+      "Project"
+    ],
+    "market_tags": [
+      "auction",
+      "tokenized debt",
+      "bond issuance"
+    ],
+    "featured": false,
+    "relevance_score": 75,
+    "cbgm_relevance_reason": "Demo article flagged for auction and tokenized debt, both aligned with CBGM debt market strategy.",
+    "image_url_optional": null,
+    "source_type_optional": "demo",
+    "fetched_at_optional": null
+  },
+  {
+    "id": "demo-006",
+    "title": "[DEMO] Project Finance signal #6: capital markets update",
+    "source_name": "Demo Infrastructure Journal",
+    "source_url": "https://example.com/demo-source",
+    "article_url": "https://example.com/demo-article-6",
+    "published_at": "2026-03-05T21:00:00Z",
+    "summary": "Sample/demo content for MVP testing focused on project finance and regulation.",
+    "full_excerpt_optional": "This is synthetic demo content and not real reporting.",
+    "category": [
+      "Project Finance",
+      "Regulation"
+    ],
+    "region": [
+      "Africa"
+    ],
+    "issuer_type": [
+      "Municipal"
+    ],
+    "market_tags": [
+      "tokenized debt",
+      "auction",
+      "primary markets"
+    ],
+    "featured": false,
+    "relevance_score": 75,
+    "cbgm_relevance_reason": "Demo article flagged for tokenized debt and auction, both aligned with CBGM debt market strategy.",
+    "image_url_optional": null,
+    "source_type_optional": "demo",
+    "fetched_at_optional": null
+  },
+  {
+    "id": "demo-007",
+    "title": "[DEMO] Sovereign Debt signal #7: capital markets update",
+    "source_name": "Demo Infrastructure Journal",
+    "source_url": "https://example.com/demo-source",
+    "article_url": "https://example.com/demo-article-7",
+    "published_at": "2026-03-06T15:00:00Z",
+    "summary": "Sample/demo content for MVP testing focused on sovereign debt and corporate bonds.",
+    "full_excerpt_optional": "This is synthetic demo content and not real reporting.",
+    "category": [
+      "Sovereign Debt",
+      "Corporate Bonds"
+    ],
+    "region": [
+      "Middle East"
+    ],
+    "issuer_type": [
+      "Corporate"
+    ],
+    "market_tags": [
+      "auction",
+      "tokenized debt",
+      "debt distribution"
+    ],
+    "featured": true,
+    "relevance_score": 65,
+    "cbgm_relevance_reason": "Demo article flagged for auction and tokenized debt, both aligned with CBGM debt market strategy.",
+    "image_url_optional": null,
+    "source_type_optional": "demo",
+    "fetched_at_optional": null
+  },
+  {
+    "id": "demo-008",
+    "title": "[DEMO] Regulation signal #8: capital markets update",
+    "source_name": "Demo Emerging Markets Bulletin",
+    "source_url": "https://example.com/demo-source",
+    "article_url": "https://example.com/demo-article-8",
+    "published_at": "2026-03-07T09:00:00Z",
+    "summary": "Sample/demo content for MVP testing focused on regulation and market infrastructure.",
+    "full_excerpt_optional": "This is synthetic demo content and not real reporting.",
+    "category": [
+      "Regulation",
+      "Market Infrastructure"
+    ],
+    "region": [
+      "Middle East"
+    ],
+    "issuer_type": [
+      "Municipal"
+    ],
+    "market_tags": [
+      "debt distribution",
+      "bookbuilding",
+      "primary markets"
+    ],
+    "featured": false,
+    "relevance_score": 65,
+    "cbgm_relevance_reason": "Demo article flagged for debt distribution and bookbuilding, both aligned with CBGM debt market strategy.",
+    "image_url_optional": null,
+    "source_type_optional": "demo",
+    "fetched_at_optional": null
+  },
+  {
+    "id": "demo-009",
+    "title": "[DEMO] Municipal Bonds signal #9: capital markets update",
+    "source_name": "Demo Infrastructure Journal",
+    "source_url": "https://example.com/demo-source",
+    "article_url": "https://example.com/demo-article-9",
+    "published_at": "2026-03-08T03:00:00Z",
+    "summary": "Sample/demo content for MVP testing focused on municipal bonds and regulation.",
+    "full_excerpt_optional": "This is synthetic demo content and not real reporting.",
+    "category": [
+      "Municipal Bonds",
+      "Regulation"
+    ],
+    "region": [
+      "Latin America",
+      "Global"
+    ],
+    "issuer_type": [
+      "Multilateral"
+    ],
+    "market_tags": [
+      "auction",
+      "bookbuilding",
+      "bond issuance"
+    ],
+    "featured": false,
+    "relevance_score": 65,
+    "cbgm_relevance_reason": "Demo article flagged for auction and bookbuilding, both aligned with CBGM debt market strategy.",
+    "image_url_optional": null,
+    "source_type_optional": "demo",
+    "fetched_at_optional": null
+  },
+  {
+    "id": "demo-010",
+    "title": "[DEMO] Regulation signal #10: capital markets update",
+    "source_name": "Demo Infrastructure Journal",
+    "source_url": "https://example.com/demo-source",
+    "article_url": "https://example.com/demo-article-10",
+    "published_at": "2026-03-08T21:00:00Z",
+    "summary": "Sample/demo content for MVP testing focused on regulation and digital assets / tokenization.",
+    "full_excerpt_optional": "This is synthetic demo content and not real reporting.",
+    "category": [
+      "Regulation",
+      "Digital Assets / Tokenization"
+    ],
+    "region": [
+      "Africa",
+      "Global"
+    ],
+    "issuer_type": [
+      "Project"
+    ],
+    "market_tags": [
+      "fixed income technology",
+      "bond issuance",
+      "primary markets"
+    ],
+    "featured": false,
+    "relevance_score": 75,
+    "cbgm_relevance_reason": "Demo article flagged for fixed income technology and bond issuance, both aligned with CBGM debt market strategy.",
+    "image_url_optional": null,
+    "source_type_optional": "demo",
+    "fetched_at_optional": null
+  },
+  {
+    "id": "demo-011",
+    "title": "[DEMO] Fintech signal #11: capital markets update",
+    "source_name": "Demo Infrastructure Journal",
+    "source_url": "https://example.com/demo-source",
+    "article_url": "https://example.com/demo-article-11",
+    "published_at": "2026-03-09T15:00:00Z",
+    "summary": "Sample/demo content for MVP testing focused on fintech and project finance.",
+    "full_excerpt_optional": "This is synthetic demo content and not real reporting.",
+    "category": [
+      "Fintech",
+      "Project Finance"
+    ],
+    "region": [
+      "Asia"
+    ],
+    "issuer_type": [
+      "Project"
+    ],
+    "market_tags": [
+      "issuance infrastructure",
+      "tokenized debt",
+      "bookbuilding"
+    ],
+    "featured": false,
+    "relevance_score": 75,
+    "cbgm_relevance_reason": "Demo article flagged for issuance infrastructure and tokenized debt, both aligned with CBGM debt market strategy.",
+    "image_url_optional": null,
+    "source_type_optional": "demo",
+    "fetched_at_optional": null
+  },
+  {
+    "id": "demo-012",
+    "title": "[DEMO] Global Bonds signal #12: capital markets update",
+    "source_name": "Demo Financial Wire",
+    "source_url": "https://example.com/demo-source",
+    "article_url": "https://example.com/demo-article-12",
+    "published_at": "2026-03-10T09:00:00Z",
+    "summary": "Sample/demo content for MVP testing focused on global bonds and market infrastructure.",
+    "full_excerpt_optional": "This is synthetic demo content and not real reporting.",
+    "category": [
+      "Global Bonds",
+      "Market Infrastructure"
+    ],
+    "region": [
+      "United Kingdom"
+    ],
+    "issuer_type": [
+      "Sovereign"
+    ],
+    "market_tags": [
+      "tokenized debt",
+      "bookbuilding",
+      "cross-border financing"
+    ],
+    "featured": false,
+    "relevance_score": 75,
+    "cbgm_relevance_reason": "Demo article flagged for tokenized debt and bookbuilding, both aligned with CBGM debt market strategy.",
+    "image_url_optional": null,
+    "source_type_optional": "demo",
+    "fetched_at_optional": null
+  },
+  {
+    "id": "demo-013",
+    "title": "[DEMO] Digital Assets / Tokenization signal #13: capital markets update",
+    "source_name": "Demo Emerging Markets Bulletin",
+    "source_url": "https://example.com/demo-source",
+    "article_url": "https://example.com/demo-article-13",
+    "published_at": "2026-03-11T03:00:00Z",
+    "summary": "Sample/demo content for MVP testing focused on digital assets / tokenization and fintech.",
+    "full_excerpt_optional": "This is synthetic demo content and not real reporting.",
+    "category": [
+      "Digital Assets / Tokenization",
+      "Fintech"
+    ],
+    "region": [
+      "United States",
+      "Global"
+    ],
+    "issuer_type": [
+      "Startup"
+    ],
+    "market_tags": [
+      "auction",
+      "allocation",
+      "cross-border financing"
+    ],
+    "featured": false,
+    "relevance_score": 65,
+    "cbgm_relevance_reason": "Demo article flagged for auction and allocation, both aligned with CBGM debt market strategy.",
+    "image_url_optional": null,
+    "source_type_optional": "demo",
+    "fetched_at_optional": null
+  },
+  {
+    "id": "demo-014",
+    "title": "[DEMO] Project Finance signal #14: capital markets update",
+    "source_name": "Demo Regulatory Digest",
+    "source_url": "https://example.com/demo-source",
+    "article_url": "https://example.com/demo-article-14",
+    "published_at": "2026-03-11T21:00:00Z",
+    "summary": "Sample/demo content for MVP testing focused on project finance and municipal bonds.",
+    "full_excerpt_optional": "This is synthetic demo content and not real reporting.",
+    "category": [
+      "Project Finance",
+      "Municipal Bonds"
+    ],
+    "region": [
+      "Middle East"
+    ],
+    "issuer_type": [
+      "Startup"
+    ],
+    "market_tags": [
+      "market transparency",
+      "debt distribution",
+      "fixed income technology"
+    ],
+    "featured": true,
+    "relevance_score": 55,
+    "cbgm_relevance_reason": "Demo article flagged for market transparency and debt distribution, both aligned with CBGM debt market strategy.",
+    "image_url_optional": null,
+    "source_type_optional": "demo",
+    "fetched_at_optional": null
+  },
+  {
+    "id": "demo-015",
+    "title": "[DEMO] Fintech signal #15: capital markets update",
+    "source_name": "Demo Financial Wire",
+    "source_url": "https://example.com/demo-source",
+    "article_url": "https://example.com/demo-article-15",
+    "published_at": "2026-03-12T15:00:00Z",
+    "summary": "Sample/demo content for MVP testing focused on fintech and digital assets / tokenization.",
+    "full_excerpt_optional": "This is synthetic demo content and not real reporting.",
+    "category": [
+      "Fintech",
+      "Digital Assets / Tokenization"
+    ],
+    "region": [
+      "Latin America"
+    ],
+    "issuer_type": [
+      "Municipal"
+    ],
+    "market_tags": [
+      "cross-border financing",
+      "bond issuance",
+      "primary markets"
+    ],
+    "featured": false,
+    "relevance_score": 85,
+    "cbgm_relevance_reason": "Demo article flagged for cross-border financing and bond issuance, both aligned with CBGM debt market strategy.",
+    "image_url_optional": null,
+    "source_type_optional": "demo",
+    "fetched_at_optional": null
+  },
+  {
+    "id": "demo-016",
+    "title": "[DEMO] Corporate Bonds signal #16: capital markets update",
+    "source_name": "Demo Financial Wire",
+    "source_url": "https://example.com/demo-source",
+    "article_url": "https://example.com/demo-article-16",
+    "published_at": "2026-03-13T09:00:00Z",
+    "summary": "Sample/demo content for MVP testing focused on corporate bonds and sovereign debt.",
+    "full_excerpt_optional": "This is synthetic demo content and not real reporting.",
+    "category": [
+      "Corporate Bonds",
+      "Sovereign Debt"
+    ],
+    "region": [
+      "Africa",
+      "Global"
+    ],
+    "issuer_type": [
+      "Startup"
+    ],
+    "market_tags": [
+      "bond issuance",
+      "fixed income technology",
+      "allocation"
+    ],
+    "featured": false,
+    "relevance_score": 65,
+    "cbgm_relevance_reason": "Demo article flagged for bond issuance and fixed income technology, both aligned with CBGM debt market strategy.",
+    "image_url_optional": null,
+    "source_type_optional": "demo",
+    "fetched_at_optional": null
+  },
+  {
+    "id": "demo-017",
+    "title": "[DEMO] Emerging Markets signal #17: capital markets update",
+    "source_name": "Demo Infrastructure Journal",
+    "source_url": "https://example.com/demo-source",
+    "article_url": "https://example.com/demo-article-17",
+    "published_at": "2026-03-14T03:00:00Z",
+    "summary": "Sample/demo content for MVP testing focused on emerging markets and regulation.",
+    "full_excerpt_optional": "This is synthetic demo content and not real reporting.",
+    "category": [
+      "Emerging Markets",
+      "Regulation"
+    ],
+    "region": [
+      "United States"
+    ],
+    "issuer_type": [
+      "Startup"
+    ],
+    "market_tags": [
+      "cross-border financing",
+      "issuance infrastructure",
+      "tokenized debt"
+    ],
+    "featured": false,
+    "relevance_score": 85,
+    "cbgm_relevance_reason": "Demo article flagged for cross-border financing and issuance infrastructure, both aligned with CBGM debt market strategy.",
+    "image_url_optional": null,
+    "source_type_optional": "demo",
+    "fetched_at_optional": null
+  },
+  {
+    "id": "demo-018",
+    "title": "[DEMO] Corporate Bonds signal #18: capital markets update",
+    "source_name": "Demo Regulatory Digest",
+    "source_url": "https://example.com/demo-source",
+    "article_url": "https://example.com/demo-article-18",
+    "published_at": "2026-03-14T21:00:00Z",
+    "summary": "Sample/demo content for MVP testing focused on corporate bonds and market infrastructure.",
+    "full_excerpt_optional": "This is synthetic demo content and not real reporting.",
+    "category": [
+      "Corporate Bonds",
+      "Market Infrastructure"
+    ],
+    "region": [
+      "Latin America",
+      "Global"
+    ],
+    "issuer_type": [
+      "Municipal"
+    ],
+    "market_tags": [
+      "debt distribution",
+      "bond issuance",
+      "bookbuilding"
+    ],
+    "featured": false,
+    "relevance_score": 65,
+    "cbgm_relevance_reason": "Demo article flagged for debt distribution and bond issuance, both aligned with CBGM debt market strategy.",
+    "image_url_optional": null,
+    "source_type_optional": "demo",
+    "fetched_at_optional": null
+  },
+  {
+    "id": "demo-019",
+    "title": "[DEMO] Early-Stage Funding signal #19: capital markets update",
+    "source_name": "Demo Infrastructure Journal",
+    "source_url": "https://example.com/demo-source",
+    "article_url": "https://example.com/demo-article-19",
+    "published_at": "2026-03-15T15:00:00Z",
+    "summary": "Sample/demo content for MVP testing focused on early-stage funding and fintech.",
+    "full_excerpt_optional": "This is synthetic demo content and not real reporting.",
+    "category": [
+      "Early-Stage Funding",
+      "Fintech"
+    ],
+    "region": [
+      "Africa"
+    ],
+    "issuer_type": [
+      "Sovereign"
+    ],
+    "market_tags": [
+      "primary markets",
+      "cross-border financing",
+      "market transparency"
+    ],
+    "featured": false,
+    "relevance_score": 75,
+    "cbgm_relevance_reason": "Demo article flagged for primary markets and cross-border financing, both aligned with CBGM debt market strategy.",
+    "image_url_optional": null,
+    "source_type_optional": "demo",
+    "fetched_at_optional": null
+  },
+  {
+    "id": "demo-020",
+    "title": "[DEMO] Fintech signal #20: capital markets update",
+    "source_name": "Demo Financial Wire",
+    "source_url": "https://example.com/demo-source",
+    "article_url": "https://example.com/demo-article-20",
+    "published_at": "2026-03-16T09:00:00Z",
+    "summary": "Sample/demo content for MVP testing focused on fintech and digital assets / tokenization.",
+    "full_excerpt_optional": "This is synthetic demo content and not real reporting.",
+    "category": [
+      "Fintech",
+      "Digital Assets / Tokenization"
+    ],
+    "region": [
+      "Middle East",
+      "Global"
+    ],
+    "issuer_type": [
+      "Sovereign"
+    ],
+    "market_tags": [
+      "auction",
+      "fixed income technology",
+      "cross-border financing"
+    ],
+    "featured": false,
+    "relevance_score": 65,
+    "cbgm_relevance_reason": "Demo article flagged for auction and fixed income technology, both aligned with CBGM debt market strategy.",
+    "image_url_optional": null,
+    "source_type_optional": "demo",
+    "fetched_at_optional": null
+  },
+  {
+    "id": "demo-021",
+    "title": "[DEMO] Digital Assets / Tokenization signal #21: capital markets update",
+    "source_name": "Demo Regulatory Digest",
+    "source_url": "https://example.com/demo-source",
+    "article_url": "https://example.com/demo-article-21",
+    "published_at": "2026-03-17T03:00:00Z",
+    "summary": "Sample/demo content for MVP testing focused on digital assets / tokenization and emerging markets.",
+    "full_excerpt_optional": "This is synthetic demo content and not real reporting.",
+    "category": [
+      "Digital Assets / Tokenization",
+      "Emerging Markets"
+    ],
+    "region": [
+      "Asia"
+    ],
+    "issuer_type": [
+      "Corporate"
+    ],
+    "market_tags": [
+      "issuance infrastructure",
+      "auction",
+      "cross-border financing"
+    ],
+    "featured": true,
+    "relevance_score": 75,
+    "cbgm_relevance_reason": "Demo article flagged for issuance infrastructure and auction, both aligned with CBGM debt market strategy.",
+    "image_url_optional": null,
+    "source_type_optional": "demo",
+    "fetched_at_optional": null
+  },
+  {
+    "id": "demo-022",
+    "title": "[DEMO] Emerging Markets signal #22: capital markets update",
+    "source_name": "Demo Regulatory Digest",
+    "source_url": "https://example.com/demo-source",
+    "article_url": "https://example.com/demo-article-22",
+    "published_at": "2026-03-17T21:00:00Z",
+    "summary": "Sample/demo content for MVP testing focused on emerging markets and digital assets / tokenization.",
+    "full_excerpt_optional": "This is synthetic demo content and not real reporting.",
+    "category": [
+      "Emerging Markets",
+      "Digital Assets / Tokenization"
+    ],
+    "region": [
+      "Latin America",
+      "Global"
+    ],
+    "issuer_type": [
+      "Sovereign"
+    ],
+    "market_tags": [
+      "bond issuance",
+      "fixed income technology",
+      "primary markets"
+    ],
+    "featured": false,
+    "relevance_score": 75,
+    "cbgm_relevance_reason": "Demo article flagged for bond issuance and fixed income technology, both aligned with CBGM debt market strategy.",
+    "image_url_optional": null,
+    "source_type_optional": "demo",
+    "fetched_at_optional": null
+  },
+  {
+    "id": "demo-023",
+    "title": "[DEMO] Fixed Income Technology signal #23: capital markets update",
+    "source_name": "Demo Infrastructure Journal",
+    "source_url": "https://example.com/demo-source",
+    "article_url": "https://example.com/demo-article-23",
+    "published_at": "2026-03-18T15:00:00Z",
+    "summary": "Sample/demo content for MVP testing focused on fixed income technology and municipal bonds.",
+    "full_excerpt_optional": "This is synthetic demo content and not real reporting.",
+    "category": [
+      "Fixed Income Technology",
+      "Municipal Bonds"
+    ],
+    "region": [
+      "Global",
+      "Global"
+    ],
+    "issuer_type": [
+      "Municipal"
+    ],
+    "market_tags": [
+      "debt distribution",
+      "bookbuilding",
+      "fixed income technology"
+    ],
+    "featured": false,
+    "relevance_score": 55,
+    "cbgm_relevance_reason": "Demo article flagged for debt distribution and bookbuilding, both aligned with CBGM debt market strategy.",
+    "image_url_optional": null,
+    "source_type_optional": "demo",
+    "fetched_at_optional": null
+  },
+  {
+    "id": "demo-024",
+    "title": "[DEMO] Project Finance signal #24: capital markets update",
+    "source_name": "Demo Infrastructure Journal",
+    "source_url": "https://example.com/demo-source",
+    "article_url": "https://example.com/demo-article-24",
+    "published_at": "2026-03-19T09:00:00Z",
+    "summary": "Sample/demo content for MVP testing focused on project finance and corporate bonds.",
+    "full_excerpt_optional": "This is synthetic demo content and not real reporting.",
+    "category": [
+      "Project Finance",
+      "Corporate Bonds"
+    ],
+    "region": [
+      "Global"
+    ],
+    "issuer_type": [
+      "Project"
+    ],
+    "market_tags": [
+      "debt distribution",
+      "issuance infrastructure",
+      "market transparency"
+    ],
+    "featured": false,
+    "relevance_score": 65,
+    "cbgm_relevance_reason": "Demo article flagged for debt distribution and issuance infrastructure, both aligned with CBGM debt market strategy.",
+    "image_url_optional": null,
+    "source_type_optional": "demo",
+    "fetched_at_optional": null
+  },
+  {
+    "id": "demo-025",
+    "title": "[DEMO] Global Bonds signal #25: capital markets update",
+    "source_name": "Demo Financial Wire",
+    "source_url": "https://example.com/demo-source",
+    "article_url": "https://example.com/demo-article-25",
+    "published_at": "2026-03-20T03:00:00Z",
+    "summary": "Sample/demo content for MVP testing focused on global bonds and project finance.",
+    "full_excerpt_optional": "This is synthetic demo content and not real reporting.",
+    "category": [
+      "Global Bonds",
+      "Project Finance"
+    ],
+    "region": [
+      "Middle East"
+    ],
+    "issuer_type": [
+      "Multilateral"
+    ],
+    "market_tags": [
+      "fixed income technology",
+      "market transparency",
+      "cross-border financing"
+    ],
+    "featured": false,
+    "relevance_score": 65,
+    "cbgm_relevance_reason": "Demo article flagged for fixed income technology and market transparency, both aligned with CBGM debt market strategy.",
+    "image_url_optional": null,
+    "source_type_optional": "demo",
+    "fetched_at_optional": null
+  },
+  {
+    "id": "demo-026",
+    "title": "[DEMO] Fintech signal #26: capital markets update",
+    "source_name": "Demo Financial Wire",
+    "source_url": "https://example.com/demo-source",
+    "article_url": "https://example.com/demo-article-26",
+    "published_at": "2026-03-20T21:00:00Z",
+    "summary": "Sample/demo content for MVP testing focused on fintech and global bonds.",
+    "full_excerpt_optional": "This is synthetic demo content and not real reporting.",
+    "category": [
+      "Fintech",
+      "Global Bonds"
+    ],
+    "region": [
+      "Latin America"
+    ],
+    "issuer_type": [
+      "Sovereign"
+    ],
+    "market_tags": [
+      "cross-border financing",
+      "debt distribution",
+      "market transparency"
+    ],
+    "featured": false,
+    "relevance_score": 65,
+    "cbgm_relevance_reason": "Demo article flagged for cross-border financing and debt distribution, both aligned with CBGM debt market strategy.",
+    "image_url_optional": null,
+    "source_type_optional": "demo",
+    "fetched_at_optional": null
+  },
+  {
+    "id": "demo-027",
+    "title": "[DEMO] Fixed Income Technology signal #27: capital markets update",
+    "source_name": "Demo Financial Wire",
+    "source_url": "https://example.com/demo-source",
+    "article_url": "https://example.com/demo-article-27",
+    "published_at": "2026-03-21T15:00:00Z",
+    "summary": "Sample/demo content for MVP testing focused on fixed income technology and emerging markets.",
+    "full_excerpt_optional": "This is synthetic demo content and not real reporting.",
+    "category": [
+      "Fixed Income Technology",
+      "Emerging Markets"
+    ],
+    "region": [
+      "Africa"
+    ],
+    "issuer_type": [
+      "Startup"
+    ],
+    "market_tags": [
+      "issuance infrastructure",
+      "tokenized debt",
+      "market transparency"
+    ],
+    "featured": false,
+    "relevance_score": 75,
+    "cbgm_relevance_reason": "Demo article flagged for issuance infrastructure and tokenized debt, both aligned with CBGM debt market strategy.",
+    "image_url_optional": null,
+    "source_type_optional": "demo",
+    "fetched_at_optional": null
+  },
+  {
+    "id": "demo-028",
+    "title": "[DEMO] Regulation signal #28: capital markets update",
+    "source_name": "Demo Financial Wire",
+    "source_url": "https://example.com/demo-source",
+    "article_url": "https://example.com/demo-article-28",
+    "published_at": "2026-03-22T09:00:00Z",
+    "summary": "Sample/demo content for MVP testing focused on regulation and corporate bonds.",
+    "full_excerpt_optional": "This is synthetic demo content and not real reporting.",
+    "category": [
+      "Regulation",
+      "Corporate Bonds"
+    ],
+    "region": [
+      "Middle East"
+    ],
+    "issuer_type": [
+      "Multilateral"
+    ],
+    "market_tags": [
+      "issuance infrastructure",
+      "market transparency",
+      "cross-border financing"
+    ],
+    "featured": true,
+    "relevance_score": 75,
+    "cbgm_relevance_reason": "Demo article flagged for issuance infrastructure and market transparency, both aligned with CBGM debt market strategy.",
+    "image_url_optional": null,
+    "source_type_optional": "demo",
+    "fetched_at_optional": null
+  },
+  {
+    "id": "demo-029",
+    "title": "[DEMO] Project Finance signal #29: capital markets update",
+    "source_name": "Demo Infrastructure Journal",
+    "source_url": "https://example.com/demo-source",
+    "article_url": "https://example.com/demo-article-29",
+    "published_at": "2026-03-23T03:00:00Z",
+    "summary": "Sample/demo content for MVP testing focused on project finance and fintech.",
+    "full_excerpt_optional": "This is synthetic demo content and not real reporting.",
+    "category": [
+      "Project Finance",
+      "Fintech"
+    ],
+    "region": [
+      "Middle East"
+    ],
+    "issuer_type": [
+      "Project"
+    ],
+    "market_tags": [
+      "fixed income technology",
+      "bookbuilding",
+      "issuance infrastructure"
+    ],
+    "featured": false,
+    "relevance_score": 65,
+    "cbgm_relevance_reason": "Demo article flagged for fixed income technology and bookbuilding, both aligned with CBGM debt market strategy.",
+    "image_url_optional": null,
+    "source_type_optional": "demo",
+    "fetched_at_optional": null
+  },
+  {
+    "id": "demo-030",
+    "title": "[DEMO] Early-Stage Funding signal #30: capital markets update",
+    "source_name": "Demo Financial Wire",
+    "source_url": "https://example.com/demo-source",
+    "article_url": "https://example.com/demo-article-30",
+    "published_at": "2026-03-23T21:00:00Z",
+    "summary": "Sample/demo content for MVP testing focused on early-stage funding and municipal bonds.",
+    "full_excerpt_optional": "This is synthetic demo content and not real reporting.",
+    "category": [
+      "Early-Stage Funding",
+      "Municipal Bonds"
+    ],
+    "region": [
+      "Asia"
+    ],
+    "issuer_type": [
+      "Project"
+    ],
+    "market_tags": [
+      "market transparency",
+      "debt distribution",
+      "fixed income technology"
+    ],
+    "featured": false,
+    "relevance_score": 55,
+    "cbgm_relevance_reason": "Demo article flagged for market transparency and debt distribution, both aligned with CBGM debt market strategy.",
+    "image_url_optional": null,
+    "source_type_optional": "demo",
+    "fetched_at_optional": null
+  }
+]
