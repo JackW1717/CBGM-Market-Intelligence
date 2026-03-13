@@ -59,6 +59,11 @@ export function AllNewsPage() {
         marketTagOptions={marketTagOptions}
       />
       <p className="mb-3 text-sm text-slate-600">Sorted by newest · {filtered.length} stories</p>
+      {filtered.length === 0 && (
+        <div className="mb-3 rounded border border-slate-200 bg-white p-4 text-sm text-slate-700">
+          No real articles yet. Run Actions → Daily news update to ingest live feed items.
+        </div>
+      )}
       <div className="grid gap-4 md:grid-cols-2 xl:grid-cols-3">{shown.map((a) => <ArticleCard key={a.id} article={a} />)}</div>
       {shown.length < filtered.length && (
         <button className="mt-4 rounded bg-navy px-4 py-2 text-white" onClick={() => setPage((p) => p + 1)}>Load more</button>

@@ -14,6 +14,22 @@ export function HomePage() {
     return acc;
   }, {});
 
+  if (articles.length === 0) {
+    return (
+      <div className="space-y-6">
+        <section className="rounded-xl bg-gradient-to-r from-navy to-slateBlue p-8 text-white">
+          <h1 className="text-3xl font-bold">CBGM Market Intelligence Hub</h1>
+          <p className="mt-2 max-w-3xl text-slate-100">
+            Real article mode is enabled. Run the Daily news update workflow once to populate the repository.
+          </p>
+        </section>
+        <section className="rounded-lg border border-slate-200 bg-white p-5 text-sm text-slate-700">
+          No articles yet. In GitHub, open Actions → Daily news update → Run workflow.
+        </section>
+      </div>
+    );
+  }
+
   return (
     <div className="space-y-8">
       <section className="rounded-xl bg-gradient-to-r from-navy to-slateBlue p-8 text-white">

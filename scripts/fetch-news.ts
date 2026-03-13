@@ -1,8 +1,14 @@
-import fs from 'node:fs/promises';
 import crypto from 'node:crypto';
+import fs from 'node:fs/promises';
 import path from 'node:path';
 
-interface FeedSource { name: string; url: string; type: string; rss: boolean }
+interface FeedSource {
+  name: string;
+  url: string;
+  type: string;
+  rss: boolean;
+}
+
 interface Article {
   id: string;
   title: string;
@@ -28,93 +34,126 @@ const root = path.resolve(process.cwd());
 const sourcesPath = path.join(root, 'data/sources.json');
 const articlesPath = path.join(root, 'data/articles.json');
 
-const ruleMap: Array<{ kw: string; cat: string; reason: string; score: number }> = [
-  { kw: 'bond', cat: 'Global Bonds', reason: 'Bond issuance and debt market flow directly impact CBGM origination priorities.', score: 14 },
-  { kw: 'sovereign', cat: 'Sovereign Debt', reason: 'Sovereign or quasi-sovereign financing shapes benchmark pricing and distribution.', score: 13 },
-  { kw: 'municipal', cat: 'Municipal Bonds', reason: 'Municipal debt developments are core to public-sector financing access.', score: 12 },
-  { kw: 'project finance', cat: 'Project Finance', reason: 'Infrastructure and project finance pipelines are strategic deal opportunities.', score: 12 },
-  { kw: 'token', cat: 'Digital Assets / Tokenization', reason: 'Debt tokenization and regulated rails are high-priority innovation signals.', score: 12 },
-  { kw: 'fintech', cat: 'Fintech', reason: 'Fintech infrastructure can improve market access and issuance workflows.', score: 10 },
-  { kw: 'regulation', cat: 'Regulation', reason: 'Regulatory updates influence issuance structure, compliance, and market timing.', score: 9 },
-  { kw: 'startup', cat: 'Early-Stage Funding', reason: 'Early-stage capital activity indicates pipeline and ecosystem momentum.', score: 8 },
+const keywordRules: Array<{ pattern: RegExp; category: string; marketTag: string; issuer: string; score: number; reason: string }> = [
+  { pattern: /\bbond|note issuance|debt issuance|syndicated debt\b/i, category: 'Global Bonds', marketTag: 'bond issuance', issuer: 'Corporate', score: 14, reason: 'Bond issuance activity is core to CBGM market intelligence priorities.' },
+  { pattern: /\bsovereign|treasury|government debt|quasi-sovereign\b/i, category: 'Sovereign Debt', marketTag: 'sovereign finance', issuer: 'Sovereign', score: 13, reason: 'Sovereign finance signals benchmark pricing and market access conditions.' },
+  { pattern: /\bmunicipal|muni\b/i, category: 'Municipal Bonds', marketTag: 'municipal finance', issuer: 'Municipal', score: 12, reason: 'Municipal markets are directly relevant to public-sector debt access.' },
+  { pattern: /\bproject finance|infrastructure finance|ppp\b/i, category: 'Project Finance', marketTag: 'project finance', issuer: 'Project', score: 12, reason: 'Project and infrastructure finance opportunities are strategically important to CBGM.' },
+  { pattern: /\btokeni[sz]ed?|digital bond|on-chain\b/i, category: 'Digital Assets / Tokenization', marketTag: 'tokenized debt', issuer: 'Corporate', score: 12, reason: 'Digital issuance and tokenized debt rails align with CBGM innovation goals.' },
+  { pattern: /\bfintech|payments rails|market infrastructure|post-trade|clearing\b/i, category: 'Fixed Income Technology', marketTag: 'issuance infrastructure', issuer: 'Corporate', score: 10, reason: 'Market infrastructure and fintech improve issuance and distribution capabilities.' },
+  { pattern: /\bregulat|sec\b|fca\b|policy|compliance\b/i, category: 'Regulation', marketTag: 'market transparency', issuer: 'Corporate', score: 9, reason: 'Regulatory change influences issuance pathways, transparency, and deal execution.' },
+  { pattern: /\bstartup|series\s+[abcd]|seed round|venture\b/i, category: 'Early-Stage Funding', marketTag: 'capital formation', issuer: 'Startup', score: 8, reason: 'Early-stage funding stories indicate capital formation and pipeline momentum.' },
+  { pattern: /\bemerging markets?|frontier markets?\b/i, category: 'Emerging Markets', marketTag: 'cross-border financing', issuer: 'Multilateral', score: 11, reason: 'Emerging market capital access and cross-border financing are core CBGM themes.' },
 ];
 
-const sanitize = (value: string) =>
+const sourceRegionHints: Array<{ pattern: RegExp; region: string }> = [
+  { pattern: /\buk|london|fca/i, region: 'United Kingdom' },
+  { pattern: /\beu|europe|ec\.europa/i, region: 'Europe' },
+  { pattern: /\bsec\b|sifma|united states|reuters/i, region: 'United States' },
+  { pattern: /\bmas\b|asia|singapore/i, region: 'Asia' },
+  { pattern: /\bworld bank|bis/i, region: 'Global' },
+];
+
+const sanitize = (value: string): string =>
   value.replace(/<!\[CDATA\[|\]\]>/g, '').replace(/<[^>]+>/g, ' ').replace(/\s+/g, ' ').trim();
 
-const extractTag = (xml: string, tag: string) => sanitize(xml.match(new RegExp(`<${tag}[^>]*>([\\s\\S]*?)<\\/${tag}>`, 'i'))?.[1] ?? '');
+const extractTag = (xml: string, tag: string): string =>
+  sanitize(xml.match(new RegExp(`<${tag}[^>]*>([\\s\\S]*?)<\\/${tag}>`, 'i'))?.[1] ?? '');
 
-const toIsoDate = (value: string) => {
+const toIsoDate = (value: string): string => {
   const parsed = new Date(value);
   return Number.isNaN(parsed.getTime()) ? new Date().toISOString() : parsed.toISOString();
 };
 
 const parseItems = (xml: string) => {
-  const itemMatches = [...xml.matchAll(/<item[\s\S]*?<\/item>/gi)].map((m) => m[0]);
-  const entryMatches = [...xml.matchAll(/<entry[\s\S]*?<\/entry>/gi)].map((m) => m[0]);
+  const itemMatches = [...xml.matchAll(/<item[\s\S]*?<\/item>/gi)].map((match) => match[0]);
+  const entryMatches = [...xml.matchAll(/<entry[\s\S]*?<\/entry>/gi)].map((match) => match[0]);
   const chunks = itemMatches.length > 0 ? itemMatches : entryMatches;
+
   return chunks.map((chunk) => {
     const title = extractTag(chunk, 'title');
     const link = extractTag(chunk, 'link') || chunk.match(/<link[^>]*href="([^"]+)"/i)?.[1] || '';
-    const pubDate = extractTag(chunk, 'pubDate') || extractTag(chunk, 'updated') || new Date().toISOString();
+    const pubDate = extractTag(chunk, 'pubDate') || extractTag(chunk, 'published') || extractTag(chunk, 'updated') || new Date().toISOString();
     const summary = extractTag(chunk, 'description') || extractTag(chunk, 'summary') || extractTag(chunk, 'content');
     return { title, link, pubDate, summary };
   });
 };
 
-function classify(text: string) {
-  const lowered = text.toLowerCase();
-  const hits = ruleMap.filter((rule) => lowered.includes(rule.kw));
-  const category = [...new Set(hits.map((h) => h.cat))];
+const inferRegion = (source: FeedSource, textBlob: string): string[] => {
+  const sourceBlob = `${source.name} ${source.url} ${textBlob}`;
+  for (const hint of sourceRegionHints) {
+    if (hint.pattern.test(sourceBlob)) {
+      return [hint.region, 'Global'];
+    }
+  }
+  return ['Global'];
+};
+
+const classify = (textBlob: string) => {
+  const hits = keywordRules.filter((rule) => rule.pattern.test(textBlob));
+
+  const categories = [...new Set(hits.map((hit) => hit.category))];
+  const marketTags = [...new Set(hits.map((hit) => hit.marketTag))];
+  const issuerTypes = [...new Set(hits.map((hit) => hit.issuer))];
   const score = Math.min(99, 35 + hits.reduce((acc, hit) => acc + hit.score, 0));
+
   return {
-    category: category.length ? category : ['Market Infrastructure'],
-    relevance_score: score,
-    cbgm_relevance_reason: hits[0]?.reason ?? 'Market infrastructure development may influence CBGM execution quality.',
+    categories: categories.length > 0 ? categories : ['Market Infrastructure'],
+    marketTags: marketTags.length > 0 ? marketTags : ['market transparency'],
+    issuerTypes: issuerTypes.length > 0 ? issuerTypes : ['Corporate'],
+    relevanceScore: score,
+    reason: hits[0]?.reason ?? 'Market infrastructure and transparency developments remain relevant to CBGM execution strategy.',
   };
-}
+};
 
 async function main() {
   const sources = JSON.parse(await fs.readFile(sourcesPath, 'utf8')) as FeedSource[];
-  const existing = JSON.parse(await fs.readFile(articlesPath, 'utf8')) as Article[];
-  const dedupe = new Set(existing.map((a) => a.article_url));
+  const existingRaw = JSON.parse(await fs.readFile(articlesPath, 'utf8')) as Article[];
+  const existing = existingRaw.filter((article) => !article.title.startsWith('[DEMO]') && !article.article_url.includes('example.com/demo-article'));
+
+  const dedupe = new Set(existing.map((article) => article.article_url));
   const now = new Date().toISOString();
   const created: Article[] = [];
 
-  for (const source of sources.filter((s) => s.rss)) {
+  for (const source of sources.filter((candidate) => candidate.rss)) {
     try {
-      const res = await fetch(source.url, { headers: { 'User-Agent': 'CBGM-Market-Intelligence-Hub/1.0' } });
-      if (!res.ok) throw new Error(`${res.status} ${res.statusText}`);
-      const xml = await res.text();
-      const items = parseItems(xml).slice(0, 15);
+      const response = await fetch(source.url, { headers: { 'User-Agent': 'CBGM-Market-Intelligence-Hub/1.0 (+github-actions)' } });
+      if (!response.ok) throw new Error(`${response.status} ${response.statusText}`);
+
+      const xml = await response.text();
+      const items = parseItems(xml).slice(0, 20);
+
       for (const item of items) {
-        if (!item.link || dedupe.has(item.link)) continue;
-        const hash = crypto.createHash('sha256').update(`${item.title}-${item.pubDate}`).digest('hex').slice(0, 12);
-        if (existing.some((a) => a.id === hash || a.title === item.title)) continue;
+        if (!item.title || !item.link || dedupe.has(item.link)) continue;
+
+        const hash = crypto.createHash('sha256').update(`${item.link}-${item.pubDate}`).digest('hex').slice(0, 14);
         const textBlob = `${item.title} ${item.summary}`;
         const cls = classify(textBlob);
+
         created.push({
           id: `feed-${hash}`,
-          title: item.title,
+          title: sanitize(item.title),
           source_name: source.name,
           source_url: source.url,
           article_url: item.link,
           published_at: toIsoDate(item.pubDate),
-          summary: sanitize(item.summary).slice(0, 280),
+          summary: sanitize(item.summary).slice(0, 320) || 'No summary provided by source feed.',
           full_excerpt_optional: null,
-          category: cls.category,
-          region: ['Global'],
-          issuer_type: ['Corporate'],
-          market_tags: ['primary markets', 'market transparency'],
-          featured: false,
-          relevance_score: cls.relevance_score,
-          cbgm_relevance_reason: cls.cbgm_relevance_reason,
+          category: cls.categories,
+          region: inferRegion(source, textBlob),
+          issuer_type: cls.issuerTypes,
+          market_tags: cls.marketTags,
+          featured: cls.relevanceScore >= 75,
+          relevance_score: cls.relevanceScore,
+          cbgm_relevance_reason: cls.reason,
           image_url_optional: null,
           source_type_optional: source.type,
           fetched_at_optional: now,
         });
+
         dedupe.add(item.link);
       }
+
       console.log(`Source OK: ${source.name} (${items.length} scanned)`);
     } catch (error) {
       console.warn(`Source skipped: ${source.name} -> ${(error as Error).message}`);
@@ -122,16 +161,17 @@ async function main() {
   }
 
   if (created.length === 0) {
-    console.log('No new items found.');
+    console.log('No new items found. Existing non-demo dataset retained.');
+    await fs.writeFile(articlesPath, JSON.stringify(existing, null, 2) + '\n');
     return;
   }
 
-  const merged = [...created, ...existing].sort(
-    (a, b) => new Date(b.published_at).getTime() - new Date(a.published_at).getTime(),
-  );
+  const merged = [...created, ...existing]
+    .sort((a, b) => new Date(b.published_at).getTime() - new Date(a.published_at).getTime())
+    .slice(0, 300);
 
   await fs.writeFile(articlesPath, JSON.stringify(merged, null, 2) + '\n');
-  console.log(`Added ${created.length} new items.`);
+  console.log(`Added ${created.length} new real articles. Total stored: ${merged.length}.`);
 }
 
 main().catch((error) => {

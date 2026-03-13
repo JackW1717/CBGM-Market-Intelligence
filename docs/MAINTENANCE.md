@@ -14,7 +14,7 @@ npm run fetch:news
 ## Add or edit articles manually
 1. Edit `data/articles.json`
 2. Follow required fields in `data/article-schema.md`
-3. Keep synthetic content clearly labeled with `[DEMO]`
+3. Use real-source links only for production content
 
 ## If a feed fails
 - Check the failing source in workflow logs

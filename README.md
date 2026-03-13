@@ -5,7 +5,7 @@ A free, static, GitHub Pages-ready market intelligence dashboard for ClearBid Gl
 ## What this MVP includes
 - Institutional dashboard UI + repository views (Home, All News, Themes, Regions, Sources, About)
 - Local JSON content store (no database, no paid CMS, no paid APIs)
-- 30 clearly labeled `[DEMO]` seed articles so the site is useful immediately
+- Real-article-first data flow (no synthetic demo records in production data)
 - Daily RSS/public-feed updater via GitHub Actions
 - CBGM relevance scoring and “Why it matters to CBGM” explanation on every article
 
@@ -26,7 +26,7 @@ npm run build
 ```
 
 ## Data files you will edit most
-- Articles: `data/articles.json`
+- Articles: `data/articles.json` (real fetched + manually added records)
 - Feed sources: `data/sources.json`
 - Article schema: `data/article-schema.md`
 
@@ -37,6 +37,12 @@ npm run build
 - Pulls RSS/public feeds, sanitizes/normalizes, deduplicates
 - Commits `data/articles.json` only when new items exist
 - If a source fails, it is skipped and the run continues
+
+## Bootstrap real articles (first run)
+1. Open **Actions** in GitHub.
+2. Run **Daily news update** manually once.
+3. Confirm it commits new entries in `data/articles.json`.
+4. Deploy workflow will publish the updated feed content automatically.
 
 ## GitHub Pages deployment (exact clicks)
 1. Push this repo to GitHub on branch `main`.
