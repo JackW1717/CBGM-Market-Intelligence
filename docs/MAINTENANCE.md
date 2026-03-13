@@ -28,7 +28,6 @@ npm run fetch:news
 
 
 ## Debug empty updates
-- Open the latest **Daily news update** run in Actions
-- Download the `fetch-status` artifact
+- Open `data/fetch-status.json` after a run
 - Check which sources succeeded/failed and how many articles were added
 - Replace consistently failing sources in `data/sources.json`
