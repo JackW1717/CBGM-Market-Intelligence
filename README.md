@@ -1,4 +1,4 @@
-# CBGM Market Intelligence Hub (MVP)
+# Related Market News (MVP)
 
 A free, static, GitHub Pages-ready market intelligence dashboard for ClearBid Global Markets (CBGM).
 
@@ -31,6 +31,7 @@ npm run build
 - Article schema: `data/article-schema.md`
 
 ## Expanding coverage (early-stage, fintech, project finance, emerging markets)
+- `data/sources.json` supports both auto-ingested RSS sources (`"rss": true`) and tracking-only sources (`"rss": false`).
 - Add RSS/public feeds in `data/sources.json`.
 - Prioritize regulator, multilateral, and specialist publications with stable RSS endpoints.
 - If you have preferred sources, add them to `data/sources.json` and run `npm run fetch:news`.
