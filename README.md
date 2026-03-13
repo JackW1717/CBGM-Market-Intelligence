@@ -41,12 +41,14 @@ npm run build
 - Executes `npm run fetch:news`
 - Pulls RSS/public feeds, sanitizes/normalizes, deduplicates
 - Commits `data/articles.json` only when new items exist
+- Automatically deploys the site in the same workflow when updates are committed
 - If a source fails, it is skipped and the run continues
 
 ## Bootstrap real articles (first run)
 1. Open **Actions** in GitHub.
 2. Run **Daily news update** manually once.
 3. Confirm it commits new entries in `data/articles.json`.
+4. The same workflow will auto-deploy if new items were committed (no second run needed).
 4. Deploy workflow will publish the updated feed content automatically.
 
 ## GitHub Pages deployment (exact clicks)
