@@ -1456,6 +1456,35 @@
     "fetched_at_optional": "2026-03-13T21:44:47.424Z"
   },
   {
+    "id": "feed-464399c5c22a05",
+    "title": "European banks extend home market primary absence to two weeks - GlobalCapital",
+    "source_name": "Google News - Bond Issuance",
+    "source_url": "https://news.google.com/rss/search?q=bond+issuance+primary+market+when:14d&hl=en-US&gl=US&ceid=US:en",
+    "article_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRXk4OE0xWGNuNFAwMkh5T2psVS1peXp0NzhZRFhIc05vaENmaEdpZWl3cUxac1g1akdhUXllaUJsdlVSbGFubHhObFpjNGhSMTAwYnY0WEstZEpxZDVEX19jRHUxUjhadXczcnpjNnJHUFFMcnZoOTYxdUkxWTR6YVhmTGYyUXg2UjRwMWQ4RklBUFRwOUo4T0FKczNtTHpKd0JBbFRCVlNwUVhZbUhvY2xGbmh0Y2puSlNqT1V1VDVZbE01?oc=5",
+    "published_at": "2026-03-12T17:39:30.000Z",
+    "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQRXk4OE0xWGNuNFAwMkh5T2psVS1peXp0NzhZRFhIc05vaENmaEdpZWl3cUxac1g1akdhUXllaUJsdlVSbGFubHhObFpjNGhSMTAwYnY0WEstZEpxZDVEX19jRHUxUjhadXczcnpjNnJHUFFMcnZoOTYxdUkxWTR6YVhmTGYyUXg2UjRwMWQ4RklBUFRwOUo4T0FKczNtTHpKd0JBbFRCVlNwUVhZbUhvY2xGbmh0Y2puSlNqT1V1VDVZbE01?oc",
+    "full_excerpt_optional": null,
+    "category": [
+      "Market Infrastructure"
+    ],
+    "region": [
+      "Europe",
+      "Global"
+    ],
+    "issuer_type": [
+      "Corporate"
+    ],
+    "market_tags": [
+      "market transparency"
+    ],
+    "featured": false,
+    "relevance_score": 35,
+    "cbgm_relevance_reason": "Market infrastructure and transparency developments remain relevant to CBGM execution strategy.",
+    "image_url_optional": null,
+    "source_type_optional": "google_news",
+    "fetched_at_optional": "2026-03-13T22:25:15.162Z"
+  },
+  {
     "id": "feed-a7e15c1f8fbe78",
     "title": "FSB holds cross-border payments summit",
     "source_name": "Finextra",
@@ -1803,6 +1832,35 @@
     "image_url_optional": null,
     "source_type_optional": "google_news",
     "fetched_at_optional": "2026-03-13T21:44:47.424Z"
+  },
+  {
+    "id": "feed-10a10d0aeffee6",
+    "title": "What Is the CLARITY Act? - FinTech Weekly",
+    "source_name": "Google News - Market Structure Regulation",
+    "source_url": "https://news.google.com/rss/search?q=capital+markets+regulation+market+structure+when:14d&hl=en-US&gl=US&ceid=US:en",
+    "article_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQejJJVlhBbGJZV2VveW95UXBjeFFQVU1yT3ktbnV6S0trbFNVRkRRdFoweVVsU2M0TjRqcmIwRlNUeldnSEdMSTl4SFFBVEVKS2t2dDRIWjFiSWd0YkVyWWo4aUlnQktSM1pyYkdWcjdEMzVJdWs3aU9BV2VMWDRBTmtfdEdMb2lQMTFsQmRNWW9RN1dwdXZqNno2TzFfWUJDS1psTjBGaw?oc=5",
+    "published_at": "2026-03-12T10:33:00.000Z",
+    "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQejJJVlhBbGJZV2VveW95UXBjeFFQVU1yT3ktbnV6S0trbFNVRkRRdFoweVVsU2M0TjRqcmIwRlNUeldnSEdMSTl4SFFBVEVKS2t2dDRIWjFiSWd0YkVyWWo4aUlnQktSM1pyYkdWcjdEMzVJdWs3aU9BV2VMWDRBTmtfdEdMb2lQMTFsQmRNWW9RN1dwdXZqNno2TzFfWUJDS1psTjBGaw?oc=5\" target=\"_blank\"&gt;What Is the CLA",
+    "full_excerpt_optional": null,
+    "category": [
+      "Fintech"
+    ],
+    "region": [
+      "Global",
+      "Global"
+    ],
+    "issuer_type": [
+      "Corporate"
+    ],
+    "market_tags": [
+      "issuance infrastructure"
+    ],
+    "featured": false,
+    "relevance_score": 47,
+    "cbgm_relevance_reason": "Fintech and market infrastructure developments can improve issuance and distribution capabilities.",
+    "image_url_optional": null,
+    "source_type_optional": "google_news",
+    "fetched_at_optional": "2026-03-13T22:25:15.162Z"
   },
   {
     "id": "feed-fbdcd19a6c0dc5",
@@ -3263,6 +3321,35 @@
     "fetched_at_optional": "2026-03-13T21:44:47.424Z"
   },
   {
+    "id": "feed-925193951330b3",
+    "title": "Crypto Regulation Bill in Jeopardy as Trump Ultimatum and Bank Fight Stall Progress - Barron's",
+    "source_name": "Google News - Market Structure Regulation",
+    "source_url": "https://news.google.com/rss/search?q=capital+markets+regulation+market+structure+when:14d&hl=en-US&gl=US&ceid=US:en",
+    "article_url": "https://news.google.com/rss/articles/CBMiiwNBVV95cUxQTHNzRkptLWNtTlBMVUJSZXZmb2xZRU04NGotN3BLVno2aFYzcjJYalhUVXVvZHdRUnNScUIwaG5yai1yNHF3NHQ3ZzVSSF9ZSjlmRGo4TEJ0cTVpMkY3clFMSXhDenB5SG5OYVhWeFNDWHFHMEJWTXdDWHhxUG5UcGI1b3VjY09xdTZDNEZLX0N5N3FMVTVtNXNVU0NDcldxc0trRm8yd1EweW8yd2EtWGtURnZicVBVVzJrZ3BaQmVhdTktMVBidEl0cFFadGNrRjZaYi04bFphOC12VUJndjVXUDI2ejYyMmZybHBGNmFDaG5YaEt4VFpHT0RMejVibHRiMHdZMlQwTlZsOVNXeXdqbVkxRHF1MXdyRHQ5Q1VzYXFvVWJNYWszdnh1S0JyRXNoR0dFaFpBNXJyRG5GNjRHTE1iYUNEZ1J2blN4UTJQMGJhcnJpN09zRTAxZE9qSk96dTFXMUpoZmlvdWhsSDc4dm9KMDBWOEp0eWNoWll0YU9vZXpnbC0wdw?oc=5",
+    "published_at": "2026-03-09T14:45:00.000Z",
+    "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiwNBVV95cUxQTHNzRkptLWNtTlBMVUJSZXZmb2xZRU04NGotN3BLVno2aFYzcjJYalhUVXVvZHdRUnNScUIwaG5yai1yNHF3NHQ3ZzVSSF9ZSjlmRGo4TEJ0cTVpMkY3clFMSXhDenB5SG5OYVhWeFNDWHFHMEJWTXdDWHhxUG5UcGI1b3VjY09xdTZDNEZLX0N5N3FMVTVtNXNVU0NDcldxc0trRm8yd1EweW8yd2EtWGtURnZicVBVVzJrZ3BaQmVhdTktMVB",
+    "full_excerpt_optional": null,
+    "category": [
+      "Regulation"
+    ],
+    "region": [
+      "Global",
+      "Global"
+    ],
+    "issuer_type": [
+      "Corporate"
+    ],
+    "market_tags": [
+      "market transparency"
+    ],
+    "featured": false,
+    "relevance_score": 44,
+    "cbgm_relevance_reason": "Regulatory change influences issuance pathways, transparency, and deal execution.",
+    "image_url_optional": null,
+    "source_type_optional": "google_news",
+    "fetched_at_optional": "2026-03-13T22:25:15.162Z"
+  },
+  {
     "id": "feed-b9d6cc952c1e9d",
     "title": "Crypto Regulation Bill in Jeopardy as Trump Ultimatum and Bank Fight Stall Progress - Barron's",
     "source_name": "Google News - Market Structure Regulation",
@@ -3498,6 +3585,35 @@
     "fetched_at_optional": "2026-03-13T21:44:47.424Z"
   },
   {
+    "id": "feed-ad6b68227d731c",
+    "title": "Oak HC/FT Raises Nearly $2 Billion for Latest Healthcare, Fintech Fund - WSJ",
+    "source_name": "Google News - Fintech Funding",
+    "source_url": "https://news.google.com/rss/search?q=fintech+funding+when:14d&hl=en-US&gl=US&ceid=US:en",
+    "article_url": "https://news.google.com/rss/articles/CBMirwNBVV95cUxQNnFHNThRT3FoX3VqTFlmWVBCWXpyQ0h5UHFGQ1BDTFh4cWlBVGRnZWtoR1NIcTBCeUdyVk9KZm52TjBKU1NxUlF3NHgyMXNMVWQ5YUhWQ1JHV3pRUDF2TmRCQzFEUG5XaVFoNzR3RnVPUzB6LXNtLVA1YXdMVm5WMWVjMXBMVzVnLXYtVmtDaktpUmRDVkdJYm5TVnFNQ0ZrUHlHRnlRNHhvdUhXX1VSR2FEVnJ4Z1l0WUJsTm11ZWlXYURrdm1YLTZLT3pGQkp4alRRVTZjWlZySzRfWjNadmFBbmdIblZsNnZ4X3ZDVUdNSi1XNGsyVmVnS3NUdi1YdGZkSktLZ3Ntc0lxT2k1T3o5T2RKUk5JaklBUFhsbVJtMGRqWmYyYUxqd2o0WlVQQVAzaTBVZXNZV1JuX0RrRTlMZU9yYk5ZNnoxeW90c0hwYWgtZGZmZVpEZEFCLURRUVhWMUlmY3RqSE12Q3l2U3hTQkU2dXVxSDlRWV9WcTRrSDN5YVZuWXg1T3lLMF85LWlTZnMwdkJobnNXXzhQQVlacVFwbS1Kb0p4MG44OA?oc=5",
+    "published_at": "2026-03-09T10:00:00.000Z",
+    "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMirwNBVV95cUxQNnFHNThRT3FoX3VqTFlmWVBCWXpyQ0h5UHFGQ1BDTFh4cWlBVGRnZWtoR1NIcTBCeUdyVk9KZm52TjBKU1NxUlF3NHgyMXNMVWQ5YUhWQ1JHV3pRUDF2TmRCQzFEUG5XaVFoNzR3RnVPUzB6LXNtLVA1YXdMVm5WMWVjMXBMVzVnLXYtVmtDaktpUmRDVkdJYm5TVnFNQ0ZrUHlHRnlRNHhvdUhXX1VSR2FEVnJ4Z1l0WUJsTm11ZWlXYURrdm1",
+    "full_excerpt_optional": null,
+    "category": [
+      "Fintech"
+    ],
+    "region": [
+      "Global",
+      "Global"
+    ],
+    "issuer_type": [
+      "Corporate"
+    ],
+    "market_tags": [
+      "issuance infrastructure"
+    ],
+    "featured": false,
+    "relevance_score": 47,
+    "cbgm_relevance_reason": "Fintech and market infrastructure developments can improve issuance and distribution capabilities.",
+    "image_url_optional": null,
+    "source_type_optional": "google_news",
+    "fetched_at_optional": "2026-03-13T22:25:15.162Z"
+  },
+  {
     "id": "feed-6020a0b1bba5b3",
     "title": "Oak HC/FT Raises Nearly $2 Billion for Latest Healthcare, Fintech Fund - WSJ",
     "source_name": "Google News - Fintech Funding",
@@ -3612,6 +3728,35 @@
     "image_url_optional": null,
     "source_type_optional": "google_news",
     "fetched_at_optional": "2026-03-13T21:44:47.424Z"
+  },
+  {
+    "id": "feed-b719d55110fccc",
+    "title": "Emerging Markets Have Become a Fixed-Income Darling. The War in Iran Could Change That. - Barron's",
+    "source_name": "Google News - Emerging Markets Debt",
+    "source_url": "https://news.google.com/rss/search?q=emerging+markets+debt+issuance+when:14d&hl=en-US&gl=US&ceid=US:en",
+    "article_url": "https://news.google.com/rss/articles/CBMiywNBVV95cUxQelhvcGR5b05tZ1FCN2NDQ2NXTW5NZG1mcVRYb1FSaW8zZzcyemJMdXdZUzN2bHJXVmoyOEhrckY5WldNdEkyc1ZxRGFYUzBvMEh0bkE0N1dlMXZlUzRYN1pCcDZoLXBwQVBXcEU4aHY5MHZFQXc0Y3hUYXQ5SjFZclBWWThXc0N5ZDdMVlZLZXhMWlZGTFFCUDhEWHIxQXYyVExOTVl2NWUxYkFKUmJvWkJCZk13UlVVVXdaU1Z1OWt5NmQxWUdhcGd4aFoxeHgyUnBnc2djZWg2MV92MHk4ckVYenlQOHVmVXNlSEhJUEM4a0Q4allsMnBqOWpYRERTWEl1UFIyTnZ5aW5ERGRrdW1udFoyTGY5aF8yYjFybXljVVpCYzd2VG13eGhLSkRrdWg3dmRvaWtMRk1RY1lndFQxZlJSNFptb3JYVEJuang4TUZtX1FUcHFPNnA0X0NZNXZTUnRZTHJUQmp6dW4yemlraGlvMTlueEdpdHk5ZmpxOGlBeS0yVlgyLTJHaDBaT1JBWHZXbkViVzVuWF9EWmRGUjVVaUVSQ19JYThXQ0s1eU90N2Q2dlppblNHYUlYenNndnBQaFBseTQ?oc=5",
+    "published_at": "2026-03-09T08:00:00.000Z",
+    "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiywNBVV95cUxQelhvcGR5b05tZ1FCN2NDQ2NXTW5NZG1mcVRYb1FSaW8zZzcyemJMdXdZUzN2bHJXVmoyOEhrckY5WldNdEkyc1ZxRGFYUzBvMEh0bkE0N1dlMXZlUzRYN1pCcDZoLXBwQVBXcEU4aHY5MHZFQXc0Y3hUYXQ5SjFZclBWWThXc0N5ZDdMVlZLZXhMWlZGTFFCUDhEWHIxQXYyVExOTVl2NWUxYkFKUmJvWkJCZk13UlVVVXdaU1Z1OWt5NmQxWUd",
+    "full_excerpt_optional": null,
+    "category": [
+      "Emerging Markets"
+    ],
+    "region": [
+      "Global",
+      "Global"
+    ],
+    "issuer_type": [
+      "Multilateral"
+    ],
+    "market_tags": [
+      "cross-border financing"
+    ],
+    "featured": false,
+    "relevance_score": 47,
+    "cbgm_relevance_reason": "Emerging market capital access and cross-border financing are core CBGM themes.",
+    "image_url_optional": null,
+    "source_type_optional": "google_news",
+    "fetched_at_optional": "2026-03-13T22:25:15.162Z"
   },
   {
     "id": "feed-0df288b2e3e7ba",
@@ -4373,6 +4518,35 @@
     "fetched_at_optional": "2026-03-13T21:44:47.424Z"
   },
   {
+    "id": "feed-2bf6bcd3daf885",
+    "title": "European banks rely on funding strength to see out first week of war in primary mart - GlobalCapital",
+    "source_name": "Google News - Bond Issuance",
+    "source_url": "https://news.google.com/rss/search?q=bond+issuance+primary+market+when:14d&hl=en-US&gl=US&ceid=US:en",
+    "article_url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPZTl1QUl6dWNiLV85ZnF4NEMtY3dEcmdmZGpsc043aTFZTUh5aUQ5cmxscUJNTHlpV0xwbkZTdDJUT1ROdUdIN182UDRjNjBMVEdjX3lMdG02b0xZcEJSMkdpWU45OTZHVFdqSEVfbWc5TUlpQlVrNi1HSzJ0RUpHY05mMmJNTGJ4RjRyaEFsek4tZFRlSENuc2FQVlhIUHFwcmE3ZEhqRVR5LXdpQkRJU29mMzJROTZ1aEJ1RUU4VHMtUzNiZGxoelBGZ3RCZC13MG9NZXdwaHFJVXNUWkFHckRR?oc=5",
+    "published_at": "2026-03-05T23:02:45.000Z",
+    "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxPZTl1QUl6dWNiLV85ZnF4NEMtY3dEcmdmZGpsc043aTFZTUh5aUQ5cmxscUJNTHlpV0xwbkZTdDJUT1ROdUdIN182UDRjNjBMVEdjX3lMdG02b0xZcEJSMkdpWU45OTZHVFdqSEVfbWc5TUlpQlVrNi1HSzJ0RUpHY05mMmJNTGJ4RjRyaEFsek4tZFRlSENuc2FQVlhIUHFwcmE3ZEhqRVR5LXdpQkRJU29mMzJROTZ1aEJ1RUU4VHMtUzNiZGx",
+    "full_excerpt_optional": null,
+    "category": [
+      "Market Infrastructure"
+    ],
+    "region": [
+      "Europe",
+      "Global"
+    ],
+    "issuer_type": [
+      "Corporate"
+    ],
+    "market_tags": [
+      "market transparency"
+    ],
+    "featured": false,
+    "relevance_score": 35,
+    "cbgm_relevance_reason": "Market infrastructure and transparency developments remain relevant to CBGM execution strategy.",
+    "image_url_optional": null,
+    "source_type_optional": "google_news",
+    "fetched_at_optional": "2026-03-13T22:25:15.162Z"
+  },
+  {
     "id": "feed-8eba3e8264fb6f",
     "title": "Joint Trades Statement on FAQs on the Capital Treatment of Tokenized Securities - Bank Policy Institute",
     "source_name": "Google News - Market Structure Regulation",
@@ -5127,6 +5301,35 @@
     "image_url_optional": null,
     "source_type_optional": "google_news",
     "fetched_at_optional": "2026-03-13T21:44:47.424Z"
+  },
+  {
+    "id": "feed-3686e9b4d1bb4f",
+    "title": "Trump vs. The Banks: Is the Clarity Act a Game Changer? - TradingView",
+    "source_name": "Google News - Market Structure Regulation",
+    "source_url": "https://news.google.com/rss/search?q=capital+markets+regulation+market+structure+when:14d&hl=en-US&gl=US&ceid=US:en",
+    "article_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNYVNNVy0tcWNWcWRTR1FNWUM2QUw1SGdkaHdZSVRyVzEwVFB1eVBKVjZ6a0JoOC1MX3ctbk5Yeng5Y2tudGtHRlJTWWpBdUpBQnBfam9VZlJLWW8wSHdRR1NOUHRDV1dKc3pjYXpfUWs5blo2c3ZsemZ0VDVOUEpKdmFBMVFwY2lsaXFkaFkxd3psYmtkclJXZ3pOZlhVeEpjLTNlMjFTcVFqbjJVWWZGTVhfQQ?oc=5",
+    "published_at": "2026-03-04T10:24:35.000Z",
+    "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNYVNNVy0tcWNWcWRTR1FNWUM2QUw1SGdkaHdZSVRyVzEwVFB1eVBKVjZ6a0JoOC1MX3ctbk5Yeng5Y2tudGtHRlJTWWpBdUpBQnBfam9VZlJLWW8wSHdRR1NOUHRDV1dKc3pjYXpfUWs5blo2c3ZsemZ0VDVOUEpKdmFBMVFwY2lsaXFkaFkxd3psYmtkclJXZ3pOZlhVeEpjLTNlMjFTcVFqbjJVWWZGTVhfQQ?oc=5\" target=\"_blank\"&gt",
+    "full_excerpt_optional": null,
+    "category": [
+      "Market Infrastructure"
+    ],
+    "region": [
+      "Global",
+      "Global"
+    ],
+    "issuer_type": [
+      "Corporate"
+    ],
+    "market_tags": [
+      "market transparency"
+    ],
+    "featured": false,
+    "relevance_score": 35,
+    "cbgm_relevance_reason": "Market infrastructure and transparency developments remain relevant to CBGM execution strategy.",
+    "image_url_optional": null,
+    "source_type_optional": "google_news",
+    "fetched_at_optional": "2026-03-13T22:25:15.162Z"
   },
   {
     "id": "feed-e6f9691ddf7f08",
