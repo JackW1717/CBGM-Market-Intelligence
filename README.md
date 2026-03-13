@@ -69,10 +69,15 @@ That’s it — no manual base-path tweaks needed (routing uses hash-based URLs 
 ## Troubleshooting
 - If deploy fails: check **Actions → Deploy to GitHub Pages** logs.
 - If feed update fails: check **Actions → Daily news update** logs for source-specific skip messages.
-- Fetch diagnostics: see `data/fetch-status.json` for per-source success/failure and article counts.
+- Fetch diagnostics: download the `fetch-status` artifact from the Daily workflow run for per-source success/failure and counts.
 - If one source breaks: remove or replace that feed in `data/sources.json`.
 
 ## Cheapest future upgrades
 1. Add lightweight client-side search indexing (MiniSearch/FlexSearch).
 2. Add source-health report artifact in daily workflow.
 3. Add GitHub Issue-form intake for manual story submissions.
+
+
+## Node 24 compatibility
+- Workflows use `actions/checkout@v5` and `actions/setup-node@v5`.
+- Workflows set `FORCE_JAVASCRIPT_ACTIONS_TO_NODE24=true` and run with Node 22 runtime for project commands.
