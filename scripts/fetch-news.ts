@@ -35,22 +35,27 @@ const sourcesPath = path.join(root, 'data/sources.json');
 const articlesPath = path.join(root, 'data/articles.json');
 
 const keywordRules: Array<{ pattern: RegExp; category: string; marketTag: string; issuer: string; score: number; reason: string }> = [
-  { pattern: /\bbond|note issuance|debt issuance|syndicated debt\b/i, category: 'Global Bonds', marketTag: 'bond issuance', issuer: 'Corporate', score: 14, reason: 'Bond issuance activity is core to CBGM market intelligence priorities.' },
-  { pattern: /\bsovereign|treasury|government debt|quasi-sovereign\b/i, category: 'Sovereign Debt', marketTag: 'sovereign finance', issuer: 'Sovereign', score: 13, reason: 'Sovereign finance signals benchmark pricing and market access conditions.' },
+  { pattern: /\bbond|note issuance|debt issuance|syndicated debt|fixed income|credit markets?\b/i, category: 'Global Bonds', marketTag: 'bond issuance', issuer: 'Corporate', score: 14, reason: 'Bond issuance activity is core to CBGM market intelligence priorities.' },
+  { pattern: /\bsovereign|treasury|government debt|quasi-sovereign|dm[o]?\b/i, category: 'Sovereign Debt', marketTag: 'sovereign finance', issuer: 'Sovereign', score: 13, reason: 'Sovereign finance signals benchmark pricing and market access conditions.' },
   { pattern: /\bmunicipal|muni\b/i, category: 'Municipal Bonds', marketTag: 'municipal finance', issuer: 'Municipal', score: 12, reason: 'Municipal markets are directly relevant to public-sector debt access.' },
-  { pattern: /\bproject finance|infrastructure finance|ppp\b/i, category: 'Project Finance', marketTag: 'project finance', issuer: 'Project', score: 12, reason: 'Project and infrastructure finance opportunities are strategically important to CBGM.' },
-  { pattern: /\btokeni[sz]ed?|digital bond|on-chain\b/i, category: 'Digital Assets / Tokenization', marketTag: 'tokenized debt', issuer: 'Corporate', score: 12, reason: 'Digital issuance and tokenized debt rails align with CBGM innovation goals.' },
-  { pattern: /\bfintech|payments rails|market infrastructure|post-trade|clearing\b/i, category: 'Fixed Income Technology', marketTag: 'issuance infrastructure', issuer: 'Corporate', score: 10, reason: 'Market infrastructure and fintech improve issuance and distribution capabilities.' },
-  { pattern: /\bregulat|sec\b|fca\b|policy|compliance\b/i, category: 'Regulation', marketTag: 'market transparency', issuer: 'Corporate', score: 9, reason: 'Regulatory change influences issuance pathways, transparency, and deal execution.' },
-  { pattern: /\bstartup|series\s+[abcd]|seed round|venture\b/i, category: 'Early-Stage Funding', marketTag: 'capital formation', issuer: 'Startup', score: 8, reason: 'Early-stage funding stories indicate capital formation and pipeline momentum.' },
-  { pattern: /\bemerging markets?|frontier markets?\b/i, category: 'Emerging Markets', marketTag: 'cross-border financing', issuer: 'Multilateral', score: 11, reason: 'Emerging market capital access and cross-border financing are core CBGM themes.' },
+  { pattern: /\bproject finance|infrastructure finance|ppp|blended finance|infrastructure debt\b/i, category: 'Project Finance', marketTag: 'project finance', issuer: 'Project', score: 13, reason: 'Project and infrastructure finance opportunities are strategically important to CBGM.' },
+  { pattern: /\btokeni[sz]ed?|digital bond|on-chain|dlt\b/i, category: 'Digital Assets / Tokenization', marketTag: 'tokenized debt', issuer: 'Corporate', score: 12, reason: 'Digital issuance and tokenized debt rails align with CBGM innovation goals.' },
+  { pattern: /\bfintech|payments? rails?|embedded finance|regtech|neobank|open banking|post-trade|clearing\b/i, category: 'Fintech', marketTag: 'issuance infrastructure', issuer: 'Corporate', score: 12, reason: 'Fintech and market infrastructure developments can improve issuance and distribution capabilities.' },
+  { pattern: /\bmarket infrastructure|trading venue|exchange infrastructure|settlement system\b/i, category: 'Market Infrastructure', marketTag: 'market structure', issuer: 'Corporate', score: 10, reason: 'Market infrastructure changes can impact execution quality and distribution.' },
+  { pattern: /\bregulat|sec\b|fca\b|policy|compliance|rulemaking\b/i, category: 'Regulation', marketTag: 'market transparency', issuer: 'Corporate', score: 9, reason: 'Regulatory change influences issuance pathways, transparency, and deal execution.' },
+  { pattern: /\bstartup|series\s+[a-f]|pre-seed|seed round|venture capital|vc funding|fundraising\b/i, category: 'Early-Stage Funding', marketTag: 'capital formation', issuer: 'Startup', score: 12, reason: 'Early-stage funding stories indicate capital formation and pipeline momentum.' },
+  { pattern: /\bemerging markets?|frontier markets?|developing economies?|cross-border financing\b/i, category: 'Emerging Markets', marketTag: 'cross-border financing', issuer: 'Multilateral', score: 12, reason: 'Emerging market capital access and cross-border financing are core CBGM themes.' },
+  { pattern: /\bgreen bond|transition finance|sustainable finance|climate finance\b/i, category: 'Project Finance', marketTag: 'sustainable debt', issuer: 'Project', score: 10, reason: 'Sustainable debt and climate finance are key growth pockets in project and infrastructure funding.' },
 ];
 
 const sourceRegionHints: Array<{ pattern: RegExp; region: string }> = [
   { pattern: /\buk|london|fca/i, region: 'United Kingdom' },
-  { pattern: /\beu|europe|ec\.europa/i, region: 'Europe' },
-  { pattern: /\bsec\b|sifma|united states|reuters/i, region: 'United States' },
+  { pattern: /\beu|europe|ec\.europa|ebrd/i, region: 'Europe' },
+  { pattern: /\bsec\b|sifma|united states|reuters|ifc|techcrunch/i, region: 'United States' },
   { pattern: /\bmas\b|asia|singapore/i, region: 'Asia' },
+  { pattern: /\bafrica|afdb/i, region: 'Africa' },
+  { pattern: /\blatin america|iadb/i, region: 'Latin America' },
+  { pattern: /\bmiddle east|gcc|mena/i, region: 'Middle East' },
   { pattern: /\bworld bank|bis/i, region: 'Global' },
 ];
 
