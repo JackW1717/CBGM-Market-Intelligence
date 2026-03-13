@@ -1369,6 +1369,35 @@
     "fetched_at_optional": "2026-03-13T21:44:47.424Z"
   },
   {
+    "id": "feed-01215f12729eee",
+    "title": "GMO Emerging Country Debt Fund Wins 2026 LSEG Lipper Fund Award; Access Expanded for U.S. Advisors - Business Wire",
+    "source_name": "Google News - Emerging Markets Debt",
+    "source_url": "https://news.google.com/rss/search?q=emerging+markets+debt+issuance+when:14d&hl=en-US&gl=US&ceid=US:en",
+    "article_url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQS1g5bUVoWnhpUDBvV3VleXNHR2tPd2hYQTJGalRZS3F0ZUJGRENCYWtBcTFfdmJLVHRpWnlxZ2R6VlJ5SGlOdmNIXzJFT0lmVUVCVTJYMWZ6ODhWdmo3Q1AzeXo2aDE3ZW84VWVmMnJHVUZzX2NFc3M1OU9mMURIVE9RMFpLU3B5czFnMlZMQ2xmaURjNzBaVU9JRXV1c2k3Y0lCSUpHc1BiQkhiekxiX1FBLTVlYm4teEFvNnNUbkNFQlJoVmpfQzRIM2xydFZwMHg4Q3hJeHctaGtJVWpNV2J5QzFxbDVSQUE?oc=5",
+    "published_at": "2026-03-12T21:00:00.000Z",
+    "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxQS1g5bUVoWnhpUDBvV3VleXNHR2tPd2hYQTJGalRZS3F0ZUJGRENCYWtBcTFfdmJLVHRpWnlxZ2R6VlJ5SGlOdmNIXzJFT0lmVUVCVTJYMWZ6ODhWdmo3Q1AzeXo2aDE3ZW84VWVmMnJHVUZzX2NFc3M1OU9mMURIVE9RMFpLU3B5czFnMlZMQ2xmaURjNzBaVU9JRXV1c2k3Y0lCSUpHc1BiQkhiekxiX1FBLTVlYm4teEFvNnNUbkNFQlJoVmp",
+    "full_excerpt_optional": null,
+    "category": [
+      "Market Infrastructure"
+    ],
+    "region": [
+      "Global",
+      "Global"
+    ],
+    "issuer_type": [
+      "Corporate"
+    ],
+    "market_tags": [
+      "market transparency"
+    ],
+    "featured": false,
+    "relevance_score": 35,
+    "cbgm_relevance_reason": "Market infrastructure and transparency developments remain relevant to CBGM execution strategy.",
+    "image_url_optional": null,
+    "source_type_optional": "google_news",
+    "fetched_at_optional": "2026-03-13T22:08:51.024Z"
+  },
+  {
     "id": "feed-5bffd51db39047",
     "title": "Bank of Nova Scotia lands second Canadian covered in three days - GlobalCapital",
     "source_name": "Google News - Bond Issuance",
@@ -1864,6 +1893,35 @@
     "image_url_optional": null,
     "source_type_optional": "google_news",
     "fetched_at_optional": "2026-03-13T21:44:47.424Z"
+  },
+  {
+    "id": "feed-324bb820d2d1d8",
+    "title": "Conflict in the Middle East and politics test confidence in infrastructure auctions in Brazil - BNamericas",
+    "source_name": "Google News - Project Finance",
+    "source_url": "https://news.google.com/rss/search?q=project+finance+infrastructure+when:14d&hl=en-US&gl=US&ceid=US:en",
+    "article_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOeE1IZ3JPZ1dQeWluNHdCUmVacFp3UEg5U0UtZ3pLbWhQdHQ5XzBId2cwd3FFZkFsQ2RZVktINWdzRVNUQ0RwblhmRXRGOFlZWERJTEY4Vjh4NVNhWGlsQVQyaXBxZ1R5T0pyRTM4UF9TVS03Y1Q3YUVwZlh1WWJjTzlKYVlERnIzRUZXM18zVDc2dmk4QUQyeFdwcWdTVWNJVERPOWF4bTJrOEd0bDdDT0RKdmNuaWxkeEpnUFpwZ2U2djlNZHZWYk1nZEdhOEU?oc=5",
+    "published_at": "2026-03-12T09:51:31.000Z",
+    "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxOeE1IZ3JPZ1dQeWluNHdCUmVacFp3UEg5U0UtZ3pLbWhQdHQ5XzBId2cwd3FFZkFsQ2RZVktINWdzRVNUQ0RwblhmRXRGOFlZWERJTEY4Vjh4NVNhWGlsQVQyaXBxZ1R5T0pyRTM4UF9TVS03Y1Q3YUVwZlh1WWJjTzlKYVlERnIzRUZXM18zVDc2dmk4QUQyeFdwcWdTVWNJVERPOWF4bTJrOEd0bDdDT0RKdmNuaWxkeEpnUFpwZ2U2djlNZHZ",
+    "full_excerpt_optional": null,
+    "category": [
+      "Market Infrastructure"
+    ],
+    "region": [
+      "Middle East",
+      "Global"
+    ],
+    "issuer_type": [
+      "Corporate"
+    ],
+    "market_tags": [
+      "market transparency"
+    ],
+    "featured": false,
+    "relevance_score": 35,
+    "cbgm_relevance_reason": "Market infrastructure and transparency developments remain relevant to CBGM execution strategy.",
+    "image_url_optional": null,
+    "source_type_optional": "google_news",
+    "fetched_at_optional": "2026-03-13T22:08:51.024Z"
   },
   {
     "id": "feed-167172ae478553",
@@ -3205,6 +3263,35 @@
     "fetched_at_optional": "2026-03-13T21:44:47.424Z"
   },
   {
+    "id": "feed-0ebcffd493318d",
+    "title": "Crypto Regulation Bill in Jeopardy as Trump Ultimatum and Bank Fight Stall Progress - Barron's",
+    "source_name": "Google News - Market Structure Regulation",
+    "source_url": "https://news.google.com/rss/search?q=capital+markets+regulation+market+structure+when:14d&hl=en-US&gl=US&ceid=US:en",
+    "article_url": "https://news.google.com/rss/articles/CBMiiwNBVV95cUxOM2w1R3VKUkRPUDJaRHhkYTR1aVBGWVpVeDk2SDV3SGhycUlxa2tIWkhTajFpcVZpdnJ5WklwVVFpaUR0M3hiT2p5MlNSSjhEalFDZDVlS0NSa3I0aERIcmxEcmg3WHN3MUh0SmlTVWljdUhpTE0wRmRROF9leW9KTGNsVFJwcUdaMGk2RnJBdjRzUDVJZjZaR0xOdXlCaG5hNmRkdEZyVWdjUVZIZ1E3WnJVdkdGZlJ1MHl0YU1UNkhrX1ZZN2g2ZXRrZ0NpT01YeDIzNkk0YzlKdVNmVUZUdFowM2FRVWNYemVDUm1rZS0zSURBM2tQYVJEMFZtWTFQWlFlVjM5UXozOE40cGpJRnZ0MHdmUXdYN0JZU0JiYVJOcVdpaE4wUS11elRwaGR6MG9qd242VjlVSGhUM1lHNVExNDE1Mm93b0I1TE9CRUc2dE9JSlBvdXpIYjlHTnlqQVdWZW5EOS1FdV9rMXVkVUtZN3h1MW5nZ3llWDMzWWI1YXNSZW42T2RZTQ?oc=5",
+    "published_at": "2026-03-09T14:45:00.000Z",
+    "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiwNBVV95cUxOM2w1R3VKUkRPUDJaRHhkYTR1aVBGWVpVeDk2SDV3SGhycUlxa2tIWkhTajFpcVZpdnJ5WklwVVFpaUR0M3hiT2p5MlNSSjhEalFDZDVlS0NSa3I0aERIcmxEcmg3WHN3MUh0SmlTVWljdUhpTE0wRmRROF9leW9KTGNsVFJwcUdaMGk2RnJBdjRzUDVJZjZaR0xOdXlCaG5hNmRkdEZyVWdjUVZIZ1E3WnJVdkdGZlJ1MHl0YU1UNkhrX1ZZN2g",
+    "full_excerpt_optional": null,
+    "category": [
+      "Regulation"
+    ],
+    "region": [
+      "Global",
+      "Global"
+    ],
+    "issuer_type": [
+      "Corporate"
+    ],
+    "market_tags": [
+      "market transparency"
+    ],
+    "featured": false,
+    "relevance_score": 44,
+    "cbgm_relevance_reason": "Regulatory change influences issuance pathways, transparency, and deal execution.",
+    "image_url_optional": null,
+    "source_type_optional": "google_news",
+    "fetched_at_optional": "2026-03-13T22:08:51.024Z"
+  },
+  {
     "id": "feed-deb9483850dc90",
     "title": "Crypto Regulation Bill in Jeopardy as Trump Ultimatum and Bank Fight Stall Progress - Barron's",
     "source_name": "Google News - Market Structure Regulation",
@@ -3382,6 +3469,35 @@
     "fetched_at_optional": "2026-03-13T21:44:47.424Z"
   },
   {
+    "id": "feed-bae971d70d9278",
+    "title": "Oak HC/FT Raises Nearly $2 Billion for Latest Healthcare, Fintech Fund - WSJ",
+    "source_name": "Google News - Fintech Funding",
+    "source_url": "https://news.google.com/rss/search?q=fintech+funding+when:14d&hl=en-US&gl=US&ceid=US:en",
+    "article_url": "https://news.google.com/rss/articles/CBMirwNBVV95cUxOdGZudVNZMk9LaHZmLXhJYnFVWkYweWJnNW5VcUdWM1JYNTB5WnVfUGJ3dko5RUp0RTVnbm9mbVRnXzZScnJONkhDdm1kb2lncEtWcDJxVnN1b0hhTUpQbzB2LVFBTWpSOTI4UFF4Z244OHZQZHpiem1ndW8tVTRCYTFuOFJacFlfZjNqX1c0ZUxPV0RHZUE0bkdCTkVyZXFoZE1POUQwQXp1RzU3WUowNUxNWEdUX2Fna1EwVUlpbUl5dlgxdF9TcUVKYVROOVRVcmo2YkJIeXRiUjkzSmVCdDJ3RFlGcUJ6SE9Ja2RpajZneEltNzRia3NBVUNwZlUyX29BSDE3OXpGZ2dLdzF2d0RnMm0yWXlWQ0MxR1lDdGJzQ2NsMjRNWk44UlBXbERoVXpRWThFVkpSN3llSWVMcDBOUWZ3NEVBZkRNMlVBWkEzVS04aENpRWxtY0xibVJYMjFVNGNYd2JjX0U4Q29ucmtKMlhyZlhoRkJoZGdRWjRUUW1xWkRNbF9JSzlfWVNqS0hRbG5ma2RjM2k0bDFvMUNyR3B4b09sa1pRcmF1aw?oc=5",
+    "published_at": "2026-03-09T10:00:00.000Z",
+    "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMirwNBVV95cUxOdGZudVNZMk9LaHZmLXhJYnFVWkYweWJnNW5VcUdWM1JYNTB5WnVfUGJ3dko5RUp0RTVnbm9mbVRnXzZScnJONkhDdm1kb2lncEtWcDJxVnN1b0hhTUpQbzB2LVFBTWpSOTI4UFF4Z244OHZQZHpiem1ndW8tVTRCYTFuOFJacFlfZjNqX1c0ZUxPV0RHZUE0bkdCTkVyZXFoZE1POUQwQXp1RzU3WUowNUxNWEdUX2Fna1EwVUlpbUl5dlgxdF9",
+    "full_excerpt_optional": null,
+    "category": [
+      "Fintech"
+    ],
+    "region": [
+      "Global",
+      "Global"
+    ],
+    "issuer_type": [
+      "Corporate"
+    ],
+    "market_tags": [
+      "issuance infrastructure"
+    ],
+    "featured": false,
+    "relevance_score": 47,
+    "cbgm_relevance_reason": "Fintech and market infrastructure developments can improve issuance and distribution capabilities.",
+    "image_url_optional": null,
+    "source_type_optional": "google_news",
+    "fetched_at_optional": "2026-03-13T22:08:51.024Z"
+  },
+  {
     "id": "feed-f9ebece8fe4c1d",
     "title": "Oak HC/FT Raises Nearly $2 Billion for Latest Healthcare, Fintech Fund - WSJ",
     "source_name": "Google News - Fintech Funding",
@@ -3440,6 +3556,35 @@
     "fetched_at_optional": "2026-03-13T21:44:47.424Z"
   },
   {
+    "id": "feed-b2ae6c7a3556ae",
+    "title": "Emerging Markets Have Become a Fixed-Income Darling. The War in Iran Could Change That. - Barron's",
+    "source_name": "Google News - Emerging Markets Debt",
+    "source_url": "https://news.google.com/rss/search?q=emerging+markets+debt+issuance+when:14d&hl=en-US&gl=US&ceid=US:en",
+    "article_url": "https://news.google.com/rss/articles/CBMiywNBVV95cUxQM2lKajg2aDAwQUZUMDBSQlRhQ01pNEttS214SXV6TGU3V0ZFODd1ZmhRMkN5Y2tfWExzLTJxcElEOWUyMEZFM1U0Tm45NnlZdGpYLVJCQldEQXB6Zjc2b29KWUZNQVEya2ViZHhXcFBRbjRkYXZWblpPeVV0bWxvbEwyVjhfekVCUmpCMzE0MTA4bzRfeE54bFp5b1hhNjNPTkIwdURjMlpqRUxqMFhNMXFCRWd2TjZtNk84eDYxLXdUWTlqeW82OHIxZU1sNHR2SUF2VXdhcVJEa0VwZHpfVW9Oenp0aGhyLURMX3FWYnFzV1RTUE9aOGdhcnFJSnFfb1QwT3BlUE5aOFIyalFKdFlIdDlreUlzNG5ZWEtyWVNmU0RHYnBPT1hiRzQ5VXRDRXM3VkVGZnZyS3cxb0k3VGJtc3JYeTl0ZE5CTS1VTkdTaHB5TXVNTGFONFBHTnZ6eV96SWUzODZ6LWhGdGVEQzlQcDJUSi1OR2hyR2ZfR0JIZXdmXzJtTjNYVWRJejJuM0s3ZUdVTFF2S25NdF9RWndTWDZhRVlkNVVQTDJMUmZwemo1dWRsOW9TM1VjLWotSURPd3l6czlEamc?oc=5",
+    "published_at": "2026-03-09T08:00:00.000Z",
+    "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiywNBVV95cUxQM2lKajg2aDAwQUZUMDBSQlRhQ01pNEttS214SXV6TGU3V0ZFODd1ZmhRMkN5Y2tfWExzLTJxcElEOWUyMEZFM1U0Tm45NnlZdGpYLVJCQldEQXB6Zjc2b29KWUZNQVEya2ViZHhXcFBRbjRkYXZWblpPeVV0bWxvbEwyVjhfekVCUmpCMzE0MTA4bzRfeE54bFp5b1hhNjNPTkIwdURjMlpqRUxqMFhNMXFCRWd2TjZtNk84eDYxLXdUWTlqeW8",
+    "full_excerpt_optional": null,
+    "category": [
+      "Emerging Markets"
+    ],
+    "region": [
+      "Global",
+      "Global"
+    ],
+    "issuer_type": [
+      "Multilateral"
+    ],
+    "market_tags": [
+      "cross-border financing"
+    ],
+    "featured": false,
+    "relevance_score": 47,
+    "cbgm_relevance_reason": "Emerging market capital access and cross-border financing are core CBGM themes.",
+    "image_url_optional": null,
+    "source_type_optional": "google_news",
+    "fetched_at_optional": "2026-03-13T22:08:51.024Z"
+  },
+  {
     "id": "feed-50762c69c1fcc9",
     "title": "Emerging Markets Have Become a Fixed-Income Darling. The War in Iran Could Change That. - Barron's",
     "source_name": "Google News - Emerging Markets Debt",
@@ -3496,6 +3641,35 @@
     "image_url_optional": null,
     "source_type_optional": "google_news",
     "fetched_at_optional": "2026-03-13T21:44:47.424Z"
+  },
+  {
+    "id": "feed-485ea88fd09350",
+    "title": "Weekly market commentary - blackrock.com",
+    "source_name": "Google News - Bond Issuance",
+    "source_url": "https://news.google.com/rss/search?q=bond+issuance+primary+market+when:14d&hl=en-US&gl=US&ceid=US:en",
+    "article_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUVRpWnpzel9vdWlfUTRyMGZwLVhXN2dmVDBNclBHRzhhNWx4MnVDSFBZNl8wZmxuZzlpZjZPTC0zMTZMRU9Udl9zWTB1X0FFR2ZBMGFQaWgydTVSY21qTzBkUWoyaTlGUHFJeVZybVZnb3d3YWoyRkZHeDVyLWszMmFPLUNZUmh0WUh3UG9ZejBFanRudmt5VV9YNmVSa1hmeWp2TE1CUWgtdw?oc=5",
+    "published_at": "2026-03-09T07:00:00.000Z",
+    "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUVRpWnpzel9vdWlfUTRyMGZwLVhXN2dmVDBNclBHRzhhNWx4MnVDSFBZNl8wZmxuZzlpZjZPTC0zMTZMRU9Udl9zWTB1X0FFR2ZBMGFQaWgydTVSY21qTzBkUWoyaTlGUHFJeVZybVZnb3d3YWoyRkZHeDVyLWszMmFPLUNZUmh0WUh3UG9ZejBFanRudmt5VV9YNmVSa1hmeWp2TE1CUWgtdw?oc=5\" target=\"_blank\"&gt;Weekly mark",
+    "full_excerpt_optional": null,
+    "category": [
+      "Market Infrastructure"
+    ],
+    "region": [
+      "Global",
+      "Global"
+    ],
+    "issuer_type": [
+      "Corporate"
+    ],
+    "market_tags": [
+      "market transparency"
+    ],
+    "featured": false,
+    "relevance_score": 35,
+    "cbgm_relevance_reason": "Market infrastructure and transparency developments remain relevant to CBGM execution strategy.",
+    "image_url_optional": null,
+    "source_type_optional": "google_news",
+    "fetched_at_optional": "2026-03-13T22:08:51.024Z"
   },
   {
     "id": "feed-76ef94b431c1d3",
@@ -4518,6 +4692,35 @@
     "image_url_optional": null,
     "source_type_optional": "google_news",
     "fetched_at_optional": "2026-03-13T21:44:47.424Z"
+  },
+  {
+    "id": "feed-54e5b668a23b90",
+    "title": "Analysis-Down but not out: Emerging markets could endure Middle East shocks, investors say - WKZO",
+    "source_name": "Google News - Emerging Markets Debt",
+    "source_url": "https://news.google.com/rss/search?q=emerging+markets+debt+issuance+when:14d&hl=en-US&gl=US&ceid=US:en",
+    "article_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNmNzOWladnA4VGV6LV9zWUxFYXZZQWQwelgwczZJT21Fa3k1eHZSVlZqSVl6cEgwWFlkSXFzVWtlanlxT1BoR3l2QlJOQm5xZDhEWFR0VGJDNnpoTHpzR1B0T2JmT0lPTTZBb3VESFM1Y2NGQWRmeVhQdTFLVVpLSm95aGt5Tm9xOEFkMEVOd1BFOHNrSWo4MEdZV2FHNmRVY09kSVVDUzZqdWlCQlJ4Z3gtcXpaemIx?oc=5",
+    "published_at": "2026-03-05T08:00:00.000Z",
+    "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNmNzOWladnA4VGV6LV9zWUxFYXZZQWQwelgwczZJT21Fa3k1eHZSVlZqSVl6cEgwWFlkSXFzVWtlanlxT1BoR3l2QlJOQm5xZDhEWFR0VGJDNnpoTHpzR1B0T2JmT0lPTTZBb3VESFM1Y2NGQWRmeVhQdTFLVVpLSm95aGt5Tm9xOEFkMEVOd1BFOHNrSWo4MEdZV2FHNmRVY09kSVVDUzZqdWlCQlJ4Z3gtcXpaemIx?oc=5\" target=\"_bla",
+    "full_excerpt_optional": null,
+    "category": [
+      "Emerging Markets"
+    ],
+    "region": [
+      "Middle East",
+      "Global"
+    ],
+    "issuer_type": [
+      "Multilateral"
+    ],
+    "market_tags": [
+      "cross-border financing"
+    ],
+    "featured": false,
+    "relevance_score": 47,
+    "cbgm_relevance_reason": "Emerging market capital access and cross-border financing are core CBGM themes.",
+    "image_url_optional": null,
+    "source_type_optional": "google_news",
+    "fetched_at_optional": "2026-03-13T22:08:51.024Z"
   },
   {
     "id": "feed-979812f5c44b70",
