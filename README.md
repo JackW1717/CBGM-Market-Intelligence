@@ -49,6 +49,7 @@ npm run build
 2. Run **Daily news update** manually once.
 3. Confirm it commits new entries in `data/articles.json`.
 4. The same workflow will auto-deploy if new items were committed (no second run needed).
+4. Deploy workflow will publish the updated feed content automatically.
 
 ## GitHub Pages deployment (exact clicks)
 1. Push this repo to GitHub on branch `main`.
