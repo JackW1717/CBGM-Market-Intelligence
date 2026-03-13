@@ -1,0 +1,272 @@
+[
+  {
+    "name": "African Development Bank News",
+    "url": "https://www.afdb.org/en/news-and-events/rss.xml",
+    "type": "multilateral",
+    "rss": true
+  },
+  {
+    "name": "Axios Pro Rata",
+    "url": "https://www.axios.com/newsletters/axios-pro-rata",
+    "type": "tracked_manual",
+    "rss": false
+  },
+  {
+    "name": "BIS Speeches",
+    "url": "https://www.bis.org/rss/speeches.xml",
+    "type": "multilateral",
+    "rss": true
+  },
+  {
+    "name": "BlackRock Weekly Commentary",
+    "url": "https://www.blackrock.com/us/individual/insights",
+    "type": "tracked_manual",
+    "rss": false
+  },
+  {
+    "name": "Bloomberg Fixed Income",
+    "url": "https://www.bloomberg.com/markets/rates-bonds",
+    "type": "tracked_manual",
+    "rss": false
+  },
+  {
+    "name": "Bond Radar",
+    "url": "https://www.bondradar.com/",
+    "type": "tracked_manual",
+    "rss": false
+  },
+  {
+    "name": "Climate Bonds Initiative News",
+    "url": "https://www.climatebonds.net/rss.xml",
+    "type": "project_finance_publication",
+    "rss": true
+  },
+  {
+    "name": "Crunchbase News",
+    "url": "https://news.crunchbase.com/feed/",
+    "type": "venture_news",
+    "rss": true
+  },
+  {
+    "name": "FCA News",
+    "url": "https://www.fca.org.uk/news/rss.xml",
+    "type": "regulator",
+    "rss": true
+  },
+  {
+    "name": "Federal Reserve Press Releases",
+    "url": "https://www.federalreserve.gov/feeds/press_all.xml",
+    "type": "regulator",
+    "rss": true
+  },
+  {
+    "name": "Fidelity Fixed Income News",
+    "url": "https://www.fidelity.com/learning-center/trading-investing/fixed-income-bonds",
+    "type": "tracked_manual",
+    "rss": false
+  },
+  {
+    "name": "Financial Times - Markets",
+    "url": "https://www.ft.com/markets?format=rss",
+    "type": "major_financial_news",
+    "rss": true
+  },
+  {
+    "name": "Fintech Futures",
+    "url": "https://www.fintechfutures.com/feed/",
+    "type": "fintech_publication",
+    "rss": true
+  },
+  {
+    "name": "Fortune Term Sheet",
+    "url": "https://fortune.com/newsletter/term-sheet/",
+    "type": "tracked_manual",
+    "rss": false
+  },
+  {
+    "name": "FT Adviser - Bond Market",
+    "url": "https://www.ftadviser.com/investments/fixed-income/",
+    "type": "tracked_manual",
+    "rss": false
+  },
+  {
+    "name": "Google News - Bond Issuance",
+    "url": "https://news.google.com/rss/search?q=bond+issuance+primary+market+when:14d&hl=en-US&gl=US&ceid=US:en",
+    "type": "google_news",
+    "rss": true
+  },
+  {
+    "name": "Google News - Emerging Markets Debt",
+    "url": "https://news.google.com/rss/search?q=emerging+markets+debt+issuance+when:14d&hl=en-US&gl=US&ceid=US:en",
+    "type": "google_news",
+    "rss": true
+  },
+  {
+    "name": "Google News - Fintech Funding",
+    "url": "https://news.google.com/rss/search?q=fintech+funding+when:14d&hl=en-US&gl=US&ceid=US:en",
+    "type": "google_news",
+    "rss": true
+  },
+  {
+    "name": "Google News - Market Structure Regulation",
+    "url": "https://news.google.com/rss/search?q=capital+markets+regulation+market+structure+when:14d&hl=en-US&gl=US&ceid=US:en",
+    "type": "google_news",
+    "rss": true
+  },
+  {
+    "name": "Google News - Project Finance",
+    "url": "https://news.google.com/rss/search?q=project+finance+infrastructure+when:14d&hl=en-US&gl=US&ceid=US:en",
+    "type": "google_news",
+    "rss": true
+  },
+  {
+    "name": "IMF News",
+    "url": "https://www.imf.org/en/News/RSS",
+    "type": "multilateral",
+    "rss": true
+  },
+  {
+    "name": "Inter-American Development Bank News",
+    "url": "https://www.iadb.org/en/news/rss.xml",
+    "type": "multilateral",
+    "rss": true
+  },
+  {
+    "name": "InvestmentNews - Fixed Income",
+    "url": "https://www.investmentnews.com/",
+    "type": "tracked_manual",
+    "rss": false
+  },
+  {
+    "name": "MAS News",
+    "url": "https://www.mas.gov.sg/news/media-releases/rss",
+    "type": "regulator",
+    "rss": true
+  },
+  {
+    "name": "Morgan Stanley Global Fixed Income Bulletin",
+    "url": "https://www.morganstanley.com/ideas",
+    "type": "tracked_manual",
+    "rss": false
+  },
+  {
+    "name": "Nuveen Fixed Income Commentary",
+    "url": "https://www.nuveen.com/en-us/insights",
+    "type": "tracked_manual",
+    "rss": false
+  },
+  {
+    "name": "PitchBook News",
+    "url": "https://pitchbook.com/news",
+    "type": "tracked_manual",
+    "rss": false
+  },
+  {
+    "name": "Reuters - Markets",
+    "url": "https://www.reutersagency.com/feed/?best-topics=business-finance&post_type=best",
+    "type": "major_financial_news",
+    "rss": true
+  },
+  {
+    "name": "Reuters - Rates & Bonds",
+    "url": "https://www.reuters.com/markets/rates-bonds/",
+    "type": "tracked_manual",
+    "rss": false
+  },
+  {
+    "name": "Risk.net (Fixed Income)",
+    "url": "https://www.risk.net/risk-management/market-risk",
+    "type": "tracked_manual",
+    "rss": false
+  },
+  {
+    "name": "SEC Press Releases",
+    "url": "https://www.sec.gov/news/pressreleases.rss",
+    "type": "regulator",
+    "rss": true
+  },
+  {
+    "name": "SIFMA News",
+    "url": "https://www.sifma.org/feed/",
+    "type": "market_structure",
+    "rss": true
+  },
+  {
+    "name": "SIFMA Research / Statistics",
+    "url": "https://www.sifma.org/research/",
+    "type": "tracked_manual",
+    "rss": false
+  },
+  {
+    "name": "Sifted",
+    "url": "https://sifted.eu/feed/",
+    "type": "venture_news",
+    "rss": true
+  },
+  {
+    "name": "StrictlyVC",
+    "url": "https://www.strictlyvc.com/",
+    "type": "tracked_manual",
+    "rss": false
+  },
+  {
+    "name": "TechCrunch",
+    "url": "https://techcrunch.com/feed/",
+    "type": "venture_news",
+    "rss": true
+  },
+  {
+    "name": "TechCrunch Venture",
+    "url": "https://techcrunch.com/tag/venture-capital/feed/",
+    "type": "venture_news",
+    "rss": true
+  },
+  {
+    "name": "TechCrunch Venture Dealroom News",
+    "url": "https://techcrunch.com/category/startups/feed/",
+    "type": "venture_news",
+    "rss": true
+  },
+  {
+    "name": "The Bond Buyer",
+    "url": "https://www.bondbuyer.com/",
+    "type": "tracked_manual",
+    "rss": false
+  },
+  {
+    "name": "The Information",
+    "url": "https://www.theinformation.com/",
+    "type": "tracked_manual",
+    "rss": false
+  },
+  {
+    "name": "VC News Daily",
+    "url": "http://feeds.feedburner.com/VCNewsDaily",
+    "type": "venture_news",
+    "rss": true
+  },
+  {
+    "name": "Venture Capital Journal",
+    "url": "https://www.venturecapitaljournal.com/",
+    "type": "tracked_manual",
+    "rss": false
+  },
+  {
+    "name": "VentureBeat",
+    "url": "https://venturebeat.com/feed/",
+    "type": "venture_news",
+    "rss": true
+  },
+  {
+    "name": "Wells Fargo Bond Market Commentary",
+    "url": "https://www.wellsfargoadvisors.com/research-analysis/market-commentary.htm",
+    "type": "tracked_manual",
+    "rss": false
+  },
+  {
+    "name": "World Bank News",
+    "url": "https://www.worldbank.org/en/news/all?format=rss",
+    "type": "multilateral",
+    "rss": true
+  }
+]
