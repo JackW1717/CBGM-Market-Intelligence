@@ -1,5 +1,34 @@
 [
   {
+    "id": "feed-5551634020af46",
+    "title": "Navigating Market Uncertainty with Short-Term Corporate Bond ETFs - AD HOC NEWS",
+    "source_name": "Google News - Bond Issuance",
+    "source_url": "https://news.google.com/rss/search?q=bond+issuance+primary+market+when:14d&hl=en-US&gl=US&ceid=US:en",
+    "article_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQYk4xaGw3R3FEUkpWckJFd19GVDlOVlplOXpXNGQ5THVGYTdmdmJ6Sl9ZZ0p6cVdNa3JQODhrZDc1aEp0MjVRanhncjJDajVodGpyOHhDVmlpbFJwS203RzBpQlBYX3lESkFxYUxfZndxbVpaWjI2WmlWUl9HV0J1VlAzZEVPWEEyc3pwTlc3YTM3TUVYZ0lzUDZqRUhMZnpKOEI2Q0MyRkVIalM2TGQ5aENvRk4xUEYxeGZhZUF3VTllZw?oc=5",
+    "published_at": "2026-03-14T00:46:52.000Z",
+    "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQYk4xaGw3R3FEUkpWckJFd19GVDlOVlplOXpXNGQ5THVGYTdmdmJ6Sl9ZZ0p6cVdNa3JQODhrZDc1aEp0MjVRanhncjJDajVodGpyOHhDVmlpbFJwS203RzBpQlBYX3lESkFxYUxfZndxbVpaWjI2WmlWUl9HV0J1VlAzZEVPWEEyc3pwTlc3YTM3TUVYZ0lzUDZqRUhMZnpKOEI2Q0MyRkVIalM2TGQ5aENvRk4xUEYxeGZhZUF3VTllZw?oc=5",
+    "full_excerpt_optional": null,
+    "category": [
+      "Global Bonds"
+    ],
+    "region": [
+      "Global",
+      "Global"
+    ],
+    "issuer_type": [
+      "Corporate"
+    ],
+    "market_tags": [
+      "bond issuance"
+    ],
+    "featured": false,
+    "relevance_score": 49,
+    "cbgm_relevance_reason": "Bond issuance activity is core to CBGM market intelligence priorities.",
+    "image_url_optional": null,
+    "source_type_optional": "google_news",
+    "fetched_at_optional": "2026-03-14T06:00:42.002Z"
+  },
+  {
     "id": "feed-bb9ac43f43d8b2",
     "title": "A smarter approach to communicating our regulatory priorities",
     "source_name": "FCA News",
@@ -2417,6 +2446,35 @@
     "fetched_at_optional": "2026-03-13T21:44:47.424Z"
   },
   {
+    "id": "feed-4440a10f76a031",
+    "title": "Lloyds Bank lands its largest sterling covered bond since 2019 - GlobalCapital",
+    "source_name": "Google News - Bond Issuance",
+    "source_url": "https://news.google.com/rss/search?q=bond+issuance+primary+market+when:14d&hl=en-US&gl=US&ceid=US:en",
+    "article_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNTGs1MjJvZkNveGtSRzhveXhHUEdmNjNodF9vRUVLNm5nZGltalZqaUx2OHZFeWxrcHotUV9GbXJ6X1hTT3hlZzdzbFFDLWplYzdiLWNOajhoVWFxTHMwNXVwRy0yaW1VYkRQY2lGZ3lGVjc2NWNjMGhZZ1VWc2Q2Z0dXVlZGdlpsMjNCTTBCeS12LTJOeWxLd1ZSR1dfYm9zUTQ5RmYwWTdXX21ZTW9JNVpuU19zbWhZekNMcHlSdXp0MWNvWkVCUDFUcm93ejNKRFE?oc=5",
+    "published_at": "2026-03-11T17:31:34.000Z",
+    "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxNTGs1MjJvZkNveGtSRzhveXhHUEdmNjNodF9vRUVLNm5nZGltalZqaUx2OHZFeWxrcHotUV9GbXJ6X1hTT3hlZzdzbFFDLWplYzdiLWNOajhoVWFxTHMwNXVwRy0yaW1VYkRQY2lGZ3lGVjc2NWNjMGhZZ1VWc2Q2Z0dXVlZGdlpsMjNCTTBCeS12LTJOeWxLd1ZSR1dfYm9zUTQ5RmYwWTdXX21ZTW9JNVpuU19zbWhZekNMcHlSdXp0MWNvWkV",
+    "full_excerpt_optional": null,
+    "category": [
+      "Global Bonds"
+    ],
+    "region": [
+      "Global",
+      "Global"
+    ],
+    "issuer_type": [
+      "Corporate"
+    ],
+    "market_tags": [
+      "bond issuance"
+    ],
+    "featured": false,
+    "relevance_score": 49,
+    "cbgm_relevance_reason": "Bond issuance activity is core to CBGM market intelligence priorities.",
+    "image_url_optional": null,
+    "source_type_optional": "google_news",
+    "fetched_at_optional": "2026-03-14T06:00:42.002Z"
+  },
+  {
     "id": "feed-e9208362412981",
     "title": "The Ultimate Guide to Understanding Carbon Credits - CarbonCredits.com",
     "source_name": "Google News - Market Structure Regulation",
@@ -2825,6 +2883,35 @@
     "fetched_at_optional": "2026-03-13T21:44:47.424Z"
   },
   {
+    "id": "feed-abf79801ec3303",
+    "title": "Why Korean Securities Firms Are Now Entering Full-Scale Competition in ‘Kimchi Bond” Market - Businesskorea",
+    "source_name": "Google News - Bond Issuance",
+    "source_url": "https://news.google.com/rss/search?q=bond+issuance+primary+market+when:14d&hl=en-US&gl=US&ceid=US:en",
+    "article_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAySEJHYWxVUVVtNDdzNGFtM08wZ096c0N6bkpHTTd5WGUtZXgwbnVIUUJ3Ukw0VmtIMlJiQ3M3S3FWWWY0WWVpLXIwWW1MQ0RmSVZycTdET3ItWDN1a003a0JLRWFJSlF1YlFuRGVmU1pCZ0xm?oc=5",
+    "published_at": "2026-03-10T15:04:57.000Z",
+    "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTFAySEJHYWxVUVVtNDdzNGFtM08wZ096c0N6bkpHTTd5WGUtZXgwbnVIUUJ3Ukw0VmtIMlJiQ3M3S3FWWWY0WWVpLXIwWW1MQ0RmSVZycTdET3ItWDN1a003a0JLRWFJSlF1YlFuRGVmU1pCZ0xm?oc=5\" target=\"_blank\"&gt;Why Korean Securities Firms Are Now Entering Full-Scale Competition in ‘Kimchi Bond” ",
+    "full_excerpt_optional": null,
+    "category": [
+      "Global Bonds"
+    ],
+    "region": [
+      "Global",
+      "Global"
+    ],
+    "issuer_type": [
+      "Corporate"
+    ],
+    "market_tags": [
+      "bond issuance"
+    ],
+    "featured": false,
+    "relevance_score": 49,
+    "cbgm_relevance_reason": "Bond issuance activity is core to CBGM market intelligence priorities.",
+    "image_url_optional": null,
+    "source_type_optional": "google_news",
+    "fetched_at_optional": "2026-03-14T06:00:42.002Z"
+  },
+  {
     "id": "feed-b1970ab75f72c5",
     "title": "Federal Reserve Board announces termination of enforcement actions with Industrial and Commercial Bank of China Ltd., Industrial and Commercial Bank of China Ltd., New York Branch, Standard Chartered PLC, and Standard Chartered Bank",
     "source_name": "Federal Reserve Press Releases",
@@ -2910,6 +2997,35 @@
     "image_url_optional": null,
     "source_type_optional": "google_news",
     "fetched_at_optional": "2026-03-13T21:44:47.424Z"
+  },
+  {
+    "id": "feed-5b782757b5f643",
+    "title": "United Capital infrastructure fund delivers 24.62% gross return in FY-2025 - Business Insider Africa",
+    "source_name": "Google News - Project Finance",
+    "source_url": "https://news.google.com/rss/search?q=project+finance+infrastructure+when:14d&hl=en-US&gl=US&ceid=US:en",
+    "article_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNX1prODJOZlN0NW1OZkxZTFM5LTFiOVN3X2QxOTdZTGlSZlZIaDJxN1Q4ZFZBanIzdlpHcThNSElDRUl3SVE5RDhyLVFMcmpfWUhWNlREZF92RGNHUHlWSXFBczlSLXJuNzNUcXhMWmdFRGRCYXZCbFI2OTJqZVZkOVBCOUNnTDJPZjhEbE5PRWdQcThRdzRjOGxoUkZ4bVdwM3dTMGFYakxxWDRnNDdaUHJUdHVxSFpXYjRsRjVsQjdSZkZ6bWNZbA?oc=5",
+    "published_at": "2026-03-10T14:01:03.000Z",
+    "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxNX1prODJOZlN0NW1OZkxZTFM5LTFiOVN3X2QxOTdZTGlSZlZIaDJxN1Q4ZFZBanIzdlpHcThNSElDRUl3SVE5RDhyLVFMcmpfWUhWNlREZF92RGNHUHlWSXFBczlSLXJuNzNUcXhMWmdFRGRCYXZCbFI2OTJqZVZkOVBCOUNnTDJPZjhEbE5PRWdQcThRdzRjOGxoUkZ4bVdwM3dTMGFYakxxWDRnNDdaUHJUdHVxSFpXYjRsRjVsQjdSZkZ6bWN",
+    "full_excerpt_optional": null,
+    "category": [
+      "Market Infrastructure"
+    ],
+    "region": [
+      "Africa",
+      "Global"
+    ],
+    "issuer_type": [
+      "Corporate"
+    ],
+    "market_tags": [
+      "market transparency"
+    ],
+    "featured": false,
+    "relevance_score": 35,
+    "cbgm_relevance_reason": "Market infrastructure and transparency developments remain relevant to CBGM execution strategy.",
+    "image_url_optional": null,
+    "source_type_optional": "google_news",
+    "fetched_at_optional": "2026-03-14T06:00:42.002Z"
   },
   {
     "id": "feed-bd64178260bc0c",
@@ -3029,6 +3145,35 @@
     "image_url_optional": null,
     "source_type_optional": "google_news",
     "fetched_at_optional": "2026-03-13T21:44:47.424Z"
+  },
+  {
+    "id": "feed-05b252c00f46ff",
+    "title": "Hargreaves Lansdown expands green gilt access to retail investors - Investment Week",
+    "source_name": "Google News - Bond Issuance",
+    "source_url": "https://news.google.com/rss/search?q=bond+issuance+primary+market+when:14d&hl=en-US&gl=US&ceid=US:en",
+    "article_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObmE4ZmQyN0JWcU5BUHRubFA5WlRjeXJYbmZrQjNzaU03YnBjZm9uWHBzNGdMWG1qSjZJWGRpa1RUdnB0cnVULXhIanpGX1pjUWdOV25EeGxIQTRfQW1CUEZNZDlDRkNkSnliRThTNzc4TFpIVXo4VEdnanVfV0tRRFowMDFzWXNzQ1I4aU1hQXNfNUlRSzB5UDJMLUYtUExvaUhJTEN3RkJLMmZ4?oc=5",
+    "published_at": "2026-03-10T12:13:12.000Z",
+    "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxObmE4ZmQyN0JWcU5BUHRubFA5WlRjeXJYbmZrQjNzaU03YnBjZm9uWHBzNGdMWG1qSjZJWGRpa1RUdnB0cnVULXhIanpGX1pjUWdOV25EeGxIQTRfQW1CUEZNZDlDRkNkSnliRThTNzc4TFpIVXo4VEdnanVfV0tRRFowMDFzWXNzQ1I4aU1hQXNfNUlRSzB5UDJMLUYtUExvaUhJTEN3RkJLMmZ4?oc=5\" target=\"_blank\"&gt;Hargreave",
+    "full_excerpt_optional": null,
+    "category": [
+      "Market Infrastructure"
+    ],
+    "region": [
+      "Global",
+      "Global"
+    ],
+    "issuer_type": [
+      "Corporate"
+    ],
+    "market_tags": [
+      "market transparency"
+    ],
+    "featured": false,
+    "relevance_score": 35,
+    "cbgm_relevance_reason": "Market infrastructure and transparency developments remain relevant to CBGM execution strategy.",
+    "image_url_optional": null,
+    "source_type_optional": "google_news",
+    "fetched_at_optional": "2026-03-14T06:00:42.002Z"
   },
   {
     "id": "feed-274fbcd85b07cc",
@@ -3321,6 +3466,35 @@
     "fetched_at_optional": "2026-03-13T21:44:47.424Z"
   },
   {
+    "id": "feed-1e019a947ac038",
+    "title": "Crypto Regulation Bill in Jeopardy as Trump Ultimatum and Bank Fight Stall Progress - Barron's",
+    "source_name": "Google News - Market Structure Regulation",
+    "source_url": "https://news.google.com/rss/search?q=capital+markets+regulation+market+structure+when:14d&hl=en-US&gl=US&ceid=US:en",
+    "article_url": "https://news.google.com/rss/articles/CBMiiwNBVV95cUxQUW5odGs0R0JaVU1rYUM2T1l2Mm5BRF9Gb1lrZmVuZE5WdUozY2lDQmxqbVhLVXhFOGRDZWFaR21wNDgwQ0l3aUs0Mk85NG5GZUF2OHJ0VzZyOTVoUkNLX1pWQy02dF9pN25PaDF1UTdUblctUTlBUHhpMTRKSWViWWdiR2t3T1dodVJ4Y3pHM3FPV00yS21WRzhkV3VJTUFXYlBIbjdGQnltSUh3V2ZqQmczUEZmdEZ4ZERwdWtPdFVEMk1WMnlyeHliYnBpX0oxa2NSR3ZIQVVwNC1pc0NKdGFzd3FQNjVNOHN5Y3ZoY01vVVFfRmRlb2VQM09CTE5Ob0Z5LXdoMmttVWRnUjZMU0dTLWxtWG14OVljajZta3lrUkJkM2MtVHJEbzdqYzJIWVdCdEU1RjVZdkFtU09yQzNfc0J5dldxeVluUHVtTXhER25VZU51amZCd042bDEwZWlqYS1SYnMtLWhONWhQcGhjU0QyQTZhUDVxWklyVzUzVEVPMTBJS3RnVQ?oc=5",
+    "published_at": "2026-03-09T14:45:00.000Z",
+    "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiwNBVV95cUxQUW5odGs0R0JaVU1rYUM2T1l2Mm5BRF9Gb1lrZmVuZE5WdUozY2lDQmxqbVhLVXhFOGRDZWFaR21wNDgwQ0l3aUs0Mk85NG5GZUF2OHJ0VzZyOTVoUkNLX1pWQy02dF9pN25PaDF1UTdUblctUTlBUHhpMTRKSWViWWdiR2t3T1dodVJ4Y3pHM3FPV00yS21WRzhkV3VJTUFXYlBIbjdGQnltSUh3V2ZqQmczUEZmdEZ4ZERwdWtPdFVEMk1WMnl",
+    "full_excerpt_optional": null,
+    "category": [
+      "Regulation"
+    ],
+    "region": [
+      "Global",
+      "Global"
+    ],
+    "issuer_type": [
+      "Corporate"
+    ],
+    "market_tags": [
+      "market transparency"
+    ],
+    "featured": false,
+    "relevance_score": 44,
+    "cbgm_relevance_reason": "Regulatory change influences issuance pathways, transparency, and deal execution.",
+    "image_url_optional": null,
+    "source_type_optional": "google_news",
+    "fetched_at_optional": "2026-03-14T06:00:42.002Z"
+  },
+  {
     "id": "feed-925193951330b3",
     "title": "Crypto Regulation Bill in Jeopardy as Trump Ultimatum and Bank Fight Stall Progress - Barron's",
     "source_name": "Google News - Market Structure Regulation",
@@ -3585,6 +3759,35 @@
     "fetched_at_optional": "2026-03-13T21:44:47.424Z"
   },
   {
+    "id": "feed-6c90c8a2654af5",
+    "title": "Oak HC/FT Raises Nearly $2 Billion for Latest Healthcare, Fintech Fund - WSJ",
+    "source_name": "Google News - Fintech Funding",
+    "source_url": "https://news.google.com/rss/search?q=fintech+funding+when:14d&hl=en-US&gl=US&ceid=US:en",
+    "article_url": "https://news.google.com/rss/articles/CBMirwNBVV95cUxNWFdLS3E2cWxvLUh0OVA5YV9zR19fOC1lSXFuYnNtbWxjTVU4YVFEY3lyZm1uVEJYVTZBMVEzR2lpZ1QxdVNnNFo3M29LUjNUWkJnZTA3RG50MFpMZUNaYVA3cS0xRUJiNXQyem9TZTdKZ1lGSDZuQ1Z6d0JlRWxLSXdldWVxbWdoTTc3OHRYTE9fUXQzdzlxUmM5X3U4RW1qUUR0UTlTMHlwNGg3eUVuenZ4clpHWmRpMU9KSDMyUXUzM1UzblY0V3ZPNERxRUxkMm5wd1dUU1AxcDVkS2JHMC1uWFRDYWNRNElqdi1VSTRjd3NrNGVoZ1RDRXNmYkl0am1XVWJMRlhITWVXZFg4bzV1YTRTWkV3cXRONWhMV1BleC1qcVd3NDFqRkR4bldEX1RqeDFKOWNvckcyOFlBejFDd3VmVmVQX0RieGNnbTFma0JwdjhLZzhHcUJwdUFHYnR5TGdfM2VQcV9DTkVXNUlCZFlXaTJCM1lMRzRlNkg3SjBOYVFXZl81NFI3VzhaZ3JWNGlUMUo4MjZKZnJOWUVGRXFfZ0Nva1hQRG0zYw?oc=5",
+    "published_at": "2026-03-09T10:00:00.000Z",
+    "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMirwNBVV95cUxNWFdLS3E2cWxvLUh0OVA5YV9zR19fOC1lSXFuYnNtbWxjTVU4YVFEY3lyZm1uVEJYVTZBMVEzR2lpZ1QxdVNnNFo3M29LUjNUWkJnZTA3RG50MFpMZUNaYVA3cS0xRUJiNXQyem9TZTdKZ1lGSDZuQ1Z6d0JlRWxLSXdldWVxbWdoTTc3OHRYTE9fUXQzdzlxUmM5X3U4RW1qUUR0UTlTMHlwNGg3eUVuenZ4clpHWmRpMU9KSDMyUXUzM1UzblY",
+    "full_excerpt_optional": null,
+    "category": [
+      "Fintech"
+    ],
+    "region": [
+      "Global",
+      "Global"
+    ],
+    "issuer_type": [
+      "Corporate"
+    ],
+    "market_tags": [
+      "issuance infrastructure"
+    ],
+    "featured": false,
+    "relevance_score": 47,
+    "cbgm_relevance_reason": "Fintech and market infrastructure developments can improve issuance and distribution capabilities.",
+    "image_url_optional": null,
+    "source_type_optional": "google_news",
+    "fetched_at_optional": "2026-03-14T06:00:42.002Z"
+  },
+  {
     "id": "feed-ad6b68227d731c",
     "title": "Oak HC/FT Raises Nearly $2 Billion for Latest Healthcare, Fintech Fund - WSJ",
     "source_name": "Google News - Fintech Funding",
@@ -3728,6 +3931,35 @@
     "image_url_optional": null,
     "source_type_optional": "google_news",
     "fetched_at_optional": "2026-03-13T21:44:47.424Z"
+  },
+  {
+    "id": "feed-f5bdc0f762e6d8",
+    "title": "Emerging Markets Have Become a Fixed-Income Darling. The War in Iran Could Change That. - Barron's",
+    "source_name": "Google News - Emerging Markets Debt",
+    "source_url": "https://news.google.com/rss/search?q=emerging+markets+debt+issuance+when:14d&hl=en-US&gl=US&ceid=US:en",
+    "article_url": "https://news.google.com/rss/articles/CBMiywNBVV95cUxQVHVDR01acnRVaUFQWjZDcThhSld4Z2duUWIyTjIxUmhWOHZwZ1RQZ1VQUFRhOW9LcGhhdkVFUUc3a0JRRmMwN0FVNmIwbVNBNVhvNk90eU5tNWtiM0RpeVhUYUY2N1BzNGRoalY5SzBLbnE2dWw0aXM3eE9COWZIVE1fTlZ6Vnl6WmZ5M2FNa1BRQXozSzl1Y1ZYVkZQdmlNT1MzRmdCWks5ZldEbjd3YXRkZEZwYU5wd21fU3B5NERBVlp4bVpUM1M5NEZtUk1wV0ZmN0Z0T0RRVFVBZ0N1YXJBQ05kRjBEaElxMXg5MENwUUZoUkZNZW1rSWNGSzRyYzR5cDBCczIwTnVJYll4aERsd20zM3IzZFlpYVJzODViRlFEb3RrcTlpVG8tM1lUekxBTmJuMDN4dndvT3d4WXQ0VEFoMUNYZkJlaFBFYkU0TXc3ZnpyTS1oSmNJOUFrRGc2dEpmXzdqRU9TdUZEUTB4ZXlSUC1OWDBNRWVrOUVWUHdkVDg4VUJpSkhuR19ZUGduZVR2ZEVnNkJnanE5RWNsVUpWaGhMUjdadWl4UnNvSjdqSUhOUzNnVDhnRllmc2hRM05uZWt5Z0U?oc=5",
+    "published_at": "2026-03-09T08:00:00.000Z",
+    "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiywNBVV95cUxQVHVDR01acnRVaUFQWjZDcThhSld4Z2duUWIyTjIxUmhWOHZwZ1RQZ1VQUFRhOW9LcGhhdkVFUUc3a0JRRmMwN0FVNmIwbVNBNVhvNk90eU5tNWtiM0RpeVhUYUY2N1BzNGRoalY5SzBLbnE2dWw0aXM3eE9COWZIVE1fTlZ6Vnl6WmZ5M2FNa1BRQXozSzl1Y1ZYVkZQdmlNT1MzRmdCWks5ZldEbjd3YXRkZEZwYU5wd21fU3B5NERBVlp4bVp",
+    "full_excerpt_optional": null,
+    "category": [
+      "Emerging Markets"
+    ],
+    "region": [
+      "Global",
+      "Global"
+    ],
+    "issuer_type": [
+      "Multilateral"
+    ],
+    "market_tags": [
+      "cross-border financing"
+    ],
+    "featured": false,
+    "relevance_score": 47,
+    "cbgm_relevance_reason": "Emerging market capital access and cross-border financing are core CBGM themes.",
+    "image_url_optional": null,
+    "source_type_optional": "google_news",
+    "fetched_at_optional": "2026-03-14T06:00:42.002Z"
   },
   {
     "id": "feed-b719d55110fccc",
@@ -4636,6 +4868,35 @@
     "fetched_at_optional": "2026-03-13T21:44:47.424Z"
   },
   {
+    "id": "feed-a62b6fe50250ee",
+    "title": "SEK reopens SSA dollar issuance and wins praise - GlobalCapital",
+    "source_name": "Google News - Bond Issuance",
+    "source_url": "https://news.google.com/rss/search?q=bond+issuance+primary+market+when:14d&hl=en-US&gl=US&ceid=US:en",
+    "article_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQV0Z3MTRlTmtFT2xNM3JMRW9HaHNTcG1NZGtKaVpKeGd4TU8xaEJTSzItbWt1ZW1UWENyQjJ0Wnl2dnpHTGFBMTNwam5PUHVPMTVZQ1g5NHV0emVrdm9RdWpyRDk5dkgzTFVpWFBNRmtSOG5BNjc1NFdjRWFFSzhSbExJUEp2Rl84TFpPN1Z6cVM5cF9PY0Iydy1NZEwyUkxrS2hPS0s4Rnp0LUR5OHE1aXlQU0x3MkxHa29KdDhMcTEwMFBxSGYxMURabw?oc=5",
+    "published_at": "2026-03-05T17:55:08.000Z",
+    "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxQV0Z3MTRlTmtFT2xNM3JMRW9HaHNTcG1NZGtKaVpKeGd4TU8xaEJTSzItbWt1ZW1UWENyQjJ0Wnl2dnpHTGFBMTNwam5PUHVPMTVZQ1g5NHV0emVrdm9RdWpyRDk5dkgzTFVpWFBNRmtSOG5BNjc1NFdjRWFFSzhSbExJUEp2Rl84TFpPN1Z6cVM5cF9PY0Iydy1NZEwyUkxrS2hPS0s4Rnp0LUR5OHE1aXlQU0x3MkxHa29KdDhMcTEwMFBxSGY",
+    "full_excerpt_optional": null,
+    "category": [
+      "Market Infrastructure"
+    ],
+    "region": [
+      "Global",
+      "Global"
+    ],
+    "issuer_type": [
+      "Corporate"
+    ],
+    "market_tags": [
+      "market transparency"
+    ],
+    "featured": false,
+    "relevance_score": 35,
+    "cbgm_relevance_reason": "Market infrastructure and transparency developments remain relevant to CBGM execution strategy.",
+    "image_url_optional": null,
+    "source_type_optional": "google_news",
+    "fetched_at_optional": "2026-03-14T06:00:42.002Z"
+  },
+  {
     "id": "feed-869cc66736439a",
     "title": "Three lessons from the spend management race - The Financial Revolutionist",
     "source_name": "Google News - Fintech Funding",
@@ -4866,6 +5127,35 @@
     "image_url_optional": null,
     "source_type_optional": "google_news",
     "fetched_at_optional": "2026-03-13T21:44:47.424Z"
+  },
+  {
+    "id": "feed-98f8ff3dbd0b5a",
+    "title": "Iran conflict sends UAE developer bonds tumbling - Arabian Gulf Business Insight | AGBI",
+    "source_name": "Google News - Bond Issuance",
+    "source_url": "https://news.google.com/rss/search?q=bond+issuance+primary+market+when:14d&hl=en-US&gl=US&ceid=US:en",
+    "article_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPY3hQR1VTd2stN20yQzltZnlVMUx2VDlEdFdkODd3OWhDczE2UmtrUk5EWWlOX01wdWlMck1WRk9PYjd1cVBUd202ZlhXSzUxOC1pUE5vcU5mQUpIVkxlOEkwQTdWeHVmd0QzaDkzbEMzSndCNFNSS01oYUd3aVpfa0ZFR3JnSWFOWkVmZVNmQkJ1U09PeUZpci1WQ3U0Q19C?oc=5",
+    "published_at": "2026-03-05T13:47:32.000Z",
+    "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPY3hQR1VTd2stN20yQzltZnlVMUx2VDlEdFdkODd3OWhDczE2UmtrUk5EWWlOX01wdWlMck1WRk9PYjd1cVBUd202ZlhXSzUxOC1pUE5vcU5mQUpIVkxlOEkwQTdWeHVmd0QzaDkzbEMzSndCNFNSS01oYUd3aVpfa0ZFR3JnSWFOWkVmZVNmQkJ1U09PeUZpci1WQ3U0Q19C?oc=5\" target=\"_blank\"&gt;Iran conflict sends UAE d",
+    "full_excerpt_optional": null,
+    "category": [
+      "Global Bonds"
+    ],
+    "region": [
+      "Global",
+      "Global"
+    ],
+    "issuer_type": [
+      "Corporate"
+    ],
+    "market_tags": [
+      "bond issuance"
+    ],
+    "featured": false,
+    "relevance_score": 49,
+    "cbgm_relevance_reason": "Bond issuance activity is core to CBGM market intelligence priorities.",
+    "image_url_optional": null,
+    "source_type_optional": "google_news",
+    "fetched_at_optional": "2026-03-14T06:00:42.002Z"
   },
   {
     "id": "feed-6cb5d1d9411025",
