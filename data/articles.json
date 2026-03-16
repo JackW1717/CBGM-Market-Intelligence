@@ -1,5 +1,755 @@
 [
   {
+    "id": "feed-1acbb10b75be4f",
+    "title": "Creating a redress system that works better for consumers and firms",
+    "source_name": "FCA News",
+    "source_url": "https://www.fca.org.uk/news/rss.xml",
+    "article_url": "https://www.fca.org.uk/news/blogs/creating-redress-system-works-better-consumers-firms",
+    "published_at": "2026-03-16T22:17:48.285Z",
+    "summary": "We’ve reached a significant milestone in our joint work with the Financial Ombudsman Service and the Government to modernise the redress systemso that consumers get fair outcomes quicker and firms have greater clarity about how issues will be handled.We’re delivering change at speed by acting now within our current pow",
+    "full_excerpt_optional": null,
+    "category": [
+      "Market Infrastructure"
+    ],
+    "region": [
+      "United Kingdom",
+      "Global"
+    ],
+    "issuer_type": [
+      "Corporate"
+    ],
+    "market_tags": [
+      "market transparency"
+    ],
+    "featured": false,
+    "relevance_score": 35,
+    "cbgm_relevance_reason": "Market infrastructure and transparency developments remain relevant to CBGM execution strategy.",
+    "image_url_optional": null,
+    "source_type_optional": "regulator",
+    "fetched_at_optional": "2026-03-16T22:17:45.780Z"
+  },
+  {
+    "id": "feed-7ffb3d2ae420dc",
+    "title": "Leeds Building Society sticks to favourite £500m floater format - GlobalCapital",
+    "source_name": "Google News - Bond Issuance",
+    "source_url": "https://news.google.com/rss/search?q=bond+issuance+primary+market+when:14d&hl=en-US&gl=US&ceid=US:en",
+    "article_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPbmhZTXEtbW44eHEzbFNTeXJUekktTFpyQ1lPcTJhYjVKSVVuUXNCLVpJblc0YW1Na3hrZV9uTzRxb2dJdUV0R3hBd2xMOHlTVlh0SUxJTXU4VGJmMWY3c2d5T2F4UkhOQnU3VldFVWFadjZwaEdfODhmbkQwQzV4ci0zMW1jZzUzZVpqQWg5QmRXcDZZOGgxWHNSYm04LVM5U3FrQUJSVFdJYktneklvRVc1dXVmZXJncHFFd1VDWjVQV3UtVjRUYzFWNVQwUE9Id1E?oc=5",
+    "published_at": "2026-03-16T19:37:41.000Z",
+    "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxPbmhZTXEtbW44eHEzbFNTeXJUekktTFpyQ1lPcTJhYjVKSVVuUXNCLVpJblc0YW1Na3hrZV9uTzRxb2dJdUV0R3hBd2xMOHlTVlh0SUxJTXU4VGJmMWY3c2d5T2F4UkhOQnU3VldFVWFadjZwaEdfODhmbkQwQzV4ci0zMW1jZzUzZVpqQWg5QmRXcDZZOGgxWHNSYm04LVM5U3FrQUJSVFdJYktneklvRVc1dXVmZXJncHFFd1VDWjVQV3UtVjR",
+    "full_excerpt_optional": null,
+    "category": [
+      "Market Infrastructure"
+    ],
+    "region": [
+      "Global",
+      "Global"
+    ],
+    "issuer_type": [
+      "Corporate"
+    ],
+    "market_tags": [
+      "market transparency"
+    ],
+    "featured": false,
+    "relevance_score": 35,
+    "cbgm_relevance_reason": "Market infrastructure and transparency developments remain relevant to CBGM execution strategy.",
+    "image_url_optional": null,
+    "source_type_optional": "google_news",
+    "fetched_at_optional": "2026-03-16T22:17:45.780Z"
+  },
+  {
+    "id": "feed-0a3fa098132147",
+    "title": "SEC Opens Door to Regulated Tokenized Securities Markets—KoreInside Positioned at the Center of the Infrastructure Shift - USA Today",
+    "source_name": "Google News - Market Structure Regulation",
+    "source_url": "https://news.google.com/rss/search?q=capital+markets+regulation+market+structure+when:14d&hl=en-US&gl=US&ceid=US:en",
+    "article_url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQaVF1eGNMNTlLUTVaenJ3U0w4V1p2RUhYSHpyaDZZRV9LRkRNWHkwV28wYy1yalJpZnNOTThpUU50VDNCYU05MENGRkFmakt5d0lWakttc0dGd3hqMldyZGlhcllXQ3NFWlVzdmlMVXRFUURObkpBemJ4MWRGMldhVWJYRW9Bc2lRdU5waWQ1bkcwdURkdTMySzFWNk9xS0FsQ0dlRG03QmZQT2ktTlBBdnljcW5jZ1V1dXRlaE1MTk5VSG5hZ1NmUGVLODhYNG1XdDZSN2lGeUhWSEJ5R3lZOXRvQVNPQnRTZVNobE5qS3FXU3A1UUI2Q0VoaEM2MDZwOFE?oc=5",
+    "published_at": "2026-03-16T19:32:03.000Z",
+    "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiggJBVV95cUxQaVF1eGNMNTlLUTVaenJ3U0w4V1p2RUhYSHpyaDZZRV9LRkRNWHkwV28wYy1yalJpZnNOTThpUU50VDNCYU05MENGRkFmakt5d0lWakttc0dGd3hqMldyZGlhcllXQ3NFWlVzdmlMVXRFUURObkpBemJ4MWRGMldhVWJYRW9Bc2lRdU5waWQ1bkcwdURkdTMySzFWNk9xS0FsQ0dlRG03QmZQT2ktTlBBdnljcW5jZ1V1dXRlaE1MTk5VSG5hZ1N",
+    "full_excerpt_optional": null,
+    "category": [
+      "Digital Assets / Tokenization",
+      "Regulation"
+    ],
+    "region": [
+      "United States",
+      "Global"
+    ],
+    "issuer_type": [
+      "Corporate"
+    ],
+    "market_tags": [
+      "tokenized debt",
+      "market transparency"
+    ],
+    "featured": false,
+    "relevance_score": 56,
+    "cbgm_relevance_reason": "Digital issuance and tokenized debt rails align with CBGM innovation goals.",
+    "image_url_optional": null,
+    "source_type_optional": "google_news",
+    "fetched_at_optional": "2026-03-16T22:17:45.780Z"
+  },
+  {
+    "id": "feed-bce42fdcc7da90",
+    "title": "SEC Proposes Amendments to Exchange Act Rule 15c2-11",
+    "source_name": "SEC Press Releases",
+    "source_url": "https://www.sec.gov/news/pressreleases.rss",
+    "article_url": "https://www.sec.gov/newsroom/press-releases/2026-28-sec-proposes-amendments-exchange-act-rule-15c2-11",
+    "published_at": "2026-03-16T19:15:00.000Z",
+    "summary": "The Securities and Exchange Commission today proposed amendments to Exchange Act Rule 15c2-11, which sets out certain information gathering and review requirements for broker-dealers that publish quotations for, or maintain a continuous quoted market in…",
+    "full_excerpt_optional": null,
+    "category": [
+      "Regulation"
+    ],
+    "region": [
+      "United States",
+      "Global"
+    ],
+    "issuer_type": [
+      "Corporate"
+    ],
+    "market_tags": [
+      "market transparency"
+    ],
+    "featured": false,
+    "relevance_score": 44,
+    "cbgm_relevance_reason": "Regulatory change influences issuance pathways, transparency, and deal execution.",
+    "image_url_optional": null,
+    "source_type_optional": "regulator",
+    "fetched_at_optional": "2026-03-16T22:17:45.780Z"
+  },
+  {
+    "id": "feed-85b87847d32612",
+    "title": "ANZ lands 2026's first dollar covered bond at fair value - GlobalCapital",
+    "source_name": "Google News - Bond Issuance",
+    "source_url": "https://news.google.com/rss/search?q=bond+issuance+primary+market+when:14d&hl=en-US&gl=US&ceid=US:en",
+    "article_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNOFU4NHo2NzhBR3FzUDFuLXZJSHg0emczN3kyRnU1WDE4MWMxQ2k3WGViSDd0MW1Na3BVUG5iOTMwQU1HbFVvN3JfS01vSjY2eXc4ejFWNjBjajVVbjB0enFMTzIwUUlkN0xjclF6WkllSVJCZnZsZmdQNkJUTmt2ZjRtdFhlZ2FXVDdTX0VEYWtaTHY0bnhqc01rMEVWa3pHcVM4dzdtRFJjb2VRclFSTk5wNGZwUQ?oc=5",
+    "published_at": "2026-03-16T18:11:31.000Z",
+    "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNOFU4NHo2NzhBR3FzUDFuLXZJSHg0emczN3kyRnU1WDE4MWMxQ2k3WGViSDd0MW1Na3BVUG5iOTMwQU1HbFVvN3JfS01vSjY2eXc4ejFWNjBjajVVbjB0enFMTzIwUUlkN0xjclF6WkllSVJCZnZsZmdQNkJUTmt2ZjRtdFhlZ2FXVDdTX0VEYWtaTHY0bnhqc01rMEVWa3pHcVM4dzdtRFJjb2VRclFSTk5wNGZwUQ?oc=5\" target=\"_blank",
+    "full_excerpt_optional": null,
+    "category": [
+      "Global Bonds"
+    ],
+    "region": [
+      "Global",
+      "Global"
+    ],
+    "issuer_type": [
+      "Corporate"
+    ],
+    "market_tags": [
+      "bond issuance"
+    ],
+    "featured": false,
+    "relevance_score": 49,
+    "cbgm_relevance_reason": "Bond issuance activity is core to CBGM market intelligence priorities.",
+    "image_url_optional": null,
+    "source_type_optional": "google_news",
+    "fetched_at_optional": "2026-03-16T22:17:45.780Z"
+  },
+  {
+    "id": "feed-b5b0f8fd9d8bc3",
+    "title": "SEC Announces Enforcement Division Director Judge Margaret A. Ryan Has Resigned From Agency",
+    "source_name": "SEC Press Releases",
+    "source_url": "https://www.sec.gov/news/pressreleases.rss",
+    "article_url": "https://www.sec.gov/newsroom/press-releases/2026-27-sec-announces-enforcement-division-director-judge-margaret-ryan-has-resigned-agency",
+    "published_at": "2026-03-16T18:09:04.000Z",
+    "summary": "The Securities and Exchange Commission today announced that Judge Margaret A. Ryan has resigned from her role as Director of the Division of Enforcement. Principal Deputy Director Sam Waldon has been named Acting Director of the Division, effective March…",
+    "full_excerpt_optional": null,
+    "category": [
+      "Regulation"
+    ],
+    "region": [
+      "United States",
+      "Global"
+    ],
+    "issuer_type": [
+      "Corporate"
+    ],
+    "market_tags": [
+      "market transparency"
+    ],
+    "featured": false,
+    "relevance_score": 44,
+    "cbgm_relevance_reason": "Regulatory change influences issuance pathways, transparency, and deal execution.",
+    "image_url_optional": null,
+    "source_type_optional": "regulator",
+    "fetched_at_optional": "2026-03-16T22:17:45.780Z"
+  },
+  {
+    "id": "feed-54cc0ec9107962",
+    "title": "Fuse raises $25M to disrupt aging loan origination systems used by US credit unions",
+    "source_name": "TechCrunch Fintech",
+    "source_url": "https://techcrunch.com/category/fintech/feed/",
+    "article_url": "https://techcrunch.com/2026/03/16/fuse-raises-25m-to-disrupt-aging-loan-origination-systems-used-by-u-s-credit-unions/",
+    "published_at": "2026-03-16T17:43:27.000Z",
+    "summary": "The startup also announced a $5 million \"rescue fund\" to help credit unions ditch legacy software for its AI-native platform.",
+    "full_excerpt_optional": null,
+    "category": [
+      "Early-Stage Funding"
+    ],
+    "region": [
+      "United States",
+      "Global"
+    ],
+    "issuer_type": [
+      "Startup"
+    ],
+    "market_tags": [
+      "capital formation"
+    ],
+    "featured": false,
+    "relevance_score": 47,
+    "cbgm_relevance_reason": "Early-stage funding stories indicate capital formation and pipeline momentum.",
+    "image_url_optional": null,
+    "source_type_optional": "venture_fintech",
+    "fetched_at_optional": "2026-03-16T22:17:45.780Z"
+  },
+  {
+    "id": "feed-a96b1aa68e5294",
+    "title": "Nominations Open for Best New Islamic Project Finance Bank Saudi Arabia 2026 - Global Banking &amp; Finance Review®",
+    "source_name": "Google News - Project Finance",
+    "source_url": "https://news.google.com/rss/search?q=project+finance+infrastructure+when:14d&hl=en-US&gl=US&ceid=US:en",
+    "article_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZnI0d1M4YXA5cG1ubHlqMFd4RUJSQlBMQnJfaVJFSjZYeS1oWm41UXcybndLYThwZF9JcU1xUUdrbXlrN18tRzJXY29BNlZRSWtySm9WcEdCcHlWc0xEakxNR1RwVjM0WTlnQUstWHVrblRTdVRRVUNXYTBOX0NwRlNrdzA3U3JwaUNkdV9hTnZCZnRLNWdSWmllcDBSYXpYOTNpRG9qT3NvSzVjYVRRRUdNd0VzVmtJ?oc=5",
+    "published_at": "2026-03-16T16:54:59.000Z",
+    "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZnI0d1M4YXA5cG1ubHlqMFd4RUJSQlBMQnJfaVJFSjZYeS1oWm41UXcybndLYThwZF9JcU1xUUdrbXlrN18tRzJXY29BNlZRSWtySm9WcEdCcHlWc0xEakxNR1RwVjM0WTlnQUstWHVrblRTdVRRVUNXYTBOX0NwRlNrdzA3U3JwaUNkdV9hTnZCZnRLNWdSWmllcDBSYXpYOTNpRG9qT3NvSzVjYVRRRUdNd0VzVmtJ?oc=5\" target=\"_bla",
+    "full_excerpt_optional": null,
+    "category": [
+      "Project Finance"
+    ],
+    "region": [
+      "Global",
+      "Global"
+    ],
+    "issuer_type": [
+      "Project"
+    ],
+    "market_tags": [
+      "project finance"
+    ],
+    "featured": false,
+    "relevance_score": 48,
+    "cbgm_relevance_reason": "Project and infrastructure finance opportunities are strategically important to CBGM.",
+    "image_url_optional": null,
+    "source_type_optional": "google_news",
+    "fetched_at_optional": "2026-03-16T22:17:45.780Z"
+  },
+  {
+    "id": "feed-91dfc523685802",
+    "title": "Entries Now Open for Islamic Project Finance Excellence Award Kazakhstan 2026 - Global Banking &amp; Finance Review®",
+    "source_name": "Google News - Project Finance",
+    "source_url": "https://news.google.com/rss/search?q=project+finance+infrastructure+when:14d&hl=en-US&gl=US&ceid=US:en",
+    "article_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPRmRURU9DaF8tc0N6V3RFZVNRRk5ic2dpQV93R254OVppRmJINWFtdHBmU0VmTGxPRXFRQzkwcThrWVFoSjZTaGh3clZTbTc2X1c4b2dEcDZjZlZDeUdoN1p0aW9mSjZSZDFNUnE2LVo4QzNmZ0lpOUFtMGNuQUFWckJjRUV4bUJTRDNxejJIM3ZPMlFHc1QwS0h3bDBhS3lVTEZldHN0OWltTzQ4aGZ0eV9ERFFOZVNiN1E?oc=5",
+    "published_at": "2026-03-16T16:39:59.000Z",
+    "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPRmRURU9DaF8tc0N6V3RFZVNRRk5ic2dpQV93R254OVppRmJINWFtdHBmU0VmTGxPRXFRQzkwcThrWVFoSjZTaGh3clZTbTc2X1c4b2dEcDZjZlZDeUdoN1p0aW9mSjZSZDFNUnE2LVo4QzNmZ0lpOUFtMGNuQUFWckJjRUV4bUJTRDNxejJIM3ZPMlFHc1QwS0h3bDBhS3lVTEZldHN0OWltTzQ4aGZ0eV9ERFFOZVNiN1E?oc=5\" target=\"_",
+    "full_excerpt_optional": null,
+    "category": [
+      "Project Finance"
+    ],
+    "region": [
+      "Global",
+      "Global"
+    ],
+    "issuer_type": [
+      "Project"
+    ],
+    "market_tags": [
+      "project finance"
+    ],
+    "featured": false,
+    "relevance_score": 48,
+    "cbgm_relevance_reason": "Project and infrastructure finance opportunities are strategically important to CBGM.",
+    "image_url_optional": null,
+    "source_type_optional": "google_news",
+    "fetched_at_optional": "2026-03-16T22:17:45.780Z"
+  },
+  {
+    "id": "feed-c6c7fa752336db",
+    "title": "Asic issues warning as young Aussies turn to finfluencers for financial advice",
+    "source_name": "Finextra",
+    "source_url": "https://www.finextra.com/rss/headlines.aspx",
+    "article_url": "https://www.finextra.com/pressarticle/109186/asic-issues-warning-as-young-aussies-turn-to-finfluencers-for-financial-advice?utm_medium=rssfinextra&amp;utm_source=finextrafeed",
+    "published_at": "2026-03-16T16:28:00.000Z",
+    "summary": "ASIC is urging young Australians to ‘sense check’ the information they see online, as new research shows nearly two thirds of Gen Zs are using social media and about one in five are using AI to make decisions about their financial future.",
+    "full_excerpt_optional": null,
+    "category": [
+      "Market Infrastructure"
+    ],
+    "region": [
+      "Global"
+    ],
+    "issuer_type": [
+      "Corporate"
+    ],
+    "market_tags": [
+      "market transparency"
+    ],
+    "featured": false,
+    "relevance_score": 35,
+    "cbgm_relevance_reason": "Market infrastructure and transparency developments remain relevant to CBGM execution strategy.",
+    "image_url_optional": null,
+    "source_type_optional": "fintech_publication",
+    "fetched_at_optional": "2026-03-16T22:17:45.780Z"
+  },
+  {
+    "id": "feed-e12e2554e01bba",
+    "title": "Garanti BBVA now shows all cards from different banks on a single screen",
+    "source_name": "Finextra",
+    "source_url": "https://www.finextra.com/rss/headlines.aspx",
+    "article_url": "https://www.finextra.com/pressarticle/109184/garanti-bbva-now-shows-all-cards-from-different-banks-on-a-single-screen?utm_medium=rssfinextra&amp;utm_source=finextrafeed",
+    "published_at": "2026-03-16T15:59:00.000Z",
+    "summary": "Through this new card integration, Garanti BBVA clients can now view and manage cards issued by different banks via a single screen.",
+    "full_excerpt_optional": null,
+    "category": [
+      "Market Infrastructure"
+    ],
+    "region": [
+      "Global"
+    ],
+    "issuer_type": [
+      "Corporate"
+    ],
+    "market_tags": [
+      "market transparency"
+    ],
+    "featured": false,
+    "relevance_score": 35,
+    "cbgm_relevance_reason": "Market infrastructure and transparency developments remain relevant to CBGM execution strategy.",
+    "image_url_optional": null,
+    "source_type_optional": "fintech_publication",
+    "fetched_at_optional": "2026-03-16T22:17:45.780Z"
+  },
+  {
+    "id": "feed-318bae88997302",
+    "title": "Fingerprint unveils MCP server",
+    "source_name": "Finextra",
+    "source_url": "https://www.finextra.com/rss/headlines.aspx",
+    "article_url": "https://www.finextra.com/pressarticle/109183/fingerprint-unveils-mcp-server?utm_medium=rssfinextra&amp;utm_source=finextrafeed",
+    "published_at": "2026-03-16T15:34:00.000Z",
+    "summary": "Fingerprint, a leader in device intelligence for fraud prevention, today announced the launch of its Model Context Protocol (MCP) Server, the first open-source MCP implementation in the fraud prevention space.",
+    "full_excerpt_optional": null,
+    "category": [
+      "Market Infrastructure"
+    ],
+    "region": [
+      "Global"
+    ],
+    "issuer_type": [
+      "Corporate"
+    ],
+    "market_tags": [
+      "market transparency"
+    ],
+    "featured": false,
+    "relevance_score": 35,
+    "cbgm_relevance_reason": "Market infrastructure and transparency developments remain relevant to CBGM execution strategy.",
+    "image_url_optional": null,
+    "source_type_optional": "fintech_publication",
+    "fetched_at_optional": "2026-03-16T22:17:45.780Z"
+  },
+  {
+    "id": "feed-b4323fdc2623f3",
+    "title": "India&#39;s PhonePe pauses IPO over geopolitical tensions",
+    "source_name": "Finextra",
+    "source_url": "https://www.finextra.com/rss/headlines.aspx",
+    "article_url": "https://www.finextra.com/newsarticle/47441/indias-phonepe-pauses-ipo-over-geopolitical-tensions?utm_medium=rssfinextra&amp;utm_source=finextrafeed",
+    "published_at": "2026-03-16T13:50:00.000Z",
+    "summary": "PhonePe, the Indian mobile payments firm backed by Walmart, has paused its initial public offering plans, citing geopolitical tensions and volatile markets.",
+    "full_excerpt_optional": null,
+    "category": [
+      "Market Infrastructure"
+    ],
+    "region": [
+      "Global"
+    ],
+    "issuer_type": [
+      "Corporate"
+    ],
+    "market_tags": [
+      "market transparency"
+    ],
+    "featured": false,
+    "relevance_score": 35,
+    "cbgm_relevance_reason": "Market infrastructure and transparency developments remain relevant to CBGM execution strategy.",
+    "image_url_optional": null,
+    "source_type_optional": "fintech_publication",
+    "fetched_at_optional": "2026-03-16T22:17:45.780Z"
+  },
+  {
+    "id": "feed-c6544528885de9",
+    "title": "Singapore&#39;s MetaComp raises $35 million",
+    "source_name": "Finextra",
+    "source_url": "https://www.finextra.com/rss/headlines.aspx",
+    "article_url": "https://www.finextra.com/pressarticle/109182/singapores-metacomp-raises-35-million?utm_medium=rssfinextra&amp;utm_source=finextrafeed",
+    "published_at": "2026-03-16T13:42:00.000Z",
+    "summary": "MetaComp Pte. Ltd, Asia&#39;s pioneer in unified Web2.5 payments and wealth group-level platform together with other licensed affiliates, today announced the completion of its Pre-A+ funding round, bringing the cumulative total to US$35 million across two rounds in three months.",
+    "full_excerpt_optional": null,
+    "category": [
+      "Market Infrastructure"
+    ],
+    "region": [
+      "Asia",
+      "Global"
+    ],
+    "issuer_type": [
+      "Corporate"
+    ],
+    "market_tags": [
+      "market transparency"
+    ],
+    "featured": false,
+    "relevance_score": 35,
+    "cbgm_relevance_reason": "Market infrastructure and transparency developments remain relevant to CBGM execution strategy.",
+    "image_url_optional": null,
+    "source_type_optional": "fintech_publication",
+    "fetched_at_optional": "2026-03-16T22:17:45.780Z"
+  },
+  {
+    "id": "feed-b652e65d219b4c",
+    "title": "Clearstream and Euroclear digitize Eurobond issuance",
+    "source_name": "Finextra",
+    "source_url": "https://www.finextra.com/rss/headlines.aspx",
+    "article_url": "https://www.finextra.com/pressarticle/109181/clearstream-and-euroclear-digitize-eurobond-issuance?utm_medium=rssfinextra&amp;utm_source=finextrafeed",
+    "published_at": "2026-03-16T13:36:00.000Z",
+    "summary": "Clearstream and Euroclear Bank, the two International Central Securities Depositories (ICSDs), today announced that they launched their respective dematerialized Eurobond issuance services, now live and available for market use, marking a major milestone in the evolution of the €15.3 trillion Eurobond market.",
+    "full_excerpt_optional": null,
+    "category": [
+      "Market Infrastructure"
+    ],
+    "region": [
+      "Europe",
+      "Global"
+    ],
+    "issuer_type": [
+      "Corporate"
+    ],
+    "market_tags": [
+      "market transparency"
+    ],
+    "featured": false,
+    "relevance_score": 35,
+    "cbgm_relevance_reason": "Market infrastructure and transparency developments remain relevant to CBGM execution strategy.",
+    "image_url_optional": null,
+    "source_type_optional": "fintech_publication",
+    "fetched_at_optional": "2026-03-16T22:17:45.780Z"
+  },
+  {
+    "id": "feed-3870596626e677",
+    "title": "Walmart-backed PhonePe shelves IPO as global tensions rattle markets",
+    "source_name": "TechCrunch Fintech",
+    "source_url": "https://techcrunch.com/category/fintech/feed/",
+    "article_url": "https://techcrunch.com/2026/03/16/walmart-backed-phonepe-shelves-ipo-as-global-tensions-rattle-markets/",
+    "published_at": "2026-03-16T13:02:47.000Z",
+    "summary": "PhonePe has paused its planned IPO, delaying a major liquidity event for investors including Tiger Global and Microsoft.",
+    "full_excerpt_optional": null,
+    "category": [
+      "Market Infrastructure"
+    ],
+    "region": [
+      "United States",
+      "Global"
+    ],
+    "issuer_type": [
+      "Corporate"
+    ],
+    "market_tags": [
+      "market transparency"
+    ],
+    "featured": false,
+    "relevance_score": 35,
+    "cbgm_relevance_reason": "Market infrastructure and transparency developments remain relevant to CBGM execution strategy.",
+    "image_url_optional": null,
+    "source_type_optional": "venture_fintech",
+    "fetched_at_optional": "2026-03-16T22:17:45.780Z"
+  },
+  {
+    "id": "feed-d33f0b6f2a4d4e",
+    "title": "BankDhofar launches Neo Corporate Internet Banking",
+    "source_name": "Finextra",
+    "source_url": "https://www.finextra.com/rss/headlines.aspx",
+    "article_url": "https://www.finextra.com/pressarticle/109180/bankdhofar-launches-neo-corporate-internet-banking?utm_medium=rssfinextra&amp;utm_source=finextrafeed",
+    "published_at": "2026-03-16T11:57:00.000Z",
+    "summary": "BankDhofar has announced the launch of Neo Corporate Internet Banking (Neo CIB), a next-generation digital banking platform that significantly expands the range of services available to corporate, SME, institutional, and government customers.",
+    "full_excerpt_optional": null,
+    "category": [
+      "Market Infrastructure"
+    ],
+    "region": [
+      "Global"
+    ],
+    "issuer_type": [
+      "Corporate"
+    ],
+    "market_tags": [
+      "market transparency"
+    ],
+    "featured": false,
+    "relevance_score": 35,
+    "cbgm_relevance_reason": "Market infrastructure and transparency developments remain relevant to CBGM execution strategy.",
+    "image_url_optional": null,
+    "source_type_optional": "fintech_publication",
+    "fetched_at_optional": "2026-03-16T22:17:45.780Z"
+  },
+  {
+    "id": "feed-1f45bb005adaec",
+    "title": "IuteBank begins operating as a regulated bank in Ukraine",
+    "source_name": "Finextra",
+    "source_url": "https://www.finextra.com/rss/headlines.aspx",
+    "article_url": "https://www.finextra.com/pressarticle/109179/iutebank-begins-operating-as-a-regulated-bank-in-ukraine?utm_medium=rssfinextra&amp;utm_source=finextrafeed",
+    "published_at": "2026-03-16T11:50:00.000Z",
+    "summary": "IuteBank, part of the Estonian-based Iute Group, has completed the transition period following the bridge bank process and will begin operating as a regular bank in the Ukrainian market from 17 March.",
+    "full_excerpt_optional": null,
+    "category": [
+      "Regulation"
+    ],
+    "region": [
+      "United Kingdom",
+      "Global"
+    ],
+    "issuer_type": [
+      "Corporate"
+    ],
+    "market_tags": [
+      "market transparency"
+    ],
+    "featured": false,
+    "relevance_score": 44,
+    "cbgm_relevance_reason": "Regulatory change influences issuance pathways, transparency, and deal execution.",
+    "image_url_optional": null,
+    "source_type_optional": "fintech_publication",
+    "fetched_at_optional": "2026-03-16T22:17:45.780Z"
+  },
+  {
+    "id": "feed-810f5d68082321",
+    "title": "Digital asset wealth management platform Abra to go public in Spac merger",
+    "source_name": "Finextra",
+    "source_url": "https://www.finextra.com/rss/headlines.aspx",
+    "article_url": "https://www.finextra.com/pressarticle/109178/digital-asset-wealth-management-platform-abra-to-go-public-in-spac-merger?utm_medium=rssfinextra&amp;utm_source=finextrafeed",
+    "published_at": "2026-03-16T11:38:00.000Z",
+    "summary": "Abra Financial Holdings, Inc. (&quot;Abra&quot;), a digital asset wealth management platform, and New Providence Acquisition Corp. III (Nasdaq: NPACU) (“New Providence”), a special purpose acquisition company, today announced that they have entered into a definitive business combination agreement for a transaction to t",
+    "full_excerpt_optional": null,
+    "category": [
+      "Market Infrastructure"
+    ],
+    "region": [
+      "Global"
+    ],
+    "issuer_type": [
+      "Corporate"
+    ],
+    "market_tags": [
+      "market transparency"
+    ],
+    "featured": false,
+    "relevance_score": 35,
+    "cbgm_relevance_reason": "Market infrastructure and transparency developments remain relevant to CBGM execution strategy.",
+    "image_url_optional": null,
+    "source_type_optional": "fintech_publication",
+    "fetched_at_optional": "2026-03-16T22:17:45.780Z"
+  },
+  {
+    "id": "feed-47086e50d9c89f",
+    "title": "Neobank for Latinos DNERO set for go-live",
+    "source_name": "Finextra",
+    "source_url": "https://www.finextra.com/rss/headlines.aspx",
+    "article_url": "https://www.finextra.com/pressarticle/109177/neobank-for-latinos-dnero-set-for-go-live?utm_medium=rssfinextra&amp;utm_source=finextrafeed",
+    "published_at": "2026-03-16T11:20:00.000Z",
+    "summary": "Millions of Latinos live financially between multiple countries – working in one place while supporting family in another.",
+    "full_excerpt_optional": null,
+    "category": [
+      "Fintech"
+    ],
+    "region": [
+      "Global"
+    ],
+    "issuer_type": [
+      "Corporate"
+    ],
+    "market_tags": [
+      "issuance infrastructure"
+    ],
+    "featured": false,
+    "relevance_score": 47,
+    "cbgm_relevance_reason": "Fintech and market infrastructure developments can improve issuance and distribution capabilities.",
+    "image_url_optional": null,
+    "source_type_optional": "fintech_publication",
+    "fetched_at_optional": "2026-03-16T22:17:45.780Z"
+  },
+  {
+    "id": "feed-a385b4804b5d4f",
+    "title": "Prediction Markets, Tokenisation, Supplant Regulation in Deriv Market Thinking - The Full FX",
+    "source_name": "Google News - Market Structure Regulation",
+    "source_url": "https://news.google.com/rss/search?q=capital+markets+regulation+market+structure+when:14d&hl=en-US&gl=US&ceid=US:en",
+    "article_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVS14ZU53dFJoS1Z6MnVsMjFlTjlWRHJFeXprcjZDVDVTY0l5NFRwcmlDVDhKdU9PZlcxWjF3WmRKZmZhLXNGQzE0YU51YjdVaHlNaVNCRTl6YWJidkMweGNUVnZHLTJKbnB1b19pQ2sxSnE5NVZHNUd6cnJPRElhQU9vUUFXeUZZbWMyYXlLZVhGUHltLWFQZ0JGQjlBSlBu?oc=5",
+    "published_at": "2026-03-16T11:02:05.000Z",
+    "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPVS14ZU53dFJoS1Z6MnVsMjFlTjlWRHJFeXprcjZDVDVTY0l5NFRwcmlDVDhKdU9PZlcxWjF3WmRKZmZhLXNGQzE0YU51YjdVaHlNaVNCRTl6YWJidkMweGNUVnZHLTJKbnB1b19pQ2sxSnE5NVZHNUd6cnJPRElhQU9vUUFXeUZZbWMyYXlLZVhGUHltLWFQZ0JGQjlBSlBu?oc=5\" target=\"_blank\"&gt;Prediction Markets, Token",
+    "full_excerpt_optional": null,
+    "category": [
+      "Regulation"
+    ],
+    "region": [
+      "Global",
+      "Global"
+    ],
+    "issuer_type": [
+      "Corporate"
+    ],
+    "market_tags": [
+      "market transparency"
+    ],
+    "featured": false,
+    "relevance_score": 44,
+    "cbgm_relevance_reason": "Regulatory change influences issuance pathways, transparency, and deal execution.",
+    "image_url_optional": null,
+    "source_type_optional": "google_news",
+    "fetched_at_optional": "2026-03-16T22:17:45.780Z"
+  },
+  {
+    "id": "feed-ad3feff5c71905",
+    "title": "LSEG&#39;s post-trade business launches Trade Agent to standardise cross-asset workflows",
+    "source_name": "Finextra",
+    "source_url": "https://www.finextra.com/rss/headlines.aspx",
+    "article_url": "https://www.finextra.com/pressarticle/109176/lsegs-post-trade-business-launches-trade-agent-to-standardise-cross-asset-workflows?utm_medium=rssfinextra&amp;utm_source=finextrafeed",
+    "published_at": "2026-03-16T10:02:00.000Z",
+    "summary": "LSEG today announces that Post Trade Solutions has launched TradeAgent, a new post trade processing platform.",
+    "full_excerpt_optional": null,
+    "category": [
+      "Fintech"
+    ],
+    "region": [
+      "Global"
+    ],
+    "issuer_type": [
+      "Corporate"
+    ],
+    "market_tags": [
+      "issuance infrastructure"
+    ],
+    "featured": false,
+    "relevance_score": 47,
+    "cbgm_relevance_reason": "Fintech and market infrastructure developments can improve issuance and distribution capabilities.",
+    "image_url_optional": null,
+    "source_type_optional": "fintech_publication",
+    "fetched_at_optional": "2026-03-16T22:17:45.780Z"
+  },
+  {
+    "id": "feed-5e4d0543b40596",
+    "title": "Ramp acquires Billhop to expand across EU and UK",
+    "source_name": "Finextra",
+    "source_url": "https://www.finextra.com/rss/headlines.aspx",
+    "article_url": "https://www.finextra.com/newsarticle/47440/ramp-acquires-billhop-to-expand-across-eu-and-uk?utm_medium=rssfinextra&amp;utm_source=finextrafeed",
+    "published_at": "2026-03-16T09:33:00.000Z",
+    "summary": "Fast growing expense management firm Ramp has acquired Billhop, a licenced payments infrastructure provider operating across the EEA and the UK.",
+    "full_excerpt_optional": null,
+    "category": [
+      "Market Infrastructure"
+    ],
+    "region": [
+      "United Kingdom",
+      "Global"
+    ],
+    "issuer_type": [
+      "Corporate"
+    ],
+    "market_tags": [
+      "market transparency"
+    ],
+    "featured": false,
+    "relevance_score": 35,
+    "cbgm_relevance_reason": "Market infrastructure and transparency developments remain relevant to CBGM execution strategy.",
+    "image_url_optional": null,
+    "source_type_optional": "fintech_publication",
+    "fetched_at_optional": "2026-03-16T22:17:45.780Z"
+  },
+  {
+    "id": "feed-0362804e177d8b",
+    "title": "YouLend to recruit for 70 new positions as it opens Berlin hub",
+    "source_name": "Finextra",
+    "source_url": "https://www.finextra.com/rss/headlines.aspx",
+    "article_url": "https://www.finextra.com/pressarticle/109175/youlend-to-recruit-for-70-new-positions-as-it-opens-berlin-hub?utm_medium=rssfinextra&amp;utm_source=finextrafeed",
+    "published_at": "2026-03-16T09:28:00.000Z",
+    "summary": "YouLend, the leading global embedded financing platform for e-commerce, payment and technology platforms, today announced a significant expansion of its European footprint with the opening of a new regional hub in Berlin.",
+    "full_excerpt_optional": null,
+    "category": [
+      "Market Infrastructure"
+    ],
+    "region": [
+      "Europe",
+      "Global"
+    ],
+    "issuer_type": [
+      "Corporate"
+    ],
+    "market_tags": [
+      "market transparency"
+    ],
+    "featured": false,
+    "relevance_score": 35,
+    "cbgm_relevance_reason": "Market infrastructure and transparency developments remain relevant to CBGM execution strategy.",
+    "image_url_optional": null,
+    "source_type_optional": "fintech_publication",
+    "fetched_at_optional": "2026-03-16T22:17:45.780Z"
+  },
+  {
+    "id": "feed-3109a67d4f70cb",
+    "title": "Fintech startup Chaseit.ai launches AI agents for call centre loan servicing",
+    "source_name": "Finextra",
+    "source_url": "https://www.finextra.com/rss/headlines.aspx",
+    "article_url": "https://www.finextra.com/newsarticle/47439/fintech-startup-chaseitai-launches-ai-agents-for-call-centre-loan-servicing?utm_medium=rssfinextra&amp;utm_source=finextrafeed",
+    "published_at": "2026-03-16T09:14:00.000Z",
+    "summary": "Chaseit.ai, a Lithuanian fintech founded by ex-Revolut, venture capital and JPMorgan leaders, has gone into live production with a suite of AI agents for automating loan servicing and customer communications.",
+    "full_excerpt_optional": null,
+    "category": [
+      "Fintech",
+      "Early-Stage Funding"
+    ],
+    "region": [
+      "Global"
+    ],
+    "issuer_type": [
+      "Corporate",
+      "Startup"
+    ],
+    "market_tags": [
+      "issuance infrastructure",
+      "capital formation"
+    ],
+    "featured": false,
+    "relevance_score": 59,
+    "cbgm_relevance_reason": "Fintech and market infrastructure developments can improve issuance and distribution capabilities.",
+    "image_url_optional": null,
+    "source_type_optional": "fintech_publication",
+    "fetched_at_optional": "2026-03-16T22:17:45.780Z"
+  },
+  {
+    "id": "feed-f5bf8986a89b94",
+    "title": "Finom unveils interest acccount for SMEs",
+    "source_name": "Finextra",
+    "source_url": "https://www.finextra.com/rss/headlines.aspx",
+    "article_url": "https://www.finextra.com/pressarticle/109174/finom-unveils-interest-acccount-for-smes?utm_medium=rssfinextra&amp;utm_source=finextrafeed",
+    "published_at": "2026-03-16T09:10:00.000Z",
+    "summary": "Finom, the integrated financial management platform for freelancers and SMEs in Europe, launched the Interest Account: an embedded, fully MiFID-regulated feature that lets business customers earn daily returns on EUR balances.",
+    "full_excerpt_optional": null,
+    "category": [
+      "Regulation"
+    ],
+    "region": [
+      "Europe",
+      "Global"
+    ],
+    "issuer_type": [
+      "Corporate"
+    ],
+    "market_tags": [
+      "market transparency"
+    ],
+    "featured": false,
+    "relevance_score": 44,
+    "cbgm_relevance_reason": "Regulatory change influences issuance pathways, transparency, and deal execution.",
+    "image_url_optional": null,
+    "source_type_optional": "fintech_publication",
+    "fetched_at_optional": "2026-03-16T22:17:45.780Z"
+  },
+  {
     "id": "feed-3cef7297030ef1",
     "title": "Cryptio lands $45m Series B to scale crypto accounting platform - FinTech Futures",
     "source_name": "Google News - Fintech Funding",
@@ -236,6 +986,38 @@
     "image_url_optional": null,
     "source_type_optional": "google_news",
     "fetched_at_optional": "2026-03-15T06:13:13.967Z"
+  },
+  {
+    "id": "feed-99383f37664a0d",
+    "title": "African Startups Raise $575M as Fintech Investing Loses Momentum - Dabafinance",
+    "source_name": "Google News - Fintech Funding",
+    "source_url": "https://news.google.com/rss/search?q=fintech+funding+when:14d&hl=en-US&gl=US&ceid=US:en",
+    "article_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPT3RCX1VyS19mQk9GclhhbkpzenZTODhWa0NHcXI2SDNOOXlEZjhUaUxpZmg4VlVaNkhRNjYxNi1nVFdHTk00MUNySEZTUHlDSkRFUHFGVzJIQVFNTEpaMXRrSlIzMi1KT252M3Bsdm9KcGVkcXBfckQ0Ri1MQXYtVk9n?oc=5",
+    "published_at": "2026-03-14T11:01:00.000Z",
+    "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPT3RCX1VyS19mQk9GclhhbkpzenZTODhWa0NHcXI2SDNOOXlEZjhUaUxpZmg4VlVaNkhRNjYxNi1nVFdHTk00MUNySEZTUHlDSkRFUHFGVzJIQVFNTEpaMXRrSlIzMi1KT252M3Bsdm9KcGVkcXBfckQ0Ri1MQXYtVk9n?oc=5\" target=\"_blank\"&gt;African Startups Raise $575M as Fintech Investing Loses Momentum&",
+    "full_excerpt_optional": null,
+    "category": [
+      "Fintech",
+      "Early-Stage Funding"
+    ],
+    "region": [
+      "Africa",
+      "Global"
+    ],
+    "issuer_type": [
+      "Corporate",
+      "Startup"
+    ],
+    "market_tags": [
+      "issuance infrastructure",
+      "capital formation"
+    ],
+    "featured": false,
+    "relevance_score": 59,
+    "cbgm_relevance_reason": "Fintech and market infrastructure developments can improve issuance and distribution capabilities.",
+    "image_url_optional": null,
+    "source_type_optional": "google_news",
+    "fetched_at_optional": "2026-03-16T22:17:45.780Z"
   },
   {
     "id": "feed-c3b70c19297f66",
@@ -883,6 +1665,35 @@
     "fetched_at_optional": "2026-03-13T21:44:47.424Z"
   },
   {
+    "id": "feed-25dc7b3d458946",
+    "title": "Australian Senate Supports New Crypto Framework - Investing News Network",
+    "source_name": "Google News - Market Structure Regulation",
+    "source_url": "https://news.google.com/rss/search?q=capital+markets+regulation+market+structure+when:14d&hl=en-US&gl=US&ceid=US:en",
+    "article_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9PU3pBdGY0NWJMSWFUTFRDUGx3RklNQlNENWdlQjBiNG9meUo5andqSHFER0lkNlhEaFVwOXpLYWZseVJ1YVZsU2Q4RzBWT1RoeUhTM19YaFljM2ZHcm5yMHYxTlc?oc=5",
+    "published_at": "2026-03-13T21:05:00.000Z",
+    "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE9PU3pBdGY0NWJMSWFUTFRDUGx3RklNQlNENWdlQjBiNG9meUo5andqSHFER0lkNlhEaFVwOXpLYWZseVJ1YVZsU2Q4RzBWT1RoeUhTM19YaFljM2ZHcm5yMHYxTlc?oc=5\" target=\"_blank\"&gt;Australian Senate Supports New Crypto Framework&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;I",
+    "full_excerpt_optional": null,
+    "category": [
+      "Market Infrastructure"
+    ],
+    "region": [
+      "Global",
+      "Global"
+    ],
+    "issuer_type": [
+      "Corporate"
+    ],
+    "market_tags": [
+      "market transparency"
+    ],
+    "featured": false,
+    "relevance_score": 35,
+    "cbgm_relevance_reason": "Market infrastructure and transparency developments remain relevant to CBGM execution strategy.",
+    "image_url_optional": null,
+    "source_type_optional": "google_news",
+    "fetched_at_optional": "2026-03-16T22:17:45.780Z"
+  },
+  {
     "id": "feed-92929c52e58842",
     "title": "MoonPay introduces AI agent secured by a ledger signer",
     "source_name": "Finextra",
@@ -1490,6 +2301,93 @@
     "image_url_optional": null,
     "source_type_optional": "google_news",
     "fetched_at_optional": "2026-03-13T21:44:47.424Z"
+  },
+  {
+    "id": "feed-5baece124f73f0",
+    "title": "UK companies dominated top European FinTech deals in Q4 2025 as funding surged by 63% YoY - FinTech Global",
+    "source_name": "Google News - Fintech Funding",
+    "source_url": "https://news.google.com/rss/search?q=fintech+funding+when:14d&hl=en-US&gl=US&ceid=US:en",
+    "article_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNYjhxNFYwc2dqMGNwZEFsdDFzcU96cktUWWNIUEl2RWw5OTlBRE9ZWGFHWHA5Ylh1NUl1a0FNSHkzbDZBOFhIdlMwMjhsTE1SSGF1enpUdVg3YUpUdG41aFRJMjh5aDc5LWxZWnhzSHdhQkxqMndaZlc0czFhc3pnSm95Y1M4WVBtVlNVenZ1TGpNUFlQOHlzNEdySUxUY1kyNWphRklFYmpYcFJaTEd5c3dlSnNEemt6QXdfV29UelA?oc=5",
+    "published_at": "2026-03-13T09:01:50.000Z",
+    "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNYjhxNFYwc2dqMGNwZEFsdDFzcU96cktUWWNIUEl2RWw5OTlBRE9ZWGFHWHA5Ylh1NUl1a0FNSHkzbDZBOFhIdlMwMjhsTE1SSGF1enpUdVg3YUpUdG41aFRJMjh5aDc5LWxZWnhzSHdhQkxqMndaZlc0czFhc3pnSm95Y1M4WVBtVlNVenZ1TGpNUFlQOHlzNEdySUxUY1kyNWphRklFYmpYcFJaTEd5c3dlSnNEemt6QXdfV29UelA?oc=5\" t",
+    "full_excerpt_optional": null,
+    "category": [
+      "Fintech"
+    ],
+    "region": [
+      "United Kingdom",
+      "Global"
+    ],
+    "issuer_type": [
+      "Corporate"
+    ],
+    "market_tags": [
+      "issuance infrastructure"
+    ],
+    "featured": false,
+    "relevance_score": 47,
+    "cbgm_relevance_reason": "Fintech and market infrastructure developments can improve issuance and distribution capabilities.",
+    "image_url_optional": null,
+    "source_type_optional": "google_news",
+    "fetched_at_optional": "2026-03-16T22:17:45.780Z"
+  },
+  {
+    "id": "feed-7833cc398310ce",
+    "title": "Asia weekly — Bond yields spike on crude, China keeps primary busy - 9fin",
+    "source_name": "Google News - Bond Issuance",
+    "source_url": "https://news.google.com/rss/search?q=bond+issuance+primary+market+when:14d&hl=en-US&gl=US&ceid=US:en",
+    "article_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE94OFdpVmx4dkZDOEhfbF81R3U0NjdEVjlUQ2VjaGJJYnZPc1hhV1M4NmE4c1dxNFphRGx1enJhOUpZUjM3d0RwM2RvRldHdUNyOE1mWmFmcXUwYS0zMjUwbGEzNVZPTlpPa2M4YkdUQQ?oc=5",
+    "published_at": "2026-03-13T07:00:00.000Z",
+    "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE94OFdpVmx4dkZDOEhfbF81R3U0NjdEVjlUQ2VjaGJJYnZPc1hhV1M4NmE4c1dxNFphRGx1enJhOUpZUjM3d0RwM2RvRldHdUNyOE1mWmFmcXUwYS0zMjUwbGEzNVZPTlpPa2M4YkdUQQ?oc=5\" target=\"_blank\"&gt;Asia weekly — Bond yields spike on crude, China keeps primary busy&lt;/a&gt;&amp;nbsp;&amp;",
+    "full_excerpt_optional": null,
+    "category": [
+      "Global Bonds"
+    ],
+    "region": [
+      "Asia",
+      "Global"
+    ],
+    "issuer_type": [
+      "Corporate"
+    ],
+    "market_tags": [
+      "bond issuance"
+    ],
+    "featured": false,
+    "relevance_score": 49,
+    "cbgm_relevance_reason": "Bond issuance activity is core to CBGM market intelligence priorities.",
+    "image_url_optional": null,
+    "source_type_optional": "google_news",
+    "fetched_at_optional": "2026-03-16T22:17:45.780Z"
+  },
+  {
+    "id": "feed-32e905537099f1",
+    "title": "MoFo's Financial Markets &amp; Innovation - Lexology",
+    "source_name": "Google News - Market Structure Regulation",
+    "source_url": "https://news.google.com/rss/search?q=capital+markets+regulation+market+structure+when:14d&hl=en-US&gl=US&ceid=US:en",
+    "article_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOb0Q0NGVxRHI4LUNkeF92WFVjOVY5OVNrWEhWaThVZy1mNVRpaEhVQUhqeWNxR2RuZEZxN2tVLVBSN0NreWkyek1LbUsxOVAxTWNYbVYxWWJQQy1aMDhTNmszZEdIcWNISzhXbkRsR3dRZm13Q21YVXZTVnVCYmhDZi0zVWdSQkNOaXlZ?oc=5",
+    "published_at": "2026-03-13T07:00:00.000Z",
+    "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOb0Q0NGVxRHI4LUNkeF92WFVjOVY5OVNrWEhWaThVZy1mNVRpaEhVQUhqeWNxR2RuZEZxN2tVLVBSN0NreWkyek1LbUsxOVAxTWNYbVYxWWJQQy1aMDhTNmszZEdIcWNISzhXbkRsR3dRZm13Q21YVXZTVnVCYmhDZi0zVWdSQkNOaXlZ?oc=5\" target=\"_blank\"&gt;MoFo's Financial Markets &amp; Innovation&lt;/a&gt;&a",
+    "full_excerpt_optional": null,
+    "category": [
+      "Market Infrastructure"
+    ],
+    "region": [
+      "Global",
+      "Global"
+    ],
+    "issuer_type": [
+      "Corporate"
+    ],
+    "market_tags": [
+      "market transparency"
+    ],
+    "featured": false,
+    "relevance_score": 35,
+    "cbgm_relevance_reason": "Market infrastructure and transparency developments remain relevant to CBGM execution strategy.",
+    "image_url_optional": null,
+    "source_type_optional": "google_news",
+    "fetched_at_optional": "2026-03-16T22:17:45.780Z"
   },
   {
     "id": "feed-b6e55359aa4a09",
@@ -2827,6 +3725,35 @@
     "image_url_optional": null,
     "source_type_optional": "google_news",
     "fetched_at_optional": "2026-03-13T21:44:47.424Z"
+  },
+  {
+    "id": "feed-239ebccccd7714",
+    "title": "JPMorgan Tees Up EA Debt Sale as Iran War Shakes Credit Markets - Bloomberg.com",
+    "source_name": "Google News - Bond Issuance",
+    "source_url": "https://news.google.com/rss/search?q=bond+issuance+primary+market+when:14d&hl=en-US&gl=US&ceid=US:en",
+    "article_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdkptT1BLMVY1VTRTQmhlSGYwRDlKVGRWazlOX0VJSlNMSlFuWVBaaGtYLXhvdm5vTDVHajhmMDUyWDVnRDR1RWdmaGxLOFpVVnY3RU9RVnQwTWpwcW1IVHY2VGJTdDctRjk0RTJsR2kzR3l6TFBDTlllQnF2NHIxcDRmbGV0dGdqMmZpczUySlR0OTZucDIyczRaM3ktazNUOTgzRmlsQUdWaDdaMENIVVk3UEo?oc=5",
+    "published_at": "2026-03-11T17:52:06.000Z",
+    "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPdkptT1BLMVY1VTRTQmhlSGYwRDlKVGRWazlOX0VJSlNMSlFuWVBaaGtYLXhvdm5vTDVHajhmMDUyWDVnRDR1RWdmaGxLOFpVVnY3RU9RVnQwTWpwcW1IVHY2VGJTdDctRjk0RTJsR2kzR3l6TFBDTlllQnF2NHIxcDRmbGV0dGdqMmZpczUySlR0OTZucDIyczRaM3ktazNUOTgzRmlsQUdWaDdaMENIVVk3UEo?oc=5\" target=\"_blank\"&g",
+    "full_excerpt_optional": null,
+    "category": [
+      "Global Bonds"
+    ],
+    "region": [
+      "Global",
+      "Global"
+    ],
+    "issuer_type": [
+      "Corporate"
+    ],
+    "market_tags": [
+      "bond issuance"
+    ],
+    "featured": false,
+    "relevance_score": 49,
+    "cbgm_relevance_reason": "Bond issuance activity is core to CBGM market intelligence priorities.",
+    "image_url_optional": null,
+    "source_type_optional": "google_news",
+    "fetched_at_optional": "2026-03-16T22:17:45.780Z"
   },
   {
     "id": "feed-4440a10f76a031",
@@ -4174,6 +5101,35 @@
     "fetched_at_optional": "2026-03-13T21:44:47.424Z"
   },
   {
+    "id": "feed-174d53fe869da6",
+    "title": "Lloyds Banking : bolsters its Infrastructure and Project Finance division - marketscreener.com",
+    "source_name": "Google News - Project Finance",
+    "source_url": "https://news.google.com/rss/search?q=project+finance+infrastructure+when:14d&hl=en-US&gl=US&ceid=US:en",
+    "article_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPY19hSGpKcVN4MXZDdzFlZUZSLTM0TTEtSkxjTTR5WnRWVl9QSHZ1U1ZHMTBnMHBCUVRkTVBCUF9wWWYtSEtfVG9fRGZsYTRHa0JiVWc5YXhiQ2ZKOG5uSElBZk5XaEthODF6QWZSdVF6SlhMR042Y1VLbi1qYUt1RjVPWm1ta24yVjVwWmFmcHBMeWRDZEFNTHAzMEV0VHg0eHBfUENfZktOVGIxMVl1TElKM1F3UjIwSUNRUDJVU09EUQ?oc=5",
+    "published_at": "2026-03-09T15:06:15.000Z",
+    "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPY19hSGpKcVN4MXZDdzFlZUZSLTM0TTEtSkxjTTR5WnRWVl9QSHZ1U1ZHMTBnMHBCUVRkTVBCUF9wWWYtSEtfVG9fRGZsYTRHa0JiVWc5YXhiQ2ZKOG5uSElBZk5XaEthODF6QWZSdVF6SlhMR042Y1VLbi1qYUt1RjVPWm1ta24yVjVwWmFmcHBMeWRDZEFNTHAzMEV0VHg0eHBfUENfZktOVGIxMVl1TElKM1F3UjIwSUNRUDJVU09EUQ?oc=5",
+    "full_excerpt_optional": null,
+    "category": [
+      "Project Finance"
+    ],
+    "region": [
+      "Global",
+      "Global"
+    ],
+    "issuer_type": [
+      "Project"
+    ],
+    "market_tags": [
+      "project finance"
+    ],
+    "featured": false,
+    "relevance_score": 48,
+    "cbgm_relevance_reason": "Project and infrastructure finance opportunities are strategically important to CBGM.",
+    "image_url_optional": null,
+    "source_type_optional": "google_news",
+    "fetched_at_optional": "2026-03-16T22:17:45.780Z"
+  },
+  {
     "id": "feed-f588dea92b0333",
     "title": "Soaring Credit Risk Pushes Borrowers to Keep Delaying Bond Sales - Bloomberg.com",
     "source_name": "Google News - Bond Issuance",
@@ -4201,6 +5157,35 @@
     "image_url_optional": null,
     "source_type_optional": "google_news",
     "fetched_at_optional": "2026-03-13T21:44:47.424Z"
+  },
+  {
+    "id": "feed-4b5c9571eb0caf",
+    "title": "Crypto Regulation Bill in Jeopardy as Trump Ultimatum and Bank Fight Stall Progress - Barron's",
+    "source_name": "Google News - Market Structure Regulation",
+    "source_url": "https://news.google.com/rss/search?q=capital+markets+regulation+market+structure+when:14d&hl=en-US&gl=US&ceid=US:en",
+    "article_url": "https://news.google.com/rss/articles/CBMiiwNBVV95cUxNc19SbTlqZnk3NlFZcmFHUVZPSmJfUE05TzhwalljOXRKOHhCeDNzQ2E5NHNKWUxRYlFDNnBkZWhRQUEwN0RGRnBSbWlqWnFIYzV5Q2tocVNCMXp5bnhlb0FLOWtaVWl0M1Y4NV8yUjZjQTRURUdIY01CN1ZWTzhiM3AwbFR3YjNCamVCSjNEM0hFcENaLTJZYnVMN0oxcWVfLTZSeU4weG4xdzVCLTNnd3hUUUxYMVNaYTA5Q1Jvbmc4ckoxU1BBdlpBWFFfaE5vRFRyLVBqUTljVlVDLXZ2Y3pfSjI1Z2RoaXdaTFRFWXlRcnFXWDBCMGdEOU43TUpxZzBPYmR1OTVnWEhiZEF5QXJ3NnVjUmFLX001WkZmaUtKdU9TR2hiN1RSUXZoS05FcVNySjBNUkp3ZzZDSElvUVJBRjRSZGdVRXZYdnk3RDdPNjNWVzZyaHVVMGNuSVJmenN5b1pTdUdhYWdoR1NiVGE0TVRDRlNmbDBLUTlabDdTWGpwaDU4dWxSVQ?oc=5",
+    "published_at": "2026-03-09T14:45:00.000Z",
+    "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiwNBVV95cUxNc19SbTlqZnk3NlFZcmFHUVZPSmJfUE05TzhwalljOXRKOHhCeDNzQ2E5NHNKWUxRYlFDNnBkZWhRQUEwN0RGRnBSbWlqWnFIYzV5Q2tocVNCMXp5bnhlb0FLOWtaVWl0M1Y4NV8yUjZjQTRURUdIY01CN1ZWTzhiM3AwbFR3YjNCamVCSjNEM0hFcENaLTJZYnVMN0oxcWVfLTZSeU4weG4xdzVCLTNnd3hUUUxYMVNaYTA5Q1Jvbmc4ckoxU1B",
+    "full_excerpt_optional": null,
+    "category": [
+      "Regulation"
+    ],
+    "region": [
+      "Global",
+      "Global"
+    ],
+    "issuer_type": [
+      "Corporate"
+    ],
+    "market_tags": [
+      "market transparency"
+    ],
+    "featured": false,
+    "relevance_score": 44,
+    "cbgm_relevance_reason": "Regulatory change influences issuance pathways, transparency, and deal execution.",
+    "image_url_optional": null,
+    "source_type_optional": "google_news",
+    "fetched_at_optional": "2026-03-16T22:17:45.780Z"
   },
   {
     "id": "feed-55aab832e18929",
@@ -4612,6 +5597,35 @@
     "fetched_at_optional": "2026-03-16T07:57:38.792Z"
   },
   {
+    "id": "feed-f8ac30468d6106",
+    "title": "Oak HC/FT Raises Nearly $2 Billion for Latest Healthcare, Fintech Fund - WSJ",
+    "source_name": "Google News - Fintech Funding",
+    "source_url": "https://news.google.com/rss/search?q=fintech+funding+when:14d&hl=en-US&gl=US&ceid=US:en",
+    "article_url": "https://news.google.com/rss/articles/CBMirwNBVV95cUxNNFNpLU5ONlZLMmNNUTJmY0diMEFSRkxOamRQREZMOGxmV29GRGhWZ215T0txOUdnd1hnbk9LVnFXdWN2SW5ZUk5OUVV3Mko5SDBwTzctMGlIbEM0QjJvWDRxT1Z4Rk5GYi1xTV9HSjBMZ0RZaHFrQ3dkVXgtLW41SnBLQXp0bG9ZSTdFbnZCcXVQcE5DNnJoVkpWOENielJHTjZGQ3FPMGtpOXFXcUZmc2haRUNCRFltZE5qWEtTOEl4ZVI0RGRJaUJzUC1RSnhDUzdiNkhRSmcxM1Y4dkdBM0owUk5qdDM2Y2QxVzgyT0hyeW1NRTZmbmZaWFJpUjVzMTF3cGNZWC16LW43cG1BNjU1MVJlaUdNZjJUa01VeEFLSEVnR3lYeHBUa3p6dUhCT2FZOEo3UUVsbEplVlJVVXZFUDlSNmtHOFlmand3LUZqSmdJNE15eWFjazJlekFYVkNEdjgwbUVIY0RSVWg5ZERBUXY1Q2owYk42NVlUSmFjcVJKQ3BIOVZFTDBGQWRsb2Jyb0NPZzFOQmI2aDNLWENTTEM1RXo2VnM4Y2ltdw?oc=5",
+    "published_at": "2026-03-09T10:00:00.000Z",
+    "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMirwNBVV95cUxNNFNpLU5ONlZLMmNNUTJmY0diMEFSRkxOamRQREZMOGxmV29GRGhWZ215T0txOUdnd1hnbk9LVnFXdWN2SW5ZUk5OUVV3Mko5SDBwTzctMGlIbEM0QjJvWDRxT1Z4Rk5GYi1xTV9HSjBMZ0RZaHFrQ3dkVXgtLW41SnBLQXp0bG9ZSTdFbnZCcXVQcE5DNnJoVkpWOENielJHTjZGQ3FPMGtpOXFXcUZmc2haRUNCRFltZE5qWEtTOEl4ZVI0RGR",
+    "full_excerpt_optional": null,
+    "category": [
+      "Fintech"
+    ],
+    "region": [
+      "Global",
+      "Global"
+    ],
+    "issuer_type": [
+      "Corporate"
+    ],
+    "market_tags": [
+      "issuance infrastructure"
+    ],
+    "featured": false,
+    "relevance_score": 47,
+    "cbgm_relevance_reason": "Fintech and market infrastructure developments can improve issuance and distribution capabilities.",
+    "image_url_optional": null,
+    "source_type_optional": "google_news",
+    "fetched_at_optional": "2026-03-16T22:17:45.780Z"
+  },
+  {
     "id": "feed-fb2343b51f1d05",
     "title": "Oak HC/FT Raises Nearly $2 Billion for Latest Healthcare, Fintech Fund - WSJ",
     "source_name": "Google News - Fintech Funding",
@@ -4842,6 +5856,35 @@
     "image_url_optional": null,
     "source_type_optional": "google_news",
     "fetched_at_optional": "2026-03-13T21:44:47.424Z"
+  },
+  {
+    "id": "feed-4743a650953aa4",
+    "title": "Emerging Markets Have Become a Fixed-Income Darling. The War in Iran Could Change That. - Barron's",
+    "source_name": "Google News - Emerging Markets Debt",
+    "source_url": "https://news.google.com/rss/search?q=emerging+markets+debt+issuance+when:14d&hl=en-US&gl=US&ceid=US:en",
+    "article_url": "https://news.google.com/rss/articles/CBMiywNBVV95cUxOM3M1ME5fR3FZRUZnZDJVZUlabWJIdWFnVV81dWMxMGlHdEtBQjVVTXJFWXB1MVhudERyX19tLXZsS3dPdUx1VnBkSHdtbWZVNWdELVdLdnNHNDNUcGxNR2lRRmUxb0Z4NHdmRlNYR3FsRUJOeG5XMldZNlRFUENzRGZaZHd2VzlyTGF0YW1qQUdQSlNDQ3JLci1mWTRBUFlsclA5cVZzRlM5SXZhNDRheVh6TVMwZFAydmRjMnR0QjNwTGw3eFBWRTlLem1Nenl2ZFdhcmFRZlJRZm9VLXFwOVJjdHh0QUJsV3NnR0djVXU4NHF4Y1JSYUw5X0ZTZTVWTjNfNUhYTnkzSXRQeVJrZGdvQktjUDh3ZzlrZ3hadUgxZGxWcVZ5SWcyVENMeE1sWGJ0a3JFTnhRNjIycXY0M1IzS0ZlbnFxcHduaEpTZlp6Unp4dUx1X2trcG1NNXNpZVVLUHl6bVFlZWtrRklseWJnWlpud2ljaTZfMk5VVlBTZGhEVnMzazA3bm5ob3hjYnVwVUZINDRGbUxYWFhQMkN2MUVxV1czT3pZU1EzQjdDUGs2VGhFZnZISm9TMGZRd1UtTVgyYmFLSlE?oc=5",
+    "published_at": "2026-03-09T08:00:00.000Z",
+    "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiywNBVV95cUxOM3M1ME5fR3FZRUZnZDJVZUlabWJIdWFnVV81dWMxMGlHdEtBQjVVTXJFWXB1MVhudERyX19tLXZsS3dPdUx1VnBkSHdtbWZVNWdELVdLdnNHNDNUcGxNR2lRRmUxb0Z4NHdmRlNYR3FsRUJOeG5XMldZNlRFUENzRGZaZHd2VzlyTGF0YW1qQUdQSlNDQ3JLci1mWTRBUFlsclA5cVZzRlM5SXZhNDRheVh6TVMwZFAydmRjMnR0QjNwTGw3eFB",
+    "full_excerpt_optional": null,
+    "category": [
+      "Emerging Markets"
+    ],
+    "region": [
+      "Global",
+      "Global"
+    ],
+    "issuer_type": [
+      "Multilateral"
+    ],
+    "market_tags": [
+      "cross-border financing"
+    ],
+    "featured": false,
+    "relevance_score": 47,
+    "cbgm_relevance_reason": "Emerging market capital access and cross-border financing are core CBGM themes.",
+    "image_url_optional": null,
+    "source_type_optional": "google_news",
+    "fetched_at_optional": "2026-03-16T22:17:45.780Z"
   },
   {
     "id": "feed-ee81e51ac4c66a",
@@ -5748,6 +6791,35 @@
     "fetched_at_optional": "2026-03-13T21:44:47.424Z"
   },
   {
+    "id": "feed-0bd47fcadc115d",
+    "title": "The Admiral Industrial Wastewater Treatment &amp; Reuse Project secures $500 million in project financing - BeBeez International",
+    "source_name": "Google News - Project Finance",
+    "source_url": "https://news.google.com/rss/search?q=project+finance+infrastructure+when:14d&hl=en-US&gl=US&ceid=US:en",
+    "article_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQM2VnNHN1SlJLZWtIUXVXa0pLQzdFY2J6M2Q5eTN5eDVmUFA2VkVxdzF0VkktenY4eG1CZTB6T0dhaUV6TGNRX21mYjBNNVNPUnNoRzFvaC1TTzEyR1AyMkYtOENMU194S3ZnMER1QUVnREE5S1pLSU1pSWtoQ2Z5TkNnU21EM0k2WmZhVDViSm1hS2JmaVFCMEpnOThEb2JyN1ctaGtGSGpJSzlmU2EwOTFDTmx0YVFMdjRZVEhTSDI2SGZ4Y1Mw?oc=5",
+    "published_at": "2026-03-06T09:18:57.000Z",
+    "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQM2VnNHN1SlJLZWtIUXVXa0pLQzdFY2J6M2Q5eTN5eDVmUFA2VkVxdzF0VkktenY4eG1CZTB6T0dhaUV6TGNRX21mYjBNNVNPUnNoRzFvaC1TTzEyR1AyMkYtOENMU194S3ZnMER1QUVnREE5S1pLSU1pSWtoQ2Z5TkNnU21EM0k2WmZhVDViSm1hS2JmaVFCMEpnOThEb2JyN1ctaGtGSGpJSzlmU2EwOTFDTmx0YVFMdjRZVEhTSDI2SGZ4Y1M",
+    "full_excerpt_optional": null,
+    "category": [
+      "Market Infrastructure"
+    ],
+    "region": [
+      "Global",
+      "Global"
+    ],
+    "issuer_type": [
+      "Corporate"
+    ],
+    "market_tags": [
+      "market transparency"
+    ],
+    "featured": false,
+    "relevance_score": 35,
+    "cbgm_relevance_reason": "Market infrastructure and transparency developments remain relevant to CBGM execution strategy.",
+    "image_url_optional": null,
+    "source_type_optional": "google_news",
+    "fetched_at_optional": "2026-03-16T22:17:45.780Z"
+  },
+  {
     "id": "feed-6c11cd6798b964",
     "title": "Financial Services Roundup: Market Talk - WSJ",
     "source_name": "Google News - Bond Issuance",
@@ -6391,6 +7463,35 @@
     "fetched_at_optional": "2026-03-13T21:44:47.424Z"
   },
   {
+    "id": "feed-267f79b8590d0d",
+    "title": "Avantus Closes Over $300 Million in Construction Financing With BBVA and CIBC - citybiz",
+    "source_name": "Google News - Project Finance",
+    "source_url": "https://news.google.com/rss/search?q=project+finance+infrastructure+when:14d&hl=en-US&gl=US&ceid=US:en",
+    "article_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPY2lRbUpsSkhpVzlQdzI5bXQ1X29XT0JpYkpYNnhLLTNYNURxMmtRdk9mbVFNLTg3cHc2a2IwT1E4VDFiU0IwdTZRalNkN3Q1SmM0OWFWWE0td3dIUmZVSS01c0M2ZmZ0SGo5S3BYTUlJV05RYlREeDB6T3ZhcXY2YnNLVTNVM3ZhNHd1R2ZSVHhuYnJkQk9ZM0pibXJWMDlTUjRmX2J4bl9FTWV3bWFOQVNSa0lmZw?oc=5",
+    "published_at": "2026-03-05T11:46:19.000Z",
+    "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPY2lRbUpsSkhpVzlQdzI5bXQ1X29XT0JpYkpYNnhLLTNYNURxMmtRdk9mbVFNLTg3cHc2a2IwT1E4VDFiU0IwdTZRalNkN3Q1SmM0OWFWWE0td3dIUmZVSS01c0M2ZmZ0SGo5S3BYTUlJV05RYlREeDB6T3ZhcXY2YnNLVTNVM3ZhNHd1R2ZSVHhuYnJkQk9ZM0pibXJWMDlTUjRmX2J4bl9FTWV3bWFOQVNSa0lmZw?oc=5\" target=\"_blank",
+    "full_excerpt_optional": null,
+    "category": [
+      "Market Infrastructure"
+    ],
+    "region": [
+      "Global",
+      "Global"
+    ],
+    "issuer_type": [
+      "Corporate"
+    ],
+    "market_tags": [
+      "market transparency"
+    ],
+    "featured": false,
+    "relevance_score": 35,
+    "cbgm_relevance_reason": "Market infrastructure and transparency developments remain relevant to CBGM execution strategy.",
+    "image_url_optional": null,
+    "source_type_optional": "google_news",
+    "fetched_at_optional": "2026-03-16T22:17:45.780Z"
+  },
+  {
     "id": "feed-446bc9e0b284cd",
     "title": "Avantus: $300 Million Construction Financing Secured For Arizona Solar And Energy Storage Project - Pulse 2.0",
     "source_name": "Google News - Project Finance",
@@ -6420,6 +7521,38 @@
     "fetched_at_optional": "2026-03-13T21:44:47.424Z"
   },
   {
+    "id": "feed-d1a5e4f076e9f7",
+    "title": "Dutch paytech Silverflow bags $40m Series B funding - FinTech Futures",
+    "source_name": "Google News - Fintech Funding",
+    "source_url": "https://news.google.com/rss/search?q=fintech+funding+when:14d&hl=en-US&gl=US&ceid=US:en",
+    "article_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNclppb1JhVU8ySDlEREx6OVAxQWZyMVNncGhTUnZ3anMxcGlzWFpqYnhIVzlrZnd0TVJsaXVaMkxwMUx4YWs0X3lfUmxDTzQ3YlhnZWQ1ME5jVFEyT21QbmU3SE1na1lvQzFad1NSS3ZfWmtSSFlCaldkUGJoSlFSYzRBVXdITzdlZnRnY19Dbk85cmo5cTh3TGhmYl8wZw?oc=5",
+    "published_at": "2026-03-05T10:05:32.000Z",
+    "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNclppb1JhVU8ySDlEREx6OVAxQWZyMVNncGhTUnZ3anMxcGlzWFpqYnhIVzlrZnd0TVJsaXVaMkxwMUx4YWs0X3lfUmxDTzQ3YlhnZWQ1ME5jVFEyT21QbmU3SE1na1lvQzFad1NSS3ZfWmtSSFlCaldkUGJoSlFSYzRBVXdITzdlZnRnY19Dbk85cmo5cTh3TGhmYl8wZw?oc=5\" target=\"_blank\"&gt;Dutch paytech Silverflow ba",
+    "full_excerpt_optional": null,
+    "category": [
+      "Fintech",
+      "Early-Stage Funding"
+    ],
+    "region": [
+      "Global",
+      "Global"
+    ],
+    "issuer_type": [
+      "Corporate",
+      "Startup"
+    ],
+    "market_tags": [
+      "issuance infrastructure",
+      "capital formation"
+    ],
+    "featured": false,
+    "relevance_score": 59,
+    "cbgm_relevance_reason": "Fintech and market infrastructure developments can improve issuance and distribution capabilities.",
+    "image_url_optional": null,
+    "source_type_optional": "google_news",
+    "fetched_at_optional": "2026-03-16T22:17:45.780Z"
+  },
+  {
     "id": "feed-243c923716d461",
     "title": "AlbaCore Capital Group and Mitsubishi UFJ Financial Group Announce Infrastructure Debt Platform - Business Wire",
     "source_name": "Google News - Project Finance",
@@ -6447,6 +7580,35 @@
     "image_url_optional": null,
     "source_type_optional": "google_news",
     "fetched_at_optional": "2026-03-13T21:44:47.424Z"
+  },
+  {
+    "id": "feed-27528ac0127edf",
+    "title": "Analysis-Down but not out: Emerging markets could endure Middle East shocks, investors say - whbl.com",
+    "source_name": "Google News - Emerging Markets Debt",
+    "source_url": "https://news.google.com/rss/search?q=emerging+markets+debt+issuance+when:14d&hl=en-US&gl=US&ceid=US:en",
+    "article_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSGRZcV9FNV9LNTdtY21VdGxzekpUWVNPN2tDWl8wMUxOTVRfenYwUkZpdUlLNXlGclduQkZIZ2VmUXMtRU1LblN4OVd0OXRucC16bWJuSXpyTGxwdllIaUhnZE1tajVVVkVGNlRqdjBHVC15ZWcwVFZ5cGlidXhORmwzUnJnWDJtVE1qZnNUQWhCak1mZENXQ0M2SF82RHJhZHdSM0liVTN2UURQV0dqajR5S0RFWW85?oc=5",
+    "published_at": "2026-03-05T08:00:00.000Z",
+    "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSGRZcV9FNV9LNTdtY21VdGxzekpUWVNPN2tDWl8wMUxOTVRfenYwUkZpdUlLNXlGclduQkZIZ2VmUXMtRU1LblN4OVd0OXRucC16bWJuSXpyTGxwdllIaUhnZE1tajVVVkVGNlRqdjBHVC15ZWcwVFZ5cGlidXhORmwzUnJnWDJtVE1qZnNUQWhCak1mZENXQ0M2SF82RHJhZHdSM0liVTN2UURQV0dqajR5S0RFWW85?oc=5\" target=\"_bla",
+    "full_excerpt_optional": null,
+    "category": [
+      "Emerging Markets"
+    ],
+    "region": [
+      "Middle East",
+      "Global"
+    ],
+    "issuer_type": [
+      "Multilateral"
+    ],
+    "market_tags": [
+      "cross-border financing"
+    ],
+    "featured": false,
+    "relevance_score": 47,
+    "cbgm_relevance_reason": "Emerging market capital access and cross-border financing are core CBGM themes.",
+    "image_url_optional": null,
+    "source_type_optional": "google_news",
+    "fetched_at_optional": "2026-03-16T22:17:45.780Z"
   },
   {
     "id": "feed-52493d199206a0",
