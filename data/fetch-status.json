@@ -13,10 +13,10 @@
     {
       "source": "Google News - Project Finance",
       "url": "https://news.google.com/rss/search?q=project+finance+infrastructure+when:14d&hl=en-US&gl=US&ceid=US:en",
-      "status": "ok",
-      "scanned": 25,
-      "added": 25,
-      "message": "Fetched and parsed successfully."
+      "status": "error",
+      "scanned": 0,
+      "added": 0,
+      "message": "fetch failed"
     },
     {
       "source": "Google News - Emerging Markets Debt",
