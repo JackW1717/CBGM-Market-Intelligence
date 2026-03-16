@@ -1,0 +1,16 @@
+{
+  "as_of": "2026-03-13T13:00:00Z",
+  "indices": [
+    { "name": "S&P 500", "value": 5218.19, "change_pct": 0.42 },
+    { "name": "Nasdaq 100", "value": 18344.73, "change_pct": 0.67 },
+    { "name": "Dow Jones", "value": 39248.55, "change_pct": 0.18 },
+    { "name": "Russell 2000", "value": 2078.31, "change_pct": -0.23 }
+  ],
+  "us_yield_curve": [
+    { "tenor": "3M", "yield_pct": 5.33 },
+    { "tenor": "2Y", "yield_pct": 4.68 },
+    { "tenor": "5Y", "yield_pct": 4.26 },
+    { "tenor": "10Y", "yield_pct": 4.21 },
+    { "tenor": "30Y", "yield_pct": 4.36 }
+  ]
+}

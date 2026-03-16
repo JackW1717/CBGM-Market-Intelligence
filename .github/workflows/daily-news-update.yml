@@ -1,0 +1,75 @@
+name: Daily news update
+
+on:
+  schedule:
+    - cron: '0 12 * * *'
+  workflow_dispatch:
+
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  update-news:
+    runs-on: ubuntu-latest
+    outputs:
+      changed: ${{ steps.commit_changes.outputs.changed }}
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 22
+      - run: npm install
+      - run: npm run fetch:news
+
+      - name: Upload fetch diagnostics
+        uses: actions/upload-artifact@v4
+        with:
+          name: fetch-status
+          path: data/fetch-status.json
+
+      - name: Commit updates if changed
+        id: commit_changes
+        run: |
+          if git diff --quiet; then
+            echo "No changes to commit"
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/articles.json
+          git commit -m "chore: daily market intelligence feed refresh"
+          git push
+          echo "changed=true" >> "$GITHUB_OUTPUT"
+
+  deploy-if-updated:
+    if: needs.update-news.outputs.changed == 'true'
+    needs: update-news
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 22
+      - run: npm install
+      - run: npm run build
+      - run: touch dist/.nojekyll
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+      - id: deployment
+        uses: actions/deploy-pages@v4
