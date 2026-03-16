@@ -8,7 +8,7 @@ npm run fetch:news
 
 ## Add a new source
 1. Edit `data/sources.json`
-2. Add `{ "name", "url", "type", "rss": true|false }` (`false` = tracking-only source)
+2. Add `{ "name", "url", "type", "rss": true }`
 3. Run `npm run fetch:news`
 
 ## Add or edit articles manually
@@ -28,7 +28,6 @@ npm run fetch:news
 
 
 ## Debug empty updates
-- Open the latest **Daily news update** run in Actions
-- Download the `fetch-status` artifact
+- Open `data/fetch-status.json` after a run
 - Check which sources succeeded/failed and how many articles were added
 - Replace consistently failing sources in `data/sources.json`

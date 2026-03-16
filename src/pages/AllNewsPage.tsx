@@ -7,7 +7,7 @@ const PAGE_SIZE = 9;
 
 export function AllNewsPage() {
   const [query, setQuery] = useState('');
-  const [selectedCategories, setSelectedCategories] = useState<string[]>([]);
+  const [selectedCategory, setSelectedCategory] = useState('');
   const [selectedRegion, setSelectedRegion] = useState('');
   const [selectedIssuer, setSelectedIssuer] = useState('');
   const [selectedMarketTag, setSelectedMarketTag] = useState('');
@@ -18,15 +18,10 @@ export function AllNewsPage() {
   const issuerOptions = useMemo(() => [...new Set(articles.flatMap((a) => a.issuer_type))].sort(), []);
   const marketTagOptions = useMemo(() => [...new Set(articles.flatMap((a) => a.market_tags))].sort(), []);
 
-  const toggleCategory = (cat: string) => {
-    setSelectedCategories((prev) => (prev.includes(cat) ? prev.filter((x) => x !== cat) : [...prev, cat]));
-    setPage(1);
-  };
-
   const filtered = useMemo(() => {
     const now = Date.now();
     return articles.filter((a) => {
-      if (selectedCategories.length > 0 && !selectedCategories.some((cat) => a.category.includes(cat as never))) return false;
+      if (selectedCategory && !a.category.includes(selectedCategory as never)) return false;
       if (selectedRegion && !a.region.includes(selectedRegion as never)) return false;
       if (selectedIssuer && !a.issuer_type.includes(selectedIssuer)) return false;
       if (selectedMarketTag && !a.market_tags.includes(selectedMarketTag)) return false;
@@ -38,7 +33,7 @@ export function AllNewsPage() {
       const blob = `${a.title} ${a.summary} ${a.market_tags.join(' ')} ${a.issuer_type.join(' ')}`.toLowerCase();
       return blob.includes(query.toLowerCase());
     });
-  }, [query, selectedCategories, selectedRegion, selectedIssuer, selectedMarketTag, featuredOnly, recencyDays]);
+  }, [query, selectedCategory, selectedRegion, selectedIssuer, selectedMarketTag, featuredOnly, recencyDays]);
 
   const shown = filtered.slice(0, page * PAGE_SIZE);
 
@@ -48,8 +43,8 @@ export function AllNewsPage() {
       <FilterBar
         query={query}
         setQuery={setQuery}
-        selectedCategories={selectedCategories}
-        toggleCategory={toggleCategory}
+        selectedCategory={selectedCategory}
+        setSelectedCategory={setSelectedCategory}
         selectedRegion={selectedRegion}
         setSelectedRegion={setSelectedRegion}
         selectedIssuer={selectedIssuer}

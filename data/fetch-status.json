@@ -1,14 +1,14 @@
 {
-  "fetched_at": "2026-03-13T21:39:37.455Z",
-  "total_added": 0,
+  "fetched_at": "2026-03-13T21:44:47.424Z",
+  "total_added": 234,
   "sources": [
     {
       "source": "Google News - Fintech Funding",
       "url": "https://news.google.com/rss/search?q=fintech+funding+when:14d&hl=en-US&gl=US&ceid=US:en",
-      "status": "error",
-      "scanned": 0,
-      "added": 0,
-      "message": "fetch failed"
+      "status": "ok",
+      "scanned": 25,
+      "added": 25,
+      "message": "Fetched and parsed successfully."
     },
     {
       "source": "Google News - Project Finance",
@@ -21,58 +21,58 @@
     {
       "source": "Google News - Emerging Markets Debt",
       "url": "https://news.google.com/rss/search?q=emerging+markets+debt+issuance+when:14d&hl=en-US&gl=US&ceid=US:en",
-      "status": "error",
-      "scanned": 0,
-      "added": 0,
-      "message": "fetch failed"
+      "status": "ok",
+      "scanned": 25,
+      "added": 25,
+      "message": "Fetched and parsed successfully."
     },
     {
       "source": "Google News - Bond Issuance",
       "url": "https://news.google.com/rss/search?q=bond+issuance+primary+market+when:14d&hl=en-US&gl=US&ceid=US:en",
-      "status": "error",
-      "scanned": 0,
-      "added": 0,
-      "message": "fetch failed"
+      "status": "ok",
+      "scanned": 25,
+      "added": 24,
+      "message": "Fetched and parsed successfully."
     },
     {
       "source": "Google News - Market Structure Regulation",
       "url": "https://news.google.com/rss/search?q=capital+markets+regulation+market+structure+when:14d&hl=en-US&gl=US&ceid=US:en",
-      "status": "error",
-      "scanned": 0,
-      "added": 0,
-      "message": "fetch failed"
+      "status": "ok",
+      "scanned": 25,
+      "added": 25,
+      "message": "Fetched and parsed successfully."
     },
     {
       "source": "SEC Press Releases",
       "url": "https://www.sec.gov/news/pressreleases.rss",
-      "status": "error",
-      "scanned": 0,
-      "added": 0,
-      "message": "fetch failed"
+      "status": "ok",
+      "scanned": 25,
+      "added": 25,
+      "message": "Fetched and parsed successfully."
     },
     {
       "source": "Federal Reserve Press Releases",
       "url": "https://www.federalreserve.gov/feeds/press_all.xml",
-      "status": "error",
-      "scanned": 0,
-      "added": 0,
-      "message": "fetch failed"
+      "status": "ok",
+      "scanned": 20,
+      "added": 20,
+      "message": "Fetched and parsed successfully."
     },
     {
       "source": "FCA News",
       "url": "https://www.fca.org.uk/news/rss.xml",
-      "status": "error",
-      "scanned": 0,
-      "added": 0,
-      "message": "fetch failed"
+      "status": "ok",
+      "scanned": 20,
+      "added": 20,
+      "message": "Fetched and parsed successfully."
     },
     {
       "source": "MAS News",
       "url": "https://www.mas.gov.sg/news/media-releases/rss",
-      "status": "error",
+      "status": "ok",
       "scanned": 0,
       "added": 0,
-      "message": "fetch failed"
+      "message": "Fetched and parsed successfully."
     },
     {
       "source": "BIS Speeches",
@@ -80,23 +80,23 @@
       "status": "error",
       "scanned": 0,
       "added": 0,
-      "message": "fetch failed | cause: connect ENETUNREACH 185.58.128.7:443 - Local (0.0.0.0:0)"
+      "message": "404 Not Found"
     },
     {
       "source": "IMF News",
       "url": "https://www.imf.org/en/News/RSS",
-      "status": "error",
+      "status": "ok",
       "scanned": 0,
       "added": 0,
-      "message": "fetch failed"
+      "message": "Fetched and parsed successfully."
     },
     {
       "source": "World Bank News",
       "url": "https://www.worldbank.org/en/news/all?format=rss",
-      "status": "error",
+      "status": "ok",
       "scanned": 0,
       "added": 0,
-      "message": "fetch failed"
+      "message": "Fetched and parsed successfully."
     },
     {
       "source": "African Development Bank News",
@@ -104,7 +104,7 @@
       "status": "error",
       "scanned": 0,
       "added": 0,
-      "message": "fetch failed"
+      "message": "403 Forbidden"
     },
     {
       "source": "Inter-American Development Bank News",
@@ -112,23 +112,23 @@
       "status": "error",
       "scanned": 0,
       "added": 0,
-      "message": "fetch failed"
+      "message": "404 Not Found"
     },
     {
       "source": "TechCrunch Fintech",
       "url": "https://techcrunch.com/category/fintech/feed/",
-      "status": "error",
-      "scanned": 0,
-      "added": 0,
-      "message": "fetch failed"
+      "status": "ok",
+      "scanned": 20,
+      "added": 20,
+      "message": "Fetched and parsed successfully."
     },
     {
       "source": "Finextra",
       "url": "https://www.finextra.com/rss/headlines.aspx",
-      "status": "error",
-      "scanned": 0,
-      "added": 0,
-      "message": "fetch failed"
+      "status": "ok",
+      "scanned": 25,
+      "added": 25,
+      "message": "Fetched and parsed successfully."
     },
     {
       "source": "SIFMA News",
@@ -136,7 +136,7 @@
       "status": "error",
       "scanned": 0,
       "added": 0,
-      "message": "fetch failed"
+      "message": "404 Not Found"
     },
     {
       "source": "Climate Bonds Initiative News",
@@ -144,7 +144,7 @@
       "status": "error",
       "scanned": 0,
       "added": 0,
-      "message": "fetch failed"
+      "message": "404 Not Found"
     }
   ]
 }
