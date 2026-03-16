@@ -20,6 +20,15 @@ export function HomePage() {
 
   const featured = sorted.filter((a) => a.featured).slice(0, 3);
   const latest = sorted.slice(0, 4);
+import { Link } from 'react-router-dom';
+import { ArticleCard } from '../components/ArticleCard';
+import { CategoryChart } from '../components/CategoryChart';
+import { articles, sources } from '../lib/data';
+import { categories, regions } from '../lib/constants';
+
+export function HomePage() {
+  const featured = articles.filter((a) => a.featured).slice(0, 3);
+  const latest = articles.slice(0, 4);
   const relevant = [...articles].sort((a, b) => b.relevance_score - a.relevance_score).slice(0, 4);
 
   const counts = categories.reduce<Record<string, number>>((acc, cat) => {
@@ -35,6 +44,7 @@ export function HomePage() {
       <div className="space-y-6">
         <section className="rounded-xl bg-gradient-to-r from-navy to-slateBlue p-8 text-white">
           <h1 className="text-3xl font-bold">Our Market News</h1>
+          <h1 className="text-3xl font-bold">CBGM Market Intelligence Hub</h1>
           <p className="mt-2 max-w-3xl text-slate-100">
             Real article mode is enabled. Run the Daily news update workflow once to populate the repository.
           </p>
@@ -90,6 +100,17 @@ export function HomePage() {
           </div>
         </div>
       </section>
+        <h1 className="text-3xl font-bold">CBGM Market Intelligence Hub</h1>
+        <p className="mt-2 max-w-3xl text-slate-100">
+          Tracks funding activity, bond market developments, market structure, and strategic news relevant to ClearBid Global Markets.
+        </p>
+        <div className="mt-4 flex gap-3">
+          <Link to="/news" className="rounded bg-white px-4 py-2 text-sm font-semibold text-navy">Explore All News</Link>
+          <span className="rounded border border-white px-4 py-2 text-sm">Track the market intelligently</span>
+        </div>
+      </section>
+
+      <CategoryChart counts={counts} />
 
       <section>
         <h2 className="mb-3 text-xl font-semibold text-navy">Featured Stories</h2>
