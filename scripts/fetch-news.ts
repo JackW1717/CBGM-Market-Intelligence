@@ -156,6 +156,18 @@ async function main() {
   const created: Article[] = [];
   const sourceStatuses: SourceStatus[] = [];
 
+  for (const source of sources) {
+    if (!source.rss) {
+      sourceStatuses.push({
+        source: source.name,
+        url: source.url,
+        status: 'skipped',
+        scanned: 0,
+        added: 0,
+        message: 'Tracking source only (no public RSS endpoint configured).',
+      });
+      continue;
+    }
   for (const source of sources.filter((candidate) => candidate.rss)) {
     try {
       const xml = await fetchText(source.url);

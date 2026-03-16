@@ -1,3 +1,4 @@
+# Our Market News (MVP)
 # Related Market News (MVP)
 
 A free, static, GitHub Pages-ready market intelligence dashboard for ClearBid Global Markets (CBGM).
@@ -38,6 +39,7 @@ npm run build
 
 ## How daily updates work
 - Workflow: `.github/workflows/daily-news-update.yml`
+- Runs daily at 7:00 AM EST (12:00 UTC) + manual dispatch
 - Runs daily + manual dispatch
 - Executes `npm run fetch:news`
 - Pulls RSS/public feeds, sanitizes/normalizes, deduplicates
@@ -82,3 +84,12 @@ That’s it — no manual base-path tweaks needed (routing uses hash-based URLs 
 ## Node 24 compatibility
 - Workflows use `actions/checkout@v5` and `actions/setup-node@v5`.
 - Workflows set `FORCE_JAVASCRIPT_ACTIONS_TO_NODE24=true` and run with Node 22 runtime for project commands.
+
+
+## URL slug note
+- Display name can be set to "Our Market News" in code/UI (already updated).
+- Actual GitHub Pages URL comes from your GitHub username/repo slug; spaces are not valid in URLs.
+
+
+## Feature checklist
+- See `docs/FEATURE_CHECKLIST.md` for a direct map of requested enhancements to code files.

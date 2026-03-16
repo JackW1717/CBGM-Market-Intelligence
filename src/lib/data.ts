@@ -1,5 +1,7 @@
 import articleData from '../../data/articles.json';
 import sourceData from '../../data/sources.json';
+import marketSnapshotData from '../../data/market-snapshot.json';
+import type { Article, MarketSnapshot, Source } from './types';
 import type { Article, Source } from './types';
 import { calculateRelevance } from './relevance';
 

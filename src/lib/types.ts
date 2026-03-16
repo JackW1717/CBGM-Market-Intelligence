@@ -49,3 +49,21 @@ export interface Source {
   type: string;
   rss: boolean;
 }
+
+
+export interface MarketIndexPoint {
+  name: string;
+  value: number;
+  change_pct: number;
+}
+
+export interface YieldPoint {
+  tenor: string;
+  yield_pct: number;
+}
+
+export interface MarketSnapshot {
+  as_of: string;
+  indices: MarketIndexPoint[];
+  us_yield_curve: YieldPoint[];
+}
