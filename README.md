@@ -1,4 +1,5 @@
 # Our Market News (MVP)
+# Related Market News (MVP)
 
 A free, static, GitHub Pages-ready market intelligence dashboard for ClearBid Global Markets (CBGM).
 
@@ -39,6 +40,7 @@ npm run build
 ## How daily updates work
 - Workflow: `.github/workflows/daily-news-update.yml`
 - Runs daily at 7:00 AM EST (12:00 UTC) + manual dispatch
+- Runs daily + manual dispatch
 - Executes `npm run fetch:news`
 - Pulls RSS/public feeds, sanitizes/normalizes, deduplicates
 - Commits `data/articles.json` only when new items exist

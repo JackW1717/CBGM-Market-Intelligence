@@ -13,6 +13,8 @@ const normalizeSummary = (value: string): string =>
 export function ArticleCard({ article }: { article: Article }) {
   const label = getRelevanceLabel(article.relevance_score);
   const cleanSummary = normalizeSummary(article.summary) || 'No summary provided by source.';
+export function ArticleCard({ article }: { article: Article }) {
+  const label = getRelevanceLabel(article.relevance_score);
 
   return (
     <article className="rounded-lg border border-slate-200 bg-white p-4 shadow-sm">
@@ -26,6 +28,8 @@ export function ArticleCard({ article }: { article: Article }) {
         </a>
       </h3>
       <p className="summary-clamp mb-3 text-sm text-slate-700">{cleanSummary}</p>
+      <h3 className="mb-2 text-lg font-semibold text-navy">{article.title}</h3>
+      <p className="mb-3 text-sm text-slate-700">{article.summary}</p>
       <div className="mb-3 flex flex-wrap gap-1 text-xs">
         {article.category.map((tag) => <span key={tag} className="rounded bg-slate-100 px-2 py-1">{tag}</span>)}
         {article.region.map((tag) => <span key={tag} className="rounded bg-blue-50 px-2 py-1">{tag}</span>)}
