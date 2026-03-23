@@ -168,7 +168,6 @@ async function main() {
       });
       continue;
     }
-  for (const source of sources.filter((candidate) => candidate.rss)) {
     try {
       const xml = await fetchText(source.url);
       const items = parseItems(xml).slice(0, 25);

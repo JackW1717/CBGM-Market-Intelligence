@@ -29,7 +29,8 @@ jobs:
       - uses: actions/setup-node@v5
         with:
           node-version: 22
-      - run: npm install
+      - run: npm ci
+      - run: npm run validate:data
       - run: npm run build
       - run: touch dist/.nojekyll
       - uses: actions/configure-pages@v5

@@ -16,7 +16,10 @@ export function Layout({ children }: PropsWithChildren) {
       <header className="border-b border-slate-200 bg-white">
         <div className="mx-auto flex max-w-7xl items-center justify-between px-4 py-4">
           <Link to="/" className="text-lg font-semibold text-navy">Our Market News</Link>
+<<<<<<< codex/build-cbgm-market-intelligence-hub-mvp-r09kkk
+=======
           <Link to="/" className="text-lg font-semibold text-navy">CBGM Market Intelligence Hub</Link>
+>>>>>>> main
           <nav className="flex flex-wrap gap-3 text-sm">
             {links.map(([path, label]) => (
               <NavLink

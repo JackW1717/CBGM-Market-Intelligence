@@ -8,7 +8,6 @@ const PAGE_SIZE = 9;
 export function AllNewsPage() {
   const [query, setQuery] = useState('');
   const [selectedCategories, setSelectedCategories] = useState<string[]>([]);
-  const [selectedCategory, setSelectedCategory] = useState('');
   const [selectedRegion, setSelectedRegion] = useState('');
   const [selectedIssuer, setSelectedIssuer] = useState('');
   const [selectedMarketTag, setSelectedMarketTag] = useState('');
@@ -19,32 +18,40 @@ export function AllNewsPage() {
   const issuerOptions = useMemo(() => [...new Set(articles.flatMap((a) => a.issuer_type))].sort(), []);
   const marketTagOptions = useMemo(() => [...new Set(articles.flatMap((a) => a.market_tags))].sort(), []);
 
-  const toggleCategory = (cat: string) => {
-    setSelectedCategories((prev) => (prev.includes(cat) ? prev.filter((x) => x !== cat) : [...prev, cat]));
+  const toggleCategory = (category: string) => {
+    setSelectedCategories((previous) =>
+      previous.includes(category) ? previous.filter((item) => item !== category) : [...previous, category],
+    );
     setPage(1);
   };
 
   const filtered = useMemo(() => {
     const now = Date.now();
-    return articles.filter((a) => {
-      if (selectedCategories.length > 0 && !selectedCategories.some((cat) => a.category.includes(cat as never))) return false;
-  const filtered = useMemo(() => {
-    const now = Date.now();
-    return articles.filter((a) => {
-      if (selectedCategory && !a.category.includes(selectedCategory as never)) return false;
-      if (selectedRegion && !a.region.includes(selectedRegion as never)) return false;
-      if (selectedIssuer && !a.issuer_type.includes(selectedIssuer)) return false;
-      if (selectedMarketTag && !a.market_tags.includes(selectedMarketTag)) return false;
-      if (featuredOnly && !a.featured) return false;
+
+    return articles.filter((article) => {
+      if (
+        selectedCategories.length > 0
+        && !selectedCategories.some((category) => article.category.includes(category))
+      ) {
+        return false;
+      }
+
+      if (selectedRegion && !article.region.includes(selectedRegion)) return false;
+      if (selectedIssuer && !article.issuer_type.includes(selectedIssuer)) return false;
+      if (selectedMarketTag && !article.market_tags.includes(selectedMarketTag)) return false;
+      if (featuredOnly && !article.featured) return false;
+
       if (recencyDays) {
-        const ageDays = (now - new Date(a.published_at).getTime()) / (1000 * 60 * 60 * 24);
+        const ageDays = (now - new Date(article.published_at).getTime()) / (1000 * 60 * 60 * 24);
         if (ageDays > Number(recencyDays)) return false;
       }
-      const blob = `${a.title} ${a.summary} ${a.market_tags.join(' ')} ${a.issuer_type.join(' ')}`.toLowerCase();
+
+      const blob = `${article.title} ${article.summary} ${article.market_tags.join(' ')} ${article.issuer_type.join(' ')}`
+        .toLowerCase();
+
       return blob.includes(query.toLowerCase());
     });
   }, [query, selectedCategories, selectedRegion, selectedIssuer, selectedMarketTag, featuredOnly, recencyDays]);
-  }, [query, selectedCategory, selectedRegion, selectedIssuer, selectedMarketTag, featuredOnly, recencyDays]);
 
   const shown = filtered.slice(0, page * PAGE_SIZE);
 
@@ -56,8 +63,6 @@ export function AllNewsPage() {
         setQuery={setQuery}
         selectedCategories={selectedCategories}
         toggleCategory={toggleCategory}
-        selectedCategory={selectedCategory}
-        setSelectedCategory={setSelectedCategory}
         selectedRegion={selectedRegion}
         setSelectedRegion={setSelectedRegion}
         selectedIssuer={selectedIssuer}
@@ -71,15 +76,25 @@ export function AllNewsPage() {
         issuerOptions={issuerOptions}
         marketTagOptions={marketTagOptions}
       />
+
       <p className="mb-3 text-sm text-slate-600">Sorted by newest · {filtered.length} stories</p>
+
       {filtered.length === 0 && (
         <div className="mb-3 rounded border border-slate-200 bg-white p-4 text-sm text-slate-700">
           No real articles yet. Run Actions → Daily news update to ingest live feed items.
         </div>
       )}
-      <div className="grid gap-4 md:grid-cols-2 xl:grid-cols-3">{shown.map((a) => <ArticleCard key={a.id} article={a} />)}</div>
+
+      <div className="grid gap-4 md:grid-cols-2 xl:grid-cols-3">
+        {shown.map((article) => (
+          <ArticleCard key={article.id} article={article} />
+        ))}
+      </div>
+
       {shown.length < filtered.length && (
-        <button className="mt-4 rounded bg-navy px-4 py-2 text-white" onClick={() => setPage((p) => p + 1)}>Load more</button>
+        <button className="mt-4 rounded bg-navy px-4 py-2 text-white" onClick={() => setPage((value) => value + 1)}>
+          Load more
+        </button>
       )}
     </div>
   );

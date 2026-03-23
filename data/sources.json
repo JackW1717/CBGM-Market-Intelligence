@@ -269,6 +269,8 @@
     "type": "multilateral",
     "rss": true
   }
+<<<<<<< codex/build-cbgm-market-intelligence-hub-mvp-r09kkk
+=======
   { "name": "Google News - Fintech Funding", "url": "https://news.google.com/rss/search?q=fintech+funding+when:14d&hl=en-US&gl=US&ceid=US:en", "type": "google_news", "rss": true },
   { "name": "Google News - Project Finance", "url": "https://news.google.com/rss/search?q=project+finance+infrastructure+when:14d&hl=en-US&gl=US&ceid=US:en", "type": "google_news", "rss": true },
   { "name": "Google News - Emerging Markets Debt", "url": "https://news.google.com/rss/search?q=emerging+markets+debt+issuance+when:14d&hl=en-US&gl=US&ceid=US:en", "type": "google_news", "rss": true },
@@ -287,4 +289,5 @@
   { "name": "Finextra", "url": "https://www.finextra.com/rss/headlines.aspx", "type": "fintech_publication", "rss": true },
   { "name": "SIFMA News", "url": "https://www.sifma.org/feed/", "type": "market_structure", "rss": true },
   { "name": "Climate Bonds Initiative News", "url": "https://www.climatebonds.net/rss.xml", "type": "project_finance_publication", "rss": true }
+>>>>>>> main
 ]

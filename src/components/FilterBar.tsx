@@ -5,8 +5,6 @@ interface FilterProps {
   setQuery: (v: string) => void;
   selectedCategories: string[];
   toggleCategory: (v: string) => void;
-  selectedCategory: string;
-  setSelectedCategory: (v: string) => void;
   selectedRegion: string;
   setSelectedRegion: (v: string) => void;
   selectedIssuer: string;
@@ -38,10 +36,6 @@ export function FilterBar(props: FilterProps) {
         </div>
       </div>
 
-      <select className="rounded border border-slate-300 px-3 py-2" value={props.selectedCategory} onChange={(e) => props.setSelectedCategory(e.target.value)}>
-        <option value="">All themes</option>
-        {categories.map((cat) => <option key={cat} value={cat}>{cat}</option>)}
-      </select>
       <select className="rounded border border-slate-300 px-3 py-2" value={props.selectedRegion} onChange={(e) => props.setSelectedRegion(e.target.value)}>
         <option value="">All regions</option>
         {regions.map((region) => <option key={region} value={region}>{region}</option>)}
