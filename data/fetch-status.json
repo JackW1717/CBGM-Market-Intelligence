@@ -1,6 +1,11 @@
 {
   "fetched_at": "2026-03-13T21:39:37.455Z",
   "total_added": 0,
+<<<<<<< codex/build-cbgm-market-intelligence-hub-mvp-r09kkk
+=======
+  "fetched_at": "2026-03-13T21:44:47.424Z",
+  "total_added": 234,
+>>>>>>> main
   "sources": [
     {
       "source": "Google News - Fintech Funding",
@@ -9,6 +14,13 @@
       "scanned": 0,
       "added": 0,
       "message": "fetch failed"
+<<<<<<< codex/build-cbgm-market-intelligence-hub-mvp-r09kkk
+=======
+      "status": "ok",
+      "scanned": 25,
+      "added": 25,
+      "message": "Fetched and parsed successfully."
+>>>>>>> main
     },
     {
       "source": "Google News - Project Finance",
@@ -25,6 +37,13 @@
       "scanned": 0,
       "added": 0,
       "message": "fetch failed"
+<<<<<<< codex/build-cbgm-market-intelligence-hub-mvp-r09kkk
+=======
+      "status": "ok",
+      "scanned": 25,
+      "added": 25,
+      "message": "Fetched and parsed successfully."
+>>>>>>> main
     },
     {
       "source": "Google News - Bond Issuance",
@@ -33,6 +52,13 @@
       "scanned": 0,
       "added": 0,
       "message": "fetch failed"
+<<<<<<< codex/build-cbgm-market-intelligence-hub-mvp-r09kkk
+=======
+      "status": "ok",
+      "scanned": 25,
+      "added": 24,
+      "message": "Fetched and parsed successfully."
+>>>>>>> main
     },
     {
       "source": "Google News - Market Structure Regulation",
@@ -41,6 +67,13 @@
       "scanned": 0,
       "added": 0,
       "message": "fetch failed"
+<<<<<<< codex/build-cbgm-market-intelligence-hub-mvp-r09kkk
+=======
+      "status": "ok",
+      "scanned": 25,
+      "added": 25,
+      "message": "Fetched and parsed successfully."
+>>>>>>> main
     },
     {
       "source": "SEC Press Releases",
@@ -49,6 +82,13 @@
       "scanned": 0,
       "added": 0,
       "message": "fetch failed"
+<<<<<<< codex/build-cbgm-market-intelligence-hub-mvp-r09kkk
+=======
+      "status": "ok",
+      "scanned": 25,
+      "added": 25,
+      "message": "Fetched and parsed successfully."
+>>>>>>> main
     },
     {
       "source": "Federal Reserve Press Releases",
@@ -57,6 +97,13 @@
       "scanned": 0,
       "added": 0,
       "message": "fetch failed"
+<<<<<<< codex/build-cbgm-market-intelligence-hub-mvp-r09kkk
+=======
+      "status": "ok",
+      "scanned": 20,
+      "added": 20,
+      "message": "Fetched and parsed successfully."
+>>>>>>> main
     },
     {
       "source": "FCA News",
@@ -65,6 +112,13 @@
       "scanned": 0,
       "added": 0,
       "message": "fetch failed"
+<<<<<<< codex/build-cbgm-market-intelligence-hub-mvp-r09kkk
+=======
+      "status": "ok",
+      "scanned": 20,
+      "added": 20,
+      "message": "Fetched and parsed successfully."
+>>>>>>> main
     },
     {
       "source": "MAS News",
@@ -73,6 +127,13 @@
       "scanned": 0,
       "added": 0,
       "message": "fetch failed"
+<<<<<<< codex/build-cbgm-market-intelligence-hub-mvp-r09kkk
+=======
+      "status": "ok",
+      "scanned": 0,
+      "added": 0,
+      "message": "Fetched and parsed successfully."
+>>>>>>> main
     },
     {
       "source": "BIS Speeches",
@@ -81,6 +142,10 @@
       "scanned": 0,
       "added": 0,
       "message": "fetch failed | cause: connect ENETUNREACH 185.58.128.7:443 - Local (0.0.0.0:0)"
+<<<<<<< codex/build-cbgm-market-intelligence-hub-mvp-r09kkk
+=======
+      "message": "404 Not Found"
+>>>>>>> main
     },
     {
       "source": "IMF News",
@@ -89,6 +154,13 @@
       "scanned": 0,
       "added": 0,
       "message": "fetch failed"
+<<<<<<< codex/build-cbgm-market-intelligence-hub-mvp-r09kkk
+=======
+      "status": "ok",
+      "scanned": 0,
+      "added": 0,
+      "message": "Fetched and parsed successfully."
+>>>>>>> main
     },
     {
       "source": "World Bank News",
@@ -97,6 +169,13 @@
       "scanned": 0,
       "added": 0,
       "message": "fetch failed"
+<<<<<<< codex/build-cbgm-market-intelligence-hub-mvp-r09kkk
+=======
+      "status": "ok",
+      "scanned": 0,
+      "added": 0,
+      "message": "Fetched and parsed successfully."
+>>>>>>> main
     },
     {
       "source": "African Development Bank News",
@@ -105,6 +184,10 @@
       "scanned": 0,
       "added": 0,
       "message": "fetch failed"
+<<<<<<< codex/build-cbgm-market-intelligence-hub-mvp-r09kkk
+=======
+      "message": "403 Forbidden"
+>>>>>>> main
     },
     {
       "source": "Inter-American Development Bank News",
@@ -113,6 +196,10 @@
       "scanned": 0,
       "added": 0,
       "message": "fetch failed"
+<<<<<<< codex/build-cbgm-market-intelligence-hub-mvp-r09kkk
+=======
+      "message": "404 Not Found"
+>>>>>>> main
     },
     {
       "source": "TechCrunch Fintech",
@@ -121,6 +208,13 @@
       "scanned": 0,
       "added": 0,
       "message": "fetch failed"
+<<<<<<< codex/build-cbgm-market-intelligence-hub-mvp-r09kkk
+=======
+      "status": "ok",
+      "scanned": 20,
+      "added": 20,
+      "message": "Fetched and parsed successfully."
+>>>>>>> main
     },
     {
       "source": "Finextra",
@@ -129,6 +223,13 @@
       "scanned": 0,
       "added": 0,
       "message": "fetch failed"
+<<<<<<< codex/build-cbgm-market-intelligence-hub-mvp-r09kkk
+=======
+      "status": "ok",
+      "scanned": 25,
+      "added": 25,
+      "message": "Fetched and parsed successfully."
+>>>>>>> main
     },
     {
       "source": "SIFMA News",
@@ -137,6 +238,10 @@
       "scanned": 0,
       "added": 0,
       "message": "fetch failed"
+<<<<<<< codex/build-cbgm-market-intelligence-hub-mvp-r09kkk
+=======
+      "message": "404 Not Found"
+>>>>>>> main
     },
     {
       "source": "Climate Bonds Initiative News",
@@ -145,6 +250,10 @@
       "scanned": 0,
       "added": 0,
       "message": "fetch failed"
+<<<<<<< codex/build-cbgm-market-intelligence-hub-mvp-r09kkk
+=======
+      "message": "404 Not Found"
+>>>>>>> main
     }
   ]
 }

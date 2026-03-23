@@ -13,6 +13,10 @@ export function SourcesPage() {
             <h2 className="font-semibold">{s.name}</h2>
             <p className="text-sm text-slate-600">Type: {s.type.replaceAll('_', ' ')}</p>
             <p className="text-xs text-slate-500">{s.rss ? 'RSS/Public feed (auto-ingested)' : 'Tracking only (manual/non-RSS)'}</p>
+<<<<<<< codex/build-cbgm-market-intelligence-hub-mvp-r09kkk
+=======
+            <p className="text-xs text-slate-500">{s.rss ? 'RSS/Public feed' : 'Public source'}</p>
+>>>>>>> main
           </a>
         ))}
       </div>
