@@ -33,6 +33,11 @@ npm run fetch:news
 - Check which sources succeeded/failed and how many articles were added
 - Replace consistently failing sources in `data/sources.json`
 
+## Daily automation behavior
+- The daily workflow no longer pushes directly to `main`.
+- When new articles are found, it opens/updates an automation PR from `automation/daily-news-update`.
+- Merge that PR when ready; deploy then runs from the normal `Deploy to GitHub Pages` workflow on `main`.
+
 ## Resolve merge conflicts on `data/articles.json`
 - Prefer resolving conflicts locally (not in the GitHub web editor) because this file changes frequently from automation.
 - Run:
