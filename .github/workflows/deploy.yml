@@ -31,9 +31,12 @@ jobs:
           node-version: 22
       - name: Install dependencies
         run: |
+          echo "Running on SHA: $GITHUB_SHA"
           if [ -f package-lock.json ]; then
+            echo "Install mode: npm ci (lockfile detected)"
             npm ci
           else
+            echo "Install mode: npm install (no lockfile found)"
             npm install
           fi
       - run: npm run validate:data
