@@ -32,3 +32,13 @@ npm run fetch:news
 - Download the `fetch-status` artifact
 - Check which sources succeeded/failed and how many articles were added
 - Replace consistently failing sources in `data/sources.json`
+
+## Resolve merge conflicts on `data/articles.json`
+- Prefer resolving conflicts locally (not in the GitHub web editor) because this file changes frequently from automation.
+- Run:
+  ```bash
+  git checkout --ours data/articles.json
+  git add data/articles.json
+  git commit
+  ```
+- If you want both sides merged manually, open the file and remove conflict markers (`<<<<<<<`, `=======`, `>>>>>>>`) before `git add`.
