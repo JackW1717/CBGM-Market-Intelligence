@@ -28,11 +28,10 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: 20
-          cache: npm
 
       - name: Install dependencies
         if: steps.gate.outputs.run_refresh == 'true' || github.event_name == 'workflow_dispatch'
-        run: npm ci
+        run: npm install
 
       - name: Refresh data
         if: steps.gate.outputs.run_refresh == 'true' || github.event_name == 'workflow_dispatch'
