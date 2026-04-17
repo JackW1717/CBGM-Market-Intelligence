@@ -18,6 +18,25 @@ function formatDateTime(value: string): string {
   }
 }
 
+
+function formatMetric(item: NewsItem): string {
+  if (item.value === undefined) return item.title;
+
+  const valueText = item.unit === "USD" ? `$${item.value.toFixed(2)}` : `${item.value.toFixed(2)}%`;
+
+  if (item.change === undefined) return valueText;
+
+  const changeText = item.unit === "USD"
+    ? `${item.change >= 0 ? "+" : ""}${item.change.toFixed(2)}`
+    : `${item.change >= 0 ? "+" : ""}${item.change.toFixed(2)}%`;
+
+  const pctText = item.changePercent !== undefined
+    ? ` (${item.changePercent >= 0 ? "+" : ""}${item.changePercent.toFixed(2)}%)`
+    : "";
+
+  return `${valueText} · ${changeText}${pctText}`;
+}
+
 function buildMarketSnapshot(items: NewsItem[]): NewsItem[] {
   const priorityPatterns: RegExp[] = [
     /2Y Treasury/i,
@@ -121,6 +140,7 @@ export default function NewsDashboard({
               <a key={item.id} href={item.url} target="_blank" rel="noreferrer" className="snapshotItem">
                 <span className="label">{item.source}</span>
                 <strong>{item.title}</strong>
+                <span className="metric">{formatMetric(item)}</span>
                 <span>{formatDateTime(item.publishedAt)}</span>
               </a>
             ))}

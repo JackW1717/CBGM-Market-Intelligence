@@ -55,7 +55,7 @@ RSS sources are listed in `src/config/sources.ts` (strictly typed to `NewsCatego
 ## Homepage UX
 
 - Last-updated timestamp based on `data/articles.json` file modification time
-- Market Snapshot panel for rates/market-data items
+- Market Snapshot panel for rates + major indices (with value/change when available)
 - Category filter chips + client-side search (title/source/summary)
 - Source/category badges and external-link indicator on each card
 - Empty-state messaging when filters return no results
@@ -85,7 +85,8 @@ cp .env.example .env.local
 
 Optional:
 
-- `FRED_API_KEY` (if absent, script falls back to official FRED CSV endpoint)
+- `FRED_API_KEY` (optional; if absent, script falls back to official FRED CSV endpoint)
+- `ALPHA_VANTAGE_API_KEY` (required for SPY/QQQ/DIA/IWM quote ingestion)
 
 ## Daily refresh workflow
 

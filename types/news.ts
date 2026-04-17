@@ -23,4 +23,9 @@ export interface NewsItem {
   summary: string;
   type: ItemType;
   region: "global" | "africa" | "us";
+  symbol?: string;
+  value?: number;
+  change?: number;
+  changePercent?: number;
+  unit?: "%" | "USD";
 }

@@ -18,6 +18,10 @@ export function validateSourcesOrThrow(sources: SourceConfig[]): void {
     if (source.type === "fred-series" && !source.api?.seriesId) {
       errors.push(`${source.name}: missing FRED seriesId`);
     }
+
+    if (source.type === "alpha-vantage" && !source.api?.symbol) {
+      errors.push(`${source.name}: missing Alpha Vantage symbol`);
+    }
   }
 
   if (errors.length > 0) {
