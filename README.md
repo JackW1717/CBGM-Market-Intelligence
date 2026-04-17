@@ -1,6 +1,6 @@
 # CBGM Market Intelligence Dashboard
 
-Simple, production-ready news dashboard built with Next.js. It ingests RSS + FRED market data once per day, stores normalized results in `data/articles.json`, and renders a fast filterable homepage.
+Simple, production-ready news dashboard built with Next.js. It ingests RSS + FRED market data once per day, stores normalized results in `data/articles.json`, and renders a fast filterable homepage. If cache is empty (for example on first deploy), the homepage fetches directly once at request time so the page still shows data.
 
 ## Stack and architecture
 
@@ -9,7 +9,7 @@ Simple, production-ready news dashboard built with Next.js. It ingests RSS + FRE
 - **Storage:** single JSON cache file (`data/articles.json`)
 - **Scheduler:** GitHub Actions workflow at 7:00 AM America/New_York (DST-aware gate)
 
-This keeps the repo low-maintenance: one app, one ingestion script, one scheduled workflow.
+This keeps the repo low-maintenance: one app, one ingestion script, one scheduled workflow, plus an empty-cache fallback so production never shows a blank screen on first launch.
 
 ## Source registry (centralized)
 
