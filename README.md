@@ -11,12 +11,12 @@ A simple Next.js dashboard that renders a cached daily news snapshot from RSS + 
 
 ## Source registry (single config file)
 
-All sources live in `src/config/source-registry.ts` with this shape:
+RSS sources are listed in `src/config/sources.ts` (strictly typed to `NewsCategory`), then combined with FRED sources in `src/config/source-registry.ts`.
 
 - `name`
 - `type`
 - `url` or `api`
-- `categories`
+- `category`
 - `enabled`
 - `priority`
 - `parser`
@@ -26,7 +26,7 @@ All sources live in `src/config/source-registry.ts` with this shape:
 
 `npm run refresh-news` does the following:
 
-1. Loads source health (`data/source-health.json`) and validates each source.
+1. Loads source health (`data/source-health.json`) and validates each source (including category validity).
 2. Skips invalid/disabled sources and sources with repeated failures.
 3. Fetches each enabled source with per-source error handling.
 4. Applies request headers when `requiresHeaders=true`.
