@@ -15,11 +15,12 @@ export type ItemType = "article" | "market-data";
 
 export interface NewsItem {
   id: string;
-  type: ItemType;
   title: string;
   source: string;
-  link: string;
+  url: string;
   publishedAt: string;
-  categories: NewsCategory[];
+  category: NewsCategory;
   summary: string;
+  type: ItemType;
+  region: "global" | "africa" | "us";
 }

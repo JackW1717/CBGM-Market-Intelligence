@@ -1,42 +1,64 @@
 # CBGM Market Intelligence Dashboard
 
-Simple, production-ready news dashboard built with Next.js. It ingests RSS + FRED market data once per day, stores normalized results in `data/articles.json`, and renders a fast filterable homepage. If cache is empty (for example on first deploy), the homepage fetches directly once at request time so the page still shows data.
+A simple Next.js dashboard that renders a cached daily news snapshot from RSS + FRED sources.
 
-## Stack and architecture
+## Stack
 
-- **Frontend:** Next.js 14 + TypeScript
-- **Ingestion:** single Node script (`scripts/refresh-news.ts`)
-- **Storage:** single JSON cache file (`data/articles.json`)
-- **Scheduler:** GitHub Actions workflow at 7:00 AM America/New_York (DST-aware gate)
+- Next.js 14 + TypeScript
+- Single ingestion script: `scripts/refresh-news.ts`
+- Single datastore: `data/articles.json`
+- Daily scheduler: `.github/workflows/daily-refresh.yml` (7:00 AM America/New_York)
 
-This keeps the repo low-maintenance: one app, one ingestion script, one scheduled workflow, plus an empty-cache fallback so production never shows a blank screen on first launch.
+## Source registry (single config file)
 
-## Source registry (centralized)
+All sources live in `src/config/source-registry.ts` with this shape:
 
-All feeds and APIs are defined in:
+- `name`
+- `type`
+- `url` or `api`
+- `categories`
+- `enabled`
+- `priority`
+- `parser`
+- `requiresHeaders`
 
-- `src/config/source-registry.ts`
+## Ingestion behavior
 
-Registry contains:
+`npm run refresh-news` does the following:
 
-- `rssFeeds` (Reuters, TechCrunch, Crunchbase, VentureBeat, MIT, World Bank, IMF, Federal Reserve)
-- `apiSources` (FRED treasury/yield curve series)
-- `optionalApiSources` (Alpha Vantage placeholder)
+1. Loads source health (`data/source-health.json`) and validates each source.
+2. Skips invalid/disabled sources and sources with repeated failures.
+3. Fetches each enabled source with per-source error handling.
+4. Applies request headers when `requiresHeaders=true`.
+5. Normalizes items into:
 
-## Normalized item schema
+```json
+{
+  "id": "...",
+  "title": "...",
+  "source": "...",
+  "url": "...",
+  "publishedAt": "...",
+  "category": "...",
+  "summary": "...",
+  "type": "article|market-data",
+  "region": "global|africa|us"
+}
+```
 
-Every entry is saved in one format:
+6. Deduplicates by canonical URL.
+7. Sorts newest first.
+8. Writes `data/articles.json` **only if there is at least one valid item**.
+   - If zero valid items are collected, the script keeps the prior dataset and logs a warning.
 
-- `id` (deterministic)
-- `type` (`article` or `market-data`)
-- `title`
-- `link`
-- `source`
-- `publishedAt`
-- `categories` (array)
-- `summary`
+## Homepage behavior
 
-## Local setup
+- Homepage reads from `data/articles.json` only (no live fetch each page load).
+- UI shows title, source, publish time, category, region, and summary.
+- Category chips + search filter the list.
+- Title opens original URL in a new tab.
+
+## Local usage
 
 ```bash
 npm install
@@ -44,48 +66,27 @@ npm run refresh-news
 npm run dev
 ```
 
-Open `http://localhost:3000`.
-
 ## Environment variables
+
+Copy:
 
 ```bash
 cp .env.example .env.local
 ```
 
-- `FRED_API_KEY` (optional). If missing, the script falls back to FRED CSV endpoint.
+Optional:
 
-## Daily refresh schedule (7:00 AM ET)
+- `FRED_API_KEY` (if absent, script falls back to official FRED CSV endpoint)
+
+## Daily refresh workflow
 
 Workflow: `.github/workflows/daily-refresh.yml`
 
-- runs hourly (`0 * * * *`)
-- checks `TZ=America/New_York` and only proceeds when hour is `07`
-- runs `npm install` then `npm run refresh-news`
-- commits updated `data/articles.json` back to main branch
+- Hourly cron trigger
+- ET time gate at hour `07`
+- Runs refresh script
+- Commits updated `data/articles.json` and `data/source-health.json` when changes exist
 
-Manual refresh is available via `workflow_dispatch`.
+### Required GitHub setting
 
-> **Important:** In GitHub repo settings, set **Actions → General → Workflow permissions** to **Read and write** so the workflow can push updated `data/articles.json`. If your main branch is protected, allow GitHub Actions to bypass restrictions or move to a PR-based update flow.
-
-## How filtering works
-
-Homepage supports:
-
-- **category chips** (multi-select)
-- **search box** (title/source/summary)
-
-Because each item carries `categories: []`, one item can appear under multiple themes.
-
-## Deployment (simplest)
-
-1. Push repo to GitHub.
-2. Import to Vercel.
-3. Deploy with defaults.
-
-Vercel serves cached JSON-rendered content; GitHub Actions keeps data fresh daily.
-
-## Reliability behavior
-
-- Ingestion never fails the whole run due to one bad source.
-- Each RSS/API failure is logged per source and run continues.
-- Invalid or malformed items are skipped cleanly.
+Set **Settings → Actions → General → Workflow permissions** to **Read and write** so Actions can push refreshed data.

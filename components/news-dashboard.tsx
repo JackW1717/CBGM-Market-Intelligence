@@ -23,8 +23,7 @@ export default function NewsDashboard({ articles }: { articles: NewsItem[] }) {
   const filtered = useMemo(() => {
     return articles.filter((article) => {
       const categoryMatch =
-        selectedCategories.size === 0 ||
-        article.categories.some((category) => selectedCategories.has(category));
+        selectedCategories.size === 0 || selectedCategories.has(article.category);
 
       const query = search.trim().toLowerCase();
       const searchMatch =
@@ -51,7 +50,7 @@ export default function NewsDashboard({ articles }: { articles: NewsItem[] }) {
       <header className="top">
         <div>
           <h1>Market Intelligence Dashboard</h1>
-          <p>Fresh market, macro, AI, VC, and rates updates every day at 7:00 AM ET.</p>
+          <p>Daily cached snapshot refreshed at 7:00 AM ET from multiple sources.</p>
         </div>
         <input
           type="search"
@@ -78,29 +77,26 @@ export default function NewsDashboard({ articles }: { articles: NewsItem[] }) {
         })}
       </section>
 
-      <p className="count">
-        Showing {filtered.length} of {articles.length} items
-      </p>
+      <p className="count">Showing {filtered.length} of {articles.length} items</p>
 
       <section className="cards">
+        {filtered.length === 0 ? (
+          <article className="card">
+            <p>No items match the current filters yet. Try clearing filters or run refresh-news.</p>
+          </article>
+        ) : null}
         {filtered.map((article) => (
           <article key={article.id} className="card">
-            <a href={article.link} target="_blank" rel="noreferrer" className="title">
+            <a href={article.url} target="_blank" rel="noreferrer" className="title">
               {article.title}
             </a>
             <div className="meta">
               <span>{article.source}</span>
               <span>{formatDateTime(article.publishedAt)}</span>
               <span className={article.type === "market-data" ? "tag market" : "tag"}>
-                {article.type === "market-data" ? "Market Data" : "Article"}
+                {CATEGORY_LABELS[article.category]}
               </span>
-            </div>
-            <div className="meta">
-              {article.categories.map((category) => (
-                <span key={`${article.id}-${category}`} className="tag">
-                  {CATEGORY_LABELS[category]}
-                </span>
-              ))}
+              <span className="tag">{article.region.toUpperCase()}</span>
             </div>
             {article.summary ? <p>{article.summary}</p> : null}
           </article>

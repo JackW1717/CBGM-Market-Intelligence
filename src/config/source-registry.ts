@@ -1,125 +1,143 @@
 import type { NewsCategory } from "../../types/news";
 
-export interface RssFeedSource {
+export type SourceType = "rss" | "rss_or_autodiscover" | "fred-series";
+export type SourceParser = "rss" | "autodiscover-rss" | "fred-json";
+
+export interface SourceConfig {
   name: string;
-  url: string;
+  type: SourceType;
+  url?: string;
+  api?: {
+    seriesId: string;
+  };
   categories: NewsCategory[];
+  enabled: boolean;
+  priority: number;
+  parser: SourceParser;
+  requiresHeaders: boolean;
 }
 
-export interface FredSeriesSource {
-  name: string;
-  type: "fred-series";
-  seriesId: string;
-  categories: NewsCategory[];
-}
-
-export interface AlphaVantageSource {
-  name: string;
-  type: "alpha-vantage";
-  symbols: string[];
-  categories: NewsCategory[];
-}
-
-export const SOURCE_REGISTRY: {
-  rssFeeds: RssFeedSource[];
-  apiSources: FredSeriesSource[];
-  optionalApiSources: AlphaVantageSource[];
-} = {
-  rssFeeds: [
+export const SOURCE_REGISTRY: { sources: SourceConfig[] } = {
+  sources: [
     {
-      name: "Reuters Business",
-      url: "https://www.reutersagency.com/feed/?best-topics=business-finance&post_type=best",
-      categories: ["financial-markets", "global-markets", "macro"]
-    },
-    {
-      name: "Reuters World",
-      url: "https://www.reutersagency.com/feed/?best-topics=world&post_type=best",
-      categories: ["global-markets", "macro"]
-    },
-    {
-      name: "Reuters Africa",
-      url: "https://www.reutersagency.com/feed/?best-regions=africa&post_type=best",
-      categories: ["africa-markets", "global-markets", "macro"]
-    },
-    {
-      name: "TechCrunch",
+      name: "TechCrunch Main Feed",
+      type: "rss",
       url: "https://techcrunch.com/feed/",
-      categories: ["venture-capital", "early-stage", "ai"]
+      categories: ["venture-capital", "early-stage", "ai"],
+      enabled: true,
+      priority: 1,
+      parser: "rss",
+      requiresHeaders: true
     },
     {
       name: "Crunchbase News",
+      type: "rss",
       url: "https://news.crunchbase.com/feed/",
-      categories: ["venture-capital", "early-stage"]
+      categories: ["venture-capital", "early-stage"],
+      enabled: true,
+      priority: 1,
+      parser: "rss",
+      requiresHeaders: true
     },
     {
-      name: "VentureBeat",
-      url: "https://venturebeat.com/feed/",
-      categories: ["ai", "venture-capital", "early-stage"]
+      name: "VentureBeat Main",
+      type: "rss_or_autodiscover",
+      url: "https://venturebeat.com/",
+      categories: ["ai", "venture-capital", "early-stage"],
+      enabled: true,
+      priority: 1,
+      parser: "autodiscover-rss",
+      requiresHeaders: true
     },
     {
-      name: "MIT News - AI / Research",
+      name: "MIT News AI",
+      type: "rss",
       url: "https://news.mit.edu/rss/topic/artificial-intelligence2",
-      categories: ["ai"]
+      categories: ["ai"],
+      enabled: true,
+      priority: 1,
+      parser: "rss",
+      requiresHeaders: false
     },
     {
-      name: "MIT News - Research",
+      name: "MIT News Research",
+      type: "rss",
       url: "https://news.mit.edu/rss/research",
-      categories: ["ai"]
-    },
-    {
-      name: "World Bank News",
-      url: "https://www.worldbank.org/en/news/all/rss",
-      categories: ["infrastructure-finance", "macro", "africa-markets"]
-    },
-    {
-      name: "IMF News",
-      url: "https://www.imf.org/en/News/rss",
-      categories: ["macro", "global-markets", "fixed-income"]
+      categories: ["ai"],
+      enabled: true,
+      priority: 2,
+      parser: "rss",
+      requiresHeaders: false
     },
     {
       name: "Federal Reserve Press Releases",
+      type: "rss",
       url: "https://www.federalreserve.gov/feeds/press_all.xml",
-      categories: ["macro", "fixed-income", "yield-curve"]
-    }
-  ],
-  apiSources: [
+      categories: ["macro", "fixed-income", "yield-curve"],
+      enabled: true,
+      priority: 1,
+      parser: "rss",
+      requiresHeaders: false
+    },
+    {
+      name: "IMF News",
+      type: "rss",
+      url: "https://www.imf.org/en/News/rss",
+      categories: ["macro", "global-markets", "fixed-income"],
+      enabled: true,
+      priority: 1,
+      parser: "rss",
+      requiresHeaders: false
+    },
+    {
+      name: "World Bank News",
+      type: "rss",
+      url: "https://www.worldbank.org/en/news/all/rss",
+      categories: ["infrastructure-finance", "africa-markets", "macro"],
+      enabled: true,
+      priority: 1,
+      parser: "rss",
+      requiresHeaders: false
+    },
+    {
+      name: "Reuters Business",
+      type: "rss",
+      url: "https://feeds.reuters.com/reuters/businessNews",
+      categories: ["financial-markets", "global-markets", "macro"],
+      enabled: true,
+      priority: 1,
+      parser: "rss",
+      requiresHeaders: true
+    },
     {
       name: "FRED - 2Y Treasury",
       type: "fred-series",
-      seriesId: "DGS2",
-      categories: ["yield-curve", "fixed-income", "major-indices"]
+      api: { seriesId: "DGS2" },
+      categories: ["yield-curve", "fixed-income", "major-indices"],
+      enabled: true,
+      priority: 1,
+      parser: "fred-json",
+      requiresHeaders: false
     },
     {
       name: "FRED - 10Y Treasury",
       type: "fred-series",
-      seriesId: "DGS10",
-      categories: ["yield-curve", "fixed-income", "major-indices"]
-    },
-    {
-      name: "FRED - 30Y Treasury",
-      type: "fred-series",
-      seriesId: "DGS30",
-      categories: ["yield-curve", "fixed-income", "major-indices"]
-    },
-    {
-      name: "FRED - 3M Treasury",
-      type: "fred-series",
-      seriesId: "DGS3MO",
-      categories: ["yield-curve", "fixed-income"]
+      api: { seriesId: "DGS10" },
+      categories: ["yield-curve", "fixed-income", "major-indices"],
+      enabled: true,
+      priority: 1,
+      parser: "fred-json",
+      requiresHeaders: false
     },
     {
       name: "FRED - 10Y minus 2Y",
       type: "fred-series",
-      seriesId: "T10Y2Y",
-      categories: ["yield-curve", "macro", "fixed-income"]
-    }
-  ],
-  optionalApiSources: [
-    {
-      name: "Alpha Vantage Global Quote / Market Data",
-      type: "alpha-vantage",
-      symbols: ["SPY", "QQQ", "DIA"],
-      categories: ["major-indices", "financial-markets"]
+      api: { seriesId: "T10Y2Y" },
+      categories: ["yield-curve", "macro", "fixed-income"],
+      enabled: true,
+      priority: 1,
+      parser: "fred-json",
+      requiresHeaders: false
     }
   ]
 };
