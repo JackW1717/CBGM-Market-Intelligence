@@ -5,6 +5,9 @@ on:
     - cron: "0 * * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   refresh:
     runs-on: ubuntu-latest
@@ -44,8 +47,15 @@ jobs:
             echo "No changes to commit"
             exit 0
           fi
+
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add data/articles.json
           git commit -m "chore: refresh daily news snapshot"
-          git push
+
+          if ! git push; then
+            echo "::warning::Push failed (likely token permissions or branch protections)."
+            echo "::warning::Set repo Settings > Actions > General > Workflow permissions to 'Read and write'."
+            echo "::warning::If branch protection blocks direct pushes, allow GitHub Actions to bypass or switch this workflow to open a PR."
+            exit 0
+          fi

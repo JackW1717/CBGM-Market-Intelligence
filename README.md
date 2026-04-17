@@ -65,6 +65,8 @@ Workflow: `.github/workflows/daily-refresh.yml`
 
 Manual refresh is available via `workflow_dispatch`.
 
+> **Important:** In GitHub repo settings, set **Actions → General → Workflow permissions** to **Read and write** so the workflow can push updated `data/articles.json`. If your main branch is protected, allow GitHub Actions to bypass restrictions or move to a PR-based update flow.
+
 ## How filtering works
 
 Homepage supports:
