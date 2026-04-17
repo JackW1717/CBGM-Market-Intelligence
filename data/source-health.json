@@ -1,1 +1,110 @@
-{}
+{
+  "Yahoo Finance": {
+    "consecutiveFailures": 0,
+    "lastStatus": "success",
+    "lastMessage": "success",
+    "updatedAt": "2026-04-17T13:50:19.686Z"
+  },
+  "MarketWatch Top Stories": {
+    "consecutiveFailures": 0,
+    "lastStatus": "success",
+    "lastMessage": "success",
+    "updatedAt": "2026-04-17T13:50:19.686Z"
+  },
+  "CNBC World": {
+    "consecutiveFailures": 0,
+    "lastStatus": "success",
+    "lastMessage": "success",
+    "updatedAt": "2026-04-17T13:50:19.686Z"
+  },
+  "CNBC Finance": {
+    "consecutiveFailures": 0,
+    "lastStatus": "success",
+    "lastMessage": "success",
+    "updatedAt": "2026-04-17T13:50:19.686Z"
+  },
+  "AllAfrica Business": {
+    "consecutiveFailures": 0,
+    "lastStatus": "success",
+    "lastMessage": "success",
+    "updatedAt": "2026-04-17T13:50:19.686Z"
+  },
+  "AllAfrica Investment": {
+    "consecutiveFailures": 0,
+    "lastStatus": "success",
+    "lastMessage": "success",
+    "updatedAt": "2026-04-17T13:50:19.686Z"
+  },
+  "Crunchbase News": {
+    "consecutiveFailures": 0,
+    "lastStatus": "success",
+    "lastMessage": "success",
+    "updatedAt": "2026-04-17T13:50:19.686Z"
+  },
+  "TechCrunch Startups": {
+    "consecutiveFailures": 0,
+    "lastStatus": "success",
+    "lastMessage": "success",
+    "updatedAt": "2026-04-17T13:50:19.686Z"
+  },
+  "TechCrunch Venture": {
+    "consecutiveFailures": 0,
+    "lastStatus": "success",
+    "lastMessage": "success",
+    "updatedAt": "2026-04-17T13:50:19.686Z"
+  },
+  "VentureBeat": {
+    "consecutiveFailures": 0,
+    "lastStatus": "success",
+    "lastMessage": "success",
+    "updatedAt": "2026-04-17T13:50:19.686Z"
+  },
+  "MIT Technology Review": {
+    "consecutiveFailures": 0,
+    "lastStatus": "success",
+    "lastMessage": "success",
+    "updatedAt": "2026-04-17T13:50:19.686Z"
+  },
+  "Federal Reserve Press Releases": {
+    "consecutiveFailures": 0,
+    "lastStatus": "success",
+    "lastMessage": "success",
+    "updatedAt": "2026-04-17T13:50:19.686Z"
+  },
+  "Federal Reserve Speeches": {
+    "consecutiveFailures": 0,
+    "lastStatus": "success",
+    "lastMessage": "success",
+    "updatedAt": "2026-04-17T13:50:19.686Z"
+  },
+  "IMF News": {
+    "consecutiveFailures": 1,
+    "lastStatus": "failure",
+    "lastMessage": "Feed not recognized as RSS 1 or 2.",
+    "updatedAt": "2026-04-17T13:50:19.686Z"
+  },
+  "World Bank News": {
+    "consecutiveFailures": 1,
+    "lastStatus": "failure",
+    "lastMessage": "Feed request failed (404)",
+    "updatedAt": "2026-04-17T13:50:19.686Z"
+  },
+  "FRED - 2Y Treasury": {
+    "consecutiveFailures": 1,
+    "lastStatus": "failure",
+    "lastMessage": "fetch failed",
+    "updatedAt": "2026-04-17T13:50:19.686Z"
+  },
+  "FRED - 10Y Treasury": {
+    "consecutiveFailures": 1,
+    "lastStatus": "failure",
+    "lastMessage": "fetch failed",
+    "updatedAt": "2026-04-17T13:50:19.686Z"
+  },
+  "FRED - 10Y minus 2Y": {
+    "consecutiveFailures": 1,
+    "lastStatus": "failure",
+    "lastMessage": "fetch failed",
+    "updatedAt": "2026-04-17T13:50:19.686Z"
+  }
+}
