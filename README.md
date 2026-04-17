@@ -1,118 +1,89 @@
 # CBGM Market Intelligence Dashboard
 
-A simple, production-ready Next.js dashboard that shows daily market and macro news from multiple RSS sources.
+Simple, production-ready news dashboard built with Next.js. It ingests RSS + FRED market data once per day, stores normalized results in `data/articles.json`, and renders a fast filterable homepage.
 
-## Why this stack
+## Stack and architecture
 
-- **Next.js + TypeScript** for a clean frontend and easy deployment.
-- **RSS ingestion script** (`scripts/refresh-news.ts`) keeps dependencies light and avoids backend complexity.
-- **Static JSON storage** (`data/articles.json`) makes the homepage fast and avoids live API calls on page load.
-- **GitHub Actions scheduler** handles automated daily refresh and commits updated data to the repo.
+- **Frontend:** Next.js 14 + TypeScript
+- **Ingestion:** single Node script (`scripts/refresh-news.ts`)
+- **Storage:** single JSON cache file (`data/articles.json`)
+- **Scheduler:** GitHub Actions workflow at 7:00 AM America/New_York (DST-aware gate)
 
-## Categories covered
+This keeps the repo low-maintenance: one app, one ingestion script, one scheduled workflow.
 
-- Financial markets
-- Global markets
-- Africa economy and market news
-- Venture capital news
-- Infrastructure finance news
-- Early-stage investment news
-- AI news
-- Fixed income news
-- Macroeconomic news
-- Major indices
-- Yield curve / interest rate news
+## Source registry (centralized)
 
-## Project structure
+All feeds and APIs are defined in:
 
-```text
-app/                    Next.js pages and styling
-components/             Client dashboard component
-data/articles.json      Cached news data rendered by homepage
-lib/news-store.ts       Read/write helper for news data
-scripts/refresh-news.ts Daily ingestion script
-src/config/sources.ts   Feed list (easy to edit)
-src/config/categories.ts Categories and labels
-.github/workflows/      Daily GitHub Actions scheduler
-```
+- `src/config/source-registry.ts`
+
+Registry contains:
+
+- `rssFeeds` (Reuters, TechCrunch, Crunchbase, VentureBeat, MIT, World Bank, IMF, Federal Reserve)
+- `apiSources` (FRED treasury/yield curve series)
+- `optionalApiSources` (Alpha Vantage placeholder)
+
+## Normalized item schema
+
+Every entry is saved in one format:
+
+- `id` (deterministic)
+- `type` (`article` or `market-data`)
+- `title`
+- `link`
+- `source`
+- `publishedAt`
+- `categories` (array)
+- `summary`
 
 ## Local setup
 
-1. Install Node.js 18.18+ (Node 20 recommended).
-2. Install dependencies:
-   ```bash
-   npm install
-   ```
-3. Pull news data once:
-   ```bash
-   npm run refresh-news
-   ```
-4. Start locally:
-   ```bash
-   npm run dev
-   ```
-5. Open `http://localhost:3000`.
+```bash
+npm install
+npm run refresh-news
+npm run dev
+```
+
+Open `http://localhost:3000`.
 
 ## Environment variables
-
-Copy example env file:
 
 ```bash
 cp .env.example .env.local
 ```
 
-Default setup uses RSS only and does **not** require API keys.
+- `FRED_API_KEY` (optional). If missing, the script falls back to FRED CSV endpoint.
 
-## Daily refresh at 7:00 AM Eastern
+## Daily refresh schedule (7:00 AM ET)
 
-- Workflow file: `.github/workflows/daily-refresh.yml`
-- Trigger: hourly cron (`0 * * * *`)
-- Guard: checks `TZ=America/New_York date +%H` and only runs refresh when hour is `07`
-- This keeps execution aligned with **7:00 AM ET**, including DST transitions, because the check is done in `America/New_York` timezone.
-- Workflow commits `data/articles.json` when content changes.
+Workflow: `.github/workflows/daily-refresh.yml`
 
-Manual refresh is available with **Run workflow** (`workflow_dispatch`) in GitHub Actions.
+- runs hourly (`0 * * * *`)
+- checks `TZ=America/New_York` and only proceeds when hour is `07`
+- runs `npm install` then `npm run refresh-news`
+- commits updated `data/articles.json` back to main branch
 
-## How to edit sources
+Manual refresh is available via `workflow_dispatch`.
 
-Update feed definitions in:
+## How filtering works
 
-- `src/config/sources.ts`
+Homepage supports:
 
-Each source has `name`, `url`, and `category`. Keep categories aligned with `src/config/categories.ts`.
+- **category chips** (multi-select)
+- **search box** (title/source/summary)
 
-## Deployment (simplest path)
+Because each item carries `categories: []`, one item can appear under multiple themes.
 
-### Recommended: Vercel + GitHub
+## Deployment (simplest)
 
-1. Push this repo to GitHub.
-2. Import the repository in Vercel.
-3. Use defaults (`npm run build`, Next.js autodetected).
-4. Deploy.
+1. Push repo to GitHub.
+2. Import to Vercel.
+3. Deploy with defaults.
 
-Because data is refreshed and committed by GitHub Actions, Vercel serves pre-fetched data quickly without runtime API calls.
+Vercel serves cached JSON-rendered content; GitHub Actions keeps data fresh daily.
 
-## GitHub connection instructions
+## Reliability behavior
 
-If this is a new local repository:
-
-```bash
-git init
-git add .
-git commit -m "feat: initial market intelligence dashboard"
-git branch -M main
-git remote add origin https://github.com/<your-org-or-user>/<repo-name>.git
-git push -u origin main
-```
-
-After push:
-
-- Enable Actions for the repository.
-- Confirm `.github/workflows/daily-refresh.yml` is present.
-- Optionally run the workflow manually once to seed `data/articles.json`.
-
-## Notes
-
-- Some RSS feeds can occasionally throttle or fail; script logs and continues.
-- Titles always link to original publisher pages.
-- Homepage supports category multi-select filtering and text search.
+- Ingestion never fails the whole run due to one bad source.
+- Each RSS/API failure is logged per source and run continues.
+- Invalid or malformed items are skipped cleanly.

@@ -1,22 +1,25 @@
 export type NewsCategory =
   | "financial-markets"
   | "global-markets"
-  | "africa-economy"
+  | "africa-markets"
   | "venture-capital"
   | "infrastructure-finance"
-  | "early-stage-investment"
+  | "early-stage"
   | "ai"
   | "fixed-income"
-  | "macroeconomic"
+  | "macro"
   | "major-indices"
-  | "yield-curve-rates";
+  | "yield-curve";
 
-export interface Article {
+export type ItemType = "article" | "market-data";
+
+export interface NewsItem {
   id: string;
+  type: ItemType;
   title: string;
   source: string;
   link: string;
   publishedAt: string;
-  category: NewsCategory;
+  categories: NewsCategory[];
   summary: string;
 }

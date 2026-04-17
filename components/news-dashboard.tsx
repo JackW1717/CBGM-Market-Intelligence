@@ -1,7 +1,7 @@
 "use client";
 
 import { useMemo, useState } from "react";
-import type { Article, NewsCategory } from "../types/news";
+import type { NewsCategory, NewsItem } from "../types/news";
 import { CATEGORIES, CATEGORY_LABELS } from "../src/config/categories";
 
 function formatDateTime(value: string): string {
@@ -16,14 +16,16 @@ function formatDateTime(value: string): string {
   }
 }
 
-export default function NewsDashboard({ articles }: { articles: Article[] }) {
+export default function NewsDashboard({ articles }: { articles: NewsItem[] }) {
   const [selectedCategories, setSelectedCategories] = useState<Set<NewsCategory>>(new Set());
   const [search, setSearch] = useState("");
 
   const filtered = useMemo(() => {
     return articles.filter((article) => {
       const categoryMatch =
-        selectedCategories.size === 0 || selectedCategories.has(article.category);
+        selectedCategories.size === 0 ||
+        article.categories.some((category) => selectedCategories.has(category));
+
       const query = search.trim().toLowerCase();
       const searchMatch =
         query.length === 0 ||
@@ -49,7 +51,7 @@ export default function NewsDashboard({ articles }: { articles: Article[] }) {
       <header className="top">
         <div>
           <h1>Market Intelligence Dashboard</h1>
-          <p>Fresh news snapshot across macro, markets, AI, and investment themes.</p>
+          <p>Fresh market, macro, AI, VC, and rates updates every day at 7:00 AM ET.</p>
         </div>
         <input
           type="search"
@@ -76,7 +78,9 @@ export default function NewsDashboard({ articles }: { articles: Article[] }) {
         })}
       </section>
 
-      <p className="count">Showing {filtered.length} of {articles.length} articles</p>
+      <p className="count">
+        Showing {filtered.length} of {articles.length} items
+      </p>
 
       <section className="cards">
         {filtered.map((article) => (
@@ -87,7 +91,16 @@ export default function NewsDashboard({ articles }: { articles: Article[] }) {
             <div className="meta">
               <span>{article.source}</span>
               <span>{formatDateTime(article.publishedAt)}</span>
-              <span className="tag">{CATEGORY_LABELS[article.category]}</span>
+              <span className={article.type === "market-data" ? "tag market" : "tag"}>
+                {article.type === "market-data" ? "Market Data" : "Article"}
+              </span>
+            </div>
+            <div className="meta">
+              {article.categories.map((category) => (
+                <span key={`${article.id}-${category}`} className="tag">
+                  {CATEGORY_LABELS[category]}
+                </span>
+              ))}
             </div>
             {article.summary ? <p>{article.summary}</p> : null}
           </article>
