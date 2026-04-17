@@ -1,0 +1,61 @@
+name: Daily News Refresh
+
+on:
+  schedule:
+    - cron: "0 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check 7:00 AM America/New_York window
+        id: gate
+        run: |
+          HOUR=$(TZ=America/New_York date +%H)
+          if [ "$HOUR" = "07" ]; then
+            echo "run_refresh=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "run_refresh=false" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Checkout
+        if: steps.gate.outputs.run_refresh == 'true' || github.event_name == 'workflow_dispatch'
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        if: steps.gate.outputs.run_refresh == 'true' || github.event_name == 'workflow_dispatch'
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Install dependencies
+        if: steps.gate.outputs.run_refresh == 'true' || github.event_name == 'workflow_dispatch'
+        run: npm install
+
+      - name: Refresh data
+        if: steps.gate.outputs.run_refresh == 'true' || github.event_name == 'workflow_dispatch'
+        run: npm run refresh-news
+
+      - name: Commit updated articles
+        if: steps.gate.outputs.run_refresh == 'true' || github.event_name == 'workflow_dispatch'
+        run: |
+          if git diff --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/articles.json data/source-health.json
+          git commit -m "chore: refresh daily news snapshot"
+
+          if ! git push; then
+            echo "::warning::Push failed (likely token permissions or branch protections)."
+            echo "::warning::Set repo Settings > Actions > General > Workflow permissions to 'Read and write'."
+            echo "::warning::If branch protection blocks direct pushes, allow GitHub Actions to bypass or switch this workflow to open a PR."
+            exit 0
+          fi
