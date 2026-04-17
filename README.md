@@ -51,6 +51,15 @@ RSS sources are listed in `src/config/sources.ts` (strictly typed to `NewsCatego
 8. Writes `data/articles.json` **only if there is at least one valid item**.
    - If zero valid items are collected, the script keeps the prior dataset and logs a warning.
 
+
+## Homepage UX
+
+- Last-updated timestamp based on `data/articles.json` file modification time
+- Market Snapshot panel for rates/market-data items
+- Category filter chips + client-side search (title/source/summary)
+- Source/category badges and external-link indicator on each card
+- Empty-state messaging when filters return no results
+
 ## Homepage behavior
 
 - Homepage reads from `data/articles.json` only (no live fetch each page load).
