@@ -1,12 +1,67 @@
 [
   {
-    "id": "d23d35045d1c73cede6050d1daea50444adaef57",
-    "title": "Anthropic's Dario Amodei to meet with White House about Mythos",
+    "id": "ed3e652cf091d80ee36901a65ade0090aaf98dd1",
+    "title": "A new era of AI crime has arrived with Anthropic’s Mythos",
+    "source": "MarketWatch Top Stories",
+    "url": "https://www.marketwatch.com/story/a-new-era-of-ai-crime-has-arrived-with-anthropics-mythos-d5451040?mod=mw_rss_topstories",
+    "publishedAt": "2026-04-18T11:30:00.000Z",
+    "category": "financial-markets",
+    "summary": "Anthropic’s new model is a frightening reminder of the threat posed by AI — and it’s not clear what the solution is.",
+    "type": "article",
+    "region": "global"
+  },
+  {
+    "id": "13625d6522e59973bc119fd324f8ababc66105c5",
+    "title": "AI companies are rationing compute. That’s a boon for traditional software, one analyst says.",
+    "source": "MarketWatch Top Stories",
+    "url": "https://www.marketwatch.com/story/ai-companies-are-rationing-compute-thats-a-boon-for-traditional-software-one-analyst-says-e19e0cb7?mod=mw_rss_topstories",
+    "publishedAt": "2026-04-18T11:00:00.000Z",
+    "category": "financial-markets",
+    "summary": "A closely followed iShares software ETF just had its best week in 25 years, as some believe the sentiment around AI may be changing — at least for now.",
+    "type": "article",
+    "region": "global"
+  },
+  {
+    "id": "be8a36aadacb8a98a95b8a663f1fca3290ff7774",
+    "title": "‘I have full guardianship’: My son has special needs. If I buy him a condo, will that hurt his benefits?",
+    "source": "MarketWatch Top Stories",
+    "url": "https://www.marketwatch.com/story/i-have-full-guardianship-my-son-has-special-needs-if-i-buy-him-a-condo-will-that-hurt-his-benefits-6f26e904?mod=mw_rss_topstories",
+    "publishedAt": "2026-04-18T10:30:00.000Z",
+    "category": "financial-markets",
+    "summary": "“Another option would be for me to purchase the condo myself and have him pay me rent.”",
+    "type": "article",
+    "region": "global"
+  },
+  {
+    "id": "24459402e82c5c6740ab3de81085544435f8a481",
+    "title": "We spoke to over 30 central bankers, policymakers and politicians. Here are their top concerns",
     "source": "CNBC World",
-    "url": "https://www.cnbc.com/2026/04/17/anthropic-dario-amodei-trump-mythos.html",
-    "publishedAt": "2026-04-17T16:14:42.000Z",
+    "url": "https://www.cnbc.com/2026/04/18/iran-war-inflation-prices-energy-trump-economy-end.html",
+    "publishedAt": "2026-04-18T10:24:36.000Z",
     "category": "global-markets",
-    "summary": "The meeting comes less than two months after President Donald Trump blacklisted Anthropic.",
+    "summary": "From stagflation to energy security, policymakers spoke to CNBC about the biggest risks arising from the ongoing U.S.-Iran war.",
+    "type": "article",
+    "region": "global"
+  },
+  {
+    "id": "50ee17f32cfa763693494faf16a014564503e95a",
+    "title": "Trump says U.S. has 'good news' on Iran as Tehran says the Strait of Hormuz is closed again",
+    "source": "CNBC World",
+    "url": "https://www.cnbc.com/2026/04/18/trump-says-us-has-good-news-on-iran-talks-to-continue.html",
+    "publishedAt": "2026-04-18T10:01:49.000Z",
+    "category": "global-markets",
+    "summary": "President Trump tells reporters that the U.S. and Iran will jointly recover nuclear material after a deal is reached.",
+    "type": "article",
+    "region": "global"
+  },
+  {
+    "id": "4f75771af98a31957b76c61d3387e593274d458b",
+    "title": "'It's sad': The U.S.-UK 'special relationship' sours ahead of royal visit to Washington",
+    "source": "CNBC World",
+    "url": "https://www.cnbc.com/2026/04/18/us-uk-special-relationship-trump-starmer-king-charles.html",
+    "publishedAt": "2026-04-18T05:00:01.000Z",
+    "category": "global-markets",
+    "summary": "A year ago, it was all going so well for the U.S. and U.K.'s so-called \"special relationship\", but ties have soured.",
     "type": "article",
     "region": "global"
   },
@@ -15,42 +70,207 @@
     "title": "Think the rally is safe? This elite market-timing indicator says a correction is overdue.",
     "source": "MarketWatch Top Stories",
     "url": "https://www.marketwatch.com/story/think-the-rally-is-safe-this-elite-market-timing-indicator-says-a-correction-is-overdue-8049c27f?mod=mw_rss_topstories",
-    "publishedAt": "2026-04-17T16:09:00.000Z",
+    "publishedAt": "2026-04-18T00:48:00.000Z",
     "category": "financial-markets",
     "summary": "The gold-platinum ratio suggests the stock market is living on borrowed time.",
     "type": "article",
     "region": "global"
   },
   {
-    "id": "cc024317706c9899536e31663006e5b5823b3903",
-    "title": "Strive Soars 12%, Bitmine Jumps 5% as Bitcoin and Ethereum’s Surge Lifts the Crypto Proxy Trade",
-    "source": "Yahoo Finance",
-    "url": "https://finance.yahoo.com/markets/crypto/articles/strive-soars-12-bitmine-jumps-160848600.html",
-    "publishedAt": "2026-04-17T16:08:48.000Z",
-    "category": "financial-markets",
-    "summary": "",
+    "id": "618495e7e524b1677573754461a623e30d28f7ca",
+    "title": "Video shows ships turning away from the Strait of Hormuz as confusion persists over whether sea lane is really open",
+    "source": "CNBC World",
+    "url": "https://www.cnbc.com/2026/04/17/iran-trump-strait-hormuz-oil-tanker-traffic.html",
+    "publishedAt": "2026-04-17T23:33:49.000Z",
+    "category": "global-markets",
+    "summary": "The Strait of Hormuz remained effectively closed despite Iran's declaration Friday that it is open, maritime freight and oil analysts told CNBC.",
     "type": "article",
     "region": "global"
   },
   {
-    "id": "4306635280912468302603ca64c18a71f7548b72",
-    "title": "The Iran War Shock Emphasizes Exactly Why a Low‑Cost S&P 500 ETF Belongs at the Core of Every Long‑Term Portfolio",
-    "source": "Yahoo Finance",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/iran-war-shock-emphasizes-exactly-160500940.html",
-    "publishedAt": "2026-04-17T16:05:00.000Z",
-    "category": "financial-markets",
-    "summary": "",
+    "id": "d23d35045d1c73cede6050d1daea50444adaef57",
+    "title": "Trump says he had 'no idea' Anthropic's Amodei met with White House about Mythos",
+    "source": "CNBC World",
+    "url": "https://www.cnbc.com/2026/04/17/anthropic-dario-amodei-trump-mythos.html",
+    "publishedAt": "2026-04-17T23:22:57.000Z",
+    "category": "global-markets",
+    "summary": "The meeting comes less than two months after President Donald Trump blacklisted Anthropic's Claude.",
     "type": "article",
     "region": "global"
   },
   {
-    "id": "570fe744cfba49b5ebc41833d63e6831af10c815",
-    "title": "Independent Bank Q1 Earnings Call Highlights",
-    "source": "Yahoo Finance",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/independent-bank-q1-earnings-call-160403216.html",
-    "publishedAt": "2026-04-17T16:04:03.000Z",
+    "id": "42e59fddc1dd12bc5c5922c8563a89c18143a443",
+    "title": "‘I am the trustee’: My mother set up a trust for my sibling who stole $100,000 from a bank. Can the trust be seized?",
+    "source": "MarketWatch Top Stories",
+    "url": "https://www.marketwatch.com/story/felony-charges-are-pending-my-mother-set-up-a-trust-for-my-sibling-who-stole-100-000-from-a-bank-can-the-trust-be-seized-ae69dbaf?mod=mw_rss_topstories",
+    "publishedAt": "2026-04-17T23:16:00.000Z",
     "category": "financial-markets",
-    "summary": "",
+    "summary": "“Felony charges are pending.”",
+    "type": "article",
+    "region": "global"
+  },
+  {
+    "id": "4b5bc4b79c8e57773ef4531d1498807d32f88a27",
+    "title": "Iran declares Strait of Hormuz open to shipping but Trump says U.S. blockade still active",
+    "source": "CNBC World",
+    "url": "https://www.cnbc.com/2026/04/17/iran-war-hormuz-strait-israel-lebanon-ceasefire.html",
+    "publishedAt": "2026-04-17T22:58:52.000Z",
+    "category": "global-markets",
+    "summary": "The Strait of Hormuz has remained almost completely closed as the U.S. and Iran have disputed the terms of their ceasefire agreement.",
+    "type": "article",
+    "region": "global"
+  },
+  {
+    "id": "ff2b1e5d4a7ad3a4d361e8b8a0421b7fdaa42ce7",
+    "title": "Cal-Maine’s stock falls as DOJ reportedly weighs bigger crackdown on major egg producers",
+    "source": "MarketWatch Top Stories",
+    "url": "https://www.marketwatch.com/story/cal-maines-stock-falls-as-doj-reportedly-weighs-bigger-crackdown-on-major-egg-producers-96e8315b?mod=mw_rss_topstories",
+    "publishedAt": "2026-04-17T22:56:00.000Z",
+    "category": "financial-markets",
+    "summary": "Egg prices crossed the $6 barrier in March of last year, but they have since fallen as farmers have replenished their flocks.",
+    "type": "article",
+    "region": "global"
+  },
+  {
+    "id": "7eb896dacb4d7dc729a60440953380b3464480c0",
+    "title": "I’m selling my law practice and retiring. Do I pay off the $2 million mortgage on my office building — or rent it out?",
+    "source": "MarketWatch Top Stories",
+    "url": "https://www.marketwatch.com/story/im-selling-my-law-practice-and-retiring-do-i-pay-off-the-2-million-loan-on-my-office-building-or-keep-the-mortgage-e8a4015b?mod=mw_rss_topstories",
+    "publishedAt": "2026-04-17T22:41:00.000Z",
+    "category": "financial-markets",
+    "summary": "“My wife is not a fan of tying up $2 million of equity in one building.”",
+    "type": "article",
+    "region": "global"
+  },
+  {
+    "id": "fc62917659f4baf4b156310292707b031028da67",
+    "title": "‘I hope to retire at 59’: I have $950,000 in my 401(k)s. When do I do a Roth conversion?",
+    "source": "MarketWatch Top Stories",
+    "url": "https://www.marketwatch.com/story/i-hope-to-retire-at-59-i-have-950-000-in-my-401-k-s-when-do-i-do-a-roth-conversion-07bf2c58?mod=mw_rss_topstories",
+    "publishedAt": "2026-04-17T22:30:00.000Z",
+    "category": "financial-markets",
+    "summary": "Roth conversions are permanent. Once done, they cannot be undone.",
+    "type": "article",
+    "region": "global"
+  },
+  {
+    "id": "0d0c0d28271fc5efaefbb3d6d725caaf893b936e",
+    "title": "Why do older sellers get less money for their homes than younger sellers?",
+    "source": "MarketWatch Top Stories",
+    "url": "https://www.marketwatch.com/story/why-do-older-sellers-get-less-money-for-their-homes-than-younger-sellers-9e48c2ce?mod=mw_rss_topstories",
+    "publishedAt": "2026-04-17T22:16:00.000Z",
+    "category": "financial-markets",
+    "summary": "Buying and selling a home can be the most significant financial decisions that families face.",
+    "type": "article",
+    "region": "global"
+  },
+  {
+    "id": "f72bd68b5a46611a5148b186f8a30ba3485513a7",
+    "title": "‘We keep our finances separate’: My boyfriend is in his 50s with no retirement savings — how worried should I be?",
+    "source": "MarketWatch Top Stories",
+    "url": "https://www.marketwatch.com/story/we-keep-our-finances-separate-my-boyfriend-is-in-his-50s-with-no-retirement-savings-how-worried-should-i-be-65983086?mod=mw_rss_topstories",
+    "publishedAt": "2026-04-17T22:09:00.000Z",
+    "category": "financial-markets",
+    "summary": "“He built our home over the last three years. We are both on the title and carry no mortgage.”",
+    "type": "article",
+    "region": "global"
+  },
+  {
+    "id": "addf2e2a58c01cf74829a1533dde3e32b6bce115",
+    "title": "Zambia: Democratic Senators Press State Department on Conditioning HIV Aid on Economic Concessions",
+    "source": "AllAfrica Business",
+    "url": "https://allafrica.com/stories/202604170654.html",
+    "publishedAt": "2026-04-17T21:00:01.000Z",
+    "category": "africa-markets",
+    "summary": "[United States Senate] Washington, DC -- Yesterday, U.S. Senators Jeanne Shaheen (D-NH), Ranking Member of the Senate Foreign Relations Committee, Chris Coons (D-DE) and Brian Schatz (D-HI) sent a letter to Secretary of State Marco Rubio raising alarm over reports that the State ",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "e819a7e65ccbefaf3dcf5418345f8614ab0256d4",
+    "title": "Sources: Cursor in talks to raise $2B+ at $50B valuation as enterprise growth surges",
+    "source": "TechCrunch Startups",
+    "url": "https://techcrunch.com/2026/04/17/sources-cursor-in-talks-to-raise-2b-at-50b-valuation-as-enterprise-growth-surges/",
+    "publishedAt": "2026-04-17T19:17:26.000Z",
+    "category": "early-stage",
+    "summary": "Returning backers a16z and Thrive are expected to lead the round.",
+    "type": "article",
+    "region": "global"
+  },
+  {
+    "id": "2ec81fe7fc84853d027727d448aa3054f32aad12",
+    "title": "U.S. oil price plunges below $84 as Iran declares Strait of Hormuz open, easing supply fears",
+    "source": "CNBC World",
+    "url": "https://www.cnbc.com/2026/04/17/oil-prices-wti-brent-israel-lebanon-ceasefire-trump.html",
+    "publishedAt": "2026-04-17T19:13:29.000Z",
+    "category": "global-markets",
+    "summary": "Oil prices tumbled more than 11% after Iran declared the Strait of Hormuz open amid a ceasefire deal with Lebanon.",
+    "type": "article",
+    "region": "global"
+  },
+  {
+    "id": "2f418c534d783d4ceb0cc4cea65035331f6634ba",
+    "title": "Tanker diplomacy: Trump faces tests from Havana to Hormuz",
+    "source": "CNBC World",
+    "url": "https://www.cnbc.com/2026/04/17/trump-tanker-diplomacy-hormuz-cuba-iran-war.html",
+    "publishedAt": "2026-04-17T19:09:44.000Z",
+    "category": "global-markets",
+    "summary": "From Cuba to the Persian Gulf, Trump is expected to face fresh challenges across a new arc of tanker diplomacy.",
+    "type": "article",
+    "region": "global"
+  },
+  {
+    "id": "6335ad0cfc1e39b4ae46c3aee2370688b74d212b",
+    "title": "The Week’s 10 Biggest Funding Rounds: Transportation And Biotech Take The Lead",
+    "source": "Crunchbase News",
+    "url": "https://news.crunchbase.com/venture/biggest-funding-rounds-ev-transportation-biotech-slate/",
+    "publishedAt": "2026-04-17T19:06:41.000Z",
+    "category": "venture-capital",
+    "summary": "The week’s largest round was a $650 million financing for electric pickup truck maker Slate Auto. Other sizable investments went to spaces including drug development, autonomous public transit and software engineering.",
+    "type": "article",
+    "region": "global"
+  },
+  {
+    "id": "7e0cb8f95c7b9b7f33289a7e007864a925e26055",
+    "title": "Waller, One Transitory Shock After Another",
+    "source": "Federal Reserve Speeches",
+    "url": "https://www.federalreserve.gov/newsevents/speech/waller20260417a.htm",
+    "publishedAt": "2026-04-17T18:00:00.000Z",
+    "category": "fixed-income",
+    "summary": "Speech At the David Kaserman Memorial Lecture, Department of Economics, Auburn University, Auburn, Alabama",
+    "type": "article",
+    "region": "us"
+  },
+  {
+    "id": "31920a0d55b6736cfb44c297ddfab0ad4b2ec2d5",
+    "title": "Train-to-Test scaling explained: How to optimize your end-to-end AI compute budget for inference",
+    "source": "VentureBeat",
+    "url": "https://venturebeat.com/orchestration/train-to-test-scaling-explained-how-to-optimize-your-end-to-end-ai-compute-budget-for-inference",
+    "publishedAt": "2026-04-17T17:34:02.000Z",
+    "category": "ai",
+    "summary": "The standard guidelines for building large language models (LLMs) optimize only for training costs and ignore inference costs. This poses a challenge for real-world applications that use inference-time scaling techniques to increase the accuracy of model responses, such as drawin",
+    "type": "article",
+    "region": "global"
+  },
+  {
+    "id": "2a6f30893587b05a96847263775bf8af59db999a",
+    "title": "Most enterprises can't stop stage-three AI agent threats, VentureBeat survey finds",
+    "source": "VentureBeat",
+    "url": "https://venturebeat.com/security/most-enterprises-cant-stop-stage-three-ai-agent-threats-venturebeat-survey-finds",
+    "publishedAt": "2026-04-17T17:07:29.000Z",
+    "category": "ai",
+    "summary": "A rogue AI agent at Meta passed every identity check and still exposed sensitive data to unauthorized employees in March. Two weeks later, Mercor, a $10 billion AI startup, confirmed a supply-chain breach through LiteLLM. Both are traced to the same structural gap. Monitoring wit",
+    "type": "article",
+    "region": "global"
+  },
+  {
+    "id": "8811968d0edc825988c4dfaabbfd27db6e1679ef",
+    "title": "European stocks soar after Iran keeps Strait of Hormuz open; travel stocks gain 5%",
+    "source": "CNBC World",
+    "url": "https://www.cnbc.com/2026/04/17/europe-stock-market-stoxx-600-ftse-100-trump-iran-war-oil.html",
+    "publishedAt": "2026-04-17T16:16:50.000Z",
+    "category": "global-markets",
+    "summary": "European stocks rebounded sharply on Friday afternoon Iran said the Strait of Hormuz was open to commercial shipping.",
     "type": "article",
     "region": "global"
   },
@@ -66,204 +286,6 @@
     "region": "global"
   },
   {
-    "id": "4b5bc4b79c8e57773ef4531d1498807d32f88a27",
-    "title": "Iran declares Strait of Hormuz open to shipping; Trump says U.S. blockade still active",
-    "source": "CNBC World",
-    "url": "https://www.cnbc.com/2026/04/17/iran-war-hormuz-strait-israel-lebanon-ceasefire.html",
-    "publishedAt": "2026-04-17T15:57:21.000Z",
-    "category": "global-markets",
-    "summary": "The Strait of Hormuz has remained almost completely closed as the U.S. and Iran have disputed the terms of their ceasefire agreement.",
-    "type": "article",
-    "region": "global"
-  },
-  {
-    "id": "2ec81fe7fc84853d027727d448aa3054f32aad12",
-    "title": "Oil prices tumble more than 10% as Iran declares Strait of Hormuz open, easing supply fears",
-    "source": "CNBC World",
-    "url": "https://www.cnbc.com/2026/04/17/oil-prices-wti-brent-israel-lebanon-ceasefire-trump.html",
-    "publishedAt": "2026-04-17T15:52:45.000Z",
-    "category": "global-markets",
-    "summary": "Oil prices tumbled more than 10% after Iran declared the Strait of Hormuz open amid a ceasefire deal with Lebanon.",
-    "type": "article",
-    "region": "global"
-  },
-  {
-    "id": "c3200a27803381dbf83543b40272d59635f12e7c",
-    "title": "Forum Markets Stock Jumps 19% After Board Revives Buyback and Launches Strategic Review",
-    "source": "Yahoo Finance",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/forum-markets-stock-jumps-19-154500615.html",
-    "publishedAt": "2026-04-17T15:45:00.000Z",
-    "category": "financial-markets",
-    "summary": "",
-    "type": "article",
-    "region": "global"
-  },
-  {
-    "id": "b2a7481a94fcbebd629f6bdb0552f7b8b50e9852",
-    "title": "Are you a middling millionaire with $1-$3 million in retirement savings? Be on the lookout for the ‘tax torpedo’",
-    "source": "Yahoo Finance",
-    "url": "https://finance.yahoo.com/economy/policy/articles/middling-millionaire-1-3-million-154500428.html",
-    "publishedAt": "2026-04-17T15:45:00.000Z",
-    "category": "financial-markets",
-    "summary": "",
-    "type": "article",
-    "region": "global"
-  },
-  {
-    "id": "8d4a176efcc3ec8901fe87c4efc413128dfbb13b",
-    "title": "Stock Market Today: Dow Soars 1,000 Points On Hormuz Opening; Tesla Makes This Bullish Move (Live Coverage)",
-    "source": "Yahoo Finance",
-    "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-trump-iran-netflix-stock-nflx-earnings/?src=A00220&yptr=yahoo",
-    "publishedAt": "2026-04-17T15:42:14.000Z",
-    "category": "financial-markets",
-    "summary": "",
-    "type": "article",
-    "region": "global"
-  },
-  {
-    "id": "e8015f87109e8fe8b0defc12dfe888eaf9e741ff",
-    "title": "Is the inflation scare over? Iran cease-fire leads to hope for more Fed interest-rate cuts.",
-    "source": "MarketWatch Top Stories",
-    "url": "https://www.marketwatch.com/story/is-the-inflation-scare-over-iran-cease-fire-leads-to-hope-for-more-fed-interest-rate-cuts-bfac31ab?mod=mw_rss_topstories",
-    "publishedAt": "2026-04-17T15:40:00.000Z",
-    "category": "financial-markets",
-    "summary": "U.S. inflation is going to get worse before it gets better, but price increases tied to the Iran war could start to evaporate during the summer and open the door for the Federal Reserve to cut interest rates again.",
-    "type": "article",
-    "region": "global"
-  },
-  {
-    "id": "cf25f7cab41c413d89f8f96c44bad105e2d45406",
-    "title": "Elemental Royalty Corporation: Fastest Growing Rare Earth Stock to Invest In",
-    "source": "Yahoo Finance",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/elemental-royalty-corporation-fastest-growing-153840117.html",
-    "publishedAt": "2026-04-17T15:38:40.000Z",
-    "category": "financial-markets",
-    "summary": "",
-    "type": "article",
-    "region": "global"
-  },
-  {
-    "id": "61e7d907dc3df70d3964150c43ec16ecb7e555c2",
-    "title": "Here is why Energy Fuels (UUUU) is Among the Fastest Growing Rare Earth Stocks to Invest In",
-    "source": "Yahoo Finance",
-    "url": "https://finance.yahoo.com/sectors/energy/articles/why-energy-fuels-uuuu-among-153833141.html",
-    "publishedAt": "2026-04-17T15:38:33.000Z",
-    "category": "financial-markets",
-    "summary": "",
-    "type": "article",
-    "region": "global"
-  },
-  {
-    "id": "53e2742d0b4002694a75019baa8729d3ff72b02b",
-    "title": "Is Ur-Energy Inc. (URG) the Fastest Growing Rare Earth Stock to Invest In?",
-    "source": "Yahoo Finance",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/ur-energy-inc-urg-fastest-153826250.html",
-    "publishedAt": "2026-04-17T15:38:26.000Z",
-    "category": "financial-markets",
-    "summary": "",
-    "type": "article",
-    "region": "global"
-  },
-  {
-    "id": "8d22a7e4c102d764628726308de7b62ca1221947",
-    "title": "Uranium Energy (UEC): A Rare U.S. Milestone Could Be Just The Beginning",
-    "source": "Yahoo Finance",
-    "url": "https://finance.yahoo.com/sectors/energy/articles/uranium-energy-uec-rare-u-153818819.html",
-    "publishedAt": "2026-04-17T15:38:18.000Z",
-    "category": "financial-markets",
-    "summary": "",
-    "type": "article",
-    "region": "global"
-  },
-  {
-    "id": "5c354240b03722b818a6fa762793dab5853f9148",
-    "title": "United States Antimony Just Reignited A Strategic U.S. Supply Chain Story",
-    "source": "Yahoo Finance",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/united-states-antimony-just-reignited-153811988.html",
-    "publishedAt": "2026-04-17T15:38:11.000Z",
-    "category": "financial-markets",
-    "summary": "",
-    "type": "article",
-    "region": "global"
-  },
-  {
-    "id": "70d99cfacb09141c62470c0ff470c353c863fe3c",
-    "title": "Why Triple Flag Precious Metals (TFPM) Is Drawing Fresh Confidence From Analysts",
-    "source": "Yahoo Finance",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/why-triple-flag-precious-metals-153802076.html",
-    "publishedAt": "2026-04-17T15:38:02.000Z",
-    "category": "financial-markets",
-    "summary": "",
-    "type": "article",
-    "region": "global"
-  },
-  {
-    "id": "06fa95bd7ec7f38f04f7122800f7a7029448ca20",
-    "title": "Buenaventura (BVN) Just Got A Big Wall Street Upgrade — But What Changed?",
-    "source": "Yahoo Finance",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/buenaventura-bvn-just-got-big-153751146.html",
-    "publishedAt": "2026-04-17T15:37:51.000Z",
-    "category": "financial-markets",
-    "summary": "",
-    "type": "article",
-    "region": "global"
-  },
-  {
-    "id": "e693a9a23d13d7cafa2d9273707899d86a9282cc",
-    "title": "Why Avino Silver & Gold Mines (ASM) Just Made A Move Investors Often Watch Closely",
-    "source": "Yahoo Finance",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/why-avino-silver-gold-mines-153742925.html",
-    "publishedAt": "2026-04-17T15:37:42.000Z",
-    "category": "financial-markets",
-    "summary": "",
-    "type": "article",
-    "region": "global"
-  },
-  {
-    "id": "6e05073d2fb52ad26463c9ad06c97f0c8d0d1e0b",
-    "title": "McEwen (MUX) Just Unveiled Something That Could Change Its 2030 Outlook",
-    "source": "Yahoo Finance",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/mcewen-mux-just-unveiled-something-153733694.html",
-    "publishedAt": "2026-04-17T15:37:33.000Z",
-    "category": "financial-markets",
-    "summary": "",
-    "type": "article",
-    "region": "global"
-  },
-  {
-    "id": "92f23e0dcb17275fa22816541411bd51d14ee40e",
-    "title": "Here is why Rapid7 is Among the 14 Most Undervalued Cybersecurity Stocks to Invest In",
-    "source": "Yahoo Finance",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/why-rapid7-among-14-most-153723093.html",
-    "publishedAt": "2026-04-17T15:37:23.000Z",
-    "category": "financial-markets",
-    "summary": "",
-    "type": "article",
-    "region": "global"
-  },
-  {
-    "id": "43f5b1ec9d1a897c0286f80bbd4529ab53cd450e",
-    "title": "Gorilla Technology Group Inc. (GRRR): Most Undervalued Cybersecurity Stock to Invest In",
-    "source": "Yahoo Finance",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/gorilla-technology-group-inc-grrr-153712613.html",
-    "publishedAt": "2026-04-17T15:37:12.000Z",
-    "category": "financial-markets",
-    "summary": "",
-    "type": "article",
-    "region": "global"
-  },
-  {
-    "id": "5a79ceb21169aa6c9d8cf204a07d32e1706c5a9c",
-    "title": "Is Unisys Corporation the Most Undervalued Cybersecurity Stock to Invest In?",
-    "source": "Yahoo Finance",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/unisys-corporation-most-undervalued-cybersecurity-153701484.html",
-    "publishedAt": "2026-04-17T15:37:01.000Z",
-    "category": "financial-markets",
-    "summary": "",
-    "type": "article",
-    "region": "global"
-  },
-  {
     "id": "1b50702002da518894c94b451724a1a645bfaaa1",
     "title": "Anthropic just launched Claude Design, an AI tool that turns prompts into prototypes and challenges Figma",
     "source": "VentureBeat",
@@ -271,17 +293,6 @@
     "publishedAt": "2026-04-17T15:00:00.000Z",
     "category": "ai",
     "summary": "Anthropic today launched Claude Design, a new product from its Anthropic Labs division that allows users to create polished visual work — designs, interactive prototypes, slide decks, one-pagers, and marketing collateral — through conversational prompts and fine-grained editing c",
-    "type": "article",
-    "region": "global"
-  },
-  {
-    "id": "82c0b34a83cd09cd3753c2e3767be2be825f504a",
-    "title": "‘I have more money than I know what to do with’: I’m a single millionaire with no heirs and don’t like spending. What’s wrong with me?",
-    "source": "MarketWatch Top Stories",
-    "url": "https://www.marketwatch.com/story/i-have-more-money-than-i-know-what-to-do-with-im-a-single-millionaire-with-no-heirs-and-dont-like-spending-whats-wrong-dd5acfb6?mod=mw_rss_topstories",
-    "publishedAt": "2026-04-17T14:34:00.000Z",
-    "category": "financial-markets",
-    "summary": "“I buy clothes at thrift stores.”",
     "type": "article",
     "region": "global"
   },
@@ -308,61 +319,6 @@
     "region": "global"
   },
   {
-    "id": "b528cda342796dbd6136b1d9487fcac138711cdd",
-    "title": "Mortgage rates dip to 4-week low — just in time for the best week of the year to sell a home",
-    "source": "MarketWatch Top Stories",
-    "url": "https://www.marketwatch.com/story/mortgage-rates-dip-to-4-week-low-just-in-time-for-the-best-week-of-the-year-to-sell-a-home-c921a9b1?mod=mw_rss_topstories",
-    "publishedAt": "2026-04-17T14:00:00.000Z",
-    "category": "financial-markets",
-    "summary": "Mortgage rates fell for the second straight week, setting the spring home-buying season up for a reboot after inflation worries linked to the Iran war sent rates climbing last month.",
-    "type": "article",
-    "region": "global"
-  },
-  {
-    "id": "a24494679a83d301b9e1eaad9fb27f381bc1546b",
-    "title": "These insurance companies are sending record-breaking cash payouts to their customers this year. Should you switch plans?",
-    "source": "MarketWatch Top Stories",
-    "url": "https://www.marketwatch.com/story/mutual-insurance-companies-are-paying-record-breaking-dividends-to-their-customers-this-year-is-using-one-right-for-you-cb6717e8?mod=mw_rss_topstories",
-    "publishedAt": "2026-04-17T13:56:00.000Z",
-    "category": "financial-markets",
-    "summary": "While most carriers pocket your premiums, mutual-insurance companies are owned by their customers.",
-    "type": "article",
-    "region": "global"
-  },
-  {
-    "id": "517c52d7230d8237060a6e90333a38edb0f28c59",
-    "title": "U.S. oil prices plunge to around $80 a barrel after Iran declares Strait of Hormuz ‘completely open’ during cease-fire",
-    "source": "MarketWatch Top Stories",
-    "url": "https://www.marketwatch.com/story/oil-prices-dropping-after-trump-says-iran-war-should-end-pretty-soon-da53676a?mod=mw_rss_topstories",
-    "publishedAt": "2026-04-17T13:52:00.000Z",
-    "category": "financial-markets",
-    "summary": "Oil prices were plunging on Friday morning after Iran’s foreign minister said the Strait of Hormuz is declared open for the passage of all commercial vessels for the remaining period of the cease-fire.",
-    "type": "article",
-    "region": "global"
-  },
-  {
-    "id": "255eddf9d5768cc4b7326fbc759c2f571b4508c0",
-    "title": "These two sectors have been boosted by AI hopes. Why investors should buy one, and trim exposure to the other.",
-    "source": "MarketWatch Top Stories",
-    "url": "https://www.marketwatch.com/story/these-two-sectors-have-been-boosted-by-ai-hopes-why-investors-should-buy-one-and-trim-exposure-to-the-other-55f7a34a?mod=mw_rss_topstories",
-    "publishedAt": "2026-04-17T13:31:00.000Z",
-    "category": "financial-markets",
-    "summary": "Technology has lifted the market higher and has further to go, says Ned Davis Research",
-    "type": "article",
-    "region": "global"
-  },
-  {
-    "id": "2f418c534d783d4ceb0cc4cea65035331f6634ba",
-    "title": "Tanker diplomacy: Trump faces tests from Havana to Hormuz",
-    "source": "CNBC World",
-    "url": "https://www.cnbc.com/2026/04/17/trump-tanker-diplomacy-hormuz-cuba-iran-war.html",
-    "publishedAt": "2026-04-17T13:15:35.000Z",
-    "category": "global-markets",
-    "summary": "From Cuba to the Persian Gulf, Trump is expected to face fresh challenges across a new arc of tanker diplomacy.",
-    "type": "article",
-    "region": "global"
-  },
-  {
     "id": "e7601907c431db60dad31b7c22ea3ea9437398da",
     "title": "SaySo is a new short-form video app that aims to restore users’ trust in news",
     "source": "TechCrunch Startups",
@@ -385,13 +341,13 @@
     "region": "global"
   },
   {
-    "id": "777f03c00181a8a9217ff67358b466a02c24d4f7",
-    "title": "Even OpenAI’s top economist thinks the AI job apocalypse is overstated. Here’s why.",
-    "source": "MarketWatch Top Stories",
-    "url": "https://www.marketwatch.com/story/even-openais-top-economist-thinks-the-ai-job-apocalypse-is-overstated-heres-why-7e920e7a?mod=mw_rss_topstories",
-    "publishedAt": "2026-04-17T12:58:00.000Z",
-    "category": "financial-markets",
-    "summary": "OpenAI has done an in-depth study at just what AI disruption means for the jobs market, pushing back at some gloomier forecasts.",
+    "id": "ad8bafe75482bce8d4e003a111e498ae4bd2aa63",
+    "title": "Are we tokenmaxxing our way to nowhere?",
+    "source": "TechCrunch Startups",
+    "url": "https://techcrunch.com/video/are-we-tokenmaxxing-our-way-to-nowhere/",
+    "publishedAt": "2026-04-17T13:00:00.000Z",
+    "category": "early-stage",
+    "summary": "The gap between AI insiders and everyone else is widening, and the spending, suspicion, and even new vocabulary are starting to show it. While OpenAI is busy buying up everything from finance apps to talk shows, a certain shoe company just rebranded as an AI infrastructure play, ",
     "type": "article",
     "region": "global"
   },
@@ -440,28 +396,6 @@
     "region": "africa"
   },
   {
-    "id": "8f419f4b00e351b410fb4e8acda89717611f6ebc",
-    "title": "Lilly’s new GLP-1 pill is off to a ‘robust’ start",
-    "source": "MarketWatch Top Stories",
-    "url": "https://www.marketwatch.com/story/lillys-new-glp-1-pill-is-off-to-a-robust-start-b81cfd02?mod=mw_rss_topstories",
-    "publishedAt": "2026-04-17T12:28:00.000Z",
-    "category": "financial-markets",
-    "summary": "Lilly’s new GLP-1 pill had 1,390 prescriptions in its first week on the market.",
-    "type": "article",
-    "region": "global"
-  },
-  {
-    "id": "f72bd68b5a46611a5148b186f8a30ba3485513a7",
-    "title": "‘We keep our finances separate’: My boyfriend is in his 50s with no retirement savings — how worried should I be?",
-    "source": "MarketWatch Top Stories",
-    "url": "https://www.marketwatch.com/story/we-keep-our-finances-separate-my-boyfriend-is-in-his-50s-with-no-retirement-savings-how-worried-should-i-be-65983086?mod=mw_rss_topstories",
-    "publishedAt": "2026-04-17T12:20:00.000Z",
-    "category": "financial-markets",
-    "summary": "“He built our home over the last three years. We are both on the title and carry no mortgage.”",
-    "type": "article",
-    "region": "global"
-  },
-  {
     "id": "896b758327657a8f0e444d6cc6f9e3f42d6c1b71",
     "title": "Trump says war in Iran is going 'swimmingly' and 'should be ending pretty soon'",
     "source": "CNBC World",
@@ -480,28 +414,6 @@
     "publishedAt": "2026-04-17T12:10:00.000Z",
     "category": "ai",
     "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The problem with thinking you’re part Neanderthal There’s a theory that many of us have an “inner Neanderthal.” The idea is that Homo sapiens ",
-    "type": "article",
-    "region": "global"
-  },
-  {
-    "id": "6441228b770f6a0620a1c7c603a849f4ba8ca448",
-    "title": "Daily Spotlight: Dollar Surges Amid Iran War",
-    "source": "Yahoo Finance",
-    "url": "https://finance.yahoo.com/research/reports/ARGUS_46767_MarketOutlook_1776424971000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-    "publishedAt": "2026-04-17T11:22:51.000Z",
-    "category": "financial-markets",
-    "summary": "",
-    "type": "article",
-    "region": "global"
-  },
-  {
-    "id": "fd65135749d40853532a0feed58ea0bd77261260",
-    "title": "Nvidia AI chip rivals attract record funding as competition heats up",
-    "source": "CNBC World",
-    "url": "https://www.cnbc.com/2026/04/17/nvidia-ai-chip-rivals-funding-euclyd-fractile.html",
-    "publishedAt": "2026-04-17T11:22:13.000Z",
-    "category": "global-markets",
-    "summary": "A growing crop of startups are set on challenging the chip giant's supremacy.",
     "type": "article",
     "region": "global"
   },
@@ -605,6 +517,149 @@
     "region": "africa"
   },
   {
+    "id": "8e786dffd46fb5d75da6e8933d10d06bbd0aebde",
+    "title": "He made $250 million trading Russian crude — now he's investing up to $60 million on Guyana's oil boom",
+    "source": "Yahoo Finance",
+    "url": "https://finance.yahoo.com/sectors/energy/articles/made-250-million-trading-russian-101500892.html",
+    "publishedAt": "2026-04-17T10:15:00.000Z",
+    "category": "financial-markets",
+    "summary": "",
+    "type": "article",
+    "region": "global"
+  },
+  {
+    "id": "7be65de34f62faec519f047630a3f6198c584f7e",
+    "title": "EU trade surplus shrinks 60% as US exports fall due to tariffs",
+    "source": "Yahoo Finance",
+    "url": "https://finance.yahoo.com/economy/policy/articles/eu-trade-surplus-shrinks-60-101348584.html",
+    "publishedAt": "2026-04-17T10:13:48.000Z",
+    "category": "financial-markets",
+    "summary": "",
+    "type": "article",
+    "region": "global"
+  },
+  {
+    "id": "5ce12da4d7218ad126e31bfd5249c9294b702b6c",
+    "title": "Argentina wheat threatened by high urea fertilizer prices due to  Iran war",
+    "source": "Yahoo Finance",
+    "url": "https://finance.yahoo.com/markets/commodities/articles/argentina-wheat-threatened-high-urea-100834065.html",
+    "publishedAt": "2026-04-17T10:08:34.000Z",
+    "category": "financial-markets",
+    "summary": "",
+    "type": "article",
+    "region": "global"
+  },
+  {
+    "id": "1d0b09d6ad5af03e7a84cbc2be772d1444977644",
+    "title": "Warren Buffett gave $10K to his daughter-in-law each year, but she spent it to the dime. 4 ways to use your own windfall",
+    "source": "Yahoo Finance",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/warren-buffett-gave-10k-daughter-100300551.html",
+    "publishedAt": "2026-04-17T10:03:00.000Z",
+    "category": "financial-markets",
+    "summary": "",
+    "type": "article",
+    "region": "global"
+  },
+  {
+    "id": "a7e9953759f7def5e5e1cd28e291de8b0a3f40a1",
+    "title": "The stock market's big breakout still needs an under-the-hood check: Chart of the Day",
+    "source": "Yahoo Finance",
+    "url": "https://finance.yahoo.com/news/the-stock-markets-big-breakout-still-needs-an-under-the-hood-check-chart-of-the-day-100030247.html",
+    "publishedAt": "2026-04-17T10:00:30.000Z",
+    "category": "financial-markets",
+    "summary": "",
+    "type": "article",
+    "region": "global"
+  },
+  {
+    "id": "42fdb05ca781329b32490198d8f60ffd40c57cd5",
+    "title": "Morning Brief: 3 takeaways from big bank results",
+    "source": "Yahoo Finance",
+    "url": "https://finance.yahoo.com/news/morning-brief-3-takeaways-from-big-bank-results-100019077.html",
+    "publishedAt": "2026-04-17T10:00:19.000Z",
+    "category": "financial-markets",
+    "summary": "",
+    "type": "article",
+    "region": "global"
+  },
+  {
+    "id": "a830652eccd01d7c9b0fdd77538a3217e68ccecb",
+    "title": "Best high-yield savings interest rates today, April 17, 2026 (up to 4.1% APY return)",
+    "source": "Yahoo Finance",
+    "url": "https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-friday-april-17-2026-100000948.html",
+    "publishedAt": "2026-04-17T10:00:00.000Z",
+    "category": "financial-markets",
+    "summary": "",
+    "type": "article",
+    "region": "global"
+  },
+  {
+    "id": "3f94a5d0800c6ab1216d028b818c3998ba306c5e",
+    "title": "Mortgage and refinance interest rates today, April 17, 2026: Buying power 'better than a year ago'",
+    "source": "Yahoo Finance",
+    "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-interest-rates-today-friday-april-17-2026-100000831.html",
+    "publishedAt": "2026-04-17T10:00:00.000Z",
+    "category": "financial-markets",
+    "summary": "",
+    "type": "article",
+    "region": "global"
+  },
+  {
+    "id": "219f892888c109b71b1c3b7b2941955a67c33d92",
+    "title": "Best CD rates today, April 17, 2026 (up to 4.05% APY return)",
+    "source": "Yahoo Finance",
+    "url": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-friday-april-17-2026-100000543.html",
+    "publishedAt": "2026-04-17T10:00:00.000Z",
+    "category": "financial-markets",
+    "summary": "",
+    "type": "article",
+    "region": "global"
+  },
+  {
+    "id": "a3598810b8869dffa796ab6e5150df0c89d923ea",
+    "title": "HELOC and home equity loan rates today, April 17, 2026: Tap your homeownership value in cash",
+    "source": "Yahoo Finance",
+    "url": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-home-equity-loan-interest-rates-today-friday-april-17-2026-100000534.html",
+    "publishedAt": "2026-04-17T10:00:00.000Z",
+    "category": "financial-markets",
+    "summary": "",
+    "type": "article",
+    "region": "global"
+  },
+  {
+    "id": "e0ec3eb7bbb86ed4a9043f1260a680759906ce08",
+    "title": "Best money market account rates today, April 17, 2026 (up to 4.01% APY return)",
+    "source": "Yahoo Finance",
+    "url": "https://finance.yahoo.com/personal-finance/banking/article/best-money-market-account-rates-today-friday-april-17-2026-100000051.html",
+    "publishedAt": "2026-04-17T10:00:00.000Z",
+    "category": "financial-markets",
+    "summary": "",
+    "type": "article",
+    "region": "global"
+  },
+  {
+    "id": "329770f9110fe8ef8dd8f071b662bf28b2d4260c",
+    "title": "CFOs On the Move: Week ending April 17",
+    "source": "Yahoo Finance",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/cfos-move-week-ending-april-100000554.html",
+    "publishedAt": "2026-04-17T10:00:00.000Z",
+    "category": "financial-markets",
+    "summary": "",
+    "type": "article",
+    "region": "global"
+  },
+  {
+    "id": "1fadd1236371b0799678a3a01a483c1b19616e5a",
+    "title": "3 Big Numbers: How did c-stores fare in 2025?",
+    "source": "Yahoo Finance",
+    "url": "https://finance.yahoo.com/economy/articles/3-big-numbers-did-c-100000560.html",
+    "publishedAt": "2026-04-17T10:00:00.000Z",
+    "category": "financial-markets",
+    "summary": "",
+    "type": "article",
+    "region": "global"
+  },
+  {
     "id": "f7642c91b60a43018b769f7d154915ebe3aef6d4",
     "title": "The case for fixing everything",
     "source": "MIT Technology Review",
@@ -627,6 +682,39 @@
     "region": "global"
   },
   {
+    "id": "b7eeba4967fa24a0c83891c915c0eece6f3880d3",
+    "title": "Equity fund inflows rise as war risks recede, upbeat earnings boost mood",
+    "source": "Yahoo Finance",
+    "url": "https://finance.yahoo.com/news/equity-fund-inflows-rise-war-095821978.html",
+    "publishedAt": "2026-04-17T09:58:21.000Z",
+    "category": "financial-markets",
+    "summary": "",
+    "type": "article",
+    "region": "global"
+  },
+  {
+    "id": "a1e6904425abad479acdeef6895545bd8197448e",
+    "title": "EU Trade Surplus Narrows From 2025’s Pre-Tariff Surge",
+    "source": "Yahoo Finance",
+    "url": "https://www.wsj.com/economy/trade/eu-trade-surplus-narrows-from-2025s-pre-tariff-surge-27f1b909?siteid=yhoof2&yptr=yahoo",
+    "publishedAt": "2026-04-17T09:56:00.000Z",
+    "category": "financial-markets",
+    "summary": "",
+    "type": "article",
+    "region": "global"
+  },
+  {
+    "id": "6a5d4d38eb22f1a719acd237577e0b34b2d708e7",
+    "title": "3 Magnificent Dividend Stocks the Sell-Off Has Put on Sale. Buy Them Now and Hold Forever.",
+    "source": "Yahoo Finance",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/3-magnificent-dividend-stocks-sell-095500826.html",
+    "publishedAt": "2026-04-17T09:55:00.000Z",
+    "category": "financial-markets",
+    "summary": "",
+    "type": "article",
+    "region": "global"
+  },
+  {
     "id": "cb8282d6fa52f270f429a038687d942e4e4eae61",
     "title": "Africa: Africa's Future Depends On Innovation, Data, and Frontier Technologies",
     "source": "AllAfrica Business",
@@ -636,6 +724,50 @@
     "summary": "[IPS] Addis Ababa, Ethiopia -- Across the continent, GDP has risen on the back of more workers, more capital and a commodity super-cycle, rather than through genuine gains in productivity and innovation. Too little labour has moved out of subsistence agriculture into higher-produ",
     "type": "article",
     "region": "africa"
+  },
+  {
+    "id": "9baabbac5ebc184366c87042dca96e395df6f481",
+    "title": "Toyo Co. Ltd. (TOYO) Appoints Rhone Resch as Chief Strategy Officer to Lead Global Growth",
+    "source": "Yahoo Finance",
+    "url": "https://finance.yahoo.com/sectors/energy/articles/toyo-co-ltd-toyo-appoints-093027006.html",
+    "publishedAt": "2026-04-17T09:30:27.000Z",
+    "category": "financial-markets",
+    "summary": "",
+    "type": "article",
+    "region": "global"
+  },
+  {
+    "id": "457717c46bb5511eb407b8f30ef75f0d27c57ba0",
+    "title": "Is Syntec Optics Holdings (OPTX) One of the Best Performing New Tech Stocks to Buy Right Now?",
+    "source": "Yahoo Finance",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/syntec-optics-holdings-optx-one-092303163.html",
+    "publishedAt": "2026-04-17T09:23:03.000Z",
+    "category": "financial-markets",
+    "summary": "",
+    "type": "article",
+    "region": "global"
+  },
+  {
+    "id": "eb159a7e6efadac4bce6c106c45d939e990fd869",
+    "title": "Ryde Group (RYDE) Announces Expansion Into Hong Kong Mobility Market",
+    "source": "Yahoo Finance",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/ryde-group-ryde-announces-expansion-092246676.html",
+    "publishedAt": "2026-04-17T09:22:46.000Z",
+    "category": "financial-markets",
+    "summary": "",
+    "type": "article",
+    "region": "global"
+  },
+  {
+    "id": "6652c66eeae97279fe8a9bd1d5d67aff66393ee3",
+    "title": "Here is Why Xanadu Quantum Technologies (XNDU) is a Top Performing New Tech Stock",
+    "source": "Yahoo Finance",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/why-xanadu-quantum-technologies-xndu-092229088.html",
+    "publishedAt": "2026-04-17T09:22:29.000Z",
+    "category": "financial-markets",
+    "summary": "",
+    "type": "article",
+    "region": "global"
   },
   {
     "id": "cfcf14b3e9bff864cb1c3272734e3f604c8ff620",
@@ -759,17 +891,6 @@
     "region": "africa"
   },
   {
-    "id": "5a7bd7c45b575b9077c767288a7eba5a6a8ed493",
-    "title": "Africa: Keyamo Calls for Aircraft Maintenance Hubs in Africa to Stop Capital Flight",
-    "source": "AllAfrica Business",
-    "url": "https://allafrica.com/stories/202604170098.html",
-    "publishedAt": "2026-04-17T06:49:15.000Z",
-    "category": "africa-markets",
-    "summary": "[This Day] Nigeria's Minister of Aviation and Aerospace Development, Festus Keyamo, has called for urgent and unified action to transform Africa's aviation sector, insisting that the region must become self-sustaining in aircraft maintenance to curb current capital flight from th",
-    "type": "article",
-    "region": "africa"
-  },
-  {
     "id": "e1c6d32f62b99c1eca179782b4672618455efe29",
     "title": "Africa: All of Africa Today - April 17, 2026",
     "source": "AllAfrica Business",
@@ -779,17 +900,6 @@
     "summary": "[allAfrica]",
     "type": "article",
     "region": "africa"
-  },
-  {
-    "id": "4560bc2a2d69ccd1f89dd1f31a3d1bdb608ccded",
-    "title": "CNBC Daily Open: A ceasefire, but no Strait talk",
-    "source": "CNBC World",
-    "url": "https://www.cnbc.com/2026/04/17/cnbc-daily-open-israel-lebanon-10-day-ceasefire-trump-iran-war.html",
-    "publishedAt": "2026-04-17T06:34:21.000Z",
-    "category": "global-markets",
-    "summary": "A 10-day truce between Isreal and Lebanon takes negotiators another step closer to a broader Middle East peace agreement.",
-    "type": "article",
-    "region": "global"
   },
   {
     "id": "a77ad4d89b415f36d0a017e2ca8010c78021f0be",
@@ -823,17 +933,6 @@
     "summary": "[263Chat] At least 18 people have died after a passenger kombi burst into flames on the Bulawayo-Beitbridge Road near Gwanda tollgate, police say.",
     "type": "article",
     "region": "africa"
-  },
-  {
-    "id": "bd9cba11fed2b1c1fda8afcb4767c7cbfad940d1",
-    "title": "127-year-old retailer confirms more cuts in 2026",
-    "source": "Yahoo Finance",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/127-old-retailer-confirms-more-231700401.html",
-    "publishedAt": "2026-04-16T23:17:00.000Z",
-    "category": "financial-markets",
-    "summary": "",
-    "type": "article",
-    "region": "global"
   },
   {
     "id": "033a5a91482cdbfbefeea8813897bd81131e75a4",
@@ -913,17 +1012,6 @@
     "region": "global"
   },
   {
-    "id": "ed206018d063eb187a8f714ba29f078f7d78557a",
-    "title": "Israel and Lebanon agree to 10-day ceasefire, Trump says",
-    "source": "CNBC World",
-    "url": "https://www.cnbc.com/2026/04/16/trump-israel-lebanon-ceasefire-iran-war.html",
-    "publishedAt": "2026-04-16T19:18:19.000Z",
-    "category": "global-markets",
-    "summary": "Vice President JD Vance, Secretary of State Marco Rubio and Joint Chiefs Chairman Dan Caine will work with Israel and Lebanon, Trump said.",
-    "type": "article",
-    "region": "global"
-  },
-  {
     "id": "103ab90b41da2399fc35d5997a069a13d1f1ecfc",
     "title": "OpenAI debuts GPT-Rosalind, a new limited access model for life sciences, and broader Codex plugin on Github",
     "source": "VentureBeat",
@@ -931,28 +1019,6 @@
     "publishedAt": "2026-04-16T19:02:45.000Z",
     "category": "ai",
     "summary": "The journey from a laboratory hypothesis to a pharmacy shelf is one of the most grueling marathons in modern industry, typically spanning 10 to 15 years and billions of dollars in investment. Progress is often stymied not just by the inherent mysteries of biology, but by the \"fra",
-    "type": "article",
-    "region": "global"
-  },
-  {
-    "id": "4079cbab70755bbb9cafdb7c028784d2be65ead1",
-    "title": "OpenAI drastically updates Codex desktop app to use all other apps on your computer, generate images, preview webpages",
-    "source": "VentureBeat",
-    "url": "https://venturebeat.com/technology/openai-drastically-updates-codex-desktop-app-to-use-all-other-apps-on-your-computer-generate-images-preview-webpages",
-    "publishedAt": "2026-04-16T18:36:52.000Z",
-    "category": "ai",
-    "summary": "Confirming it has reached 3 million weekly developers, OpenAI is massively updating its Codex developer environment via its Mac and Windows desktop apps today to bring it closer to the “Super App” the company has confirmed it is pursuing. Before today, Codex was primarily an envi",
-    "type": "article",
-    "region": "global"
-  },
-  {
-    "id": "61677087e3dda58bbff9ddfa4fcef173707302f8",
-    "title": "TSMC and ASML post-earnings stock moves could be a sign of what's to come from chip companies",
-    "source": "CNBC World",
-    "url": "https://www.cnbc.com/2026/04/16/taiwan-semi-tsm-asml-stock-earnings-ai-chips.html",
-    "publishedAt": "2026-04-16T18:03:42.000Z",
-    "category": "global-markets",
-    "summary": "Two of the biggest chipmakers, TSMC and ASML, failed to catch major tail winds from strong earnings. It could be a bellwether for the chip industry as a whole.",
     "type": "article",
     "region": "global"
   },
@@ -968,15 +1034,15 @@
     "region": "global"
   },
   {
-    "id": "aad40bc3627baab51e6af03ba0453267727ac65d",
-    "title": "Anthropic releases Claude Opus 4.7, narrowly retaking lead for most powerful generally available LLM",
-    "source": "VentureBeat",
-    "url": "https://venturebeat.com/technology/anthropic-releases-claude-opus-4-7-narrowly-retaking-lead-for-most-powerful-generally-available-llm",
-    "publishedAt": "2026-04-16T16:17:00.000Z",
-    "category": "ai",
-    "summary": "Anthropic is publicly releasing its most powerful large language model yet, Claude Opus 4.7, today — as it continues to keep an even more powerful successor, Mythos, restricted to a small number of external enterprise partners for cybersecurity testing and patching vulnerabilitie",
+    "id": "00b73967dc23a26c95455f54a114c3acdcd03892",
+    "title": "Rwanda: Kigali's Industrial Exports Reach $290 Million",
+    "source": "AllAfrica Business",
+    "url": "https://allafrica.com/stories/202604160505.html",
+    "publishedAt": "2026-04-16T15:11:16.000Z",
+    "category": "africa-markets",
+    "summary": "[New Times] Industries operating within the Kigali Special Economic Zone (KSEZ) exported processed goods worth approximately $290 million in 2025, as authorities advance expansion preparations for Phase III and Phase IV.",
     "type": "article",
-    "region": "global"
+    "region": "africa"
   },
   {
     "id": "aa37b9d59189952113bf32daf05663f487ccc026",
@@ -1074,17 +1140,6 @@
     "publishedAt": "2026-04-16T11:08:33.000Z",
     "category": "financial-markets",
     "summary": "The information sought includes so-called Tag 50 identifiers, which can be used to determine who was behind the trades.",
-    "type": "article",
-    "region": "global"
-  },
-  {
-    "id": "e2482661a7ff1d34109d401efd818e3c996b3ee0",
-    "title": "‘Guns vs. butter’: IMF flags tough trade-offs as governments ramp up defense spending",
-    "source": "CNBC World",
-    "url": "https://www.cnbc.com/2026/04/16/defense-imf-guns-butter-social-spending-iran-war-russia-ukraine.html",
-    "publishedAt": "2026-04-16T11:03:35.000Z",
-    "category": "global-markets",
-    "summary": "The International Monetary Fund has raised the alarm over a global “guns versus butter” trade-off as countries ramp up defense spending.",
     "type": "article",
     "region": "global"
   },
@@ -1386,17 +1441,6 @@
     "region": "us"
   },
   {
-    "id": "b932b6a10347f190b30e2cb698d6cdbaed24dfd2",
-    "title": "Financial risk management platform Pillar raises $20M seed in round led by a16z",
-    "source": "TechCrunch Startups",
-    "url": "https://techcrunch.com/2026/04/14/financial-risk-management-platform-pillar-raises-20m-seed-in-round-led-by-a16z/",
-    "publishedAt": "2026-04-14T16:05:00.000Z",
-    "category": "early-stage",
-    "summary": "Pillar hopes to offer sophisticated, institutional-grade tools to small and medium-sized enterprises. \"Our goal is to make hedging as accessible and ubiquitous as payments or accounting software,\" he said.",
-    "type": "article",
-    "region": "global"
-  },
-  {
     "id": "c440ac92926dac6a4ce163252b42299addd189a9",
     "title": "Global recession is inevitable if Strait of Hormuz stays shut, says Citadel's Ken Griffin",
     "source": "CNBC Finance",
@@ -1415,17 +1459,6 @@
     "publishedAt": "2026-04-14T16:03:43.000Z",
     "category": "financial-markets",
     "summary": "Bessent has previously said the Fed should hasten cutting interest rates, calling reductions \"the only ingredient missing\" for stronger economic growth.",
-    "type": "article",
-    "region": "global"
-  },
-  {
-    "id": "2b901b9bb099ee38396d49861d0c133d7315b43a",
-    "title": "In just a couple weeks, StrictlyVC San Francisco brings leaders from TDK Ventures, Replit, and more together",
-    "source": "TechCrunch Startups",
-    "url": "https://techcrunch.com/2026/04/14/join-the-first-strictlyvc-of-2026-in-sf-with-leaders-from-tdk-ventures-and-replits-co-founder/",
-    "publishedAt": "2026-04-14T15:30:49.000Z",
-    "category": "early-stage",
-    "summary": "The first StrictlyVC of the year will be coming to San Francisco before you know it. There are still a few tickets available to join us and our stacked speaker lineup April 30, so register today!",
     "type": "article",
     "region": "global"
   },
@@ -1639,17 +1672,6 @@
     "region": "africa"
   },
   {
-    "id": "372960ebfdef03325b9ecb4a4500d07fc922c710",
-    "title": "Uganda: Government Ties Embassy Funding to Trade, Investment Performance",
-    "source": "AllAfrica Investment",
-    "url": "https://allafrica.com/stories/202604100510.html",
-    "publishedAt": "2026-04-10T17:15:50.000Z",
-    "category": "africa-markets",
-    "summary": "[Nile Post] Uganda's diplomatic Missions must increasingly be evaluated based on their contribution to the country's economic diplomacy agenda, rather than on protocol activities alone.",
-    "type": "article",
-    "region": "africa"
-  },
-  {
     "id": "68d8e7c90ebf8a7e0cf75d5f215b7dae2ea82d1e",
     "title": "BlackRock rips page from hedge fund playbook, applies it to exchange-traded funds",
     "source": "CNBC Finance",
@@ -1657,17 +1679,6 @@
     "publishedAt": "2026-04-10T15:23:50.000Z",
     "category": "financial-markets",
     "summary": "BlackRock's Jeffrey Rosenberg has a leading role in the firm's liquid alt ETFs — which use a long-short strategy in ETF wrappers.",
-    "type": "article",
-    "region": "global"
-  },
-  {
-    "id": "9e3b942005569c484a6473adf880be7e7072f5b2",
-    "title": "The Week’s 10 Biggest Funding Rounds: SiFive Leads With $400M For Custom Chip Designs As Aviation, Biotech And Defense Startups Also Raise Big",
-    "source": "Crunchbase News",
-    "url": "https://news.crunchbase.com/venture/biggest-funding-rounds-chips-aviation-biotech-sifive/",
-    "publishedAt": "2026-04-10T15:23:22.000Z",
-    "category": "venture-capital",
-    "summary": "While no billion-dollar rounds led this week’s list, we nonetheless saw a variety of startups in industries ranging from semiconductors to aerospace to biotech raise sizable rounds.",
     "type": "article",
     "region": "global"
   },
@@ -1725,6 +1736,17 @@
     "summary": "Federal Reserve Board announces termination of enforcement actions with Crédit Agricole S.A. and Crédit Agricole Corporate and Investment Bank, Mega International Commercial Bank Co., Ltd, and the Goldman Sachs Group, Inc.",
     "type": "article",
     "region": "global"
+  },
+  {
+    "id": "cfcf41f842fa8ee6e257b1a889ea0a804e2d6bc2",
+    "title": "Liberia: Senator Brown Commissions Final Two Projects, Total Investment Reaches U.S.$161,342",
+    "source": "AllAfrica Investment",
+    "url": "https://allafrica.com/stories/202604090416.html",
+    "publishedAt": "2026-04-09T12:11:06.000Z",
+    "category": "africa-markets",
+    "summary": "[FrontPageAfrica] Harper -- On Wednesday, April 8, Maryland County Senator J. Gble-bo Brown commissioned the final two projects under his recent development initiatives, bringing the total investment for four projects across the county to US$161,342.",
+    "type": "article",
+    "region": "africa"
   },
   {
     "id": "a9ef5679a041eb098f46f7c054e080370aab1cb2",
@@ -2075,17 +2097,6 @@
     "publishedAt": "2026-02-24T14:15:00.000Z",
     "category": "fixed-income",
     "summary": "Speech At the Federal Reserve Bank of Boston 2026 Technology-Enabled Disruption Conference: Shaping the Future of Finance and Payments, Boston, Massachusetts (via webcast)",
-    "type": "article",
-    "region": "us"
-  },
-  {
-    "id": "17e375086e92c9925c724a4f1c74fd2a79ad19da",
-    "title": "Waller, Labor Market Data: Signal or Noise?",
-    "source": "Federal Reserve Speeches",
-    "url": "https://www.federalreserve.gov/newsevents/speech/waller20260223a.htm",
-    "publishedAt": "2026-02-23T13:00:00.000Z",
-    "category": "fixed-income",
-    "summary": "Speech At The Great Realignment: Navigating AI, Demographic and Geoeconomic Change, 42nd Annual NABE Economic Policy Conference, The National Association for Business Economics, Washington, D.C.",
     "type": "article",
     "region": "us"
   },
