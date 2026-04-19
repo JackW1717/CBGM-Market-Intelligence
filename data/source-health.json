@@ -3,156 +3,156 @@
     "consecutiveFailures": 0,
     "lastStatus": "success",
     "lastMessage": "success",
-    "updatedAt": "2026-04-18T11:42:28.150Z"
+    "updatedAt": "2026-04-19T11:43:09.367Z"
   },
   "MarketWatch Top Stories": {
     "consecutiveFailures": 0,
     "lastStatus": "success",
     "lastMessage": "success",
-    "updatedAt": "2026-04-18T11:42:28.150Z"
+    "updatedAt": "2026-04-19T11:43:09.367Z"
   },
   "CNBC World": {
     "consecutiveFailures": 0,
     "lastStatus": "success",
     "lastMessage": "success",
-    "updatedAt": "2026-04-18T11:42:28.150Z"
+    "updatedAt": "2026-04-19T11:43:09.367Z"
   },
   "CNBC Finance": {
     "consecutiveFailures": 0,
     "lastStatus": "success",
     "lastMessage": "success",
-    "updatedAt": "2026-04-18T11:42:28.150Z"
+    "updatedAt": "2026-04-19T11:43:09.367Z"
   },
   "AllAfrica Business": {
     "consecutiveFailures": 0,
     "lastStatus": "success",
     "lastMessage": "success",
-    "updatedAt": "2026-04-18T11:42:28.150Z"
+    "updatedAt": "2026-04-19T11:43:09.367Z"
   },
   "AllAfrica Investment": {
     "consecutiveFailures": 0,
     "lastStatus": "success",
     "lastMessage": "success",
-    "updatedAt": "2026-04-18T11:42:28.150Z"
+    "updatedAt": "2026-04-19T11:43:09.367Z"
   },
   "Crunchbase News": {
     "consecutiveFailures": 0,
     "lastStatus": "success",
     "lastMessage": "success",
-    "updatedAt": "2026-04-18T11:42:28.150Z"
+    "updatedAt": "2026-04-19T11:43:09.367Z"
   },
   "TechCrunch Startups": {
     "consecutiveFailures": 0,
     "lastStatus": "success",
     "lastMessage": "success",
-    "updatedAt": "2026-04-18T11:42:28.150Z"
+    "updatedAt": "2026-04-19T11:43:09.367Z"
   },
   "TechCrunch Venture": {
     "consecutiveFailures": 0,
     "lastStatus": "success",
     "lastMessage": "success",
-    "updatedAt": "2026-04-18T11:42:28.150Z"
+    "updatedAt": "2026-04-19T11:43:09.367Z"
   },
   "VentureBeat": {
     "consecutiveFailures": 0,
     "lastStatus": "success",
     "lastMessage": "success",
-    "updatedAt": "2026-04-18T11:42:28.150Z"
+    "updatedAt": "2026-04-19T11:43:09.367Z"
   },
   "MIT Technology Review": {
     "consecutiveFailures": 0,
     "lastStatus": "success",
     "lastMessage": "success",
-    "updatedAt": "2026-04-18T11:42:28.150Z"
+    "updatedAt": "2026-04-19T11:43:09.367Z"
   },
   "Federal Reserve Press Releases": {
     "consecutiveFailures": 0,
     "lastStatus": "success",
     "lastMessage": "success",
-    "updatedAt": "2026-04-18T11:42:28.150Z"
+    "updatedAt": "2026-04-19T11:43:09.367Z"
   },
   "Federal Reserve Speeches": {
     "consecutiveFailures": 0,
     "lastStatus": "success",
     "lastMessage": "success",
-    "updatedAt": "2026-04-18T11:42:28.150Z"
+    "updatedAt": "2026-04-19T11:43:09.367Z"
   },
   "IMF News": {
-    "consecutiveFailures": 2,
+    "consecutiveFailures": 3,
     "lastStatus": "failure",
     "lastMessage": "Feed not recognized as RSS 1 or 2.",
-    "updatedAt": "2026-04-18T11:42:28.150Z"
+    "updatedAt": "2026-04-19T11:43:09.367Z"
   },
   "World Bank News": {
-    "consecutiveFailures": 2,
+    "consecutiveFailures": 3,
     "lastStatus": "failure",
     "lastMessage": "Feed request failed (404)",
-    "updatedAt": "2026-04-18T11:42:28.150Z"
+    "updatedAt": "2026-04-19T11:43:09.367Z"
   },
   "FRED - 2Y Treasury": {
-    "consecutiveFailures": 2,
+    "consecutiveFailures": 3,
     "lastStatus": "failure",
     "lastMessage": "fetch failed",
-    "updatedAt": "2026-04-18T11:42:28.150Z"
+    "updatedAt": "2026-04-19T11:43:09.367Z"
   },
   "FRED - 10Y Treasury": {
-    "consecutiveFailures": 2,
+    "consecutiveFailures": 3,
     "lastStatus": "failure",
     "lastMessage": "fetch failed",
-    "updatedAt": "2026-04-18T11:42:28.150Z"
+    "updatedAt": "2026-04-19T11:43:09.367Z"
   },
   "FRED - 30Y Treasury": {
-    "consecutiveFailures": 2,
+    "consecutiveFailures": 3,
     "lastStatus": "failure",
     "lastMessage": "fetch failed",
-    "updatedAt": "2026-04-18T11:42:28.150Z"
+    "updatedAt": "2026-04-19T11:43:09.367Z"
   },
   "FRED - 3M Treasury": {
-    "consecutiveFailures": 2,
+    "consecutiveFailures": 3,
     "lastStatus": "failure",
     "lastMessage": "fetch failed",
-    "updatedAt": "2026-04-18T11:42:28.150Z"
+    "updatedAt": "2026-04-19T11:43:09.367Z"
   },
   "FRED - 10Y minus 2Y": {
-    "consecutiveFailures": 2,
+    "consecutiveFailures": 3,
     "lastStatus": "failure",
     "lastMessage": "fetch failed",
-    "updatedAt": "2026-04-18T11:42:28.150Z"
+    "updatedAt": "2026-04-19T11:43:09.367Z"
   },
   "Alpha Vantage - SPY": {
-    "consecutiveFailures": 2,
+    "consecutiveFailures": 3,
     "lastStatus": "failure",
     "lastMessage": "ALPHA_VANTAGE_API_KEY is not set",
-    "updatedAt": "2026-04-18T11:42:28.150Z"
+    "updatedAt": "2026-04-19T11:43:09.367Z"
   },
   "Alpha Vantage - QQQ": {
-    "consecutiveFailures": 2,
+    "consecutiveFailures": 3,
     "lastStatus": "failure",
     "lastMessage": "ALPHA_VANTAGE_API_KEY is not set",
-    "updatedAt": "2026-04-18T11:42:28.150Z"
+    "updatedAt": "2026-04-19T11:43:09.367Z"
   },
   "Alpha Vantage - DIA": {
-    "consecutiveFailures": 2,
+    "consecutiveFailures": 3,
     "lastStatus": "failure",
     "lastMessage": "ALPHA_VANTAGE_API_KEY is not set",
-    "updatedAt": "2026-04-18T11:42:28.150Z"
+    "updatedAt": "2026-04-19T11:43:09.367Z"
   },
   "FRED - 10Y TIPS": {
-    "consecutiveFailures": 2,
+    "consecutiveFailures": 3,
     "lastStatus": "failure",
     "lastMessage": "fetch failed",
-    "updatedAt": "2026-04-18T11:42:28.150Z"
+    "updatedAt": "2026-04-19T11:43:09.367Z"
   },
   "FRED - 10Y minus 3M": {
-    "consecutiveFailures": 2,
+    "consecutiveFailures": 3,
     "lastStatus": "failure",
     "lastMessage": "fetch failed",
-    "updatedAt": "2026-04-18T11:42:28.150Z"
+    "updatedAt": "2026-04-19T11:43:09.367Z"
   },
   "Alpha Vantage - IWM": {
-    "consecutiveFailures": 2,
+    "consecutiveFailures": 3,
     "lastStatus": "failure",
     "lastMessage": "ALPHA_VANTAGE_API_KEY is not set",
-    "updatedAt": "2026-04-18T11:42:28.150Z"
+    "updatedAt": "2026-04-19T11:43:09.367Z"
   }
 }

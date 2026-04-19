@@ -1,34 +1,232 @@
 [
   {
-    "id": "ed3e652cf091d80ee36901a65ade0090aaf98dd1",
-    "title": "A new era of AI crime has arrived with Anthropic’s Mythos",
-    "source": "MarketWatch Top Stories",
-    "url": "https://www.marketwatch.com/story/a-new-era-of-ai-crime-has-arrived-with-anthropics-mythos-d5451040?mod=mw_rss_topstories",
-    "publishedAt": "2026-04-18T11:30:00.000Z",
-    "category": "financial-markets",
-    "summary": "Anthropic’s new model is a frightening reminder of the threat posed by AI — and it’s not clear what the solution is.",
-    "type": "article",
-    "region": "global"
-  },
-  {
-    "id": "13625d6522e59973bc119fd324f8ababc66105c5",
-    "title": "AI companies are rationing compute. That’s a boon for traditional software, one analyst says.",
-    "source": "MarketWatch Top Stories",
-    "url": "https://www.marketwatch.com/story/ai-companies-are-rationing-compute-thats-a-boon-for-traditional-software-one-analyst-says-e19e0cb7?mod=mw_rss_topstories",
-    "publishedAt": "2026-04-18T11:00:00.000Z",
-    "category": "financial-markets",
-    "summary": "A closely followed iShares software ETF just had its best week in 25 years, as some believe the sentiment around AI may be changing — at least for now.",
-    "type": "article",
-    "region": "global"
-  },
-  {
     "id": "be8a36aadacb8a98a95b8a663f1fca3290ff7774",
     "title": "‘I have full guardianship’: My son has special needs. If I buy him a condo, will that hurt his benefits?",
     "source": "MarketWatch Top Stories",
     "url": "https://www.marketwatch.com/story/i-have-full-guardianship-my-son-has-special-needs-if-i-buy-him-a-condo-will-that-hurt-his-benefits-6f26e904?mod=mw_rss_topstories",
-    "publishedAt": "2026-04-18T10:30:00.000Z",
+    "publishedAt": "2026-04-19T11:00:00.000Z",
     "category": "financial-markets",
     "summary": "“Another option would be for me to purchase the condo myself and have him pay me rent.”",
+    "type": "article",
+    "region": "global"
+  },
+  {
+    "id": "a36ad219fabc8f74b20aaea649dfead770ef7988",
+    "title": "Iran says talks continue while it retains control of Strait of Hormuz traffic",
+    "source": "CNBC World",
+    "url": "https://www.cnbc.com/2026/04/19/iran-says-talks-continue-while-it-retains-control-of-strait-of-hormuz-.html",
+    "publishedAt": "2026-04-19T10:44:18.000Z",
+    "category": "global-markets",
+    "summary": "Iran's top negotiator says his government has \"no trust\" in its enemies, after Trump says the U.S. won't be blackmailed.",
+    "type": "article",
+    "region": "global"
+  },
+  {
+    "id": "82c0b34a83cd09cd3753c2e3767be2be825f504a",
+    "title": "‘I have more money than I know what to do with’: I’m a single millionaire with no heirs and don’t like spending. What’s wrong with me?",
+    "source": "MarketWatch Top Stories",
+    "url": "https://www.marketwatch.com/story/i-have-more-money-than-i-know-what-to-do-with-im-a-single-millionaire-with-no-heirs-and-dont-like-spending-whats-wrong-dd5acfb6?mod=mw_rss_topstories",
+    "publishedAt": "2026-04-19T10:30:00.000Z",
+    "category": "financial-markets",
+    "summary": "“I buy clothes at thrift stores.”",
+    "type": "article",
+    "region": "global"
+  },
+  {
+    "id": "931d6d33e22155523f80910454652778dc892c22",
+    "title": "‘It is their fault’: My condo board forgot to bill for storage fees. Must I pay retroactively?",
+    "source": "MarketWatch Top Stories",
+    "url": "https://www.marketwatch.com/story/it-is-their-fault-my-condo-board-forgot-to-bill-for-storage-fees-must-i-pay-retroactively-e5f6246b?mod=mw_rss_topstories",
+    "publishedAt": "2026-04-19T08:35:00.000Z",
+    "category": "financial-markets",
+    "summary": "“They now intend to bill us for seven to eight months of storage fees.”",
+    "type": "article",
+    "region": "global"
+  },
+  {
+    "id": "ff9c71e1f0d27414839fdcd9c77f529ae08bb170",
+    "title": "West Africa: Ivorian Lender BICICI Profit Jumps 39 Percent On Higher Revenue",
+    "source": "AllAfrica Business",
+    "url": "https://allafrica.com/stories/202604190006.html",
+    "publishedAt": "2026-04-19T00:16:00.000Z",
+    "category": "africa-markets",
+    "summary": "[Daba Finance] BICICI, the Abidjan-based, BRVM-listed lender now owned by an Ivorian state consortium, posted a 39% jump in net profit for the year ended December 31, 2025 -- the clearest sign yet that the bank's transition away from French parent BNP Paribas, completed in 2022, ",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "f88976d1c60980dc3f6b0ccf308c684f197c097c",
+    "title": "New York City is floating a $500 million second-home tax — and it would hurt industries that support thousands of jobs",
+    "source": "MarketWatch Top Stories",
+    "url": "https://www.marketwatch.com/story/mayor-mamdanis-500-million-war-on-the-rich-will-force-new-york-citys-top-taxpayers-to-florida-e179b49a?mod=mw_rss_topstories",
+    "publishedAt": "2026-04-18T22:42:00.000Z",
+    "category": "financial-markets",
+    "summary": "Surcharge on luxury units is a gamble that the ultrawealthy won’t leave for low-tax states.",
+    "type": "article",
+    "region": "global"
+  },
+  {
+    "id": "50ee17f32cfa763693494faf16a014564503e95a",
+    "title": "Iran says Strait of Hormuz is closed again as vessels attempting to cross come under fire",
+    "source": "CNBC World",
+    "url": "https://www.cnbc.com/2026/04/18/trump-says-us-has-good-news-on-iran-talks-to-continue.html",
+    "publishedAt": "2026-04-18T22:24:21.000Z",
+    "category": "global-markets",
+    "summary": "Iranian officials say they have closed the strait because of the U.S.'s ongoing blockade of its ports.",
+    "type": "article",
+    "region": "global"
+  },
+  {
+    "id": "b0fcc9675a05408352915cc8afc784dea0e3ad66",
+    "title": "Caregiving has become so crazy expensive that it’s financially devastating to most families",
+    "source": "MarketWatch Top Stories",
+    "url": "https://www.marketwatch.com/story/caregiving-is-now-so-crazy-expensive-that-its-financially-devastating-to-most-families-new-research-shows-989ba873?mod=mw_rss_topstories",
+    "publishedAt": "2026-04-18T20:29:00.000Z",
+    "category": "financial-markets",
+    "summary": "Only the wealthiest Americans can bear the costs of long-term care, new research found",
+    "type": "article",
+    "region": "global"
+  },
+  {
+    "id": "7f219912ca6ee45095ca7964671f79908343447a",
+    "title": "New Social Security proposal would cap payments for wealthy people now — and many more later on",
+    "source": "MarketWatch Top Stories",
+    "url": "https://www.marketwatch.com/story/new-social-security-proposal-would-cap-payments-for-wealthy-people-now-and-many-more-later-on-20c926cf?mod=mw_rss_topstories",
+    "publishedAt": "2026-04-18T20:29:00.000Z",
+    "category": "financial-markets",
+    "summary": "Benefit limits could do a lot to solve Social Security’s fiscal problems, CRFB suggests. But check the fine print.",
+    "type": "article",
+    "region": "global"
+  },
+  {
+    "id": "53b8229f37efea9e0e16c6dbad9a2bcc5019751d",
+    "title": "Planning to age in place? Watch out for these hidden costs.",
+    "source": "MarketWatch Top Stories",
+    "url": "https://www.marketwatch.com/story/most-retirees-want-to-age-in-their-own-homes-but-theyre-not-factoring-in-these-hidden-costs-3e0467e9?mod=mw_rss_topstories",
+    "publishedAt": "2026-04-18T20:29:00.000Z",
+    "category": "financial-markets",
+    "summary": "Most retirees want to stay in their homes as they age. It might not be worth it.",
+    "type": "article",
+    "region": "global"
+  },
+  {
+    "id": "464c249e04ffed0e095c09784fc3418416f32bf0",
+    "title": "2 expensive mistakes most retirees make — and how to avoid them",
+    "source": "MarketWatch Top Stories",
+    "url": "https://www.marketwatch.com/story/2-expensive-mistakes-most-retirees-make-and-how-to-avoid-them-89183679?mod=mw_rss_topstories",
+    "publishedAt": "2026-04-18T20:29:00.000Z",
+    "category": "financial-markets",
+    "summary": "“We call them ‘King Tut’ subjects — they’re buried with their gold.”",
+    "type": "article",
+    "region": "global"
+  },
+  {
+    "id": "d128ac0bd3fa4e114685d006e1d927b5be3a9408",
+    "title": "Private credit not only won’t spark a financial crisis — it may be more stable than your bank",
+    "source": "MarketWatch Top Stories",
+    "url": "https://www.marketwatch.com/story/private-credit-is-actually-built-to-survive-the-ghosts-of-the-great-financial-crisis-6eaa35d6?mod=mw_rss_topstories",
+    "publishedAt": "2026-04-18T19:46:00.000Z",
+    "category": "financial-markets",
+    "summary": "With 65% equity cushions and 10-year lockups, Wall Street’s ‘anti-banks’ won’t face a ‘Lehman moment.’",
+    "type": "article",
+    "region": "global"
+  },
+  {
+    "id": "340eaac8b706a7a94a92be7ea4dc7e9b65ec0cdf",
+    "title": "This is the defense sector’s fastest grower — and a $20 billion trade most investors are missing",
+    "source": "MarketWatch Top Stories",
+    "url": "https://www.marketwatch.com/story/the-20-billion-drone-killer-trade-most-investors-are-missing-7fff2293?mod=mw_rss_topstories",
+    "publishedAt": "2026-04-18T19:44:00.000Z",
+    "category": "financial-markets",
+    "summary": "‘Drone-killing’ technology is now a must-have for government agencies — from Washington to Riyadh.",
+    "type": "article",
+    "region": "global"
+  },
+  {
+    "id": "58dc158d54af51f4623050e6e715e3fb61c43e89",
+    "title": "AI chip startup Cerebras files for IPO",
+    "source": "TechCrunch Startups",
+    "url": "https://techcrunch.com/2026/04/18/ai-chip-startup-cerebras-files-for-ipo/",
+    "publishedAt": "2026-04-18T19:19:11.000Z",
+    "category": "early-stage",
+    "summary": "In recent months, the company announced an agreement with Amazon Web Services to use Cerebras chips in Amazon data centers, as well as a deal with OpenAI reportedly worth more than $10 billion.",
+    "type": "article",
+    "region": "global"
+  },
+  {
+    "id": "4cdfdd0dadc24cd1080f7e73440a615d005d1fb2",
+    "title": "Here are 3 forces that drove a remarkable, record-setting week on Wall Street",
+    "source": "CNBC Finance",
+    "url": "https://www.cnbc.com/2026/04/18/the-3-forces-that-drove-a-remarkable-record-setting-week-on-wall-street.html",
+    "publishedAt": "2026-04-18T14:13:04.000Z",
+    "category": "financial-markets",
+    "summary": "The S&P 500 closed above 7,100 for the first time as it completed its fastest turnaround since 1990.",
+    "type": "article",
+    "region": "global"
+  },
+  {
+    "id": "8d8ae0105321d5ca24dabc624d00d41abef73fa5",
+    "title": "Naomi Watts wants women to own their menopause journey: 'Why is it so taboo when we are half the population?'",
+    "source": "CNBC World",
+    "url": "https://www.cnbc.com/2026/04/18/naomi-watts-wants-women-to-own-menopause-we-are-half-the-population.html",
+    "publishedAt": "2026-04-18T14:03:52.000Z",
+    "category": "global-markets",
+    "summary": "Actress and entrepreneur Naomi Watts founded Stripes Beauty with a singular mission: helping women take control of menopause health and aging with confidence.",
+    "type": "article",
+    "region": "global"
+  },
+  {
+    "id": "92bd0c11074fc92a647ac88370a3f98e00cce70b",
+    "title": "Nvidia's once-tight bond with gamers is cracking over AI, 'and that breaks my heart'",
+    "source": "CNBC World",
+    "url": "https://www.cnbc.com/2026/04/18/nvidia-ai-backlash-gamers-geforce-gpu.html",
+    "publishedAt": "2026-04-18T12:00:01.000Z",
+    "category": "global-markets",
+    "summary": "Gamers once helped save Nvidia from bankruptcy. Now they feel left behind as the memory crunch drives focus to AI chips and DLSS 5 disrupts game design.",
+    "type": "article",
+    "region": "global"
+  },
+  {
+    "id": "d15a5a7f7f6e73eccad9da2b18f142f87e894038",
+    "title": "Peloton Interactive: Bargain of the Year or Value Trap in 2026?",
+    "source": "Yahoo Finance",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/peloton-interactive-bargain-value-trap-103500252.html",
+    "publishedAt": "2026-04-18T10:35:00.000Z",
+    "category": "financial-markets",
+    "summary": "",
+    "type": "article",
+    "region": "global"
+  },
+  {
+    "id": "8065110ad141493330b5b0ab9207d828aa671235",
+    "title": "The Energy ETF NDIV paid 44% returns this year, but dividends may not last",
+    "source": "Yahoo Finance",
+    "url": "https://finance.yahoo.com/sectors/energy/articles/energy-etf-ndiv-paid-44-103057607.html",
+    "publishedAt": "2026-04-18T10:30:57.000Z",
+    "category": "financial-markets",
+    "summary": "",
+    "type": "article",
+    "region": "global"
+  },
+  {
+    "id": "093d3b303cf5563ba39808db4e0c7478ca234ba1",
+    "title": "I’m in my mid-50s with $10 million saved, why can’t I pull the trigger on retirement?",
+    "source": "Yahoo Finance",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/m-mid-50s-10-million-103011090.html",
+    "publishedAt": "2026-04-18T10:30:11.000Z",
+    "category": "financial-markets",
+    "summary": "",
+    "type": "article",
+    "region": "global"
+  },
+  {
+    "id": "321f22ffdfc67f634550885e39e2a619bae3a851",
+    "title": "Jamie Dimon says the next credit crisis will be 'worse than people expect' — here's what big bank earnings have revealed",
+    "source": "Yahoo Finance",
+    "url": "https://finance.yahoo.com/economy/policy/articles/jamie-dimon-says-next-credit-103000328.html",
+    "publishedAt": "2026-04-18T10:30:00.000Z",
+    "category": "financial-markets",
+    "summary": "",
     "type": "article",
     "region": "global"
   },
@@ -44,13 +242,178 @@
     "region": "global"
   },
   {
-    "id": "50ee17f32cfa763693494faf16a014564503e95a",
-    "title": "Trump says U.S. has 'good news' on Iran as Tehran says the Strait of Hormuz is closed again",
-    "source": "CNBC World",
-    "url": "https://www.cnbc.com/2026/04/18/trump-says-us-has-good-news-on-iran-talks-to-continue.html",
-    "publishedAt": "2026-04-18T10:01:49.000Z",
-    "category": "global-markets",
-    "summary": "President Trump tells reporters that the U.S. and Iran will jointly recover nuclear material after a deal is reached.",
+    "id": "a1ab78ed6f9c0aa495402eb89f400af5a1567730",
+    "title": "‘It’ll be a trillion dollars’: Trump floats eliminating income tax due to 'large' tariff revenue. Does his math add up?",
+    "source": "Yahoo Finance",
+    "url": "https://finance.yahoo.com/economy/policy/articles/ll-trillion-dollars-trump-floats-102300079.html",
+    "publishedAt": "2026-04-18T10:23:00.000Z",
+    "category": "financial-markets",
+    "summary": "",
+    "type": "article",
+    "region": "global"
+  },
+  {
+    "id": "824b10646b5fee37c65d362cc5ef948829deccfa",
+    "title": "Dividend Stocks Are Beating the Market in 2026. Here Is Why That Makes Sense Right Now.",
+    "source": "Yahoo Finance",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/dividend-stocks-beating-market-2026-102000809.html",
+    "publishedAt": "2026-04-18T10:20:00.000Z",
+    "category": "financial-markets",
+    "summary": "",
+    "type": "article",
+    "region": "global"
+  },
+  {
+    "id": "eef263ed9aa4abe93fadd91ed1b99b2b39acba15",
+    "title": "Morning Brief: The future of Netflix is now",
+    "source": "Yahoo Finance",
+    "url": "https://finance.yahoo.com/news/morning-brief-the-future-of-netflix-is-now-100051740.html",
+    "publishedAt": "2026-04-18T10:00:51.000Z",
+    "category": "financial-markets",
+    "summary": "",
+    "type": "article",
+    "region": "global"
+  },
+  {
+    "id": "82cf8c802a1ea51d4e3610af2f3e14e974247590",
+    "title": "The future of Netflix is now",
+    "source": "Yahoo Finance",
+    "url": "https://finance.yahoo.com/news/the-future-of-netflix-is-now-100022235.html",
+    "publishedAt": "2026-04-18T10:00:22.000Z",
+    "category": "financial-markets",
+    "summary": "",
+    "type": "article",
+    "region": "global"
+  },
+  {
+    "id": "116bae19c973c588efa8dfda66aab17dcdb9722a",
+    "title": "Best CD rates today, April 18, 2026 (best account provides 4.05% APY)",
+    "source": "Yahoo Finance",
+    "url": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-saturday-april-18-2026-100000449.html",
+    "publishedAt": "2026-04-18T10:00:00.000Z",
+    "category": "financial-markets",
+    "summary": "",
+    "type": "article",
+    "region": "global"
+  },
+  {
+    "id": "ae6e55a488b2e8eb124a0b7cdf15ae784575e54e",
+    "title": "Best money market account rates today, April 18, 2026 (best account provides 4.01% APY)",
+    "source": "Yahoo Finance",
+    "url": "https://finance.yahoo.com/personal-finance/banking/article/best-money-market-account-rates-today-saturday-april-18-2026-100000541.html",
+    "publishedAt": "2026-04-18T10:00:00.000Z",
+    "category": "financial-markets",
+    "summary": "",
+    "type": "article",
+    "region": "global"
+  },
+  {
+    "id": "95095e7757a8a02f4cd0980f20f74b5107437bd8",
+    "title": "Best high-yield savings interest rates today, April 18, 2026 (Earn up to 4.1% APY)",
+    "source": "Yahoo Finance",
+    "url": "https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-saturday-april-18-2026-100000204.html",
+    "publishedAt": "2026-04-18T10:00:00.000Z",
+    "category": "financial-markets",
+    "summary": "",
+    "type": "article",
+    "region": "global"
+  },
+  {
+    "id": "abb3e10dcef769ec1d43a739cff0c1930ae1095a",
+    "title": "Mortgage and refinance interest rates today, April 18, 2026: Lowest in 5 weeks",
+    "source": "Yahoo Finance",
+    "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-interest-rates-today-saturday-april-18-2026-100000908.html",
+    "publishedAt": "2026-04-18T10:00:00.000Z",
+    "category": "financial-markets",
+    "summary": "",
+    "type": "article",
+    "region": "global"
+  },
+  {
+    "id": "d8e3bee7c970879b2be8deabaf004d35025a0691",
+    "title": "HELOC and home equity loan rates Saturday, April 18, 2026: Rates unlikely to move much for months",
+    "source": "Yahoo Finance",
+    "url": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-home-equity-loan-interest-rates-today-saturday-april-18-2026-100000101.html",
+    "publishedAt": "2026-04-18T10:00:00.000Z",
+    "category": "financial-markets",
+    "summary": "",
+    "type": "article",
+    "region": "global"
+  },
+  {
+    "id": "4209417b0cb010174eedd6cba462d7543b0a332f",
+    "title": "Booz Allen Hamilton Holding Corp (BAH) Bolsters Space-Focused Portfolio with Portal Space Systems",
+    "source": "Yahoo Finance",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/booz-allen-hamilton-holding-corp-094338936.html",
+    "publishedAt": "2026-04-18T09:43:38.000Z",
+    "category": "financial-markets",
+    "summary": "",
+    "type": "article",
+    "region": "global"
+  },
+  {
+    "id": "da5cf53547d974295b484f4dd3bd7198e05182a4",
+    "title": "Is Rocket Lab Corporation (RKLB) An Unstoppable Growth Stocks to Invest In According to Reddit?",
+    "source": "Yahoo Finance",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-corporation-rklb-unstoppable-094333953.html",
+    "publishedAt": "2026-04-18T09:43:33.000Z",
+    "category": "financial-markets",
+    "summary": "",
+    "type": "article",
+    "region": "global"
+  },
+  {
+    "id": "cb9cf3992a27b386c922b99e562a1880c637810d",
+    "title": "Here’s Why Cantor Fitzgerald Lowered PT on IREN Limited (IREN)",
+    "source": "Yahoo Finance",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/why-cantor-fitzgerald-lowered-pt-094328457.html",
+    "publishedAt": "2026-04-18T09:43:28.000Z",
+    "category": "financial-markets",
+    "summary": "",
+    "type": "article",
+    "region": "global"
+  },
+  {
+    "id": "1331f04c20ef74a269e9b5bb7f6b44efe2d6cf90",
+    "title": "Is General Dynamics Corporation (GD) The Best Defense Stock on Big Military Contracts?",
+    "source": "Yahoo Finance",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/general-dynamics-corporation-gd-best-094324628.html",
+    "publishedAt": "2026-04-18T09:43:24.000Z",
+    "category": "financial-markets",
+    "summary": "",
+    "type": "article",
+    "region": "global"
+  },
+  {
+    "id": "48112b849ba22ecf5c99d1ce48aa85aa35bbae4b",
+    "title": "Freedom Capital Markets Downgrades Nebius Group (NBIS), Should You Still Buy?",
+    "source": "Yahoo Finance",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/freedom-capital-markets-downgrades-nebius-094320887.html",
+    "publishedAt": "2026-04-18T09:43:20.000Z",
+    "category": "financial-markets",
+    "summary": "",
+    "type": "article",
+    "region": "global"
+  },
+  {
+    "id": "a92aed4ee740dc2dba3f4afe0cbb5af2bc34cabc",
+    "title": "Wall Street Bullish on Constellation Energy Corporation (CEG), Here’s What You Need to Know",
+    "source": "Yahoo Finance",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-bullish-constellation-energy-094311528.html",
+    "publishedAt": "2026-04-18T09:43:11.000Z",
+    "category": "financial-markets",
+    "summary": "",
+    "type": "article",
+    "region": "global"
+  },
+  {
+    "id": "37c0c7adc05a63f470da83811d187ed217aa4f9e",
+    "title": "HEICO Corporation (HEI) Expands Into Antennas Market with Southwest Antennas Deal",
+    "source": "Yahoo Finance",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/heico-corporation-hei-expands-antennas-094306336.html",
+    "publishedAt": "2026-04-18T09:43:06.000Z",
+    "category": "financial-markets",
+    "summary": "",
     "type": "article",
     "region": "global"
   },
@@ -66,28 +429,6 @@
     "region": "global"
   },
   {
-    "id": "de6c23e991b258380ec45a08bdff444607e9d140",
-    "title": "Think the rally is safe? This elite market-timing indicator says a correction is overdue.",
-    "source": "MarketWatch Top Stories",
-    "url": "https://www.marketwatch.com/story/think-the-rally-is-safe-this-elite-market-timing-indicator-says-a-correction-is-overdue-8049c27f?mod=mw_rss_topstories",
-    "publishedAt": "2026-04-18T00:48:00.000Z",
-    "category": "financial-markets",
-    "summary": "The gold-platinum ratio suggests the stock market is living on borrowed time.",
-    "type": "article",
-    "region": "global"
-  },
-  {
-    "id": "618495e7e524b1677573754461a623e30d28f7ca",
-    "title": "Video shows ships turning away from the Strait of Hormuz as confusion persists over whether sea lane is really open",
-    "source": "CNBC World",
-    "url": "https://www.cnbc.com/2026/04/17/iran-trump-strait-hormuz-oil-tanker-traffic.html",
-    "publishedAt": "2026-04-17T23:33:49.000Z",
-    "category": "global-markets",
-    "summary": "The Strait of Hormuz remained effectively closed despite Iran's declaration Friday that it is open, maritime freight and oil analysts told CNBC.",
-    "type": "article",
-    "region": "global"
-  },
-  {
     "id": "d23d35045d1c73cede6050d1daea50444adaef57",
     "title": "Trump says he had 'no idea' Anthropic's Amodei met with White House about Mythos",
     "source": "CNBC World",
@@ -99,17 +440,6 @@
     "region": "global"
   },
   {
-    "id": "42e59fddc1dd12bc5c5922c8563a89c18143a443",
-    "title": "‘I am the trustee’: My mother set up a trust for my sibling who stole $100,000 from a bank. Can the trust be seized?",
-    "source": "MarketWatch Top Stories",
-    "url": "https://www.marketwatch.com/story/felony-charges-are-pending-my-mother-set-up-a-trust-for-my-sibling-who-stole-100-000-from-a-bank-can-the-trust-be-seized-ae69dbaf?mod=mw_rss_topstories",
-    "publishedAt": "2026-04-17T23:16:00.000Z",
-    "category": "financial-markets",
-    "summary": "“Felony charges are pending.”",
-    "type": "article",
-    "region": "global"
-  },
-  {
     "id": "4b5bc4b79c8e57773ef4531d1498807d32f88a27",
     "title": "Iran declares Strait of Hormuz open to shipping but Trump says U.S. blockade still active",
     "source": "CNBC World",
@@ -117,61 +447,6 @@
     "publishedAt": "2026-04-17T22:58:52.000Z",
     "category": "global-markets",
     "summary": "The Strait of Hormuz has remained almost completely closed as the U.S. and Iran have disputed the terms of their ceasefire agreement.",
-    "type": "article",
-    "region": "global"
-  },
-  {
-    "id": "ff2b1e5d4a7ad3a4d361e8b8a0421b7fdaa42ce7",
-    "title": "Cal-Maine’s stock falls as DOJ reportedly weighs bigger crackdown on major egg producers",
-    "source": "MarketWatch Top Stories",
-    "url": "https://www.marketwatch.com/story/cal-maines-stock-falls-as-doj-reportedly-weighs-bigger-crackdown-on-major-egg-producers-96e8315b?mod=mw_rss_topstories",
-    "publishedAt": "2026-04-17T22:56:00.000Z",
-    "category": "financial-markets",
-    "summary": "Egg prices crossed the $6 barrier in March of last year, but they have since fallen as farmers have replenished their flocks.",
-    "type": "article",
-    "region": "global"
-  },
-  {
-    "id": "7eb896dacb4d7dc729a60440953380b3464480c0",
-    "title": "I’m selling my law practice and retiring. Do I pay off the $2 million mortgage on my office building — or rent it out?",
-    "source": "MarketWatch Top Stories",
-    "url": "https://www.marketwatch.com/story/im-selling-my-law-practice-and-retiring-do-i-pay-off-the-2-million-loan-on-my-office-building-or-keep-the-mortgage-e8a4015b?mod=mw_rss_topstories",
-    "publishedAt": "2026-04-17T22:41:00.000Z",
-    "category": "financial-markets",
-    "summary": "“My wife is not a fan of tying up $2 million of equity in one building.”",
-    "type": "article",
-    "region": "global"
-  },
-  {
-    "id": "fc62917659f4baf4b156310292707b031028da67",
-    "title": "‘I hope to retire at 59’: I have $950,000 in my 401(k)s. When do I do a Roth conversion?",
-    "source": "MarketWatch Top Stories",
-    "url": "https://www.marketwatch.com/story/i-hope-to-retire-at-59-i-have-950-000-in-my-401-k-s-when-do-i-do-a-roth-conversion-07bf2c58?mod=mw_rss_topstories",
-    "publishedAt": "2026-04-17T22:30:00.000Z",
-    "category": "financial-markets",
-    "summary": "Roth conversions are permanent. Once done, they cannot be undone.",
-    "type": "article",
-    "region": "global"
-  },
-  {
-    "id": "0d0c0d28271fc5efaefbb3d6d725caaf893b936e",
-    "title": "Why do older sellers get less money for their homes than younger sellers?",
-    "source": "MarketWatch Top Stories",
-    "url": "https://www.marketwatch.com/story/why-do-older-sellers-get-less-money-for-their-homes-than-younger-sellers-9e48c2ce?mod=mw_rss_topstories",
-    "publishedAt": "2026-04-17T22:16:00.000Z",
-    "category": "financial-markets",
-    "summary": "Buying and selling a home can be the most significant financial decisions that families face.",
-    "type": "article",
-    "region": "global"
-  },
-  {
-    "id": "f72bd68b5a46611a5148b186f8a30ba3485513a7",
-    "title": "‘We keep our finances separate’: My boyfriend is in his 50s with no retirement savings — how worried should I be?",
-    "source": "MarketWatch Top Stories",
-    "url": "https://www.marketwatch.com/story/we-keep-our-finances-separate-my-boyfriend-is-in-his-50s-with-no-retirement-savings-how-worried-should-i-be-65983086?mod=mw_rss_topstories",
-    "publishedAt": "2026-04-17T22:09:00.000Z",
-    "category": "financial-markets",
-    "summary": "“He built our home over the last three years. We are both on the title and carry no mortgage.”",
     "type": "article",
     "region": "global"
   },
@@ -205,17 +480,6 @@
     "publishedAt": "2026-04-17T19:13:29.000Z",
     "category": "global-markets",
     "summary": "Oil prices tumbled more than 11% after Iran declared the Strait of Hormuz open amid a ceasefire deal with Lebanon.",
-    "type": "article",
-    "region": "global"
-  },
-  {
-    "id": "2f418c534d783d4ceb0cc4cea65035331f6634ba",
-    "title": "Tanker diplomacy: Trump faces tests from Havana to Hormuz",
-    "source": "CNBC World",
-    "url": "https://www.cnbc.com/2026/04/17/trump-tanker-diplomacy-hormuz-cuba-iran-war.html",
-    "publishedAt": "2026-04-17T19:09:44.000Z",
-    "category": "global-markets",
-    "summary": "From Cuba to the Persian Gulf, Trump is expected to face fresh challenges across a new arc of tanker diplomacy.",
     "type": "article",
     "region": "global"
   },
@@ -517,149 +781,6 @@
     "region": "africa"
   },
   {
-    "id": "8e786dffd46fb5d75da6e8933d10d06bbd0aebde",
-    "title": "He made $250 million trading Russian crude — now he's investing up to $60 million on Guyana's oil boom",
-    "source": "Yahoo Finance",
-    "url": "https://finance.yahoo.com/sectors/energy/articles/made-250-million-trading-russian-101500892.html",
-    "publishedAt": "2026-04-17T10:15:00.000Z",
-    "category": "financial-markets",
-    "summary": "",
-    "type": "article",
-    "region": "global"
-  },
-  {
-    "id": "7be65de34f62faec519f047630a3f6198c584f7e",
-    "title": "EU trade surplus shrinks 60% as US exports fall due to tariffs",
-    "source": "Yahoo Finance",
-    "url": "https://finance.yahoo.com/economy/policy/articles/eu-trade-surplus-shrinks-60-101348584.html",
-    "publishedAt": "2026-04-17T10:13:48.000Z",
-    "category": "financial-markets",
-    "summary": "",
-    "type": "article",
-    "region": "global"
-  },
-  {
-    "id": "5ce12da4d7218ad126e31bfd5249c9294b702b6c",
-    "title": "Argentina wheat threatened by high urea fertilizer prices due to  Iran war",
-    "source": "Yahoo Finance",
-    "url": "https://finance.yahoo.com/markets/commodities/articles/argentina-wheat-threatened-high-urea-100834065.html",
-    "publishedAt": "2026-04-17T10:08:34.000Z",
-    "category": "financial-markets",
-    "summary": "",
-    "type": "article",
-    "region": "global"
-  },
-  {
-    "id": "1d0b09d6ad5af03e7a84cbc2be772d1444977644",
-    "title": "Warren Buffett gave $10K to his daughter-in-law each year, but she spent it to the dime. 4 ways to use your own windfall",
-    "source": "Yahoo Finance",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/warren-buffett-gave-10k-daughter-100300551.html",
-    "publishedAt": "2026-04-17T10:03:00.000Z",
-    "category": "financial-markets",
-    "summary": "",
-    "type": "article",
-    "region": "global"
-  },
-  {
-    "id": "a7e9953759f7def5e5e1cd28e291de8b0a3f40a1",
-    "title": "The stock market's big breakout still needs an under-the-hood check: Chart of the Day",
-    "source": "Yahoo Finance",
-    "url": "https://finance.yahoo.com/news/the-stock-markets-big-breakout-still-needs-an-under-the-hood-check-chart-of-the-day-100030247.html",
-    "publishedAt": "2026-04-17T10:00:30.000Z",
-    "category": "financial-markets",
-    "summary": "",
-    "type": "article",
-    "region": "global"
-  },
-  {
-    "id": "42fdb05ca781329b32490198d8f60ffd40c57cd5",
-    "title": "Morning Brief: 3 takeaways from big bank results",
-    "source": "Yahoo Finance",
-    "url": "https://finance.yahoo.com/news/morning-brief-3-takeaways-from-big-bank-results-100019077.html",
-    "publishedAt": "2026-04-17T10:00:19.000Z",
-    "category": "financial-markets",
-    "summary": "",
-    "type": "article",
-    "region": "global"
-  },
-  {
-    "id": "a830652eccd01d7c9b0fdd77538a3217e68ccecb",
-    "title": "Best high-yield savings interest rates today, April 17, 2026 (up to 4.1% APY return)",
-    "source": "Yahoo Finance",
-    "url": "https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-friday-april-17-2026-100000948.html",
-    "publishedAt": "2026-04-17T10:00:00.000Z",
-    "category": "financial-markets",
-    "summary": "",
-    "type": "article",
-    "region": "global"
-  },
-  {
-    "id": "3f94a5d0800c6ab1216d028b818c3998ba306c5e",
-    "title": "Mortgage and refinance interest rates today, April 17, 2026: Buying power 'better than a year ago'",
-    "source": "Yahoo Finance",
-    "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-interest-rates-today-friday-april-17-2026-100000831.html",
-    "publishedAt": "2026-04-17T10:00:00.000Z",
-    "category": "financial-markets",
-    "summary": "",
-    "type": "article",
-    "region": "global"
-  },
-  {
-    "id": "219f892888c109b71b1c3b7b2941955a67c33d92",
-    "title": "Best CD rates today, April 17, 2026 (up to 4.05% APY return)",
-    "source": "Yahoo Finance",
-    "url": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-friday-april-17-2026-100000543.html",
-    "publishedAt": "2026-04-17T10:00:00.000Z",
-    "category": "financial-markets",
-    "summary": "",
-    "type": "article",
-    "region": "global"
-  },
-  {
-    "id": "a3598810b8869dffa796ab6e5150df0c89d923ea",
-    "title": "HELOC and home equity loan rates today, April 17, 2026: Tap your homeownership value in cash",
-    "source": "Yahoo Finance",
-    "url": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-home-equity-loan-interest-rates-today-friday-april-17-2026-100000534.html",
-    "publishedAt": "2026-04-17T10:00:00.000Z",
-    "category": "financial-markets",
-    "summary": "",
-    "type": "article",
-    "region": "global"
-  },
-  {
-    "id": "e0ec3eb7bbb86ed4a9043f1260a680759906ce08",
-    "title": "Best money market account rates today, April 17, 2026 (up to 4.01% APY return)",
-    "source": "Yahoo Finance",
-    "url": "https://finance.yahoo.com/personal-finance/banking/article/best-money-market-account-rates-today-friday-april-17-2026-100000051.html",
-    "publishedAt": "2026-04-17T10:00:00.000Z",
-    "category": "financial-markets",
-    "summary": "",
-    "type": "article",
-    "region": "global"
-  },
-  {
-    "id": "329770f9110fe8ef8dd8f071b662bf28b2d4260c",
-    "title": "CFOs On the Move: Week ending April 17",
-    "source": "Yahoo Finance",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/cfos-move-week-ending-april-100000554.html",
-    "publishedAt": "2026-04-17T10:00:00.000Z",
-    "category": "financial-markets",
-    "summary": "",
-    "type": "article",
-    "region": "global"
-  },
-  {
-    "id": "1fadd1236371b0799678a3a01a483c1b19616e5a",
-    "title": "3 Big Numbers: How did c-stores fare in 2025?",
-    "source": "Yahoo Finance",
-    "url": "https://finance.yahoo.com/economy/articles/3-big-numbers-did-c-100000560.html",
-    "publishedAt": "2026-04-17T10:00:00.000Z",
-    "category": "financial-markets",
-    "summary": "",
-    "type": "article",
-    "region": "global"
-  },
-  {
     "id": "f7642c91b60a43018b769f7d154915ebe3aef6d4",
     "title": "The case for fixing everything",
     "source": "MIT Technology Review",
@@ -682,39 +803,6 @@
     "region": "global"
   },
   {
-    "id": "b7eeba4967fa24a0c83891c915c0eece6f3880d3",
-    "title": "Equity fund inflows rise as war risks recede, upbeat earnings boost mood",
-    "source": "Yahoo Finance",
-    "url": "https://finance.yahoo.com/news/equity-fund-inflows-rise-war-095821978.html",
-    "publishedAt": "2026-04-17T09:58:21.000Z",
-    "category": "financial-markets",
-    "summary": "",
-    "type": "article",
-    "region": "global"
-  },
-  {
-    "id": "a1e6904425abad479acdeef6895545bd8197448e",
-    "title": "EU Trade Surplus Narrows From 2025’s Pre-Tariff Surge",
-    "source": "Yahoo Finance",
-    "url": "https://www.wsj.com/economy/trade/eu-trade-surplus-narrows-from-2025s-pre-tariff-surge-27f1b909?siteid=yhoof2&yptr=yahoo",
-    "publishedAt": "2026-04-17T09:56:00.000Z",
-    "category": "financial-markets",
-    "summary": "",
-    "type": "article",
-    "region": "global"
-  },
-  {
-    "id": "6a5d4d38eb22f1a719acd237577e0b34b2d708e7",
-    "title": "3 Magnificent Dividend Stocks the Sell-Off Has Put on Sale. Buy Them Now and Hold Forever.",
-    "source": "Yahoo Finance",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/3-magnificent-dividend-stocks-sell-095500826.html",
-    "publishedAt": "2026-04-17T09:55:00.000Z",
-    "category": "financial-markets",
-    "summary": "",
-    "type": "article",
-    "region": "global"
-  },
-  {
     "id": "cb8282d6fa52f270f429a038687d942e4e4eae61",
     "title": "Africa: Africa's Future Depends On Innovation, Data, and Frontier Technologies",
     "source": "AllAfrica Business",
@@ -726,50 +814,6 @@
     "region": "africa"
   },
   {
-    "id": "9baabbac5ebc184366c87042dca96e395df6f481",
-    "title": "Toyo Co. Ltd. (TOYO) Appoints Rhone Resch as Chief Strategy Officer to Lead Global Growth",
-    "source": "Yahoo Finance",
-    "url": "https://finance.yahoo.com/sectors/energy/articles/toyo-co-ltd-toyo-appoints-093027006.html",
-    "publishedAt": "2026-04-17T09:30:27.000Z",
-    "category": "financial-markets",
-    "summary": "",
-    "type": "article",
-    "region": "global"
-  },
-  {
-    "id": "457717c46bb5511eb407b8f30ef75f0d27c57ba0",
-    "title": "Is Syntec Optics Holdings (OPTX) One of the Best Performing New Tech Stocks to Buy Right Now?",
-    "source": "Yahoo Finance",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/syntec-optics-holdings-optx-one-092303163.html",
-    "publishedAt": "2026-04-17T09:23:03.000Z",
-    "category": "financial-markets",
-    "summary": "",
-    "type": "article",
-    "region": "global"
-  },
-  {
-    "id": "eb159a7e6efadac4bce6c106c45d939e990fd869",
-    "title": "Ryde Group (RYDE) Announces Expansion Into Hong Kong Mobility Market",
-    "source": "Yahoo Finance",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/ryde-group-ryde-announces-expansion-092246676.html",
-    "publishedAt": "2026-04-17T09:22:46.000Z",
-    "category": "financial-markets",
-    "summary": "",
-    "type": "article",
-    "region": "global"
-  },
-  {
-    "id": "6652c66eeae97279fe8a9bd1d5d67aff66393ee3",
-    "title": "Here is Why Xanadu Quantum Technologies (XNDU) is a Top Performing New Tech Stock",
-    "source": "Yahoo Finance",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/why-xanadu-quantum-technologies-xndu-092229088.html",
-    "publishedAt": "2026-04-17T09:22:29.000Z",
-    "category": "financial-markets",
-    "summary": "",
-    "type": "article",
-    "region": "global"
-  },
-  {
     "id": "cfcf14b3e9bff864cb1c3272734e3f604c8ff620",
     "title": "Israel's central bank chief pins hopes on peace as economic shock looms",
     "source": "CNBC World",
@@ -777,17 +821,6 @@
     "publishedAt": "2026-04-17T09:16:51.000Z",
     "category": "global-markets",
     "summary": "Israel's central bank governor hopes a swift resolution to the wars in Lebanon and Iran can ease a growth shock.",
-    "type": "article",
-    "region": "global"
-  },
-  {
-    "id": "3a88330da46cc828a8f4ebc958a8053eca8ad7ed",
-    "title": "Asia markets mostly fall as fragile Middle East ceasefire tempers sentiment",
-    "source": "CNBC World",
-    "url": "https://www.cnbc.com/2026/04/17/asia-markets-today-nikkei225-hang-seng-sensex-asx-ceasefire-oil.html",
-    "publishedAt": "2026-04-17T08:02:23.000Z",
-    "category": "global-markets",
-    "summary": "Most Asia-Pacific markets traded lower Friday as an Israel-Lebanon ceasefire tempered risk appetite, even after Wall Street closed at fresh record highs.",
     "type": "article",
     "region": "global"
   },
@@ -869,17 +902,6 @@
     "region": "africa"
   },
   {
-    "id": "390eb2f78077668292605e13f1566e3280a1e53d",
-    "title": "Zimbabwe: Mnangagwa Declares State of Disaster After Commuter Omnibus Explosion Kills At Least 18 Returning From Funeral",
-    "source": "AllAfrica Business",
-    "url": "https://allafrica.com/stories/202604170111.html",
-    "publishedAt": "2026-04-17T06:54:37.000Z",
-    "category": "africa-markets",
-    "summary": "[New Zimbabwe] President Emmerson Mnangagwa has declared a State of Disaster following a horrific road accident along the Bulawayo-Beitbridge Highway that claimed the lives of all passengers aboard a commuter omnibus, Thursday.",
-    "type": "article",
-    "region": "africa"
-  },
-  {
     "id": "88e15fd370150d41f49d8193794787cdcadda7cc",
     "title": "Nigeria: Dangote Rallies World Bank, IMF, Us Exim Chiefs On Investment in Nigeria's Energy, Industrial Sectors",
     "source": "AllAfrica Investment",
@@ -900,17 +922,6 @@
     "summary": "[allAfrica]",
     "type": "article",
     "region": "africa"
-  },
-  {
-    "id": "a77ad4d89b415f36d0a017e2ca8010c78021f0be",
-    "title": "ECB keeps markets guessing on rates with two weeks to go, warns of ‘layer cake of shocks’",
-    "source": "CNBC World",
-    "url": "https://www.cnbc.com/2026/04/16/ecb-interest-rates-hike-inflation-iran-washington.html",
-    "publishedAt": "2026-04-17T06:24:14.000Z",
-    "category": "global-markets",
-    "summary": "One policymaker said officials were worried about a \"layer cake of shocks.\"",
-    "type": "article",
-    "region": "global"
   },
   {
     "id": "21bd5677fd6b4461a8b9d60fd77658df2601480f",
@@ -1375,17 +1386,6 @@
     "region": "africa"
   },
   {
-    "id": "5bfbfe17c1773c72226eb6cdaeddb68045b8f42c",
-    "title": "AI data center startup Fluidstack in talks for $1B round at $18B valuation months after hitting $7.5B, says report",
-    "source": "TechCrunch Startups",
-    "url": "https://techcrunch.com/2026/04/14/ai-datacenter-startup-fluidstack-in-talks-for-1b-round-at-18b-valuation-months-after-hitting-7-5b-says-report/",
-    "publishedAt": "2026-04-14T21:33:38.000Z",
-    "category": "early-stage",
-    "summary": "Fundraising is reportedly flowing for Fluidstack after it secured a $50 billion deal to build data centers for Anthropic.",
-    "type": "article",
-    "region": "global"
-  },
-  {
     "id": "6b35630f2806bb1a0b3e55cd3a68a3c65d8c1cb1",
     "title": "Jamie Dimon says Anthropic's Mythos reveals 'a lot more vulnerabilities' for cyberattacks",
     "source": "CNBC Finance",
@@ -1679,17 +1679,6 @@
     "publishedAt": "2026-04-10T15:23:50.000Z",
     "category": "financial-markets",
     "summary": "BlackRock's Jeffrey Rosenberg has a leading role in the firm's liquid alt ETFs — which use a long-short strategy in ETF wrappers.",
-    "type": "article",
-    "region": "global"
-  },
-  {
-    "id": "bc57e4771ad01b88b799345fd18d2b20de41cf32",
-    "title": "Behind China's 'active efforts' for an Iran ceasefire: Business trumps politics",
-    "source": "CNBC Finance",
-    "url": "https://www.cnbc.com/2026/04/10/china-iran-ceasefire-role-energy-economy-strategy.html",
-    "publishedAt": "2026-04-10T08:51:26.000Z",
-    "category": "financial-markets",
-    "summary": "The big risk for Beijing is that the Iran war drags down global demand for the exports that are driving China's economic growth.",
     "type": "article",
     "region": "global"
   },
