@@ -11,6 +11,10 @@ A simple Next.js dashboard that renders a cached daily news snapshot from RSS + 
 
 ## Source registry (single config file)
 
+## Editorial focus
+
+The source mix is intentionally tilted toward **fixed income, bond markets, and macroeconomics** (central bank, IMF/World Bank, BIS, Reuters macro/markets), while minimizing personal-finance style feeds.
+
 RSS sources are listed in `src/config/sources.ts` (strictly typed to `NewsCategory`), then combined with FRED sources in `src/config/source-registry.ts`.
 
 - `name`
