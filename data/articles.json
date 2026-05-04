@@ -1,14 +1,300 @@
 [
   {
-    "id": "6d2f56f465fa8ff530aa31a331d11a0b290c5ff4",
-    "title": "Africa: DRC's Rise to Africa's Top Five - A Moment Built on Minerals and Momentum",
+    "id": "cd03302d9c7a41cf9fd3f817bd06dbe3b1e33e33",
+    "title": "South Africa: Price of Petrol and Diesel to Increase From Wednesday",
     "source": "AllAfrica Business",
-    "url": "https://allafrica.com/stories/202605030012.html",
-    "publishedAt": "2026-05-03T10:57:41.000Z",
+    "url": "https://allafrica.com/stories/202605040386.html",
+    "publishedAt": "2026-05-04T11:36:58.000Z",
     "category": "africa-markets",
-    "summary": "[allAfrica] A quiet but consequential shift is underway in Africa's economic order. The Democratic Republic of the Congo (DRC), long defined by paradox vast wealth amid deep poverty,is now projected to become sub-Saharan Africa's fifth-largest economy in 2026.",
+    "summary": "[SAnews.gov.za] The Department of Petroleum and Mineral Resources (DMPR) has announced that petrol and diesel prices will increase by between R3.27 and R6.19 from Wednesday.",
     "type": "article",
     "region": "africa"
+  },
+  {
+    "id": "0af8a88068fcb82d15a93538af5726f21fc13fd3",
+    "title": "South Africa: Power System Remains 'Stable' Despite Winter Demand Increase",
+    "source": "AllAfrica Business",
+    "url": "https://allafrica.com/stories/202605040381.html",
+    "publishedAt": "2026-05-04T11:36:57.000Z",
+    "category": "africa-markets",
+    "summary": "[SAnews.gov.za] Eskom says the power system remains stable and resilient, despite increased electricity demand typically seen at the start of the winter season.",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "a399628f48d843e2f8b12ed5756871d16b5283c5",
+    "title": "Tanzania: Public Servants Urged to Uphold Integrity, Protect State Resources",
+    "source": "AllAfrica Business",
+    "url": "https://allafrica.com/stories/202605040372.html",
+    "publishedAt": "2026-05-04T11:33:50.000Z",
+    "category": "africa-markets",
+    "summary": "[Daily News] Dodoma -- DEPUTY Permanent Secretary in the President's Office - Public Service Management and Good Governance, Mr Xavier Daudi, has urged public servants to uphold integrity, safeguard government resources and deliver services fairly to improve efficiency in public ",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "5e663e0b979d7c9e004a9f44409b7a39db5dcbb9",
+    "title": "East Africa: Tanzania's Resilience Reinforces Position As East Africa's Investment Powerhouse",
+    "source": "AllAfrica Investment",
+    "url": "https://allafrica.com/stories/202605040370.html",
+    "publishedAt": "2026-05-04T11:33:21.000Z",
+    "category": "africa-markets",
+    "summary": "[Daily News] Dar es Salaam -- IN a world where political shocks often unsettle markets and deter investment, Tanzania offers a compelling story of resilience and recovery.",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "5d57460920442d40e7ea9c3f3b9275a505f3c773",
+    "title": "Tanzania: Tanga Port Instructs Users to Fully Utilize Its Free Cargo Storage Facility and Clear Their Goods On Time",
+    "source": "AllAfrica Business",
+    "url": "https://allafrica.com/stories/202605040365.html",
+    "publishedAt": "2026-05-04T11:30:31.000Z",
+    "category": "africa-markets",
+    "summary": "[Daily News] Tanga -- STAKEHOLDERS and users of Tanga Port have been urged to make full use of the designated free cargo storage period to clear their goods on time and avoid unnecessary storage charges.",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "cb429a963c66d94af6d084fbd450b33aca1b6448",
+    "title": "Piero Cipollone: Digital assets, payment efficiency and monetary policy",
+    "source": "ECB Press Releases",
+    "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260504~3e75e8b138.en.html",
+    "publishedAt": "2026-05-04T11:30:00.000Z",
+    "category": "macro",
+    "summary": "",
+    "type": "article",
+    "region": "global"
+  },
+  {
+    "id": "40cad73e156e10881a9612ceef7bdf3e4dd71812",
+    "title": "Ghana: Averting Power Crisis - Govt Eyes 1,200 Megawatt Gas-Fired Plant",
+    "source": "AllAfrica Business",
+    "url": "https://allafrica.com/stories/202605040348.html",
+    "publishedAt": "2026-05-04T11:24:45.000Z",
+    "category": "africa-markets",
+    "summary": "[Ghanaian Times] The government is taking steps to avert a possible power crisis with plans to add a 1,200-megawatt gas-fired electricity generation plant, President John Dramani Mahama has announced.",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "09ed50f854eb502aaef2d3db4fabf0125c5bc5e9",
+    "title": "Liberia: Govt Pens U.S.$48m Agreement for Asphalt Pavement of 61km Kelipo-Putuken-John Davis Town",
+    "source": "AllAfrica Business",
+    "url": "https://allafrica.com/stories/202605040327.html",
+    "publishedAt": "2026-05-04T11:14:56.000Z",
+    "category": "africa-markets",
+    "summary": "[FrontPageAfrica] Monrovia -- The Government of Liberia(GoL), through the Ministry of Public Works, has signed the agreement for the construction and asphalt pavement of a 61-kilometer road project leading through Kelipo-Putuken-John Davis Town Road in River Gee County.",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "4c9c54b0d87ec35a100f9dc2731024c0d15308bb",
+    "title": "Nigeria: Nigeria's Economic Growth Back On Track After Years of Crisis - Report",
+    "source": "AllAfrica Business",
+    "url": "https://allafrica.com/stories/202605040301.html",
+    "publishedAt": "2026-05-04T10:59:03.000Z",
+    "category": "africa-markets",
+    "summary": "[Premium Times] The report, titled \"The Journey to a Trillion-Dollar Economy: Nigeria on the Rise Again,\" drew data from the Central Bank of Nigeria, the National Bureau of Statistics, the International Bank for Reconstruction and Development and the International Monetary Fund.",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "fae845b578e78a960680c693a6db3b56c8b40fef",
+    "title": "Nigeria: Labour Party Releases 2027 Primaries Timetable, Fixes Nomination Fees",
+    "source": "AllAfrica Business",
+    "url": "https://allafrica.com/stories/202605040302.html",
+    "publishedAt": "2026-05-04T10:59:03.000Z",
+    "category": "africa-markets",
+    "summary": "[Premium Times] Labour Party said the timetable is in compliance with the Electoral Act of 2026 and the Independent National Electoral Commission's (INEC) revised timetable and schedule of activities for conducting the 2027 general elections.",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "981a5e8c6601d57dd7444800aa35fa230e93e83e",
+    "title": "Nigeria: Dangote Denies Rift With Tony Elumelu, Rejects Refinery Funding Claims",
+    "source": "AllAfrica Business",
+    "url": "https://allafrica.com/stories/202605040303.html",
+    "publishedAt": "2026-05-04T10:59:03.000Z",
+    "category": "africa-markets",
+    "summary": "[Premium Times] Dangote Group has dismissed as false and malicious a publication alleging that its President, Aliko Dangote, distanced himself from Tony Elumelu and financed the Dangote Petroleum Refinery through personal borrowing from friends.",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "22d0132fa95878eb118ae130630691f99c82297a",
+    "title": "Liberia: Liberia - NCD Launches Public Sector Investment Program to Advance Inclusion",
+    "source": "AllAfrica Investment",
+    "url": "https://allafrica.com/stories/202605040285.html",
+    "publishedAt": "2026-05-04T10:45:44.000Z",
+    "category": "africa-markets",
+    "summary": "[New Dawn] The National Commission on Disabilities (NCD) launched its Public Sector Investment Program (PSIP) over the weekend in Monrovia, marking a significant step toward promoting inclusion and equal opportunities for persons with disabilities across the country.",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "121850040f4867ecc47a8a26adce22d4cf80cd8a",
+    "title": "Africa: African Countries Up Efforts to Tax High-Income Individuals",
+    "source": "AllAfrica Business",
+    "url": "https://allafrica.com/stories/202605040281.html",
+    "publishedAt": "2026-05-04T10:37:11.000Z",
+    "category": "africa-markets",
+    "summary": "[IPS] Bulawayo, Zimbabwe -- African countries are exploring ways to tax high-earning individuals as the continent seeks to expand its revenue collection amid what experts say is a growing gulf between rich and poor.",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "eee4494d23df92b241b603ed1843f9dca2c4420c",
+    "title": "Kenya: How Electoral Violence Continues to Disrupt Kenyan Businesses",
+    "source": "AllAfrica Business",
+    "url": "https://allafrica.com/stories/202605040227.html",
+    "publishedAt": "2026-05-04T10:05:41.000Z",
+    "category": "africa-markets",
+    "summary": "[Capital FM] Nairobi -- Kenya's history of electoral violence has repeatedly left a trail of economic disruption, with businesses bearing some of the heaviest losses whenever political tensions spill into the streets.",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "4c0e10f2967416d39a066ae9a5a3fb28d7d07b4e",
+    "title": "South Africa: Fuel and Fertiliser Costs Drive Up the Price of a Basic Food Basket",
+    "source": "AllAfrica Business",
+    "url": "https://allafrica.com/stories/202605040192.html",
+    "publishedAt": "2026-05-04T09:54:49.000Z",
+    "category": "africa-markets",
+    "summary": "[Daily Maverick] Food producers' use of fuel and fertiliser - affected by the US-Iran war - will impact food prices in South Africa (SA), as the fuel price is set to increase again in May. However, it is not obvious whether input prices like oil and fertiliser are the only driver",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "236f887add865afed140ce693fe76461efbbb7e0",
+    "title": "Kenya: Duale Backs Kenya-Somalia Border Reopening to Boost Trade",
+    "source": "AllAfrica Business",
+    "url": "https://allafrica.com/stories/202605040188.html",
+    "publishedAt": "2026-05-04T09:54:02.000Z",
+    "category": "africa-markets",
+    "summary": "[Capital FM] Nairobi -- Health Cabinet Secretary Aden Duale has backed plans to reopen the Kenya-Somalia border, saying the move will enhance trade and ease movement of people and goods between the two countries.",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "b1bbd422c2b01609215de0c751ad91feeb7ee47a",
+    "title": "Africa: Kindness as Infrastructure: What Africa--and the World--Can Learn from the Frontlines of Global Airports",
+    "source": "AllAfrica Business",
+    "url": "https://allafrica.com/stories/202605040142.html",
+    "publishedAt": "2026-05-04T08:50:35.000Z",
+    "category": "africa-markets",
+    "summary": "[allAfrica] In the modern world, airports are more than transit points. They are emotional crossroads -- where hope, anxiety, loss, and opportunity intersect in real time. Every day, millions of passengers move through these spaces, carrying not just luggage, but stories.",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "ab874d15e13d411464ab85fb5eadc45761d12374",
+    "title": "Results of the ECB Survey of Professional Forecasters for the second quarter of 2026",
+    "source": "ECB Press Releases",
+    "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260504~bb7a0cbf4c.en.html",
+    "publishedAt": "2026-05-04T08:00:00.000Z",
+    "category": "macro",
+    "summary": "",
+    "type": "article",
+    "region": "global"
+  },
+  {
+    "id": "855ad7bd135a11c6b171ef95b68b988971542f2e",
+    "title": "Kenya: Finance Bill 2026 Ends KQ Tax Relief, Widens Digital Tax Net",
+    "source": "AllAfrica Business",
+    "url": "https://allafrica.com/stories/202605040137.html",
+    "publishedAt": "2026-05-04T07:51:43.000Z",
+    "category": "africa-markets",
+    "summary": "[Capital FM] Nairobi -- Kenya's proposed Finance Bill 2026 could sharply increase operating costs for Kenya Airways (KQ) while significantly expanding the country's tax reach into digital payments, software, and card transaction ecosystems.",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "d0ecfffc89c22b8ce3a8af139a95cf4687d9afdc",
+    "title": "Malawi: Aid Cuts Hit Malawi Hard - IMF Warns of Rising Debt Pressure and Urgent Need for Reforms",
+    "source": "AllAfrica Business",
+    "url": "https://allafrica.com/stories/202605040097.html",
+    "publishedAt": "2026-05-04T06:41:02.000Z",
+    "category": "africa-markets",
+    "summary": "[Nyasa Times] Malawi's economy is coming under serious pressure as global aid is being cut, putting the country in a difficult financial position. The International Monetary Fund (IMF) says these aid cuts are exposing long-standing weaknesses in how Malawi manages its economy.",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "cb8744701d83b9418b40726d6aceaaa1922fde07",
+    "title": "Rwanda: Tanzania, Rwanda Advance Ties",
+    "source": "AllAfrica Business",
+    "url": "https://allafrica.com/stories/202605040093.html",
+    "publishedAt": "2026-05-04T06:41:00.000Z",
+    "category": "africa-markets",
+    "summary": "[Daily News] Trade, investment, logistics, security and energy at centre",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "a7067e4c8d96a22474ba75a309541042f81fbe0f",
+    "title": "Africa: All of Africa Today - May 4, 2026",
+    "source": "AllAfrica Business",
+    "url": "https://allafrica.com/stories/202605040091.html",
+    "publishedAt": "2026-05-04T06:40:56.000Z",
+    "category": "africa-markets",
+    "summary": "[allAfrica]",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "18a0b8100f7e87470d205dffe77ce58e161ecf90",
+    "title": "South Africa: Energy and Water Seta Blew R58m in Public Funds On Building That Was Never Used",
+    "source": "AllAfrica Business",
+    "url": "https://allafrica.com/stories/202605040085.html",
+    "publishedAt": "2026-05-04T06:34:12.000Z",
+    "category": "africa-markets",
+    "summary": "[Daily Maverick] More than R58-million in public funds has been lost on an unused building bought by the Energy and Water Sector Education and Training Authority in 2014. Despite years of spending, investigations and criminal cases, no one has been held accountable.",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "a5dbdf4802bb90e4d6df41cf61d3c2e99b1b1c35",
+    "title": "South Africa: No Arrests Yet in Kubheka Kidnapping Case - South African News Briefs - May 4, 2026",
+    "source": "AllAfrica Business",
+    "url": "https://allafrica.com/stories/202605040084.html",
+    "publishedAt": "2026-05-04T05:59:03.000Z",
+    "category": "africa-markets",
+    "summary": "[allAfrica]",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "ab638c609bc773abe164350aeb6196be0b31a048",
+    "title": "Tanzania: Tanzania Sees Its Trade, Investment Cooperation With Rwanda Soar to 644bn/-",
+    "source": "AllAfrica Investment",
+    "url": "https://allafrica.com/stories/202605040051.html",
+    "publishedAt": "2026-05-04T05:17:43.000Z",
+    "category": "africa-markets",
+    "summary": "[Daily News] Dar es Salaam -- PRESIDENT Samia Suluhu Hassan said trade and investment cooperation between Tanzania and Rwanda has grown significantly, reaching approximately 644bn/- based on 2025 figures.",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "40eea00572e91cc8569bee42a0220fec8d0be6d3",
+    "title": "Madagascar: Madagascar Revives Vara Mada Mining Project As Key Investment Awaits Approval",
+    "source": "AllAfrica Investment",
+    "url": "https://allafrica.com/stories/202605040006.html",
+    "publishedAt": "2026-05-04T04:48:03.000Z",
+    "category": "africa-markets",
+    "summary": "[RFI] Madagascar's largest mining venture - dormant for more than two decades - is gaining momentum once again. Formerly known as \"Base Toliara\" and rebranded \"Vara Mada\" in December 2025, the project aims to extract strategic minerals including ilmenite, zircon and monazite.",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "202692ec5a7291ca08aac5f1822c1f27369127a2",
+    "title": "‘This is fine’ creator says AI startup stole his art",
+    "source": "TechCrunch Startups",
+    "url": "https://techcrunch.com/2026/05/03/this-is-fine-creator-says-ai-startup-stole-his-art/",
+    "publishedAt": "2026-05-03T20:16:51.000Z",
+    "category": "early-stage",
+    "summary": "The ad comes from Artisan, the AI startup behind billboards urging businesses to \"stop hiring humans.\"",
+    "type": "article",
+    "region": "global"
   },
   {
     "id": "6a838d75e319ca10a356fd6cd865c05572e7a382",
@@ -132,28 +418,6 @@
     "region": "global"
   },
   {
-    "id": "32eedb799ce866a40e444d0df29980ec022fee55",
-    "title": "Nigeria: Manufacturing Sector's Tax Contribution Rises to N1.17trn, Spurs Demand for Fiscal Support",
-    "source": "AllAfrica Business",
-    "url": "https://allafrica.com/stories/202605010410.html",
-    "publishedAt": "2026-05-01T13:15:50.000Z",
-    "category": "africa-markets",
-    "summary": "[Leadership] The manufacturing sector's contribution to tax revenue collections in Nigeria maintained an upward trend in 2025, contributing a total of N1.17 trillion in Value Added Tax (VAT), an increase of 45.61 per cent over the N803.53 billion in 2024.",
-    "type": "article",
-    "region": "africa"
-  },
-  {
-    "id": "b23d3c38240547dd1f04a711c4cc299083b3cd45",
-    "title": "Kenya: Safaricom Boosts Home Fibre Speeds By Up to 2.5 Times",
-    "source": "AllAfrica Business",
-    "url": "https://allafrica.com/stories/202605010408.html",
-    "publishedAt": "2026-05-01T13:14:39.000Z",
-    "category": "africa-markets",
-    "summary": "[Capital FM] Nairobi -- Safaricom has increased Home Fibre internet speeds by up to 2.5 times across all packages at no extra cost to customers.",
-    "type": "article",
-    "region": "africa"
-  },
-  {
     "id": "ebb7fd57f907525783a663233f23a4d39daf1844",
     "title": "Hidden IT problems are quietly creating risk, shadow IT, and lost productivity",
     "source": "VentureBeat",
@@ -165,39 +429,6 @@
     "region": "global"
   },
   {
-    "id": "51ed5be00261948e285f8633e386deb9579f70e1",
-    "title": "Kenya: Atwoli Warns IEBC Over Rising Political Rallies, Cautions Against Pre-Election Tensions",
-    "source": "AllAfrica Business",
-    "url": "https://allafrica.com/stories/202605010311.html",
-    "publishedAt": "2026-05-01T11:13:09.000Z",
-    "category": "africa-markets",
-    "summary": "[Capital FM] Nairobi -- Central Organization of Trade Unions (COTU) Secretary General Francis Atwoli has urged the Independent Electoral and Boundaries Commission (IEBC) to move swiftly to curb what he described as escalating premature political rallies.",
-    "type": "article",
-    "region": "africa"
-  },
-  {
-    "id": "ac46aa734397d27c039d5ff664d220faa5f244cf",
-    "title": "South Africa: Govt Pays Tribute to Workers Across the Nation",
-    "source": "AllAfrica Business",
-    "url": "https://allafrica.com/stories/202605010304.html",
-    "publishedAt": "2026-05-01T11:11:59.000Z",
-    "category": "africa-markets",
-    "summary": "[SAnews.gov.za] Government has extended its appreciation to workers across the nation as the country commemorates Workers' Day on 1 May 2026.",
-    "type": "article",
-    "region": "africa"
-  },
-  {
-    "id": "f697c07b191c5cdc86c52f2629c5269b2949cfe0",
-    "title": "South Africa: Workers the 'Heartbeat of the Economy'",
-    "source": "AllAfrica Business",
-    "url": "https://allafrica.com/stories/202605010291.html",
-    "publishedAt": "2026-05-01T11:09:56.000Z",
-    "category": "africa-markets",
-    "summary": "[SAnews.gov.za] Employment and Labour Minister Nomakhosazana Meth has outlined government's plans to expand economic opportunities, particularly for young people, as South Africa marks International Workers' Day.",
-    "type": "article",
-    "region": "africa"
-  },
-  {
     "id": "5dba653a7610503968a9d7ae9c869221de3825da",
     "title": "Data: The Seed Funding Boom Is Concentrating Capital In The San Francisco Bay Area",
     "source": "Crunchbase News",
@@ -207,72 +438,6 @@
     "summary": "In 2025, the Bay Area expanded its dominance of U.S. seed funding — capturing a growing share of both deals and dollars — even as most startups remained geographically dispersed, an analysis of Crunchbase data shows, resulting in a more bifurcated landscape.",
     "type": "article",
     "region": "global"
-  },
-  {
-    "id": "52b2b4b54388e0616abd0679280ef8189b0447ea",
-    "title": "Nigeria: Oil Workers Face Mounting Pressure As NUPENG Promises Lifeline On May Day",
-    "source": "AllAfrica Business",
-    "url": "https://allafrica.com/stories/202605010272.html",
-    "publishedAt": "2026-05-01T10:52:44.000Z",
-    "category": "africa-markets",
-    "summary": "[Vanguard] The Nigeria Union of Petroleum and Natural Gas Workers, NUPENG, has assured oil and gas workers of renewed attention to their welfare, safer working conditions, and stronger representation as the sector continues to face rising operational and economic pressures.",
-    "type": "article",
-    "region": "africa"
-  },
-  {
-    "id": "01ecf17a4ee235e71b5c5e3a9878e200667ebbb5",
-    "title": "Tanzania: Huge Budget Approved for Expanding Building Better Tomorrow Programme",
-    "source": "AllAfrica Business",
-    "url": "https://allafrica.com/stories/202605010265.html",
-    "publishedAt": "2026-05-01T10:47:14.000Z",
-    "category": "africa-markets",
-    "summary": "[Daily News] Dodoma -- NATIONAL Assembly has approved a 1.105tri/- budget for the Ministry of Agriculture for the 2026/27 financial year, setting the stage for nationwide expansion of the Building a Better Tomorrow (BBT) programme, aimed at tackling youth unemployment through com",
-    "type": "article",
-    "region": "africa"
-  },
-  {
-    "id": "1a645c398948bc95ef72c4161afc77b23d2e1cfc",
-    "title": "Liberia: As Environmental Protection Agency to Release Report On Latest Fish Die Off Near Bea Mountain Mine Expert Warns of Long Term Contamination",
-    "source": "AllAfrica Business",
-    "url": "https://allafrica.com/stories/202605010256.html",
-    "publishedAt": "2026-05-01T10:40:35.000Z",
-    "category": "africa-markets",
-    "summary": "[FrontPageAfrica] WANGEKOR TOWN -- Summary:",
-    "type": "article",
-    "region": "africa"
-  },
-  {
-    "id": "e205cfcd19387217da24979efc395289ee1eba28",
-    "title": "Liberia: GOL Paves the Way for Planet One Takeover to Unlock Putu Iron Ore Deposit, Create Jobs, and Long-Stalled Mining Production",
-    "source": "AllAfrica Business",
-    "url": "https://allafrica.com/stories/202605010243.html",
-    "publishedAt": "2026-05-01T10:36:37.000Z",
-    "category": "africa-markets",
-    "summary": "[FrontPageAfrica] Monrovia -- The Government of Liberia has granted its explicit consent for the Change of Control of the long-delayed Putu Iron Ore Project, clearing the way for Planet One Natural Resources Holdings PTE. Ltd. to assume ownership of one of the country's most sign",
-    "type": "article",
-    "region": "africa"
-  },
-  {
-    "id": "de0cb5d84c2d19f2a8a5acd34d112617eec80226",
-    "title": "Tanzania: Regional Oil Refinery - Why It Matters for Tanzania",
-    "source": "AllAfrica Business",
-    "url": "https://allafrica.com/stories/202605010239.html",
-    "publishedAt": "2026-05-01T10:35:28.000Z",
-    "category": "africa-markets",
-    "summary": "[Daily News] Dar es Salaam -- TANZANIA has expressed readiness to host the envisaged oil refinery plant in Tanga, a project expected to boost fuel supply in East Africa, enhance energy security and strengthen regional integration.",
-    "type": "article",
-    "region": "africa"
-  },
-  {
-    "id": "33b4e84b0f03e6f3a698cc8a662e3bc229515e0e",
-    "title": "Kenya: Nairobi Expressway Waives Tolls On Select Exits After Flooding Causes Major Traffic Snarl-Up",
-    "source": "AllAfrica Business",
-    "url": "https://allafrica.com/stories/202605010209.html",
-    "publishedAt": "2026-05-01T10:20:13.000Z",
-    "category": "africa-markets",
-    "summary": "[Capital FM] Nairobi -- Motorists travelling from Mlolongo towards Nairobi's city centre will temporarily enjoy free passage on select Nairobi Expressway exits after severe waterlogging along the A8 corridor triggered heavy traffic congestion.",
-    "type": "article",
-    "region": "africa"
   },
   {
     "id": "d328d4bbf562bc418e872d01ec5ddb200d1724d9",
@@ -297,50 +462,6 @@
     "region": "africa"
   },
   {
-    "id": "f5100fe6ca4191f51bb15c16b76bf7aeeb1000c3",
-    "title": "Africa: May Day - African Workers Decry Rising Inequality, 'Vanishing Billions' and Elite Control",
-    "source": "AllAfrica Business",
-    "url": "https://allafrica.com/stories/202605010117.html",
-    "publishedAt": "2026-05-01T08:32:00.000Z",
-    "category": "africa-markets",
-    "summary": "[Vanguard] Organised labour under the African Regional Organisation of the International Trade Union Confederation (ITUC-Africa) has raised concern over what it describes as worsening inequality and economic hardship across the continent.",
-    "type": "article",
-    "region": "africa"
-  },
-  {
-    "id": "2fe0cbf794a988496c53bb1a6155d0c275d28e56",
-    "title": "Africa: All of Africa Today - May 1, 2026",
-    "source": "AllAfrica Business",
-    "url": "https://allafrica.com/stories/202605010074.html",
-    "publishedAt": "2026-05-01T06:38:32.000Z",
-    "category": "africa-markets",
-    "summary": "[allAfrica]",
-    "type": "article",
-    "region": "africa"
-  },
-  {
-    "id": "84f7f538093287f7368acb4a835efaa60fe843a0",
-    "title": "South Africa: Two Dead, Multiple Injured in Eastern Cape Crash - South African News Briefs - May 1, 2026",
-    "source": "AllAfrica Business",
-    "url": "https://allafrica.com/stories/202605010071.html",
-    "publishedAt": "2026-05-01T05:41:04.000Z",
-    "category": "africa-markets",
-    "summary": "[allAfrica]",
-    "type": "article",
-    "region": "africa"
-  },
-  {
-    "id": "8370d6c093af4f367354752d7495b8f2b309b624",
-    "title": "Africa: African Nations to Benefit From China's Two-Year Zero-Tariff Regime",
-    "source": "AllAfrica Business",
-    "url": "https://allafrica.com/stories/202605010069.html",
-    "publishedAt": "2026-05-01T05:21:52.000Z",
-    "category": "africa-markets",
-    "summary": "[Capital FM] Nairobi -- China's zero-tariff treatment to all African countries that have diplomatic relations with it will come into effect starting May 1, 2026 to April 30, 2028.",
-    "type": "article",
-    "region": "africa"
-  },
-  {
     "id": "9c5358fee1af6cbc2d91f137863d07c0e3210888",
     "title": "Uganda: Janet Museveni Celebrates 40-Year Impact of UWESO, Calls for Continued Investment in Vulnerable Children",
     "source": "AllAfrica Investment",
@@ -348,17 +469,6 @@
     "publishedAt": "2026-05-01T05:08:55.000Z",
     "category": "africa-markets",
     "summary": "[Nile Post] First Lady and Minister of Education and Sports, Janet Kataaha Museveni, has reflected on the four-decade journey of the Uganda Women's Effort to Save Orphans (UWESO), noting that the organisation began with a group of committed Ugandan women responding to the plight ",
-    "type": "article",
-    "region": "africa"
-  },
-  {
-    "id": "52f183b7a967408746b31d0c0b9ac19c11d9ce48",
-    "title": "Mozambique: Mozambique and U.S. Sign Agreement Valued At Over U.S.$500 Million",
-    "source": "AllAfrica Business",
-    "url": "https://allafrica.com/stories/202605010033.html",
-    "publishedAt": "2026-05-01T05:05:23.000Z",
-    "category": "africa-markets",
-    "summary": "[AIM] Maputo -- Mozambique and the United States on Wednesday signed a memorandum of undertanding valued at 537.5 million dollars under the Millennium Challenge Corporation (MCC).",
     "type": "article",
     "region": "africa"
   },
@@ -381,17 +491,6 @@
     "publishedAt": "2026-05-01T04:59:08.000Z",
     "category": "africa-markets",
     "summary": "[ENA] Addis Ababa -- Ethiopia holds significant untapped geological potential that could unlock major investment opportunities in mining and critical minerals, according to experts from the Czech Geological Survey.",
-    "type": "article",
-    "region": "africa"
-  },
-  {
-    "id": "b7be1c8322d6431b5d48c13c34d3f9fa0db029ad",
-    "title": "Kenya: Govt Eases Fuel Standards for Six Months Amid Supply Disruptions",
-    "source": "AllAfrica Business",
-    "url": "https://allafrica.com/stories/202605010019.html",
-    "publishedAt": "2026-05-01T04:59:03.000Z",
-    "category": "africa-markets",
-    "summary": "[Capital FM] Nairobi -- The Ministry of Investments Trade and Industry has approved a temporary adjustment of fuel standards to ensure steady supply amid global disruptions.",
     "type": "article",
     "region": "africa"
   },
@@ -549,17 +648,6 @@
     "region": "global"
   },
   {
-    "id": "cca2ab3a4e5390b4b8cf02ba1e122e312d92129d",
-    "title": "Kenya: Global Oil Prices Rise and Fall, but Kenya's Pump Prices Stay High? the Data Says, Mostly Yes",
-    "source": "AllAfrica Business",
-    "url": "https://allafrica.com/stories/202604300348.html",
-    "publishedAt": "2026-04-30T12:47:58.000Z",
-    "category": "africa-markets",
-    "summary": "[Africa Check] Global oil prices rise and fall, but Kenya's pump prices stay high? The data says, mostly yes",
-    "type": "article",
-    "region": "africa"
-  },
-  {
     "id": "264f5ac073f4c018b627a83daaf1e4b71c127080",
     "title": "Monetary policy decisions",
     "source": "ECB Press Releases",
@@ -569,17 +657,6 @@
     "summary": "",
     "type": "article",
     "region": "global"
-  },
-  {
-    "id": "95a6b29aae8e46c80faabea108bb9f4e0259a3e2",
-    "title": "Africa: Amine Laghidi, the First Moroccan and African to be Awarded a Prize at the Trieste Summit",
-    "source": "AllAfrica Business",
-    "url": "https://allafrica.com/stories/202604300300.html",
-    "publishedAt": "2026-04-30T12:00:42.000Z",
-    "category": "africa-markets",
-    "summary": "[allAfrica] The Honorable Professor Amine Laghidi, an eminent international expert and presiding head of several global organizations, has been bestowed with the Special Award at the Trieste Summit.",
-    "type": "article",
-    "region": "africa"
   },
   {
     "id": "8fcf1de640055187cad38615c6ff47d596e4183d",
@@ -959,17 +1036,6 @@
     "region": "global"
   },
   {
-    "id": "2c323723d19bfad12b964efe8479859efbec0c83",
-    "title": "Why Tokyo is the most important tech destination of 2026",
-    "source": "TechCrunch Startups",
-    "url": "https://techcrunch.com/2026/04/25/why-tokyo-is-the-most-important-tech-destination-of-2026/",
-    "publishedAt": "2026-04-25T15:03:00.000Z",
-    "category": "early-stage",
-    "summary": "SusHi Tech Tokyo 2026 has four tightly defined technology domains, each backed by live demonstrations, dedicated exhibit floors, and sessions featuring the people actually building and funding these technologies globally.",
-    "type": "article",
-    "region": "global"
-  },
-  {
     "id": "c5bbfe550b80e6a3041c73972d9bd0850f124572",
     "title": "Federal Reserve Board announces approval of application by OceanFirst Financial Corp.",
     "source": "Federal Reserve Press Releases",
@@ -1014,17 +1080,6 @@
     "region": "africa"
   },
   {
-    "id": "8ade917f37334b8a0fcb2c171ea1021352667e60",
-    "title": "Uganda: Karamoja Leaders Warn Sovereignty Bill 2026 Risks Choking Aid, Trade, and Investment",
-    "source": "AllAfrica Investment",
-    "url": "https://allafrica.com/stories/202604240144.html",
-    "publishedAt": "2026-04-24T09:37:04.000Z",
-    "category": "africa-markets",
-    "summary": "[Independent (Kampala)] Napak, Uganda -- Leaders in Karamoja have warned that the Protection of Sovereignty law could cripple the region's economy, disrupt peace building, and reverse development gains by redefining \"foreign influence\" and capping external funding.",
-    "type": "article",
-    "region": "africa"
-  },
-  {
     "id": "077d227f5cf548b983c6bb9b653c6f0158387491",
     "title": "ECB signs agreements with European standard setters to facilitate digital euro payments",
     "source": "ECB Press Releases",
@@ -1036,17 +1091,6 @@
     "region": "global"
   },
   {
-    "id": "acf0947df26f761f7243044537b55f4ee47e6408",
-    "title": "Rwanda: Kagame Meets Chinese Investor Eyeing EV Assembly Plant in Rwanda",
-    "source": "AllAfrica Investment",
-    "url": "https://allafrica.com/stories/202604240061.html",
-    "publishedAt": "2026-04-24T05:35:32.000Z",
-    "category": "africa-markets",
-    "summary": "[New Times] President Paul Kagame met Xu Hui, Chairman of Rich Resource International Investments (RRII) and Vice President and Board Secretary of Chery Holding Group, to discuss potential investment opportunities, including the possible establishment of an electric vehicle (EV) ",
-    "type": "article",
-    "region": "africa"
-  },
-  {
     "id": "d48e82b21bca8c7de50abb4d80290fc0cbee5f16",
     "title": "Agencies finalize changes to enhance community bank leverage ratio",
     "source": "Federal Reserve Press Releases",
@@ -1056,28 +1100,6 @@
     "summary": "Agencies finalize changes to enhance community bank leverage ratio",
     "type": "article",
     "region": "global"
-  },
-  {
-    "id": "4975ae24fedc51dcf9a266c777cb8c382c79689c",
-    "title": "Africa: British International Investment Targets &#xA3;9bn New Capital for Africa Economic Growth",
-    "source": "AllAfrica Investment",
-    "url": "https://allafrica.com/stories/202604230601.html",
-    "publishedAt": "2026-04-23T16:22:56.000Z",
-    "category": "africa-markets",
-    "summary": "[Leadership] British International Investment (BII), has launched its new five-year strategy, with the aim to drive £9 billion of new capital into Africa to support economic growth.",
-    "type": "article",
-    "region": "africa"
-  },
-  {
-    "id": "be3422373ac2db494e1a89300b3cdc14deaf115b",
-    "title": "Zimbabwe: Zimbabwe Seeks Investment in Mineral Value Addition After Raw Export Ban",
-    "source": "AllAfrica Investment",
-    "url": "https://allafrica.com/stories/202604230347.html",
-    "publishedAt": "2026-04-23T11:56:59.000Z",
-    "category": "africa-markets",
-    "summary": "[New Zimbabwe] Zimbabwe welcomes more investment in mineral processing and refining as the country shifts from exporting raw minerals to domestic value addition, Vice President Constantino Chiwenga said Wednesday.",
-    "type": "article",
-    "region": "africa"
   },
   {
     "id": "75d9b31d8f1b33ae5f70d33c28a556bc50426746",
@@ -1190,17 +1212,6 @@
     "region": "global"
   },
   {
-    "id": "c743c27fe158a0802a648c3de2d7305a27cc9af3",
-    "title": "Piero Cipollone: Sparking the transformation of finance: tokenisation and the role of central banks",
-    "source": "ECB Press Releases",
-    "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260415~868b59bca9.en.html",
-    "publishedAt": "2026-04-15T15:20:00.000Z",
-    "category": "macro",
-    "summary": "",
-    "type": "article",
-    "region": "global"
-  },
-  {
     "id": "52ac3ec7df94536d138713a386cd0c722976e474",
     "title": "Minutes of the Board’s discount rate meetings on February 9 and March 18, 2026",
     "source": "Federal Reserve Press Releases",
@@ -1221,17 +1232,6 @@
     "summary": "Speech At Strengthening America’s Economy through Rural Investment: A Working Forum, Washington, D.C.",
     "type": "article",
     "region": "us"
-  },
-  {
-    "id": "f485baf7f70b2c0b55b09290ab2169b6d6f545d0",
-    "title": "Philip R. Lane: The economic outlook and monetary policy in the euro area",
-    "source": "ECB Press Releases",
-    "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260414~b312adeb55.en.pdf",
-    "publishedAt": "2026-04-14T14:00:00.000Z",
-    "category": "macro",
-    "summary": "",
-    "type": "article",
-    "region": "global"
   },
   {
     "id": "9c65b5b07fbfff971f457985fd6afe7ce1b8002a",
