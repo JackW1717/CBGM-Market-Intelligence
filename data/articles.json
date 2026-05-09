@@ -1,5 +1,236 @@
 [
   {
+    "id": "1e8223ad9880a2a3d8fcf09c4857339fec924a33",
+    "title": "Bowman, When Regulation Reshapes Markets: The Migration of Corporate Lending",
+    "source": "Federal Reserve Speeches",
+    "url": "https://www.federalreserve.gov/newsevents/speech/bowman20260508a.htm",
+    "publishedAt": "2026-05-08T23:30:00.000Z",
+    "category": "fixed-income",
+    "summary": "Speech At the Hoover Institution Annual Monetary Policy Conference, Stanford, California",
+    "type": "article",
+    "region": "us"
+  },
+  {
+    "id": "fe1fe5f290f7b24322ecaedf4b8bad0464f3016a",
+    "title": "Waller, Update On Federal Reserve Bank Operations",
+    "source": "Federal Reserve Speeches",
+    "url": "https://www.federalreserve.gov/newsevents/speech/waller20260508a.htm",
+    "publishedAt": "2026-05-08T23:30:00.000Z",
+    "category": "fixed-income",
+    "summary": "Speech At the Hoover Institution Annual Monetary Policy Conference, Stanford, California",
+    "type": "article",
+    "region": "us"
+  },
+  {
+    "id": "de93b18d9e7a53b5d3c0546ea621b431af2d7f04",
+    "title": "Anthropic says it hit a $30 billion revenue run rate after 'crazy' 80x growth",
+    "source": "VentureBeat",
+    "url": "https://venturebeat.com/technology/anthropic-says-it-hit-a-30-billion-revenue-run-rate-after-crazy-80x-growth",
+    "publishedAt": "2026-05-08T21:45:20.000Z",
+    "category": "ai",
+    "summary": "Dario Amodei is not the kind of CEO who talks loosely about numbers. The Anthropic co-founder and chief executive, a former VP of research at OpenAI with a PhD in computational neuroscience from Princeton, has built a reputation for measured public statements — particularly aroun",
+    "type": "article",
+    "region": "global"
+  },
+  {
+    "id": "74a71de6afe17498033ff74b476ced685108c288",
+    "title": "OpenAI brings GPT-5-class reasoning to real-time voice — and it changes what voice agents can actually orchestrate",
+    "source": "VentureBeat",
+    "url": "https://venturebeat.com/orchestration/openai-brings-gpt-5-class-reasoning-to-real-time-voice-and-it-changes-what-voice-agents-can-actually-orchestrate",
+    "publishedAt": "2026-05-08T21:41:21.000Z",
+    "category": "ai",
+    "summary": "Voice agents have been expensive to run and painful to orchestrate, not because the models can't handle conversation, but because context ceilings forced enterprises to build session resets, state compression, and reconstruction layers into every deployment. OpenAI's three new vo",
+    "type": "article",
+    "region": "global"
+  },
+  {
+    "id": "dd21cf7e188b4732213cbc2c53a9383977a985c7",
+    "title": "Federal Reserve Board announces approval of related applications by Columbia Bank MHC, and Columbia Financial, Inc.",
+    "source": "Federal Reserve Press Releases",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260508a.htm",
+    "publishedAt": "2026-05-08T21:00:00.000Z",
+    "category": "macro",
+    "summary": "Federal Reserve Board announces approval of related applications by Columbia Bank MHC, and Columbia Financial, Inc.",
+    "type": "article",
+    "region": "global"
+  },
+  {
+    "id": "02f8015f6cbba8f894a8f41f9499c2b71df8d63a",
+    "title": "5,000 vibe-coded apps just proved shadow AI is the new S3 bucket crisis",
+    "source": "VentureBeat",
+    "url": "https://venturebeat.com/security/vibe-coded-apps-shadow-ai-s3-bucket-crisis-ciso-audit-framework",
+    "publishedAt": "2026-05-08T20:57:01.000Z",
+    "category": "ai",
+    "summary": "Most enterprise security programs were built to protect servers, endpoints, and cloud accounts. None of them was built to find a customer intake form that a product manager vibe coded on Lovable over a weekend, connected to a live Supabase database, and deployed on a public URL i",
+    "type": "article",
+    "region": "global"
+  },
+  {
+    "id": "85365f34ba46bf913f57f1b8bd7aff09c15b16fd",
+    "title": "The Week’s 10 Biggest Funding Rounds: Enterprise AI, Space Tech And Biotech Top The Ranks",
+    "source": "Crunchbase News",
+    "url": "https://news.crunchbase.com/venture/biggest-funding-rounds-sierra-astrani-anagram-therapeutics/",
+    "publishedAt": "2026-05-08T18:06:16.000Z",
+    "category": "venture-capital",
+    "summary": "Another week, another infusion of big AI rounds.",
+    "type": "article",
+    "region": "global"
+  },
+  {
+    "id": "7abff0839cfeafe27011ef3a144ec5300d45c9df",
+    "title": "An AI agent rewrote a Fortune 50 security policy. Here's how to govern AI agents before one does the same.",
+    "source": "VentureBeat",
+    "url": "https://venturebeat.com/security/cisco-crowdstrike-rsac-2026-agent-identity-iam-gap-maturity-model",
+    "publishedAt": "2026-05-08T17:55:03.000Z",
+    "category": "ai",
+    "summary": "A CEO’s AI agent rewrote the company’s security policy. Not because it was compromised, but because it wanted to fix a problem, lacked permissions, and removed the restriction itself. Every identity check passed. CrowdStrike CEO George Kurtz disclosed the incident and a second on",
+    "type": "article",
+    "region": "global"
+  },
+  {
+    "id": "9b26199b131ed0cc3d50680179dbce0f2f0100ac",
+    "title": "Anthropic wants to own your agent's memory, evals, and orchestration — and that should make enterprises nervous",
+    "source": "VentureBeat",
+    "url": "https://venturebeat.com/orchestration/anthropic-wants-to-own-your-agents-memory-evals-and-orchestration-and-that-should-make-enterprises-nervous",
+    "publishedAt": "2026-05-08T17:51:41.000Z",
+    "category": "ai",
+    "summary": "Just a few weeks after announcing Claude Managed Agents, Anthropic has updated the platform with three new capabilities that collapse infrastructure layers like memory, evaluation, and multi-agent orchestration, into a single runtime. This move could threaten the standalone tools",
+    "type": "article",
+    "region": "global"
+  },
+  {
+    "id": "03e0e240e0d0196b0c00fa6627524d34111b7d00",
+    "title": "Africa: Kenya Positions Itself As Africa's Digital Innovation Hub Ahead of Africa Forward Summit",
+    "source": "AllAfrica Business",
+    "url": "https://allafrica.com/stories/202605080513.html",
+    "publishedAt": "2026-05-08T16:27:06.000Z",
+    "category": "africa-markets",
+    "summary": "[Capital FM] Nairobi -- Kenya is positioning itself as a continental leader in digital innovation as the country prepares to host the inaugural Africa Forward Summit in partnership with the French government.",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "7dd0052ac621c2d1e0844b715ed4847757a90d6c",
+    "title": "The “people’s airline” and the enterprise AI gold rush",
+    "source": "TechCrunch Startups",
+    "url": "https://techcrunch.com/podcast/the-peoples-airline-and-the-enterprise-ai-gold-rush/",
+    "publishedAt": "2026-05-08T15:46:17.000Z",
+    "category": "early-stage",
+    "summary": "Everyone wants a piece of the enterprise AI pie, and this week, we saw a string of companies making their moves. From Anthropic and OpenAI announcing new joint ventures targeting enterprise AI deployment to SAP dropping $1B on German AI startup Prior Labs, it’s becoming clear tha",
+    "type": "article",
+    "region": "global"
+  },
+  {
+    "id": "1e3be1fed5045d07ceedd96a2a501bc144e8dc21",
+    "title": "Live only at TechCrunch Disrupt 2026: Why most founders are already behind on raising a Series A in 2027",
+    "source": "TechCrunch Startups",
+    "url": "https://techcrunch.com/2026/05/08/live-only-at-techcrunch-disrupt-2026-why-most-founders-are-already-behind-on-raising-a-series-a-in-2027/",
+    "publishedAt": "2026-05-08T14:30:00.000Z",
+    "category": "early-stage",
+    "summary": "Learn what it takes to build a Series A in 2027 from top VCs at TechCrunch Disrupt 2026, taking place at San Francisco’s Moscone West on October 13-15. Register today to hear this session live on the Builders Stage.",
+    "type": "article",
+    "region": "global"
+  },
+  {
+    "id": "a3bf7bcc130ee9e2f2471fc3d4e7d942aaad0adb",
+    "title": "Last 24 hours to get 50% off a second pass to TechCrunch Disrupt 2026",
+    "source": "TechCrunch Startups",
+    "url": "https://techcrunch.com/2026/05/08/last-24-hours-to-get-50-off-a-second-pass-to-techcrunch-disrupt-2026/",
+    "publishedAt": "2026-05-08T14:00:00.000Z",
+    "category": "early-stage",
+    "summary": "Last day to buy one pass and get a second one at 50% off to TechCrunch Disrupt 2026. Bring a partner, co-founder, or colleague at half off. Register now.",
+    "type": "article",
+    "region": "global"
+  },
+  {
+    "id": "b6d004fc9d8bf50ec2c29098be68233f52a70687",
+    "title": "5% GPU utilization: The $401 billion AI infrastructure problem enterprises can't keep ignoring",
+    "source": "VentureBeat",
+    "url": "https://venturebeat.com/infrastructure/5-gpu-utilization-the-401-billion-ai-infrastructure-problem-enterprises-cant-keep-ignoring",
+    "publishedAt": "2026-05-08T13:00:00.000Z",
+    "category": "ai",
+    "summary": "For the last 24 months, one narrative justified every over-provisioned data center and bloated IT budget: the GPU scramble. Silicon was the new oil, and H100s traded like contraband. Reserve capacity now or your enterprise would be left behind. The bill is now due, and the CFO is",
+    "type": "article",
+    "region": "global"
+  },
+  {
+    "id": "4b4cab0c179e415a239cd98a0ba907cdc789c803",
+    "title": "Liberia: Mines and Energy Signs Service Deal With Ame Trade Ltd",
+    "source": "AllAfrica Business",
+    "url": "https://allafrica.com/stories/202605080430.html",
+    "publishedAt": "2026-05-08T12:54:46.000Z",
+    "category": "africa-markets",
+    "summary": "[Liberian Observer] As Liberia prepares to host the Country's first national conference on the mining and energy sectors, AME Trade Ltd, and the Ministry of Mines and Energy have entered into a 'Service Agreement'.",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "f0640deba168d650cf13453fd05f057d4174c2c8",
+    "title": "East Africa: Karugu Highlights Isebania-Sirari Osbp As Key Gateway to EAC Trade Growth",
+    "source": "AllAfrica Business",
+    "url": "https://allafrica.com/stories/202605080425.html",
+    "publishedAt": "2026-05-08T12:52:59.000Z",
+    "category": "africa-markets",
+    "summary": "[Capital FM] Nairobi -- The Principal Secretary, Caroline Karugu, has underscored the strategic importance of the Isebania-Sirari One-Stop Border Post (OSBP), describing it as a crucial gateway linking Kenya to regional markets within the East African Community (EAC).",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "2a1b71192406d3c924a43d8bfcf9ddb14e3d8d0b",
+    "title": "Ethiopia: African Influencers Told to Harness Digital Power for Transformation",
+    "source": "AllAfrica Business",
+    "url": "https://allafrica.com/stories/202605080412.html",
+    "publishedAt": "2026-05-08T12:51:59.000Z",
+    "category": "africa-markets",
+    "summary": "[ENA] Addis Ababa -- African digital influencers must unite their voices to accelerate the continent's transformation, according to Gemeda Olana, CEO of AGA Tech Enterprise.",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "2b569158cd4a435772a7d9988ed309c8e8251360",
+    "title": "Zimbabwe: Gvt Steps Up Mine Inspections After Fatal Chegutu Accidents",
+    "source": "AllAfrica Business",
+    "url": "https://allafrica.com/stories/202605080383.html",
+    "publishedAt": "2026-05-08T12:12:07.000Z",
+    "category": "africa-markets",
+    "summary": "[263Chat] The government says it has intensified inspections and monitoring of mining activities following fatal accidents at illegal mining sites in Chegutu.",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "ca85eeddbffb909c10f0ad8946e6702d4e3cbfc0",
+    "title": "Kenya: Mbadi to Unlock Meru Funds After Agreement to Settle Leopard Rock Hotel Debt",
+    "source": "AllAfrica Business",
+    "url": "https://allafrica.com/stories/202605080382.html",
+    "publishedAt": "2026-05-08T12:12:00.000Z",
+    "category": "africa-markets",
+    "summary": "[Capital FM] Nairobi -- The Meru County Government has received a reprieve after the National Treasury committed to lifting the freeze on its funds and settling Ksh139 million owed to a French investor linked to Leopard Rock Hotel Limited.",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "9cb77c85f506d65bca2ef56eb039e0be650cad75",
+    "title": "South Africa: Taxi Operators Call for Urgent Relief As Fuel Prices Rocket",
+    "source": "AllAfrica Business",
+    "url": "https://allafrica.com/stories/202605080313.html",
+    "publishedAt": "2026-05-08T11:34:36.000Z",
+    "category": "africa-markets",
+    "summary": "[GroundUp] Cape Town commuters brace for looming taxi fare hike",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "c68b416e9210f95898f6e88f1a3f4ebf00d91a5f",
+    "title": "South Africa: President Ramaphosa Hails South32 Investment As Hillside Aluminium Marks 30 Years",
+    "source": "AllAfrica Investment",
+    "url": "https://allafrica.com/stories/202605080301.html",
+    "publishedAt": "2026-05-08T11:32:15.000Z",
+    "category": "africa-markets",
+    "summary": "[SAnews.gov.za] President Cyril Ramaphosa has hailed Hillside Aluminium's contribution to South Africa's economy, skills development and job creation, while reaffirming government's commitment to creating an enabling environment for investment and industrial growth.",
+    "type": "article",
+    "region": "africa"
+  },
+  {
     "id": "4db922d3b983972bccd106080ea3458180c4b1f1",
     "title": "Sector Snapshot: Sales And Marketing Gets An AI Makeover",
     "source": "Crunchbase News",
@@ -9,6 +240,28 @@
     "summary": "So far in 2026, companies in sales, marketing and CRM categories have pulled in around $2.7 billion globally in seed- through growth-stage funding, per Crunchbase data.",
     "type": "article",
     "region": "global"
+  },
+  {
+    "id": "b09bf4ffd3051b1f2bee456e151b14dc4e744fbc",
+    "title": "Liberia: Caldwell Residents Happy Over Re-Electrification of Streetlights, but Want Electricity Stable",
+    "source": "AllAfrica Business",
+    "url": "https://allafrica.com/stories/202605080253.html",
+    "publishedAt": "2026-05-08T10:49:15.000Z",
+    "category": "africa-markets",
+    "summary": "[FrontPageAfrica] Monrovia -- Residents of the Township of Caldwell in Montserrado County have expressed happiness over the re-electrification of the streetlights, describing the move as an enhancement to improve security and the free movement of goods and services in the night.",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "8af22de1004bc1bb3bd8e61809cf45d9c62ea7a4",
+    "title": "Kenya: MPs Fault Kpa, Kmfri Over Low Hiring of Persons With Disabilities",
+    "source": "AllAfrica Business",
+    "url": "https://allafrica.com/stories/202605080219.html",
+    "publishedAt": "2026-05-08T10:28:21.000Z",
+    "category": "africa-markets",
+    "summary": "[Capital FM] Mombasa -- A parliamentary committee has criticised the Kenya Ports Authority and the Kenya Marine and Fisheries Research Institute for failing to meet the legal threshold for employing persons with disabilities.",
+    "type": "article",
+    "region": "africa"
   },
   {
     "id": "9236d0befedaf9104b0948911371e7e1d7b92d46",
@@ -66,6 +319,17 @@
     "region": "global"
   },
   {
+    "id": "79b09d9bd2e3df895f772835b3900377544c1e77",
+    "title": "Governance, not gatekeeping: How SAP brings enterprise‑grade safety to AI connectivity",
+    "source": "VentureBeat",
+    "url": "https://venturebeat.com/orchestration/governance-not-gatekeeping-how-sap-brings-enterprise-grade-safety-to-ai-connectivity",
+    "publishedAt": "2026-05-08T07:00:00.000Z",
+    "category": "ai",
+    "summary": "Presented by SAP The enterprise software industry has undergone a fundamental shift, and vendors are adapting their approaches to better protect the customers who rely on them. For years, every global platform vendor running multi-tenant cloud infrastructure has maintained docume",
+    "type": "article",
+    "region": "global"
+  },
+  {
     "id": "1ff90c9ad310f689cf2c0a10edc6b8a4e6d9e51e",
     "title": "Malawi: Malawians Mock Fuel Price Cut As 'Cosmetic' Amid Soaring Cost of Living",
     "source": "AllAfrica Business",
@@ -99,15 +363,36 @@
     "region": "africa"
   },
   {
-    "id": "76c688ddf56c915420914e26dce74ca1705c18c9",
-    "title": "Anthropic introduces \"dreaming,\" a system that lets AI agents learn from their own mistakes",
-    "source": "VentureBeat",
-    "url": "https://venturebeat.com/technology/anthropic-introduces-dreaming-a-system-that-lets-ai-agents-learn-from-their-own-mistakes",
-    "publishedAt": "2026-05-08T00:09:35.000Z",
-    "category": "ai",
-    "summary": "Anthropic on Tuesday unveiled a suite of updates to its Claude Managed Agents platform at its second annual Code with Claude developer conference in San Francisco, introducing a new capability called \"dreaming\" that lets AI agents learn from their own past sessions and improve ov",
-    "type": "article",
-    "region": "global"
+    "id": "c74afb9bf61b6a23d7d759df243cae633d6e7c88",
+    "title": "10Y-2Y spread: 0.48%",
+    "source": "FRED",
+    "url": "https://fred.stlouisfed.org/series/T10Y2Y",
+    "publishedAt": "2026-05-08T00:00:00.000Z",
+    "category": "yield-curve",
+    "summary": "10Y-2Y spread is 0.48% (-0.01% vs previous).",
+    "type": "market-data",
+    "region": "us",
+    "symbol": "T10Y2Y",
+    "value": 0.48,
+    "change": -0.010000000000000009,
+    "changePercent": -0.010000000000000009,
+    "unit": "%"
+  },
+  {
+    "id": "7c3d39f804b10e486709eaf44a147637df755ec0",
+    "title": "10Y-3M spread: 0.69%",
+    "source": "FRED",
+    "url": "https://fred.stlouisfed.org/series/T10Y3M",
+    "publishedAt": "2026-05-08T00:00:00.000Z",
+    "category": "yield-curve",
+    "summary": "10Y-3M spread is 0.69% (-0.03% vs previous).",
+    "type": "market-data",
+    "region": "us",
+    "symbol": "T10Y3M",
+    "value": 0.69,
+    "change": -0.030000000000000027,
+    "changePercent": -0.030000000000000027,
+    "unit": "%"
   },
   {
     "id": "7f9df1ce4166a99513bb5a840e1c4cd23f4b32bd",
@@ -128,17 +413,6 @@
     "publishedAt": "2026-05-07T21:49:24.000Z",
     "category": "early-stage",
     "summary": "The company made a series of other announcements during earnings, including a new commercial contract, a pilot program in Canada, and a collaboration.",
-    "type": "article",
-    "region": "global"
-  },
-  {
-    "id": "89312e509dc8ddb4b2cd9a6b0a0972f0cc739d2e",
-    "title": "How Sakana trained a 7B model to orchestrate GPT, Claude and Gemini LLMs",
-    "source": "VentureBeat",
-    "url": "https://venturebeat.com/orchestration/how-sakana-trained-a-7b-model-to-orchestrate-gpt-5-claude-sonnet-4-and-gemini-2-5-pro",
-    "publishedAt": "2026-05-07T21:23:46.000Z",
-    "category": "ai",
-    "summary": "Every LangChain pipeline your team hardcodes starts breaking the moment the query distribution shifts — and it always shifts. That bottleneck is what Sakana AI set out to eliminate. Researchers at Sakana AI have introduced the \"RL Conductor,\" a small language model trained via re",
     "type": "article",
     "region": "global"
   },
@@ -176,17 +450,6 @@
     "region": "global"
   },
   {
-    "id": "51795fa4e7486632f6553497dea22a870c5bddf2",
-    "title": "Meet ZAYA1-8B, a super efficient, open reasoning model trained on AMD Instinct MI300 GPUs",
-    "source": "VentureBeat",
-    "url": "https://venturebeat.com/technology/meet-zaya1-8b-a-super-efficient-open-reasoning-model-trained-on-amd-instinct-mi300-gpus",
-    "publishedAt": "2026-05-07T18:24:00.000Z",
-    "category": "ai",
-    "summary": "Even as leading AI providers like OpenAI and Anthropic battle over the compute to train and release ever larger, more powerful models, other labs are going in a different direction — pursuing the development of smaller, more efficient models and often open sourcing them. The late",
-    "type": "article",
-    "region": "global"
-  },
-  {
     "id": "bad82a48e91fd3b963358d5cd5c53e6c5053640e",
     "title": "Kalshi doubles valuation in 5 months, hitting $22B",
     "source": "TechCrunch Startups",
@@ -209,17 +472,6 @@
     "region": "global"
   },
   {
-    "id": "f7de2cab2db8795607656409394ca0b9762e915e",
-    "title": "Africa: Africa Is Home to Some of Fastest-Growing Economies in 2026",
-    "source": "AllAfrica Business",
-    "url": "https://allafrica.com/stories/202605070621.html",
-    "publishedAt": "2026-05-07T16:51:14.000Z",
-    "category": "africa-markets",
-    "summary": "[Daba Finance] Africa is set to deliver some of the world's strongest growth in 2026, even as war in the Middle East, oil volatility and weaker risk appetite weigh on global markets. IMF projections show 5 African economies growing at 7% or more this year, led by Ethiopia, Guinea",
-    "type": "article",
-    "region": "africa"
-  },
-  {
     "id": "4a51c00e2c6c6de3fd4ce28e3267aa2ba3001387",
     "title": "Kenya: EACC Arrests Kenya Power Official Over Alleged Sh20,000 Bribery",
     "source": "AllAfrica Business",
@@ -238,50 +490,6 @@
     "publishedAt": "2026-05-07T15:15:47.000Z",
     "category": "africa-markets",
     "summary": "[This Day] Washington, DC -- As Kingsley Chiedu Moghalu marks his 63rd birthday, his life's journey stands as a compelling story of intellect, discipline, and transformative leadership. From the corridors of the United Nations to the boardrooms of global finance and the policy ro",
-    "type": "article",
-    "region": "africa"
-  },
-  {
-    "id": "b66782619bc5730049d9923dfc9eee06a23b2f8e",
-    "title": "Africa: Rwanda to Co-Chair Ai Session At Africa Forward Summit in Nairobi",
-    "source": "AllAfrica Business",
-    "url": "https://allafrica.com/stories/202605070510.html",
-    "publishedAt": "2026-05-07T15:11:20.000Z",
-    "category": "africa-markets",
-    "summary": "[New Times] Rwanda is set to co-chair a high-level roundtable on artificial intelligence (AI) at the upcoming Africa Forward Summit in Nairobi, highlighting its growing influence in digital innovation on the continent.",
-    "type": "article",
-    "region": "africa"
-  },
-  {
-    "id": "8c924e637aaf8a1fa1508cf885e54f3209e750c1",
-    "title": "Africa: Africa's Digital Voices Unite in Addis Ababa to Rewrite the Continent's Story",
-    "source": "AllAfrica Business",
-    "url": "https://allafrica.com/stories/202605070505.html",
-    "publishedAt": "2026-05-07T15:08:19.000Z",
-    "category": "africa-markets",
-    "summary": "[ENA] Africa's rising digital voices are gathering in Addis Ababa for the first-ever African Social Media Influencer Summit bringing together content creators comedians and online personalities from across the continent.",
-    "type": "article",
-    "region": "africa"
-  },
-  {
-    "id": "b239404d6c53e786d7e48cfd112b85388cae7ef5",
-    "title": "Africa: Airbus Africa Director Praises Ethiopian Airlines As Continental Aviation Success Story",
-    "source": "AllAfrica Business",
-    "url": "https://allafrica.com/stories/202605070504.html",
-    "publishedAt": "2026-05-07T15:07:55.000Z",
-    "category": "africa-markets",
-    "summary": "[ENA] Addis Ababa -- Airbus's Airline Marketing Director for Africa, Joep Ellers, has described Ethiopian Airlines as Africa's true aviation success story.",
-    "type": "article",
-    "region": "africa"
-  },
-  {
-    "id": "a5c6ee88a87951b704cab7e9ebecc528f8352f99",
-    "title": "Ethiopia: Ethiopia, Azerbaijan Move to Boost Trade Ties Following High-Level Talks",
-    "source": "AllAfrica Business",
-    "url": "https://allafrica.com/stories/202605070503.html",
-    "publishedAt": "2026-05-07T15:07:29.000Z",
-    "category": "africa-markets",
-    "summary": "[ENA] Addis Ababa -- Ethiopia's Trade and Regional Integration Minister, Kassahun Gofe, announced that he held bilateral talks with Elnur Aliyev, First Deputy Minister of Economy of Azerbaijan to strengthen trade cooperation between the two nations.",
     "type": "article",
     "region": "africa"
   },
@@ -352,28 +560,6 @@
     "region": "global"
   },
   {
-    "id": "3342945706927feb970d67c65249c33d580717e4",
-    "title": "Kenya: President Ruto Orders Full Digitisation of Education Data to Eliminate Ghost Learners",
-    "source": "AllAfrica Business",
-    "url": "https://allafrica.com/stories/202605070494.html",
-    "publishedAt": "2026-05-07T13:57:42.000Z",
-    "category": "africa-markets",
-    "summary": "[Capital FM] Nairobi -- President William Ruto has directed the Ministry of Education to fast-track the full digitisation of education records across the country within the next two months, in a sweeping move aimed at improving accountability, planning, and transparency in the se",
-    "type": "article",
-    "region": "africa"
-  },
-  {
-    "id": "db13c4cc6e4f0ec594dde9863b9fa722f9de4427",
-    "title": "Kenya: Livestock Farmers Push for Ban On South African Beef Imports",
-    "source": "AllAfrica Business",
-    "url": "https://allafrica.com/stories/202605070492.html",
-    "publishedAt": "2026-05-07T13:56:01.000Z",
-    "category": "africa-markets",
-    "summary": "[Capital FM] Nairobi -- The Livestock Association of Kenya is calling on the government to suspend beef imports from South Africa following a surge in Foot and Mouth Disease (FMD) outbreaks in the country.",
-    "type": "article",
-    "region": "africa"
-  },
-  {
     "id": "7da45bc96137b73cf5e79e81891256f628fdf8bd",
     "title": "China’s Moonshot AI raises $2B at $20B valuation as demand for open source AI skyrockets",
     "source": "TechCrunch Startups",
@@ -385,28 +571,6 @@
     "region": "global"
   },
   {
-    "id": "8b2078693e14fa729570b4c9f8a063a86a75eaac",
-    "title": "South Africa: Indaba Places Rural Infrastructure and Inclusive Economy Under Spotlight",
-    "source": "AllAfrica Business",
-    "url": "https://allafrica.com/stories/202605070308.html",
-    "publishedAt": "2026-05-07T11:36:15.000Z",
-    "category": "africa-markets",
-    "summary": "[SAnews.gov.za] Advancing rural infrastructure development and building an inclusive economy will take centre stage as Land Reform and Rural Development Minister Mzwanele Nyhontso, presides over the National Integrated Rural Development Indaba in Bloemfontein.",
-    "type": "article",
-    "region": "africa"
-  },
-  {
-    "id": "117435fa084583b2978d5cf4c1658ad52800baa5",
-    "title": "Kenya: Parliament Announces Public Hearings On Sh4.78 Trillion Budget Policy Paper",
-    "source": "AllAfrica Business",
-    "url": "https://allafrica.com/stories/202605070273.html",
-    "publishedAt": "2026-05-07T11:21:11.000Z",
-    "category": "africa-markets",
-    "summary": "[Capital FM] Nairobi -- The National Assembly Budget and Appropriations Committee is scheduled to conduct public hearings across 16 selected counties as it gathers views on the proposed 4.78 trillion Shillings budget for the 2026/27 financial year.",
-    "type": "article",
-    "region": "africa"
-  },
-  {
     "id": "0b4ae8c8c78ae9060aa8e1e9120797414cc9baa8",
     "title": "Tanzania: Government Steps in As Fuel Prices Soar",
     "source": "AllAfrica Business",
@@ -414,17 +578,6 @@
     "publishedAt": "2026-05-07T11:12:29.000Z",
     "category": "africa-markets",
     "summary": "[Daily News] Dar es Salaam -- AS fuel prices continue to skyrocket, the government has stepped in by introducing a subsidy of 259/- per litre on diesel, recognising its critical role in economic and social activities.",
-    "type": "article",
-    "region": "africa"
-  },
-  {
-    "id": "c963c09eda58edd84a016f392db9e6fd8f960f22",
-    "title": "Zimbabwe: Zimbabwe Ranked Better Than South Africa On Misery Index",
-    "source": "AllAfrica Business",
-    "url": "https://allafrica.com/stories/202605070232.html",
-    "publishedAt": "2026-05-07T11:10:27.000Z",
-    "category": "africa-markets",
-    "summary": "[New Zimbabwe] ZIMBABWE has for the first time, been ranked better than neighbours South Africa on globally acclaimed economist Steve Hanke's Annual Misery List.",
     "type": "article",
     "region": "africa"
   },
@@ -473,28 +626,6 @@
     "region": "africa"
   },
   {
-    "id": "45a1002ade6439cb73c6837128784b3c7688f718",
-    "title": "Anthropic Skill scanners passed every check. The malicious code rode in on a test file.",
-    "source": "VentureBeat",
-    "url": "https://venturebeat.com/security/anthropic-skill-scanners-passed-every-check-malicious-code-test-file",
-    "publishedAt": "2026-05-07T07:00:00.000Z",
-    "category": "ai",
-    "summary": "Picture this scenario: An Anthropic Skill scanner runs a full analysis of a Skill pulled from ClawHub or skills.sh. Its markdown instructions are clean, and no prompt injection is detected. No shell commands are hiding in the SKILL.md. Green across the board. The scanner never lo",
-    "type": "article",
-    "region": "global"
-  },
-  {
-    "id": "f6926256b44d99307ecc249f43624113f9eefdd1",
-    "title": "Why AI breaks without context — and how to fix it",
-    "source": "VentureBeat",
-    "url": "https://venturebeat.com/orchestration/why-ai-breaks-without-context-and-how-to-fix-it",
-    "publishedAt": "2026-05-07T07:00:00.000Z",
-    "category": "ai",
-    "summary": "Presented by Zeta Global The gap between what AI promises and what it delivers is not subtle. The same model can produce precise, useful output in one system and generic, irrelevant results in another. The issue is not the model. It's the context. Most enterprise systems were not",
-    "type": "article",
-    "region": "global"
-  },
-  {
     "id": "c99bf29596615c4c9bbbefa3803aa833c600b024",
     "title": "Euro area financial integration improves despite persistent fragmentation, ECB report shows",
     "source": "ECB Press Releases",
@@ -506,35 +637,83 @@
     "region": "global"
   },
   {
-    "id": "d62904a8a0fa1b15ae103ed1b1572ceeb299712a",
-    "title": "10Y-2Y spread: 0.49%",
+    "id": "2d74a490738ded845c313862a93407a266affd5f",
+    "title": "US 2Y Treasury yield: 3.92%",
     "source": "FRED",
-    "url": "https://fred.stlouisfed.org/series/T10Y2Y",
+    "url": "https://fred.stlouisfed.org/series/DGS2",
     "publishedAt": "2026-05-07T00:00:00.000Z",
     "category": "yield-curve",
-    "summary": "10Y-2Y spread is 0.49% (+0.00% vs previous).",
+    "summary": "US 2Y Treasury yield is 3.92% (+0.05% vs previous).",
     "type": "market-data",
     "region": "us",
-    "symbol": "T10Y2Y",
-    "value": 0.49,
+    "symbol": "DGS2",
+    "value": 3.92,
+    "change": 0.04999999999999982,
+    "changePercent": 0.04999999999999982,
+    "unit": "%"
+  },
+  {
+    "id": "707fb2a43cc25fd9b3a63351a7e1bed677a3de88",
+    "title": "US 10Y Treasury yield: 4.41%",
+    "source": "FRED",
+    "url": "https://fred.stlouisfed.org/series/DGS10",
+    "publishedAt": "2026-05-07T00:00:00.000Z",
+    "category": "yield-curve",
+    "summary": "US 10Y Treasury yield is 4.41% (+0.05% vs previous).",
+    "type": "market-data",
+    "region": "us",
+    "symbol": "DGS10",
+    "value": 4.41,
+    "change": 0.04999999999999982,
+    "changePercent": 0.04999999999999982,
+    "unit": "%"
+  },
+  {
+    "id": "e8823450496a1b70c35d96076163c6b900732c67",
+    "title": "US 30Y Treasury yield: 4.97%",
+    "source": "FRED",
+    "url": "https://fred.stlouisfed.org/series/DGS30",
+    "publishedAt": "2026-05-07T00:00:00.000Z",
+    "category": "yield-curve",
+    "summary": "US 30Y Treasury yield is 4.97% (+0.03% vs previous).",
+    "type": "market-data",
+    "region": "us",
+    "symbol": "DGS30",
+    "value": 4.97,
+    "change": 0.02999999999999936,
+    "changePercent": 0.02999999999999936,
+    "unit": "%"
+  },
+  {
+    "id": "898c9be1f4f8765394927b9c2d49d4561d9a9176",
+    "title": "US 3M Treasury yield: 3.69%",
+    "source": "FRED",
+    "url": "https://fred.stlouisfed.org/series/DGS3MO",
+    "publishedAt": "2026-05-07T00:00:00.000Z",
+    "category": "yield-curve",
+    "summary": "US 3M Treasury yield is 3.69% (+0.00% vs previous).",
+    "type": "market-data",
+    "region": "us",
+    "symbol": "DGS3MO",
+    "value": 3.69,
     "change": 0,
     "changePercent": 0,
     "unit": "%"
   },
   {
-    "id": "37c66c52dc81855798fbb1fe416361207851d1d6",
-    "title": "10Y-3M spread: 0.72%",
+    "id": "9d34fdecd47f67bdcbc43466c7690c9f07b12822",
+    "title": "US 10Y TIPS yield: 1.96%",
     "source": "FRED",
-    "url": "https://fred.stlouisfed.org/series/T10Y3M",
+    "url": "https://fred.stlouisfed.org/series/DFII10",
     "publishedAt": "2026-05-07T00:00:00.000Z",
     "category": "yield-curve",
-    "summary": "10Y-3M spread is 0.72% (+0.05% vs previous).",
+    "summary": "US 10Y TIPS yield is 1.96% (+0.02% vs previous).",
     "type": "market-data",
     "region": "us",
-    "symbol": "T10Y3M",
-    "value": 0.72,
-    "change": 0.04999999999999993,
-    "changePercent": 0.04999999999999993,
+    "symbol": "DFII10",
+    "value": 1.96,
+    "change": 0.020000000000000018,
+    "changePercent": 0.020000000000000018,
     "unit": "%"
   },
   {
@@ -593,17 +772,6 @@
     "region": "africa"
   },
   {
-    "id": "c795957c17f6577a4c6943e9b62a86c25fb9b169",
-    "title": "Market research is too slow for the AI era, so Brox built 60,000 identical 'digital twins' of real people you can survey instantly, repeatedly",
-    "source": "VentureBeat",
-    "url": "https://venturebeat.com/data/market-research-is-too-slow-for-the-ai-era-so-brox-built-60-000-identical-digital-twins-of-real-people-you-can-survey-instantly-repeatedly",
-    "publishedAt": "2026-05-06T16:16:49.000Z",
-    "category": "ai",
-    "summary": "In a world where a viral TikTok video can cause a brand to trend globally in mere hours, the traditional market research cycle — often spanning 12 weeks — is becoming a liability. The lag between a survey question and the answers from a wide (or targeted) pool of respondents has ",
-    "type": "article",
-    "region": "global"
-  },
-  {
     "id": "cf94a008e1d648ffb43057a96d5d72a6912b80a7",
     "title": "Khosla-backed robotics startup Genesis AI has gone full stack, demo shows",
     "source": "TechCrunch Startups",
@@ -611,17 +779,6 @@
     "publishedAt": "2026-05-06T15:46:38.000Z",
     "category": "early-stage",
     "summary": "Genesis AI, a startup that raised a $105 million seed round to build foundational AI for robotics, has unveiled its first model, GENE-26.5, but also a demo showcasing a set of robotic hands performing complex tasks.",
-    "type": "article",
-    "region": "global"
-  },
-  {
-    "id": "3f77ec0ead8c3d2ad3d8693e35f87d78bdf29c88",
-    "title": "The app store for robots has arrived: Hugging Face launches open-source Reachy Mini App Store with 200+ apps",
-    "source": "VentureBeat",
-    "url": "https://venturebeat.com/technology/the-app-store-for-robots-has-arrived-hugging-face-launches-open-source-reachy-mini-app-store-with-200-apps",
-    "publishedAt": "2026-05-06T15:00:00.000Z",
-    "category": "ai",
-    "summary": "There's an app for nearly every imaginable user and use case these days, but one thing they all have in common is that they're centered around one device: the smartphone. That changes today as Hugging Face, the 10-year-old New York City startup best known for being the go-to plac",
     "type": "article",
     "region": "global"
   },
@@ -758,17 +915,6 @@
     "region": "africa"
   },
   {
-    "id": "7ae4ba12b486b21fd1e0d93482f0d29d399470c9",
-    "title": "Marc Lore says that AI will soon enable anyone to open a restaurant",
-    "source": "TechCrunch Startups",
-    "url": "https://techcrunch.com/2026/05/05/marc-lore-says-that-ai-will-soon-enable-anyone-open-a-restaurant/",
-    "publishedAt": "2026-05-06T06:34:32.000Z",
-    "category": "early-stage",
-    "summary": "Wonder wants to turn its robotic kitchens into AI-powered “restaurant factories,” letting anyone spin up a virtual food brand with a prompt.",
-    "type": "article",
-    "region": "global"
-  },
-  {
     "id": "97bf8151458d346e8b28da531064859417c01847",
     "title": "Nigeria: Davido Vs Wizkid Celebrity Boxing Match Proposal Attracts $1 Billion Investment",
     "source": "AllAfrica Investment",
@@ -778,97 +924,6 @@
     "summary": "[Leadership] The Celebrity Boxing match frenzy has continued to generate headlines in the media, with different artistes and entertainers offering to fight their allies or rivals for a reasonable fee.",
     "type": "article",
     "region": "africa"
-  },
-  {
-    "id": "061b0e994fddb4a88cfd7b0d66f3439a005b21a4",
-    "title": "US 2Y Treasury yield: 3.87%",
-    "source": "FRED",
-    "url": "https://fred.stlouisfed.org/series/DGS2",
-    "publishedAt": "2026-05-06T00:00:00.000Z",
-    "category": "yield-curve",
-    "summary": "US 2Y Treasury yield is 3.87% (-0.06% vs previous).",
-    "type": "market-data",
-    "region": "us",
-    "symbol": "DGS2",
-    "value": 3.87,
-    "change": -0.06000000000000005,
-    "changePercent": -0.06000000000000005,
-    "unit": "%"
-  },
-  {
-    "id": "2b57644db125038b9e27fe66fe87109ef88cae89",
-    "title": "US 10Y Treasury yield: 4.36%",
-    "source": "FRED",
-    "url": "https://fred.stlouisfed.org/series/DGS10",
-    "publishedAt": "2026-05-06T00:00:00.000Z",
-    "category": "yield-curve",
-    "summary": "US 10Y Treasury yield is 4.36% (-0.07% vs previous).",
-    "type": "market-data",
-    "region": "us",
-    "symbol": "DGS10",
-    "value": 4.36,
-    "change": -0.0699999999999994,
-    "changePercent": -0.0699999999999994,
-    "unit": "%"
-  },
-  {
-    "id": "862c1863801ff1fed6bd08c1a99921d4c576e153",
-    "title": "US 30Y Treasury yield: 4.94%",
-    "source": "FRED",
-    "url": "https://fred.stlouisfed.org/series/DGS30",
-    "publishedAt": "2026-05-06T00:00:00.000Z",
-    "category": "yield-curve",
-    "summary": "US 30Y Treasury yield is 4.94% (-0.04% vs previous).",
-    "type": "market-data",
-    "region": "us",
-    "symbol": "DGS30",
-    "value": 4.94,
-    "change": -0.040000000000000036,
-    "changePercent": -0.040000000000000036,
-    "unit": "%"
-  },
-  {
-    "id": "35d9c422bbaae46996293c8bd763ec72904cf506",
-    "title": "US 3M Treasury yield: 3.69%",
-    "source": "FRED",
-    "url": "https://fred.stlouisfed.org/series/DGS3MO",
-    "publishedAt": "2026-05-06T00:00:00.000Z",
-    "category": "yield-curve",
-    "summary": "US 3M Treasury yield is 3.69% (+0.00% vs previous).",
-    "type": "market-data",
-    "region": "us",
-    "symbol": "DGS3MO",
-    "value": 3.69,
-    "change": 0,
-    "changePercent": 0,
-    "unit": "%"
-  },
-  {
-    "id": "97369043016c9c74a5fa4d05a713b9676ad363a4",
-    "title": "US 10Y TIPS yield: 1.94%",
-    "source": "FRED",
-    "url": "https://fred.stlouisfed.org/series/DFII10",
-    "publishedAt": "2026-05-06T00:00:00.000Z",
-    "category": "yield-curve",
-    "summary": "US 10Y TIPS yield is 1.94% (-0.02% vs previous).",
-    "type": "market-data",
-    "region": "us",
-    "symbol": "DFII10",
-    "value": 1.94,
-    "change": -0.020000000000000018,
-    "changePercent": -0.020000000000000018,
-    "unit": "%"
-  },
-  {
-    "id": "18557eb1abeef431c5ad4f83d4564c6234b5e0e1",
-    "title": "Altara secures $7M to bridge the data gap that’s slowing down physical sciences",
-    "source": "TechCrunch Startups",
-    "url": "https://techcrunch.com/2026/05/05/altara-secures-7m-to-bridge-the-data-gap-thats-slowing-down-physical-sciences/",
-    "publishedAt": "2026-05-05T22:57:41.000Z",
-    "category": "early-stage",
-    "summary": "Altara’s AI aims to diagnose failures and help speed up R&D by unifying data siloed across spreadsheets and legacy systems.",
-    "type": "article",
-    "region": "global"
   },
   {
     "id": "8ace2b1b4183da66391955b72a4af0dfb2d77a8e",
@@ -915,17 +970,6 @@
     "region": "us"
   },
   {
-    "id": "725df065ecf3585693aae074755cebead4826acf",
-    "title": "4 days left: Get 50% off a second TechCrunch Disrupt 2026 pass to make more deals faster",
-    "source": "TechCrunch Startups",
-    "url": "https://techcrunch.com/2026/05/05/4-days-left-get-50-off-a-second-techcrunch-disrupt-2026-pass-to-make-more-deals-faster/",
-    "publishedAt": "2026-05-05T14:00:00.000Z",
-    "category": "early-stage",
-    "summary": "For the next four days only, you can buy one pass to TechCrunch Disrupt 2026 and get 50% off a second of the same ticket type. That window closes May 8 at 11:59 p.m. PT. After that, prices go up, and you’ll pay more to bring a partner or colleague. Register today to get your plus",
-    "type": "article",
-    "region": "global"
-  },
-  {
     "id": "88103c90bc046e36e634a2912372e142c67a4252",
     "title": "Christine Lagarde: Climate, nature and monetary policy",
     "source": "ECB Press Releases",
@@ -968,17 +1012,6 @@
     "summary": "Global venture funding reached $56 billion in April, marking the third-largest monthly funding in a year. Funding was up 100% year over year, an increase driven by a handful of large rounds.",
     "type": "article",
     "region": "global"
-  },
-  {
-    "id": "81651755be96306f2f246becf235a15ab4129dff",
-    "title": "Nigeria: Coinage Gets SEC's Nod to Operate As Fund/Portfolio Manager",
-    "source": "AllAfrica Investment",
-    "url": "https://allafrica.com/stories/202605050304.html",
-    "publishedAt": "2026-05-05T10:43:36.000Z",
-    "category": "africa-markets",
-    "summary": "[Daily Trust] Coinage Fund Management Ltd (\"Coinage Fund\"), an Africa-focused investment management firm, has received approval from the Securities and Exchange Commission (SEC) Nigeria to operate as a Fund/Portfolio Manager.",
-    "type": "article",
-    "region": "africa"
   },
   {
     "id": "d32087e60bca4ca0eca8adeb39bb3daf38101d4c",
@@ -1120,17 +1153,6 @@
     "publishedAt": "2026-05-01T15:00:00.000Z",
     "category": "macro",
     "summary": "Agencies issue host state loan-to-deposit ratios",
-    "type": "article",
-    "region": "global"
-  },
-  {
-    "id": "5dba653a7610503968a9d7ae9c869221de3825da",
-    "title": "Data: The Seed Funding Boom Is Concentrating Capital In The San Francisco Bay Area",
-    "source": "Crunchbase News",
-    "url": "https://news.crunchbase.com/seed/us-startup-venture-funding-boom-concentration-bay-area/",
-    "publishedAt": "2026-05-01T11:00:29.000Z",
-    "category": "venture-capital",
-    "summary": "In 2025, the Bay Area expanded its dominance of U.S. seed funding — capturing a growing share of both deals and dollars — even as most startups remained geographically dispersed, an analysis of Crunchbase data shows, resulting in a more bifurcated landscape.",
     "type": "article",
     "region": "global"
   },
@@ -1421,28 +1443,6 @@
     "region": "global"
   },
   {
-    "id": "cef0d7e54688a98dfcebf5f9e37f3d00550d6ea3",
-    "title": "Barr, Developing Communities through Public-private Partnerships",
-    "source": "Federal Reserve Speeches",
-    "url": "https://www.federalreserve.gov/newsevents/speech/barr20260324a.htm",
-    "publishedAt": "2026-03-24T22:30:00.000Z",
-    "category": "fixed-income",
-    "summary": "Speech At the 2026 National Community Investment Conference, Phoenix, Arizona",
-    "type": "article",
-    "region": "us"
-  },
-  {
-    "id": "b3e10a256a9348258699dc07e5d2df44e581c6dd",
-    "title": "Powell, Acceptance Remarks",
-    "source": "Federal Reserve Speeches",
-    "url": "https://www.federalreserve.gov/newsevents/speech/powell20260321a.htm",
-    "publishedAt": "2026-03-21T17:30:00.000Z",
-    "category": "fixed-income",
-    "summary": "Speech At the American Society for Public Administration Annual Conference: Paul A. Volcker Public Integrity Award Ceremony (via pre-recorded video)",
-    "type": "article",
-    "region": "us"
-  },
-  {
     "id": "350ae724885507b8279640e7717b339c7581df66",
     "title": "Federal Reserve Board issues enforcement actions with former employee of Ally Bank and former employee of Regions Bank",
     "source": "Federal Reserve Press Releases",
@@ -1483,17 +1483,6 @@
     "publishedAt": "2026-03-18T18:00:00.000Z",
     "category": "macro",
     "summary": "Federal Reserve Board and Federal Open Market Committee release economic projections from the March 17-18 FOMC meeting",
-    "type": "article",
-    "region": "global"
-  },
-  {
-    "id": "ca38453e003dfc1612873baf7bfa0ab5f3854b8d",
-    "title": "Federal Reserve Board issues enforcement actions with former employee of Equity Bank and former employee of First State Bank of Dongola",
-    "source": "Federal Reserve Press Releases",
-    "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260313a.htm",
-    "publishedAt": "2026-03-13T15:00:00.000Z",
-    "category": "macro",
-    "summary": "Federal Reserve Board issues enforcement actions with former employee of Equity Bank and former employee of First State Bank of Dongola",
     "type": "article",
     "region": "global"
   }
