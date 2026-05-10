@@ -1,5 +1,71 @@
 [
   {
+    "id": "9226d8bc5499344c291a7308d73442a14808cdf0",
+    "title": "Voice AI in India is hard. Wispr Flow is betting on it anyway.",
+    "source": "TechCrunch Startups",
+    "url": "https://techcrunch.com/2026/05/09/voice-ai-in-india-is-hard-wispr-flow-is-betting-on-it-anyway/",
+    "publishedAt": "2026-05-10T02:00:00.000Z",
+    "category": "early-stage",
+    "summary": "Wispr Flow says growth accelerated in India after its Hinglish rollout, even as voice AI products continue to face challenges.",
+    "type": "article",
+    "region": "global"
+  },
+  {
+    "id": "46149f36c5ef1811c9c58cab65ff8c36c9eee329",
+    "title": "Fintech startup Parker files for bankruptcy",
+    "source": "TechCrunch Startups",
+    "url": "https://techcrunch.com/2026/05/09/fintech-startup-parker-files-for-bankruptcy/",
+    "publishedAt": "2026-05-09T20:32:17.000Z",
+    "category": "early-stage",
+    "summary": "Parker, a well-funded startup offering corporate credit cards and banking services, has filed for bankruptcy and is widely reported to have shut down.",
+    "type": "article",
+    "region": "global"
+  },
+  {
+    "id": "6c0122f5fe4132d4792f8c3a1ba7dae48431c9fd",
+    "title": "Intent-based chaos testing is designed for when AI behaves confidently — and wrongly",
+    "source": "VentureBeat",
+    "url": "https://venturebeat.com/infrastructure/intent-based-chaos-testing-is-designed-for-when-ai-behaves-confidently-and-wrongly",
+    "publishedAt": "2026-05-09T16:00:00.000Z",
+    "category": "ai",
+    "summary": "Here is a scenario that should concern every enterprise architect shipping autonomous AI systems right now: An observability agent is running in production. Its job is to detect infrastructure anomalies and trigger the appropriate response. Late one night, it flags an elevated an",
+    "type": "article",
+    "region": "global"
+  },
+  {
+    "id": "4d52facea4c8968f99e74baabc1e9d642c6986f3",
+    "title": "Ethiopia: Ethiopian Economic Reform Attracts Zimbabwean Investors - Ambassador Rashid",
+    "source": "AllAfrica Investment",
+    "url": "https://allafrica.com/stories/202605090069.html",
+    "publishedAt": "2026-05-09T15:33:52.000Z",
+    "category": "africa-markets",
+    "summary": "[ENA] Addis Ababa -- Ethiopia's ongoing economic reforms are drawing increasing interest from Zimbabwean investors, according to Ambassador Rashid Mohammed.",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "9abcb9348089defbeeaf6d3b3f04040b6417bc22",
+    "title": "East Africa: Ethiopia Spearheads Digital Hub for African Content Creators",
+    "source": "AllAfrica Business",
+    "url": "https://allafrica.com/stories/202605090070.html",
+    "publishedAt": "2026-05-09T15:33:52.000Z",
+    "category": "africa-markets",
+    "summary": "[ENA] Addis Ababa -- Ethiopia is prioritizing the development of robust digital infrastructure that empowers the next generation of digital creators and storytellers, Bereket Driba, Ethiopia's Deputy Permanent Representative to the AU and UNECA, said.",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "d1860b86b11366ac9cb434a0218ef32ed40844a9",
+    "title": "Nvidia has already committed $40B to equity AI deals this year",
+    "source": "TechCrunch Startups",
+    "url": "https://techcrunch.com/2026/05/09/nvidia-has-already-committed-40b-to-equity-ai-deals-this-year/",
+    "publishedAt": "2026-05-09T14:43:30.000Z",
+    "category": "early-stage",
+    "summary": "Nvidia continues to be a big investor in the AI ecosystem.",
+    "type": "article",
+    "region": "global"
+  },
+  {
     "id": "1e8223ad9880a2a3d8fcf09c4857339fec924a33",
     "title": "Bowman, When Regulation Reshapes Markets: The Migration of Corporate Lending",
     "source": "Federal Reserve Speeches",
@@ -242,28 +308,6 @@
     "region": "global"
   },
   {
-    "id": "b09bf4ffd3051b1f2bee456e151b14dc4e744fbc",
-    "title": "Liberia: Caldwell Residents Happy Over Re-Electrification of Streetlights, but Want Electricity Stable",
-    "source": "AllAfrica Business",
-    "url": "https://allafrica.com/stories/202605080253.html",
-    "publishedAt": "2026-05-08T10:49:15.000Z",
-    "category": "africa-markets",
-    "summary": "[FrontPageAfrica] Monrovia -- Residents of the Township of Caldwell in Montserrado County have expressed happiness over the re-electrification of the streetlights, describing the move as an enhancement to improve security and the free movement of goods and services in the night.",
-    "type": "article",
-    "region": "africa"
-  },
-  {
-    "id": "8af22de1004bc1bb3bd8e61809cf45d9c62ea7a4",
-    "title": "Kenya: MPs Fault Kpa, Kmfri Over Low Hiring of Persons With Disabilities",
-    "source": "AllAfrica Business",
-    "url": "https://allafrica.com/stories/202605080219.html",
-    "publishedAt": "2026-05-08T10:28:21.000Z",
-    "category": "africa-markets",
-    "summary": "[Capital FM] Mombasa -- A parliamentary committee has criticised the Kenya Ports Authority and the Kenya Marine and Fisheries Research Institute for failing to meet the legal threshold for employing persons with disabilities.",
-    "type": "article",
-    "region": "africa"
-  },
-  {
     "id": "9236d0befedaf9104b0948911371e7e1d7b92d46",
     "title": "Zimbabwe: Delta Blames Counterfeit Products As Lab Confirms 'Maggots' Found in Coca-Cola Bottle",
     "source": "AllAfrica Business",
@@ -315,17 +359,6 @@
     "publishedAt": "2026-05-08T07:00:00.000Z",
     "category": "macro",
     "summary": "",
-    "type": "article",
-    "region": "global"
-  },
-  {
-    "id": "79b09d9bd2e3df895f772835b3900377544c1e77",
-    "title": "Governance, not gatekeeping: How SAP brings enterprise‑grade safety to AI connectivity",
-    "source": "VentureBeat",
-    "url": "https://venturebeat.com/orchestration/governance-not-gatekeeping-how-sap-brings-enterprise-grade-safety-to-ai-connectivity",
-    "publishedAt": "2026-05-08T07:00:00.000Z",
-    "category": "ai",
-    "summary": "Presented by SAP The enterprise software industry has undergone a fundamental shift, and vendors are adapting their approaches to better protect the customers who rely on them. For years, every global platform vendor running multi-tenant cloud infrastructure has maintained docume",
     "type": "article",
     "region": "global"
   },
@@ -772,39 +805,6 @@
     "region": "africa"
   },
   {
-    "id": "cf94a008e1d648ffb43057a96d5d72a6912b80a7",
-    "title": "Khosla-backed robotics startup Genesis AI has gone full stack, demo shows",
-    "source": "TechCrunch Startups",
-    "url": "https://techcrunch.com/2026/05/06/khosla-backed-robotics-startup-genesis-ai-has-gone-full-stack-demo-shows/",
-    "publishedAt": "2026-05-06T15:46:38.000Z",
-    "category": "early-stage",
-    "summary": "Genesis AI, a startup that raised a $105 million seed round to build foundational AI for robotics, has unveiled its first model, GENE-26.5, but also a demo showcasing a set of robotic hands performing complex tasks.",
-    "type": "article",
-    "region": "global"
-  },
-  {
-    "id": "de77881f8c0a910ff9b22b6f471cc19588db0d93",
-    "title": "At TechCrunch Disrupt 2026, all your M&A questions will be answered",
-    "source": "TechCrunch Startups",
-    "url": "https://techcrunch.com/2026/05/06/at-techcrunch-disrupt-2026-all-your-ma-questions-will-be-answered/",
-    "publishedAt": "2026-05-06T14:30:00.000Z",
-    "category": "early-stage",
-    "summary": "Leaders from Coinbase, M13, and Mignano Law Group talk about how M&A is an early-stage strategy at TechCrunch Disrupt 2026. Register to hear this live.",
-    "type": "article",
-    "region": "global"
-  },
-  {
-    "id": "fb25f6ee23901c289c6234acbc908533c9cdebe4",
-    "title": "3 days left to lock in 50% off a second ticket to TechCrunch Disrupt 2026",
-    "source": "TechCrunch Startups",
-    "url": "https://techcrunch.com/2026/05/06/3-days-left-to-lock-in-50-off-a-second-ticket-to-techcrunch-disrupt-2026/",
-    "publishedAt": "2026-05-06T14:00:00.000Z",
-    "category": "early-stage",
-    "summary": "Three days left to lock in 50% off a second ticket to Disrupt 2026. Buy one TechCrunch Disrupt 2026 ticket, and get a second ticket at 50% off. Gain more visibility in the tech industry. Offer ends May 8 at 11:59 p.m. PT.",
-    "type": "article",
-    "region": "global"
-  },
-  {
     "id": "e3ecfb913249a9963432b2794bc120dbdb9aac7c",
     "title": "Zimbabwe: Govt Reduces Mining Fees to Boost Investment",
     "source": "AllAfrica Investment",
@@ -1098,17 +1098,6 @@
     "publishedAt": "2026-05-04T05:17:43.000Z",
     "category": "africa-markets",
     "summary": "[Daily News] Dar es Salaam -- PRESIDENT Samia Suluhu Hassan said trade and investment cooperation between Tanzania and Rwanda has grown significantly, reaching approximately 644bn/- based on 2025 figures.",
-    "type": "article",
-    "region": "africa"
-  },
-  {
-    "id": "40eea00572e91cc8569bee42a0220fec8d0be6d3",
-    "title": "Madagascar: Madagascar Revives Vara Mada Mining Project As Key Investment Awaits Approval",
-    "source": "AllAfrica Investment",
-    "url": "https://allafrica.com/stories/202605040006.html",
-    "publishedAt": "2026-05-04T04:48:03.000Z",
-    "category": "africa-markets",
-    "summary": "[RFI] Madagascar's largest mining venture - dormant for more than two decades - is gaining momentum once again. Formerly known as \"Base Toliara\" and rebranded \"Vara Mada\" in December 2025, the project aims to extract strategic minerals including ilmenite, zircon and monazite.",
     "type": "article",
     "region": "africa"
   },
