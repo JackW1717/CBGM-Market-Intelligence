@@ -1,5 +1,159 @@
 [
   {
+    "id": "e125a079e410be58bec25d886039c4674407412e",
+    "title": "Intercom, now called Fin, launches an AI agent whose only job is managing another AI agent",
+    "source": "VentureBeat",
+    "url": "https://venturebeat.com/technology/intercom-now-called-fin-launches-an-ai-agent-whose-only-job-is-managing-another-ai-agent",
+    "publishedAt": "2026-05-15T21:06:09.000Z",
+    "category": "ai",
+    "summary": "The company formerly known as Intercom just did something that no major customer service platform has attempted at scale: it built an AI agent whose sole job is to manage another AI agent. Fin Operator, announced Thursday at a live event in San Francisco, is a new AI-powered syst",
+    "type": "article",
+    "region": "global"
+  },
+  {
+    "id": "6cfea4c4c30182be806f73be84b62f9e3860ffef",
+    "title": "How RecursiveMAS speeds up multi-agent inference by 2.4x and reduces token usage by 75%",
+    "source": "VentureBeat",
+    "url": "https://venturebeat.com/orchestration/how-recursivemas-speeds-up-multi-agent-inference-by-2-4x-and-reduces-token-usage-by-75",
+    "publishedAt": "2026-05-15T21:04:15.000Z",
+    "category": "ai",
+    "summary": "One of the key challenges of current multi-agent AI systems is that they communicate by generating and sharing text sequences, which introduces latency, drives up token costs, and makes it difficult to train the entire system as a cohesive unit. To overcome this challenge, resear",
+    "type": "article",
+    "region": "global"
+  },
+  {
+    "id": "867d35b9531786fb9896e047f60eacce6eed4813",
+    "title": "Federal Reserve Board names Jerome H. Powell as chair pro tempore; Powell will serve as chair pro tempore until Kevin M. Warsh is sworn in as the new chair",
+    "source": "Federal Reserve Press Releases",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20260515a.htm",
+    "publishedAt": "2026-05-15T21:00:00.000Z",
+    "category": "macro",
+    "summary": "Federal Reserve Board names Jerome H. Powell as chair pro tempore; Powell will serve as chair pro tempore until Kevin M. Warsh is sworn in as the new chair",
+    "type": "article",
+    "region": "global"
+  },
+  {
+    "id": "7385a1ff276c3415a671ef209f7b184769a5817f",
+    "title": "Federal Reserve Board announces approval of application by the Stephen M. Calk 2025 Trust",
+    "source": "Federal Reserve Press Releases",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260515a.htm",
+    "publishedAt": "2026-05-15T20:30:00.000Z",
+    "category": "macro",
+    "summary": "Federal Reserve Board announces approval of application by the Stephen M. Calk 2025 Trust",
+    "type": "article",
+    "region": "global"
+  },
+  {
+    "id": "fb5396cacf3f0bc000b7f56aa96615d3d5f31664",
+    "title": "Federal Reserve Board announces it does not object to the conversion of United Texas Bank, of Dallas, Texas, from a bank supervised by the Federal Reserve to a national bank supervised by the Office of the Comptroller of the Currency",
+    "source": "Federal Reserve Press Releases",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260515b.htm",
+    "publishedAt": "2026-05-15T20:30:00.000Z",
+    "category": "macro",
+    "summary": "Federal Reserve Board announces it does not object to the conversion of United Texas Bank, of Dallas, Texas, from a bank supervised by the Federal Reserve to a national bank supervised by the Office of the Comptroller of the Currency",
+    "type": "article",
+    "region": "global"
+  },
+  {
+    "id": "9893bd8bcfb35577d19eebce6eab1d72395e732f",
+    "title": "The Week’s 10 Biggest Funding Rounds: Anduril Leads Varied Lineup Of Large Deals",
+    "source": "Crunchbase News",
+    "url": "https://news.crunchbase.com/venture/biggest-funding-rounds-anduril-voltagrid-mind-robotics/",
+    "publishedAt": "2026-05-15T19:50:02.000Z",
+    "category": "venture-capital",
+    "summary": "Defense tech unicorn Anduril Industries led the fundraising lineup in a week heavy with rounds for companies focused on applications in the physical world. Anduril’s $5 billion financing was by far the biggest. Other large rounds went to companies focused on supplying data power,",
+    "type": "article",
+    "region": "global"
+  },
+  {
+    "id": "ddc0ebec5d702df6bafcc62d53fbbe000f345255",
+    "title": "The OpenAI trial wraps up, and the Musk founder machine keeps spinning",
+    "source": "TechCrunch Startups",
+    "url": "https://techcrunch.com/podcast/the-openai-trial-wraps-up-and-the-musk-founder-machine-keeps-spinning/",
+    "publishedAt": "2026-05-15T19:24:16.000Z",
+    "category": "early-stage",
+    "summary": "The Musk v. Altman trial came to a close this week, and the final arguments kept circling back to one question: can we trust the people in charge of AI? All of this is playing out as SpaceX charges toward what could be one of the largest IPOs in American history, with a whole gen",
+    "type": "article",
+    "region": "global"
+  },
+  {
+    "id": "ebd9c4fd9b8ffbe62ba50d28e8919e4c5578b181",
+    "title": "Claude’s next enterprise battle is not models: it’s the agent control plane",
+    "source": "VentureBeat",
+    "url": "https://venturebeat.com/orchestration/claudes-next-enterprise-battle-is-not-models-its-the-agent-control-plane",
+    "publishedAt": "2026-05-15T16:45:00.000Z",
+    "category": "ai",
+    "summary": "New VB Pulse data shows Microsoft and OpenAI leading enterprise agent orchestration, but Anthropic’s first measurable foothold points to a larger fight over who controls the infrastructure where AI agents run. For the last two years, the enterprise AI race has mostly been framed ",
+    "type": "article",
+    "region": "global"
+  },
+  {
+    "id": "f606cb02c043805f6c867d3cc987b2c210707fda",
+    "title": "South Africa: Investment Challenges Give Young South Africans a Risk-Free Way to Learn Costly Money Lessons",
+    "source": "AllAfrica Investment",
+    "url": "https://allafrica.com/stories/202605150678.html",
+    "publishedAt": "2026-05-15T16:37:22.000Z",
+    "category": "africa-markets",
+    "summary": "[Daily Maverick] Two school investment competitions, run by Coronation and the JSE, are using simulated markets to teach learners and students about risk, patience, diversification and the noisy business of separating headlines from long-term value.",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "47604e97ad34fdfe9e7a866b7c7e31e75820aa73",
+    "title": "Federal Reserve Board announces termination of enforcement actions with UBS Group AG, Credit Suisse AG, Credit Suisse Holdings (USA), Inc., and Credit Suisse AG, New York Branch",
+    "source": "Federal Reserve Press Releases",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260515a.htm",
+    "publishedAt": "2026-05-15T15:00:00.000Z",
+    "category": "macro",
+    "summary": "Federal Reserve Board announces termination of enforcement actions with UBS Group AG, Credit Suisse AG, Credit Suisse Holdings (USA), Inc., and Credit Suisse AG, New York Branch",
+    "type": "article",
+    "region": "global"
+  },
+  {
+    "id": "ff77c5aeed0f215ed704111d479421943040ea25",
+    "title": "Nigeria: Data, Ai, Tech to Drive Investment Decisions in Nigeria - - SEC",
+    "source": "AllAfrica Investment",
+    "url": "https://allafrica.com/stories/202605150538.html",
+    "publishedAt": "2026-05-15T14:00:46.000Z",
+    "category": "africa-markets",
+    "summary": "[Vanguard] The Director-General of the Securities and Exchange Commission, Emomotimi Agama, has said Nigeria's capital market is positioning data, artificial intelligence and technology-driven regulation at the centre of investment decision-making to attract both domestic and for",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "804ed97107a15ea62f866ea54536f1420f5e0c95",
+    "title": "Kenya: Matatu Operators Announce 50 Percent Fare Hike, Threaten Nationwide Strike Over Fuel Price Shock",
+    "source": "AllAfrica Business",
+    "url": "https://allafrica.com/stories/202605150523.html",
+    "publishedAt": "2026-05-15T13:40:08.000Z",
+    "category": "africa-markets",
+    "summary": "[Capital FM] Nairobi -- Matatu operators have announced plans to increase fares by up to 50 per cent following a sudden rise in fuel prices, warning of a nationwide strike beginning Monday if the government does not intervene to address rising operating costs.",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "e8080b9f7f0923cd3f9a882f64da1321f4c5c203",
+    "title": "Meridian Ventures launched a $35M fund with a focus on MBA-deferred founders",
+    "source": "TechCrunch Startups",
+    "url": "https://techcrunch.com/2026/05/15/meridian-ventures-launched-35m-fund-to-back-mba-deferred-founders/",
+    "publishedAt": "2026-05-15T13:00:00.000Z",
+    "category": "early-stage",
+    "summary": "This new fund will back founders building enterprise technology in the United States. Meridian is agnostic, co-founder Devon Gethers said, noting that the firm has already invested in companies in fintech, logistics, healthcare, and of course, AI.",
+    "type": "article",
+    "region": "global"
+  },
+  {
+    "id": "98ea8a503bfecd717deaefd16e50ae360f493205",
+    "title": "Kenya: Ndindi Nyoro Proposes VAT Cuts, Levy Removal to Lower Fuel Prices Below Sh190",
+    "source": "AllAfrica Business",
+    "url": "https://allafrica.com/stories/202605150390.html",
+    "publishedAt": "2026-05-15T12:06:47.000Z",
+    "category": "africa-markets",
+    "summary": "[Capital FM] Nairobi -- Former House Budget Committee Chair Ndindi Nyoro has proposed an urgent three-pronged intervention to bring fuel prices below Sh190 per litre after the Energy and Petroleum Regulatory Authority (EPRA) announced sharp increases in pump prices effective Frid",
+    "type": "article",
+    "region": "africa"
+  },
+  {
     "id": "680e86f2480c715134f9284fdb5ac92ec6e540fc",
     "title": "Nigeria: Energy Commission Boss Mustapha Resumes Duties Amid EFCC's Alleged N500bn Fraud Probe",
     "source": "AllAfrica Business",
@@ -209,6 +363,17 @@
     "region": "africa"
   },
   {
+    "id": "c37ba6cd915c5510b2c315980479d3dcc79e34d1",
+    "title": "Nigeria: Dangote Targets $100bn Revenue With Fresh $45bn Refinery, LNG Expansion Plan",
+    "source": "AllAfrica Business",
+    "url": "https://allafrica.com/stories/202605150100.html",
+    "publishedAt": "2026-05-15T08:35:15.000Z",
+    "category": "africa-markets",
+    "summary": "[Premium Times] President of the group, Aliko Dangote, disclosed this during a recent interview with Nicolai Tangen, chief executive officer of the Norwegian Sovereign Wealth Fund.",
+    "type": "article",
+    "region": "africa"
+  },
+  {
     "id": "8b5dc41c8b3a2d87849e5a638ee6bcc3ec0ab0c3",
     "title": "South Africa: Western Cape Taxi Fares to Rise - South African News Briefs - May 15, 2026",
     "source": "AllAfrica Business",
@@ -229,6 +394,38 @@
     "summary": "[ANGOP] Luanda -- Congolese Minister of Water Resources and Electricity, Molendo Sakombi, announced on Thursday in Luanda that Angola and the Democratic Republic of Congo (DRC) will build one of Africa's largest electricity transmission line, linking Malanje to Fungurume , spanni",
     "type": "article",
     "region": "africa"
+  },
+  {
+    "id": "8f5f79930696e3e58e76ed67abbb2d23cf5a4896",
+    "title": "10Y-2Y spread: 0.50%",
+    "source": "FRED",
+    "url": "https://fred.stlouisfed.org/series/T10Y2Y",
+    "publishedAt": "2026-05-15T00:00:00.000Z",
+    "category": "yield-curve",
+    "summary": "10Y-2Y spread is 0.50% (+0.03% vs previous).",
+    "type": "market-data",
+    "region": "us",
+    "symbol": "T10Y2Y",
+    "value": 0.5,
+    "change": 0.030000000000000027,
+    "changePercent": 0.030000000000000027,
+    "unit": "%"
+  },
+  {
+    "id": "6dcf73aaf48a9da7438deeec65d80f7a2886d36b",
+    "title": "10Y-3M spread: 0.90%",
+    "source": "FRED",
+    "url": "https://fred.stlouisfed.org/series/T10Y3M",
+    "publishedAt": "2026-05-15T00:00:00.000Z",
+    "category": "yield-curve",
+    "summary": "10Y-3M spread is 0.90% (+0.12% vs previous).",
+    "type": "market-data",
+    "region": "us",
+    "symbol": "T10Y3M",
+    "value": 0.9,
+    "change": 0.12,
+    "changePercent": 0.12,
+    "unit": "%"
   },
   {
     "id": "f4f57d1d419c1cb078dd3e6c7a10d29ec92d3d24",
@@ -341,17 +538,6 @@
     "region": "us"
   },
   {
-    "id": "3702c40013979cb3de5451bbe3dee27366431f8e",
-    "title": "Tanzania: Tanzania Sees Decline in Imports Amid a Significant Increase in Milk, Meat, and Egg Consumption",
-    "source": "AllAfrica Business",
-    "url": "https://allafrica.com/stories/202605140460.html",
-    "publishedAt": "2026-05-14T14:15:14.000Z",
-    "category": "africa-markets",
-    "summary": "[Daily News] Dodoma -- THE Minister for Livestock and Fisheries, Bashiru Ally Kakurwa, has said the government, through the Tanzania Dairy Board, has continued regulating the dairy industry, with a total of 101,478,030 litres of milk worth 152.2bn/- processed and sold in the dome",
-    "type": "article",
-    "region": "africa"
-  },
-  {
     "id": "b104edeb62f80198ddbc90239aeb07acdb856052",
     "title": "Exclusive: Xpanner Lands $18M To Offer ‘Automation As A Service’ To Construction Sites",
     "source": "Crunchbase News",
@@ -383,39 +569,6 @@
     "summary": "Your shot at VC access, global visibility, TechCrunch coverage, and $100K equity-free funding is running out. Deadline to apply is May 27. Apply now.",
     "type": "article",
     "region": "global"
-  },
-  {
-    "id": "c0b91e22deaf2c862ef16fa1cf7c08e82b02a33a",
-    "title": "Enterprises can now train custom AI models from production workflows — no ML team required",
-    "source": "VentureBeat",
-    "url": "https://venturebeat.com/data/enterprises-can-now-train-custom-ai-models-from-production-workflows-no-ml-team-required",
-    "publishedAt": "2026-05-14T13:00:00.000Z",
-    "category": "ai",
-    "summary": "Every query an enterprise AI application processes, every correction a subject matter expert makes to its output — that interaction is training data. Most organizations are not capturing it. The production workflows companies have already built are generating a continuous signal ",
-    "type": "article",
-    "region": "global"
-  },
-  {
-    "id": "88d9479e375c15c6770d400eb4efd0e431ee5105",
-    "title": "Ghana: Ghana's Economy Expands By 7.7 Percent in Feb - GSS",
-    "source": "AllAfrica Business",
-    "url": "https://allafrica.com/stories/202605140383.html",
-    "publishedAt": "2026-05-14T12:14:28.000Z",
-    "category": "africa-markets",
-    "summary": "[Ghanaian Times] Economic activities in Ghana expanded significantly in February 2026, with the country recording a 7.7 per cent growth rate, according to the latest Monthly Indicator of Economic Growth (MIEG) released by the Ghana Statistical Service (GSS).",
-    "type": "article",
-    "region": "africa"
-  },
-  {
-    "id": "195efa2c1693a5c19d6c7064c5489cf539c352bc",
-    "title": "Zimbabwe: Govt Defends Transport Liberalisation Amid Urban Commuter Woes",
-    "source": "AllAfrica Business",
-    "url": "https://allafrica.com/stories/202605140341.html",
-    "publishedAt": "2026-05-14T12:02:08.000Z",
-    "category": "africa-markets",
-    "summary": "[263Chat] The Government has defended Zimbabwe's liberalised transport system, arguing that private operators must continue bridging commuter transport gaps in urban centres despite concerns over growing transport shortages.",
-    "type": "article",
-    "region": "africa"
   },
   {
     "id": "37f0646fd73f6254104ed0220bcab434f980bba0",
@@ -484,26 +637,84 @@
     "region": "africa"
   },
   {
-    "id": "5587f247d2abcac924d184423c3d4720d4ed4dff",
-    "title": "AI IQ is here: a new site scores frontier AI models on the human IQ scale. The results are already dividing tech.",
-    "source": "VentureBeat",
-    "url": "https://venturebeat.com/technology/ai-iq-is-here-a-new-site-scores-frontier-ai-models-on-the-human-iq-scale-the-results-are-already-dividing-tech",
-    "publishedAt": "2026-05-13T23:47:24.000Z",
-    "category": "ai",
-    "summary": "For decades, the IQ test has been one of the most familiar — and most contested — yardsticks for human intelligence. Now, a startup project called AI IQ is applying the same metaphor to artificial intelligence, assigning estimated intelligence quotients to more than 50 of the wor",
-    "type": "article",
-    "region": "global"
+    "id": "9a90ad32b96845c28328e664d468ece62f55f39b",
+    "title": "US 2Y Treasury yield: 4.00%",
+    "source": "FRED",
+    "url": "https://fred.stlouisfed.org/series/DGS2",
+    "publishedAt": "2026-05-14T00:00:00.000Z",
+    "category": "yield-curve",
+    "summary": "US 2Y Treasury yield is 4.00% (+0.02% vs previous).",
+    "type": "market-data",
+    "region": "us",
+    "symbol": "DGS2",
+    "value": 4,
+    "change": 0.020000000000000018,
+    "changePercent": 0.020000000000000018,
+    "unit": "%"
   },
   {
-    "id": "82da642f85c193fb8cec0228f8a7d71cdb70c593",
-    "title": "Anthropic reinstates OpenClaw and third-party agent usage on Claude subscriptions — with a catch",
-    "source": "VentureBeat",
-    "url": "https://venturebeat.com/technology/anthropic-reinstates-openclaw-and-third-party-agent-usage-on-claude-subscriptions-with-a-catch",
-    "publishedAt": "2026-05-13T22:15:00.000Z",
-    "category": "ai",
-    "summary": "Good news, OpenClaw fans — you can once again use your Claude AI subscription to power the hit, open source, autonomous AI agentic harness! But, there's a big catch with how it's being enacted. A few hours ago, Anthropic announced via its official developer communications account",
-    "type": "article",
-    "region": "global"
+    "id": "d126e4bc1df98c6d0ac172c9d5116a82d7a1db1c",
+    "title": "US 10Y Treasury yield: 4.47%",
+    "source": "FRED",
+    "url": "https://fred.stlouisfed.org/series/DGS10",
+    "publishedAt": "2026-05-14T00:00:00.000Z",
+    "category": "yield-curve",
+    "summary": "US 10Y Treasury yield is 4.47% (+0.01% vs previous).",
+    "type": "market-data",
+    "region": "us",
+    "symbol": "DGS10",
+    "value": 4.47,
+    "change": 0.009999999999999787,
+    "changePercent": 0.009999999999999787,
+    "unit": "%"
+  },
+  {
+    "id": "b9dba7e1891afc07c7e3de9aef8528ef837df0eb",
+    "title": "US 30Y Treasury yield: 5.02%",
+    "source": "FRED",
+    "url": "https://fred.stlouisfed.org/series/DGS30",
+    "publishedAt": "2026-05-14T00:00:00.000Z",
+    "category": "yield-curve",
+    "summary": "US 30Y Treasury yield is 5.02% (-0.01% vs previous).",
+    "type": "market-data",
+    "region": "us",
+    "symbol": "DGS30",
+    "value": 5.02,
+    "change": -0.010000000000000675,
+    "changePercent": -0.010000000000000675,
+    "unit": "%"
+  },
+  {
+    "id": "b1eae2bf022dbf39dfc8f9e84dbca614dacb94a5",
+    "title": "US 3M Treasury yield: 3.69%",
+    "source": "FRED",
+    "url": "https://fred.stlouisfed.org/series/DGS3MO",
+    "publishedAt": "2026-05-14T00:00:00.000Z",
+    "category": "yield-curve",
+    "summary": "US 3M Treasury yield is 3.69% (+0.00% vs previous).",
+    "type": "market-data",
+    "region": "us",
+    "symbol": "DGS3MO",
+    "value": 3.69,
+    "change": 0,
+    "changePercent": 0,
+    "unit": "%"
+  },
+  {
+    "id": "1a600e6d37845a23ca2418aec38aaa75d88073d2",
+    "title": "US 10Y TIPS yield: 2.00%",
+    "source": "FRED",
+    "url": "https://fred.stlouisfed.org/series/DFII10",
+    "publishedAt": "2026-05-14T00:00:00.000Z",
+    "category": "yield-curve",
+    "summary": "US 10Y TIPS yield is 2.00% (+0.01% vs previous).",
+    "type": "market-data",
+    "region": "us",
+    "symbol": "DFII10",
+    "value": 2,
+    "change": 0.010000000000000009,
+    "changePercent": 0.010000000000000009,
+    "unit": "%"
   },
   {
     "id": "72f9e9f861ad1094682c2bd9a9593732bc14e032",
@@ -625,118 +836,6 @@
     "summary": "[allAfrica]",
     "type": "article",
     "region": "africa"
-  },
-  {
-    "id": "c3e76ff73f269fb6a0fb26cd5c75d7f289820fa3",
-    "title": "US 2Y Treasury yield: 3.98%",
-    "source": "FRED",
-    "url": "https://fred.stlouisfed.org/series/DGS2",
-    "publishedAt": "2026-05-13T00:00:00.000Z",
-    "category": "yield-curve",
-    "summary": "US 2Y Treasury yield is 3.98% (-0.02% vs previous).",
-    "type": "market-data",
-    "region": "us",
-    "symbol": "DGS2",
-    "value": 3.98,
-    "change": -0.020000000000000018,
-    "changePercent": -0.020000000000000018,
-    "unit": "%"
-  },
-  {
-    "id": "c70841dd79692d440c81739d7ad3f926178d5de5",
-    "title": "US 10Y Treasury yield: 4.46%",
-    "source": "FRED",
-    "url": "https://fred.stlouisfed.org/series/DGS10",
-    "publishedAt": "2026-05-13T00:00:00.000Z",
-    "category": "yield-curve",
-    "summary": "US 10Y Treasury yield is 4.46% (+0.00% vs previous).",
-    "type": "market-data",
-    "region": "us",
-    "symbol": "DGS10",
-    "value": 4.46,
-    "change": 0,
-    "changePercent": 0,
-    "unit": "%"
-  },
-  {
-    "id": "593a582b87751517f0e922824385e0685bb34712",
-    "title": "US 30Y Treasury yield: 5.03%",
-    "source": "FRED",
-    "url": "https://fred.stlouisfed.org/series/DGS30",
-    "publishedAt": "2026-05-13T00:00:00.000Z",
-    "category": "yield-curve",
-    "summary": "US 30Y Treasury yield is 5.03% (+0.00% vs previous).",
-    "type": "market-data",
-    "region": "us",
-    "symbol": "DGS30",
-    "value": 5.03,
-    "change": 0,
-    "changePercent": 0,
-    "unit": "%"
-  },
-  {
-    "id": "726c4ea3b639e19fc44214c188c3b58765c2101e",
-    "title": "US 3M Treasury yield: 3.69%",
-    "source": "FRED",
-    "url": "https://fred.stlouisfed.org/series/DGS3MO",
-    "publishedAt": "2026-05-13T00:00:00.000Z",
-    "category": "yield-curve",
-    "summary": "US 3M Treasury yield is 3.69% (-0.01% vs previous).",
-    "type": "market-data",
-    "region": "us",
-    "symbol": "DGS3MO",
-    "value": 3.69,
-    "change": -0.010000000000000231,
-    "changePercent": -0.010000000000000231,
-    "unit": "%"
-  },
-  {
-    "id": "7fe525f06adb84a738c4fe70cae96b53ab4592ab",
-    "title": "10Y-2Y spread: 0.48%",
-    "source": "FRED",
-    "url": "https://fred.stlouisfed.org/series/T10Y2Y",
-    "publishedAt": "2026-05-13T00:00:00.000Z",
-    "category": "yield-curve",
-    "summary": "10Y-2Y spread is 0.48% (+0.02% vs previous).",
-    "type": "market-data",
-    "region": "us",
-    "symbol": "T10Y2Y",
-    "value": 0.48,
-    "change": 0.019999999999999962,
-    "changePercent": 0.019999999999999962,
-    "unit": "%"
-  },
-  {
-    "id": "25b2a6d1dc789f309d3b0b016eab83b199ecf23c",
-    "title": "US 10Y TIPS yield: 1.99%",
-    "source": "FRED",
-    "url": "https://fred.stlouisfed.org/series/DFII10",
-    "publishedAt": "2026-05-13T00:00:00.000Z",
-    "category": "yield-curve",
-    "summary": "US 10Y TIPS yield is 1.99% (+0.00% vs previous).",
-    "type": "market-data",
-    "region": "us",
-    "symbol": "DFII10",
-    "value": 1.99,
-    "change": 0,
-    "changePercent": 0,
-    "unit": "%"
-  },
-  {
-    "id": "f65f588f8dde0038f1b5f8b4509a17ed07835c5e",
-    "title": "10Y-3M spread: 0.77%",
-    "source": "FRED",
-    "url": "https://fred.stlouisfed.org/series/T10Y3M",
-    "publishedAt": "2026-05-13T00:00:00.000Z",
-    "category": "yield-curve",
-    "summary": "10Y-3M spread is 0.77% (+0.01% vs previous).",
-    "type": "market-data",
-    "region": "us",
-    "symbol": "T10Y3M",
-    "value": 0.77,
-    "change": 0.010000000000000009,
-    "changePercent": 0.010000000000000009,
-    "unit": "%"
   },
   {
     "id": "38d62e5853b5299c2de2903d0244e472d528e022",
@@ -871,17 +970,6 @@
     "region": "africa"
   },
   {
-    "id": "c2aca0d57eab0e367a8aaebfbecfc45a2c9b0627",
-    "title": "Liberia: Rochell Woodson Intensifies Push for Women's Football Investment Ahead of May 15 Polls",
-    "source": "AllAfrica Investment",
-    "url": "https://allafrica.com/stories/202605110922.html",
-    "publishedAt": "2026-05-11T17:28:59.000Z",
-    "category": "africa-markets",
-    "summary": "[FrontPageAfrica] Monrovia -- As Liberia prepares for the high-stakes May 15, 2026, elections of the Liberia Football Association (LFA), women's football administrator and candidate for Women's Football Representative, Rochell Woodson, has ramped up her campaign with a focus on s",
-    "type": "article",
-    "region": "africa"
-  },
-  {
     "id": "ff06dac2227b34b741e4065cfdd1cc2ec66c6b29",
     "title": "Korea’s biggest manufacturers back Config, the TSMC of robot data",
     "source": "TechCrunch Startups",
@@ -891,17 +979,6 @@
     "summary": "Instead of building robots themselves, the team is focused on a simpler goal — providing data that robots need to learn and operate. They believe that better data will be key to making robots more useful.",
     "type": "article",
     "region": "global"
-  },
-  {
-    "id": "e8344153bb0963d3f79a6c398c9735ee08896a5f",
-    "title": "Kenya: Africa-China Investment and Trade Conference to Strengthen Economic Ties",
-    "source": "AllAfrica Investment",
-    "url": "https://allafrica.com/stories/202605110367.html",
-    "publishedAt": "2026-05-11T10:43:18.000Z",
-    "category": "africa-markets",
-    "summary": "[Capital FM] The inaugural Africa-China Investment and Trade Conference (ACIC) will be held in Guangdong Province, bringing together senior government officials, entrepreneurs, traders and investors from both continents in a major effort to deepen economic cooperation.",
-    "type": "article",
-    "region": "africa"
   },
   {
     "id": "6a49f0a6eafc804fb1c963390026420af9343966",
@@ -1014,17 +1091,6 @@
     "region": "global"
   },
   {
-    "id": "85365f34ba46bf913f57f1b8bd7aff09c15b16fd",
-    "title": "The Week’s 10 Biggest Funding Rounds: Enterprise AI, Space Tech And Biotech Top The Ranks",
-    "source": "Crunchbase News",
-    "url": "https://news.crunchbase.com/venture/biggest-funding-rounds-sierra-astrani-anagram-therapeutics/",
-    "publishedAt": "2026-05-08T18:06:16.000Z",
-    "category": "venture-capital",
-    "summary": "Another week, another infusion of big AI rounds.",
-    "type": "article",
-    "region": "global"
-  },
-  {
     "id": "7dd0052ac621c2d1e0844b715ed4847757a90d6c",
     "title": "The “people’s airline” and the enterprise AI gold rush",
     "source": "TechCrunch Startups",
@@ -1109,28 +1175,6 @@
     "publishedAt": "2026-05-07T21:02:11.000Z",
     "category": "early-stage",
     "summary": "AI startup Pit is led by the co-founders of European scooter giant Voi and backed by a16z, which is leading the startup’s $16 million seed round.",
-    "type": "article",
-    "region": "global"
-  },
-  {
-    "id": "dc3ee3f776cca790cd5c3fe1ea3a07705342bc74",
-    "title": "Gusto hits $1B revenue, a figure that brings it closer to public markets",
-    "source": "TechCrunch Startups",
-    "url": "https://techcrunch.com/2026/05/07/gusto-hits-1b-revenue-a-figure-that-brings-it-closer-to-public-markets/",
-    "publishedAt": "2026-05-07T20:41:27.000Z",
-    "category": "early-stage",
-    "summary": "Gusto has shared an impressive milestone on its actual revenue, not an ARR number that estimates future income.",
-    "type": "article",
-    "region": "global"
-  },
-  {
-    "id": "f1ad4aa055293090046b8e5825d838b8d9f5112f",
-    "title": "Could Lovable’s automatic 10% pay raise be the cure for toxic cultures?",
-    "source": "TechCrunch Startups",
-    "url": "https://techcrunch.com/2026/05/07/could-lovables-automatic-10-pay-raise-be-the-cure-for-toxic-cultures/",
-    "publishedAt": "2026-05-07T18:36:29.000Z",
-    "category": "early-stage",
-    "summary": "Stockholm-based vibe-coding platform Lovable is offering employees an automatic 10% raise as a way to sidestep classic corporate politics.",
     "type": "article",
     "region": "global"
   },
@@ -1410,17 +1454,6 @@
     "region": "global"
   },
   {
-    "id": "51be65ff8a429d17e07af195cd298cec3b48c9cd",
-    "title": "Federal Reserve Board invites public comment on proposal that would allow U.S. banks and credit unions to use intermediaries to transfer funds through the FedNow Service",
-    "source": "Federal Reserve Press Releases",
-    "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20260408a.htm",
-    "publishedAt": "2026-04-08T15:30:00.000Z",
-    "category": "macro",
-    "summary": "Federal Reserve Board invites public comment on proposal that would allow U.S. banks and credit unions to use intermediaries to transfer funds through the FedNow Service",
-    "type": "article",
-    "region": "global"
-  },
-  {
     "id": "88ce7e7e9be162240610dcaed8d530383c2f677a",
     "title": "Jefferson, Economic Outlook and the Labor Market",
     "source": "Federal Reserve Speeches",
@@ -1430,17 +1463,6 @@
     "summary": "Speech At the College of Business Administration, University of Detroit Mercy, Detroit, Michigan",
     "type": "article",
     "region": "us"
-  },
-  {
-    "id": "25062b75c10c69e9f7a009adee9e46306eb870f5",
-    "title": "Federal Reserve Board issues enforcement action with former employee of United Bank",
-    "source": "Federal Reserve Press Releases",
-    "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260403a.htm",
-    "publishedAt": "2026-04-03T15:00:00.000Z",
-    "category": "macro",
-    "summary": "Federal Reserve Board issues enforcement action with former employee of United Bank",
-    "type": "article",
-    "region": "global"
   },
   {
     "id": "c7230dc49eac50194bd98ba736009005f40a4c55",
@@ -1485,27 +1507,5 @@
     "summary": "Speech At the Global Perspectives Speaker Series, Federal Reserve Bank of Dallas, Dallas, Texas",
     "type": "article",
     "region": "us"
-  },
-  {
-    "id": "4fb5a9bb504cdbd17671a3a4bfe08b17463ea877",
-    "title": "Federal Reserve Board announces it has made the joint findings with the Office of the Comptroller of the Currency required for the OCC to approve a request by Morgan Stanley Bank, N.A., for an exemption under section 23A of the Federal Reserve Act",
-    "source": "Federal Reserve Press Releases",
-    "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260326a.htm",
-    "publishedAt": "2026-03-26T21:00:00.000Z",
-    "category": "macro",
-    "summary": "Federal Reserve Board announces it has made the joint findings with the Office of the Comptroller of the Currency required for the OCC to approve a request by Morgan Stanley Bank, N.A., for an exemption under section 23A of the Federal Reserve Act",
-    "type": "article",
-    "region": "global"
-  },
-  {
-    "id": "fc4f75ebf66aad375ac821939f0118642fa43af4",
-    "title": "Federal Reserve Board releases annual audited financial statements",
-    "source": "Federal Reserve Press Releases",
-    "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20260325a.htm",
-    "publishedAt": "2026-03-25T16:00:00.000Z",
-    "category": "macro",
-    "summary": "Federal Reserve Board releases annual audited financial statements",
-    "type": "article",
-    "region": "global"
   }
 ]
