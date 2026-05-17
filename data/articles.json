@@ -1,5 +1,60 @@
 [
   {
+    "id": "f49c3d00d3ef5b9e719fca0ed2a0d7115f55ee52",
+    "title": "The enterprise risk nobody is modeling: AI is replacing the very experts it needs to learn from",
+    "source": "VentureBeat",
+    "url": "https://venturebeat.com/technology/the-enterprise-risk-nobody-is-modeling-ai-is-replacing-the-very-experts-it-needs-to-learn-from",
+    "publishedAt": "2026-05-16T21:05:53.000Z",
+    "category": "ai",
+    "summary": "For AI systems to keep improving in knowledge work, they need either a reliable mechanism for autonomous self-improvement or human evaluators capable of catching errors and generating high-quality feedback. The industry has invested enormously in the first. It's giving almost no ",
+    "type": "article",
+    "region": "global"
+  },
+  {
+    "id": "2f69e57baf7b04ff8b5e42f3c9a8725f94d5bc5f",
+    "title": "The haves and have nots of the AI gold rush",
+    "source": "TechCrunch Startups",
+    "url": "https://techcrunch.com/2026/05/16/the-haves-and-have-nots-of-the-ai-gold-rush/",
+    "publishedAt": "2026-05-16T20:17:16.000Z",
+    "category": "early-stage",
+    "summary": "The vibes around the current AI boom aren't great, even in the tech industry.",
+    "type": "article",
+    "region": "global"
+  },
+  {
+    "id": "b391aa045b24e60da3c7e184b1641f0c055cb0be",
+    "title": "Marketing operating system Nectar Social raises $30M Series A led by Menlo",
+    "source": "TechCrunch Startups",
+    "url": "https://techcrunch.com/2026/05/16/marketing-operating-system-nectar-social-raises-30m-series-a-in-round-led-by-menlo/",
+    "publishedAt": "2026-05-16T19:26:14.000Z",
+    "category": "early-stage",
+    "summary": "AI-powered marketing platform Nectar Social announced Thursday that it raised a $30 million Series A round led by Menlo Ventures and its Anthology Fund, which was created alongside Anthropic.",
+    "type": "article",
+    "region": "global"
+  },
+  {
+    "id": "3dacfa9ff5b223f3aa7d84e444afbec0331103e7",
+    "title": "OpenAI co-founder Greg Brockman takes charge of product strategy",
+    "source": "TechCrunch Startups",
+    "url": "https://techcrunch.com/2026/05/16/openai-co-founder-greg-brockman-reportedly-takes-charge-of-product-strategy/",
+    "publishedAt": "2026-05-16T15:33:33.000Z",
+    "category": "early-stage",
+    "summary": "OpenAI's latest shakeup comes as the company reportedly plans to combine ChatGPT and its programming product Codex.",
+    "type": "article",
+    "region": "global"
+  },
+  {
+    "id": "0115a986173ba4226509afb9a47b3caa8d310233",
+    "title": "$60B AI chip darling Cerebras almost died early on, burning $8M a month",
+    "source": "TechCrunch Startups",
+    "url": "https://techcrunch.com/2026/05/16/60b-ai-chip-darling-cerebras-almost-died-early-on-burning-8m-a-month/",
+    "publishedAt": "2026-05-16T15:00:00.000Z",
+    "category": "early-stage",
+    "summary": "Cerebras Systems was 2026's biggest tech IPO so far. But years ago, it burned through hundreds of millions working on a chip many believed impossible.",
+    "type": "article",
+    "region": "global"
+  },
+  {
     "id": "e125a079e410be58bec25d886039c4674407412e",
     "title": "Intercom, now called Fin, launches an AI agent whose only job is managing another AI agent",
     "source": "VentureBeat",
@@ -154,6 +209,17 @@
     "region": "africa"
   },
   {
+    "id": "5922bd5c67efb7225b2b8cfb65c883b745a125bf",
+    "title": "Malawi: ACB Faces Salary Disparities Row As Senior Staff Get Up to 45.9 Percent Raise While Juniors Receive 16 Percent Increase",
+    "source": "AllAfrica Business",
+    "url": "https://allafrica.com/stories/202605150333.html",
+    "publishedAt": "2026-05-15T11:30:44.000Z",
+    "category": "africa-markets",
+    "summary": "[Nyasa Times] Tension is quietly building inside the Anti-Corruption Bureau (ACB), where senior officers have been awarded salary increments of up to 45.9 percent, while lower-graded staff have received as little as 16 percent, leaving the institution struggling to publicly expla",
+    "type": "article",
+    "region": "africa"
+  },
+  {
     "id": "680e86f2480c715134f9284fdb5ac92ec6e540fc",
     "title": "Nigeria: Energy Commission Boss Mustapha Resumes Duties Amid EFCC's Alleged N500bn Fraud Probe",
     "source": "AllAfrica Business",
@@ -172,6 +238,17 @@
     "publishedAt": "2026-05-15T11:28:48.000Z",
     "category": "africa-markets",
     "summary": "[Premium Times] Africa's richest man, Aliko Dangote, says China has become Africa's dominant business partner because Western countries often fail to provide the financing support needed for large-scale industrial projects, forcing African businesses and governments to lean heavi",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "7fbf50b18ea8ebfb6f944b0ea65833339a1ea0d6",
+    "title": "Kenya: DTB First Quarter Net Profit Up 8pc to Sh3.48bn",
+    "source": "AllAfrica Business",
+    "url": "https://allafrica.com/stories/202605150293.html",
+    "publishedAt": "2026-05-15T11:22:18.000Z",
+    "category": "africa-markets",
+    "summary": "[Capital FM] Nairobi -- Diamond Trust Bank Kenya posted a 7.7 percent rise in net profit for the first quarter of 2026, supported by strong growth in net interest income and expansion in customer lending.",
     "type": "article",
     "region": "africa"
   },
@@ -205,6 +282,17 @@
     "publishedAt": "2026-05-15T11:15:16.000Z",
     "category": "africa-markets",
     "summary": "[ANGOP] Luanda -- The presentation of investment opportunities and Angola's new economic profile will dominate Angola's agenda at the 13th edition of the \"Africa CEO Forum 2026,\" considered the largest annual international meeting of the African private sector, taking place on th",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "c952aba19c32e79357cc90fa109d155e04f0d037",
+    "title": "Uganda: Kira Municipal Trade Expo Opens With Focus On Supporting Local Businesses",
+    "source": "AllAfrica Business",
+    "url": "https://allafrica.com/stories/202605150254.html",
+    "publishedAt": "2026-05-15T11:10:01.000Z",
+    "category": "africa-markets",
+    "summary": "[Nile Post] Hundreds of exhibitors, investors and government agencies have gathered at the 2026 Kira Municipal Council Annual Trade Expo, an event aimed at promoting local businesses, strengthening small and medium enterprises (SMEs), and connecting manufacturers directly to cons",
     "type": "article",
     "region": "africa"
   },
@@ -319,17 +407,6 @@
     "region": "africa"
   },
   {
-    "id": "2f5b7d0c45eaf71d4e25badecdafd0025a2a7203",
-    "title": "Kenya: CRA Appoints Roble Nuno As New CEO and Commission Secretary",
-    "source": "AllAfrica Business",
-    "url": "https://allafrica.com/stories/202605150166.html",
-    "publishedAt": "2026-05-15T10:11:08.000Z",
-    "category": "africa-markets",
-    "summary": "[Capital FM] Nairobi -- The Commission on Revenue Allocation (CRA) has announced the appointment of CPA Roble Said Nuno as its new Chief Executive Officer and Commission Secretary.",
-    "type": "article",
-    "region": "africa"
-  },
-  {
     "id": "6f550da9d9fe3256abcb565d8138e89ef1073023",
     "title": "Kenya: Kenyans Vent Fury Over Fuel Price Hike",
     "source": "AllAfrica Business",
@@ -341,17 +418,6 @@
     "region": "africa"
   },
   {
-    "id": "e60008dfa9589391e0c9ffc37ed311fdf448dcf1",
-    "title": "Nigeria: Dangote Rejects NNPC's Bid for Bigger Refinery Stake, Pushes for Wider Ownership",
-    "source": "AllAfrica Business",
-    "url": "https://allafrica.com/stories/202605150103.html",
-    "publishedAt": "2026-05-15T08:35:20.000Z",
-    "category": "africa-markets",
-    "summary": "[Premium Times] Aliko Dangote says he opposed moves by NNPC Limited to increase its stake in the $20 billion Dangote Petroleum Refinery, insisting the company's strategy is to broaden ownership and attract more investors rather than concentrate control in one institution.",
-    "type": "article",
-    "region": "africa"
-  },
-  {
     "id": "fd44d5ed6bdc2d9e2563fe781317bc373116a0de",
     "title": "Nigeria: How Oil Mafia Fought Hard to Stop My Refinery - Aliko Dangote",
     "source": "AllAfrica Business",
@@ -359,17 +425,6 @@
     "publishedAt": "2026-05-15T08:35:15.000Z",
     "category": "africa-markets",
     "summary": "[Premium Times] Mr Dangote said small groups profited from local product allocations under the subsidy regime and that subsidy payments alone reached nearly $10 billion annually.",
-    "type": "article",
-    "region": "africa"
-  },
-  {
-    "id": "c37ba6cd915c5510b2c315980479d3dcc79e34d1",
-    "title": "Nigeria: Dangote Targets $100bn Revenue With Fresh $45bn Refinery, LNG Expansion Plan",
-    "source": "AllAfrica Business",
-    "url": "https://allafrica.com/stories/202605150100.html",
-    "publishedAt": "2026-05-15T08:35:15.000Z",
-    "category": "africa-markets",
-    "summary": "[Premium Times] President of the group, Aliko Dangote, disclosed this during a recent interview with Nicolai Tangen, chief executive officer of the Norwegian Sovereign Wealth Fund.",
     "type": "article",
     "region": "africa"
   },
@@ -490,17 +545,6 @@
     "publishedAt": "2026-05-14T18:40:30.000Z",
     "category": "venture-capital",
     "summary": "Over 127,000 workers at U.S.-based tech companies were laid off in mass job cuts in 2025, per a Crunchbase News tally, and the layoffs have continued into 2026. See the latest companies to cut roles.",
-    "type": "article",
-    "region": "global"
-  },
-  {
-    "id": "11c87aeb0f2736662e4d34d7fd61a25bb3f05e17",
-    "title": "Claude Code's '/goals' separates the agent that works from the one that decides it's done",
-    "source": "VentureBeat",
-    "url": "https://venturebeat.com/orchestration/claude-codes-goals-separates-the-agent-that-works-from-the-one-that-decides-its-done",
-    "publishedAt": "2026-05-14T18:12:38.000Z",
-    "category": "ai",
-    "summary": "A code migration agent finishes its run, and the pipeline looks green. But several pieces were never compiled — and it took days to catch. That's not a model failure; that's an agent deciding it was done before it actually was. Many enterprises are now seeing that production AI a",
     "type": "article",
     "region": "global"
   },
@@ -1113,17 +1157,6 @@
     "region": "global"
   },
   {
-    "id": "a3bf7bcc130ee9e2f2471fc3d4e7d942aaad0adb",
-    "title": "Last 24 hours to get 50% off a second pass to TechCrunch Disrupt 2026",
-    "source": "TechCrunch Startups",
-    "url": "https://techcrunch.com/2026/05/08/last-24-hours-to-get-50-off-a-second-pass-to-techcrunch-disrupt-2026/",
-    "publishedAt": "2026-05-08T14:00:00.000Z",
-    "category": "early-stage",
-    "summary": "Last day to buy one pass and get a second one at 50% off to TechCrunch Disrupt 2026. Bring a partner, co-founder, or colleague at half off. Register now.",
-    "type": "article",
-    "region": "global"
-  },
-  {
     "id": "ef8750799f980636a7ee83c0e52802487ff683d4",
     "title": "Cook, Perspectives on Tokenization and Implications for the Financial System",
     "source": "Federal Reserve Speeches",
@@ -1142,39 +1175,6 @@
     "publishedAt": "2026-05-08T07:00:00.000Z",
     "category": "macro",
     "summary": "",
-    "type": "article",
-    "region": "global"
-  },
-  {
-    "id": "7f9df1ce4166a99513bb5a840e1c4cd23f4b32bd",
-    "title": "Ramp in talks to hit $40B+ valuation, 6 months after reaching $32B",
-    "source": "TechCrunch Startups",
-    "url": "https://techcrunch.com/2026/05/07/ramp-in-talks-to-hit-40b-valuation-6-months-after-reaching-32b/",
-    "publishedAt": "2026-05-07T23:11:43.000Z",
-    "category": "early-stage",
-    "summary": "The company is reportedly in talks to raise another $750 million at a pre-money valuation of more than $40 billion. It last raised in November at $32 billion.",
-    "type": "article",
-    "region": "global"
-  },
-  {
-    "id": "fdd6db795e724cc3e2dd2afb7e680a6b362cfaa8",
-    "title": "Kodiak AI raises $100M at a steep discount, sending its stock tumbling 37%",
-    "source": "TechCrunch Startups",
-    "url": "https://techcrunch.com/2026/05/07/kodiak-ai-raises-100m-at-a-steep-discount-sending-its-stock-tumbling-37/",
-    "publishedAt": "2026-05-07T21:49:24.000Z",
-    "category": "early-stage",
-    "summary": "The company made a series of other announcements during earnings, including a new commercial contract, a pilot program in Canada, and a collaboration.",
-    "type": "article",
-    "region": "global"
-  },
-  {
-    "id": "8c23e63118a53615e3ce615c0f815727bf40a0f7",
-    "title": "Voi founders’ new AI startup Pit has become the latest rising star out of Stockholm",
-    "source": "TechCrunch Startups",
-    "url": "https://techcrunch.com/2026/05/07/voi-founders-new-ai-startup-pit-has-become-the-latest-rising-star-out-of-stockholm/",
-    "publishedAt": "2026-05-07T21:02:11.000Z",
-    "category": "early-stage",
-    "summary": "AI startup Pit is led by the co-founders of European scooter giant Voi and backed by a16z, which is leading the startup’s $16 million seed round.",
     "type": "article",
     "region": "global"
   },
