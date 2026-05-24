@@ -1,5 +1,16 @@
 [
   {
+    "id": "69c0786245b556961ad7235959e480b619245597",
+    "title": "SolarSquare in talks to raise up to $60M as India’s rooftop solar market draws major VC interest",
+    "source": "TechCrunch Startups",
+    "url": "https://techcrunch.com/2026/05/23/solarsquare-in-talks-to-raise-up-to-60m-as-indias-rooftop-solar-market-draws-major-vc-interest/",
+    "publishedAt": "2026-05-23T20:03:13.000Z",
+    "category": "early-stage",
+    "summary": "SolarSquare could be valued at up to $500 million in the financing expected to close next month.",
+    "type": "article",
+    "region": "global"
+  },
+  {
     "id": "0c6e1d07fe0dbc7bf700719e556af10a3c2597c3",
     "title": "Peec, one of Berlin’s rising startups, more than doubled annualized revenue in months to $10M, sources say",
     "source": "TechCrunch Startups",
@@ -253,17 +264,6 @@
     "region": "africa"
   },
   {
-    "id": "6785e959935ab26e4d93f231dd93dc82c824db9f",
-    "title": "Nigeria: Solar Power Tops Electricity Output As Gas Accounts for Only 20 Percent in April 2026 - Report",
-    "source": "AllAfrica Business",
-    "url": "https://allafrica.com/stories/202605220379.html",
-    "publishedAt": "2026-05-22T11:46:48.000Z",
-    "category": "africa-markets",
-    "summary": "[Leadership] With energy shortage and limited gas availability recorded across the world making the fuel more expensive, wind and solar power generation has topped gas-fired power plant output for the first time ever on a monthly basis in April.",
-    "type": "article",
-    "region": "africa"
-  },
-  {
     "id": "38dc536b6f5572b6085301381ca04d817c660e7c",
     "title": "Nigeria: Energy, Transport Pushing Up Cement Prices - Bua's Rabiu",
     "source": "AllAfrica Business",
@@ -297,17 +297,6 @@
     "region": "africa"
   },
   {
-    "id": "102d670611d59f9b132c5a69f3aa657896d4dec5",
-    "title": "Ghana: Dubai Chambers Engages Ghanaian Trade Bodies for Partnerships",
-    "source": "AllAfrica Business",
-    "url": "https://allafrica.com/stories/202605220345.html",
-    "publishedAt": "2026-05-22T11:27:12.000Z",
-    "category": "africa-markets",
-    "summary": "[Ghanaian Times] Dubai Chambers has held a series of high-level meetings with key trade and economic institutions in Ghana as part of efforts to strengthen bilateral trade, investment cooperation and private-sector partnerships between Dubai and Ghana.",
-    "type": "article",
-    "region": "africa"
-  },
-  {
     "id": "765f1c364448968d7fcb2b28451da8e739c36f22",
     "title": "Ghana: BoG Maintains Policy Rate At 14 Percent Amid Strong Macroeconomic Stability, Global Uncertainty",
     "source": "AllAfrica Business",
@@ -326,28 +315,6 @@
     "publishedAt": "2026-05-22T11:24:31.000Z",
     "category": "africa-markets",
     "summary": "[Vanguard] The Lagos State Consumer Protection Agency, LASCOPA, has raised concerns over the circulation of adulterated palm oil in Lagos markets following reports of contaminated products being sold to consumers.",
-    "type": "article",
-    "region": "africa"
-  },
-  {
-    "id": "cf6b527d054bd0b3b6773ad4aa862e9b8fce8b7d",
-    "title": "Nigeria: Don't Rely On Certificates - Acquire Digital Skills to Excel, Otti Tasks Abia Youths",
-    "source": "AllAfrica Business",
-    "url": "https://allafrica.com/stories/202605220330.html",
-    "publishedAt": "2026-05-22T11:16:31.000Z",
-    "category": "africa-markets",
-    "summary": "[Vanguard] Umuahia -- Abia State Governor Dr. Alex Otti has charged youths participating in the advanced digital skills programme of the state government not to only rely on their certificates but also strive to acquire digital skills to enable them to excel in the 21st-century e",
-    "type": "article",
-    "region": "africa"
-  },
-  {
-    "id": "78e9f4a32299c89821380756f638171c55cab1b5",
-    "title": "Botswana: SA, Botswana Adopt Joint Action Plan to Tackle Fmd",
-    "source": "AllAfrica Business",
-    "url": "https://allafrica.com/stories/202605220324.html",
-    "publishedAt": "2026-05-22T11:15:27.000Z",
-    "category": "africa-markets",
-    "summary": "[SAnews.gov.za] The Minister of Agriculture, John Steenhuisen, has welcomed the endorsement of a comprehensive 2026-2028 Action Plan between South Africa and Botswana, aimed at strengthening regional cooperation in the fight against Foot and Mouth Disease (FMD).",
     "type": "article",
     "region": "africa"
   },
@@ -396,6 +363,17 @@
     "region": "africa"
   },
   {
+    "id": "a127ad393f85aaa8db8ccd6b14df0a5532c899f8",
+    "title": "Uganda: Katonga Reconstruction Enters Final Stretch As Asphalt Works Begin On Kampala-Masaka Highway",
+    "source": "AllAfrica Business",
+    "url": "https://allafrica.com/stories/202605220169.html",
+    "publishedAt": "2026-05-22T09:36:01.000Z",
+    "category": "africa-markets",
+    "summary": "[Nile Post] Motorists using the busy Kampala-Masaka Highway are being urged to prepare for temporary traffic delays after the Ministry of Works and Transport announced the start of asphalt-laying works on the new Katonga bridge road approaches, signalling that the long-awaited re",
+    "type": "article",
+    "region": "africa"
+  },
+  {
     "id": "77ce98f2eabc1032340c217bd09d7ad3fe6f10ea",
     "title": "Africa: Transparency 'Essential for Investor Confidence in Africa,' Boakai Says",
     "source": "AllAfrica Investment",
@@ -414,6 +392,39 @@
     "publishedAt": "2026-05-22T07:12:59.000Z",
     "category": "africa-markets",
     "summary": "[Vanguard] The Federal Government launched its Net-Zero Investment Plan in Abuja on Wednesday, setting a 2060 target for carbon neutrality while pushing for growth anchored on clean investment.",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "36bbce9344c71b124b941f3d489810c3c031ae52",
+    "title": "Kenya: Ruto Promises Urgent Minimum Fare Rules for Ride-Hailing Taxis Amid Fuel Crisis",
+    "source": "AllAfrica Business",
+    "url": "https://allafrica.com/stories/202605220099.html",
+    "publishedAt": "2026-05-22T07:10:31.000Z",
+    "category": "africa-markets",
+    "summary": "[Capital FM] NAIROBI, Kenya, May 22-President William Ruto has pledged urgent implementation of minimum fare regulations for digital taxis operating under ride-hailing applications as the government moves to cushion transport operators from the ongoing fuel crisis.",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "8cf6502d3379ec0b792ebb834fae828ee644256c",
+    "title": "Africa: All of Africa Today - May 22, 2026",
+    "source": "AllAfrica Business",
+    "url": "https://allafrica.com/stories/202605220098.html",
+    "publishedAt": "2026-05-22T07:09:04.000Z",
+    "category": "africa-markets",
+    "summary": "[allAfrica]",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "524295ad09b1a00d3c1efd952705b6f5e9df4385",
+    "title": "South Africa: FlySafair Defends Flight Overbooking - South African News Briefs - May 22, 2026",
+    "source": "AllAfrica Business",
+    "url": "https://allafrica.com/stories/202605220063.html",
+    "publishedAt": "2026-05-22T05:43:08.000Z",
+    "category": "africa-markets",
+    "summary": "[allAfrica]",
     "type": "article",
     "region": "africa"
   },
@@ -979,17 +990,6 @@
     "summary": "[SAnews.gov.za] The two-day Pietermaritzburg Urban Development Indaba has concluded with a series of commitments aimed at reversing urban decay, improving municipal efficiency, and restoring investor confidence in the city.",
     "type": "article",
     "region": "africa"
-  },
-  {
-    "id": "b83f466cbc40cf1a2b6949554abf226876cc78ce",
-    "title": "Stilta raises $10.5M from a16z and YC to help companies rediscover the patents they forgot they had",
-    "source": "TechCrunch Startups",
-    "url": "https://techcrunch.com/2026/05/19/legal-tech-announced-stilta-announces-10m-seed-backed-by-yc-and-a16z-months-after-launch/",
-    "publishedAt": "2026-05-19T12:00:00.000Z",
-    "category": "early-stage",
-    "summary": "Stilta is an AI platform designed to automate the research and analytical work behind intellectual property cases — the kind of labor-intensive work that has historically made patent litigation slow and expensive.",
-    "type": "article",
-    "region": "global"
   },
   {
     "id": "b98c7b96c4ed557b5415ae87a14cdba87e981df6",
