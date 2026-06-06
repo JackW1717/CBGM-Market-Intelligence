@@ -1,12 +1,474 @@
 [
   {
-    "id": "4373e0e7f0ce7601e0478bc9828d511ca12378b5",
-    "title": "Ghana: Plastic Waste to Fuel &#xB7; Ama, Nrtl Seal Landmark Recycling Deal &#xB7; Project to Create 1,500 Jobs",
-    "source": "AllAfrica Business",
-    "url": "https://allafrica.com/stories/202606040348.html",
-    "publishedAt": "2026-06-04T11:46:54.000Z",
+    "id": "ab8c796089ab5f4b7b6d8f1f1e10de89bf1fbb86",
+    "title": "Microsoft AI chief says company was “set free” from OpenAI to pursue superintelligence",
+    "source": "VentureBeat",
+    "url": "https://venturebeat.com/technology/microsoft-ai-chief-says-company-was-set-free-from-openai-to-pursue-superintelligence",
+    "publishedAt": "2026-06-05T22:55:38.000Z",
+    "category": "ai",
+    "summary": "For three years, Microsoft's artificial intelligence story has been inseparable from OpenAI. The partnership — cemented by a cumulative investment exceeding $13 billion — gave Microsoft early access to the most advanced AI models on the planet, catapulting its Copilot products in",
+    "type": "article",
+    "region": "global"
+  },
+  {
+    "id": "f95879e8b161dce89465b69a8180dcb7726dbcdd",
+    "title": "Startup Battlefield 200 applications officially close in 3 days",
+    "source": "TechCrunch Startups",
+    "url": "https://techcrunch.com/2026/06/05/startup-battlefield-200-applications-officially-close-in-3-days/",
+    "publishedAt": "2026-06-05T20:00:00.000Z",
+    "category": "early-stage",
+    "summary": "Applications for Startup Battlefield 200 officially close on June 8, 11:59 p.m. PT. Don't wait any longer. Secure your shot at competing on the Disrupt Stage at TechCrunch Disrupt 2026 this October at San Francisco's Moscone West.",
+    "type": "article",
+    "region": "global"
+  },
+  {
+    "id": "3e8ca31f8b85c25011e778f9f81656fc45f78722",
+    "title": "Microsoft's AI Futurist explains how he uses Copilot — and the real-world problems enterprises are solving with agents",
+    "source": "VentureBeat",
+    "url": "https://venturebeat.com/orchestration/microsofts-ai-futurist-explains-how-he-uses-copilot-and-the-real-world-problems-enterprises-are-solving-with-agents",
+    "publishedAt": "2026-06-05T19:31:00.000Z",
+    "category": "ai",
+    "summary": "Microsoft used its Build 2026 conference this week to push a clear message: agents are rapidly moving into production throughout enterprise systems, and the winning platform will be the one that gives them reliable context, governance, identity, memory — and secure access to ente",
+    "type": "article",
+    "region": "global"
+  },
+  {
+    "id": "57e10d822bb9cea3079ad9b0f3be9c3fcdd8113e",
+    "title": "Uganda: PSFU Warns Misleading Ebola Reports Could Hurt Trade, Tourism and Investment",
+    "source": "AllAfrica Investment",
+    "url": "https://allafrica.com/stories/202606050677.html",
+    "publishedAt": "2026-06-05T18:13:44.000Z",
     "category": "africa-markets",
-    "summary": "[Ghanaian Times] The Accra Metropolitan Assembly (AMA) has signed a binding feedstock agreement with Numatter Recycling Technologies Limited (NRTL) for Ghana's first industrial-scale plastic-to-fuel pyrolysis plant.",
+    "summary": "[Nile Post] The Private Sector Foundation Uganda (PSFU) has raised concerns over what it describes as misleading reporting on Uganda's Ebola situation, warning that inaccurate information could have far-reaching consequences for the country's trade, tourism and investment sectors",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "2f3b3c0a32f4c5813263d26d6f5b2f62b56c88ee",
+    "title": "AI agents are learning on the job — just not for your whole team",
+    "source": "VentureBeat",
+    "url": "https://venturebeat.com/orchestration/ai-agents-are-learning-on-the-job-just-not-for-your-whole-team",
+    "publishedAt": "2026-06-05T17:51:03.000Z",
+    "category": "ai",
+    "summary": "When someone on a team corrects an AI agent — better prompts, better feedback, better context — that improvement disappears the moment a colleague opens the same tool. The correction doesn't transfer, and the next person starts from zero. The problem compounds in multi-agent work",
+    "type": "article",
+    "region": "global"
+  },
+  {
+    "id": "b6b2479bdd01d3a25d64698aa802c2d51e24f3eb",
+    "title": "The most interesting startups right now want to get you off your phone",
+    "source": "TechCrunch Startups",
+    "url": "https://techcrunch.com/video/the-most-interesting-startups-right-now-want-to-get-you-off-your-phone/",
+    "publishedAt": "2026-06-05T17:17:06.000Z",
+    "category": "early-stage",
+    "summary": "While the AI fundraising machine keeps breaking its own records, some founders are building in the other direction. Mirror founder Brynn Putnam just raised money for Board, a startup focused on bringing people together through in-person games and social experiences. Cyberdeck cre",
+    "type": "article",
+    "region": "global"
+  },
+  {
+    "id": "6a01873d3666aba34f8bc688ceaea052cb8578a8",
+    "title": "Meta's AI support agent bound recovery emails for anyone who asked. Your SOC never saw an alert.",
+    "source": "VentureBeat",
+    "url": "https://venturebeat.com/security/meta-ai-support-agent-recovery-email-takeover-soc-audit-grid",
+    "publishedAt": "2026-06-05T16:42:50.000Z",
+    "category": "ai",
+    "summary": "Meta's AI support agent bound recovery emails to accounts for whoever asked, and SOCs never saw an alert. An authorized agent writes a log of legitimate transactions, so nothing in the detection stack fired. Attackers asked the bot to make the change, took the one-time code it se",
+    "type": "article",
+    "region": "global"
+  },
+  {
+    "id": "114b6f564087368bfac470689e807187d517c67a",
+    "title": "Nigeria: Portfolio Investors Push Capital Importation to $10.37bn in Q1",
+    "source": "AllAfrica Investment",
+    "url": "https://allafrica.com/stories/202606050567.html",
+    "publishedAt": "2026-06-05T16:41:05.000Z",
+    "category": "africa-markets",
+    "summary": "[Leadership] ...As low FDI raises growth concerns",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "6114ff11051f47e570d7e14c6944a92bb5e09e27",
+    "title": "Nigeria: Nigeria's Data Centre Market to Exceed $1bn As Investors Bet On Population Boom",
+    "source": "AllAfrica Investment",
+    "url": "https://allafrica.com/stories/202606050556.html",
+    "publishedAt": "2026-06-05T16:40:57.000Z",
+    "category": "africa-markets",
+    "summary": "[Leadership] Nigeria's rapidly expanding population and growing digital economy are attracting fresh investments into the country's data centre sector, with industry projections indicating that the market could grow from an estimated $288 million in 2025 to more than $1 billion b",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "1393832a36b40c9e34761182ee31f69dc1a539b5",
+    "title": "Supabase doubles valuation to $10B in 8 months",
+    "source": "TechCrunch Startups",
+    "url": "https://techcrunch.com/2026/06/05/supabase-doubles-valuation-to-10b-in-8-months/",
+    "publishedAt": "2026-06-05T16:32:27.000Z",
+    "category": "early-stage",
+    "summary": "Supabase, an example of an open source project becoming a fast-growing company, has greatly benefited from AI tools like Claude, Codex, and other vibe-coding platforms.",
+    "type": "article",
+    "region": "global"
+  },
+  {
+    "id": "844feb20eb61f025d93248937c0b8238231ee6a1",
+    "title": "Liberia: Ngafuan Clarifies Revenue Sharing, Fiscal Decentralization Progress",
+    "source": "AllAfrica Business",
+    "url": "https://allafrica.com/stories/202606050511.html",
+    "publishedAt": "2026-06-05T15:51:42.000Z",
+    "category": "africa-markets",
+    "summary": "[Liberian Observer] Finance and Development Planning Minister Augustine Kpehe Ngafuan, along with Deputy Minister for Fiscal Affairs Anthony G. Myers, Assistant Minister for Revenue and Tax Policy Andrew Ngollie, and the Director for Fiscal Decentralization, appeared before the L",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "198f6ed02d02c2d33306aa56cebfcf59ffded952",
+    "title": "The Week’s 10 Biggest Funding Rounds: Megarounds Proliferate, Led By Enterprise Software, AI, And Space Tech",
+    "source": "Crunchbase News",
+    "url": "https://news.crunchbase.com/venture/biggest-funding-rounds-june-5-2026/",
+    "publishedAt": "2026-06-05T15:49:12.000Z",
+    "category": "venture-capital",
+    "summary": "Want to keep track of the largest startup funding deals in 2026 with our curated list of $100 million-plus venture deals to U.S.-based companies? Check out The Crunchbase Megadeals Board. This is a weekly feature that runs down the week’s top 10 announced funding rounds in the U.",
+    "type": "article",
+    "region": "global"
+  },
+  {
+    "id": "3a93b2375b03f0a0b7302c362c76010f899fc1c0",
+    "title": "The ‘together tech’ wave might be the most intriguing startup bet of 2026",
+    "source": "TechCrunch Startups",
+    "url": "https://techcrunch.com/podcast/the-together-tech-wave-might-be-the-most-intriguing-startup-bet-of-2026/",
+    "publishedAt": "2026-06-05T14:00:00.000Z",
+    "category": "early-stage",
+    "summary": "While the AI fundraising machine keeps breaking its own records, some founders are building in the other direction. Mirror founder Brynn Putnam just raised money for Board, a startup focused on bringing people together through in-person games and social experiences. Cyberdeck cre",
+    "type": "article",
+    "region": "global"
+  },
+  {
+    "id": "68d37980803be3e9e0ce8ee70717a10b0c951807",
+    "title": "Africa: Future Belongs to Most Purposeful Technology - Oboh",
+    "source": "AllAfrica Business",
+    "url": "https://allafrica.com/stories/202606050463.html",
+    "publishedAt": "2026-06-05T12:40:46.000Z",
+    "category": "africa-markets",
+    "summary": "[Vanguard] Artificial intelligence is no longer an experimental technology operating on the margins of business. Across industries, AI systems are rapidly becoming part of daily operations, transforming productivity, automating workflows, and reshaping how companies approach grow",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "e79393fd0eec642ade2740ab6951c5f8aa4c2052",
+    "title": "Uganda: Irrigation Key to Climate-Resilient Farming, Experts Tell Uganda's Smallholders",
+    "source": "AllAfrica Business",
+    "url": "https://allafrica.com/stories/202606050438.html",
+    "publishedAt": "2026-06-05T12:19:09.000Z",
+    "category": "africa-markets",
+    "summary": "[Nile Post] Agricultural experts have called on smallholder farmers across Uganda to adopt market-oriented production and invest in climate-smart farming practices to address the growing challenges facing the agriculture sector.",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "f1c7a02c9988d2b8b2cc1ebccbed5ecf1192e8dd",
+    "title": "Uganda: Relief in Mukono As Long-Awaited Nakiyanja Bridge Construction Begins",
+    "source": "AllAfrica Business",
+    "url": "https://allafrica.com/stories/202606050437.html",
+    "publishedAt": "2026-06-05T12:18:47.000Z",
+    "category": "africa-markets",
+    "summary": "[Nile Post] Residents of Nsasa and Nabusugwe cells, located along the boundary between Mukono Municipality and Kira Municipality, have welcomed the government's decision to commence construction of a bridge at the Nakiyanja River crossing, ending a long-standing challenge that ha",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "37a9f9b6617dbdf3a9849fd3c80c94a0746d7efb",
+    "title": "South Africa: Cabinet Commends Telkom's Financial and Operational Performance",
+    "source": "AllAfrica Business",
+    "url": "https://allafrica.com/stories/202606050433.html",
+    "publishedAt": "2026-06-05T12:12:25.000Z",
+    "category": "africa-markets",
+    "summary": "[SAnews.gov.za] Cabinet has congratulated Telkom on its strong financial and operational performance for the financial year ending 31 March 2026.",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "f1552e7a465f88f7651bab235b9860a2466b10bc",
+    "title": "South Africa: Cabinet Approves Plan to Drive Job Creation",
+    "source": "AllAfrica Business",
+    "url": "https://allafrica.com/stories/202606050432.html",
+    "publishedAt": "2026-06-05T12:12:11.000Z",
+    "category": "africa-markets",
+    "summary": "[SAnews.gov.za] Cabinet has approved the Revised Industrial Development Strategy (IDS) for implementation to facilitate employment opportunities through various projects and programmes.",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "28dc03a033f064b640108755f0947950445f55a2",
+    "title": "South Africa: Government Publishes Guidelines to Improve Spending Discipline",
+    "source": "AllAfrica Business",
+    "url": "https://allafrica.com/stories/202606050417.html",
+    "publishedAt": "2026-06-05T12:09:45.000Z",
+    "category": "africa-markets",
+    "summary": "[SAnews.gov.za] National Treasury has issued a framework to help departments use public funds more effectively and deliver better value for money.",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "1744112c8fe3b85dac0717a497f04e1aba0c808e",
+    "title": "South Africa: Eskom and Zululand Sign Heads of Agreement to Advance Gas-to-Power Development",
+    "source": "AllAfrica Business",
+    "url": "https://allafrica.com/stories/202606050416.html",
+    "publishedAt": "2026-06-05T12:09:30.000Z",
+    "category": "africa-markets",
+    "summary": "[SAnews.gov.za] Eskom and Zululand Energy Terminal (ZET) have signed a Heads of Agreement (HOA) establishing the framework for a long-term strategic partnership to support South Africa's gas-to-power programme.",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "8fdbc8d7d4685ee30616551fc851d0e1a5025064",
+    "title": "Uganda: Disease Outbreaks, Dry Spells Push Up Beef Prices",
+    "source": "AllAfrica Business",
+    "url": "https://allafrica.com/stories/202606050409.html",
+    "publishedAt": "2026-06-05T12:06:13.000Z",
+    "category": "africa-markets",
+    "summary": "[Independent (Kampala)] Kampala, Uganda -- Rising meat prices are forcing many Ugandans to cut back on beef consumption as the cost of a kilogram climbs from about Shs16,000 to between Shs20,000 and Shs22,000 in several parts of the country. Currently, beef is sold wholesale at a",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "8a169c7b04b0ee15bab4c7ec2a926b7c267b1b7c",
+    "title": "Kenya: Africa's AI Growth Must Priorities Disability Access, Experts Tell Inclusive Tech Summit",
+    "source": "AllAfrica Business",
+    "url": "https://allafrica.com/stories/202606050408.html",
+    "publishedAt": "2026-06-05T11:58:10.000Z",
+    "category": "africa-markets",
+    "summary": "[Capital FM] Global technology leaders and disability rights advocates at the 2026 Inclusive Africa Conference (IAC) have called for urgent reforms to ensure Artificial Intelligence (AI) and digital technologies are designed to include persons with disabilities, warning that Afri",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "e4a015d32e5ba9ac5e98abc752d5ffd25c28d64d",
+    "title": "Nigeria: Nerc Orders Discos to Compensate Band 'A' Customers Impacted By Gas Shortage, Vandalism",
+    "source": "AllAfrica Business",
+    "url": "https://allafrica.com/stories/202606050304.html",
+    "publishedAt": "2026-06-05T11:08:56.000Z",
+    "category": "africa-markets",
+    "summary": "[This Day] The Nigerian Electricity Regulatory Commission (NERC) has directed electricity Distribution Companies (Discos) to compensate eligible Band 'A' customers who suffered service shortfalls between February and March this year due to generation constraints caused by inadequ",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "e150f18d918d496c8bf5cedc41490b1489ec6cc8",
+    "title": "Nigeria: Blue Economy - FG Reiterates Commitment to Actualisation of Agge Deep Sea Port",
+    "source": "AllAfrica Business",
+    "url": "https://allafrica.com/stories/202606050302.html",
+    "publishedAt": "2026-06-05T11:04:38.000Z",
+    "category": "africa-markets",
+    "summary": "[This Day] Abuja -- The federal government, Thursday reaffirmed its commitment to actualisation of the Agge Deep Sea Port project in Bayelsa State.",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "0251aab5edef1ebc2a8534cf8545e63f351f5210",
+    "title": "Malawi: Reference Lending Rate Falls From 25.2% to 20.4% in Six Months",
+    "source": "AllAfrica Business",
+    "url": "https://allafrica.com/stories/202606050292.html",
+    "publishedAt": "2026-06-05T11:01:41.000Z",
+    "category": "africa-markets",
+    "summary": "[Nyasa Times] Malawians have received another encouraging economic boost after commercial banks reduced the reference lending rate for June to 20.4 percent, down from 20.6 percent in May.",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "8692ca70abcaaf1236e3fd31c36dabebe2733b1b",
+    "title": "Investors Have Poured Billions Into Plaintiff-Side Legal AI, But Defense Could Be The Next Big Opportunity",
+    "source": "Crunchbase News",
+    "url": "https://news.crunchbase.com/ai/defense-legal-tech-venture-funding-ip-theo/",
+    "publishedAt": "2026-06-05T11:00:55.000Z",
+    "category": "venture-capital",
+    "summary": "Although defense-side legal AI remains underdeveloped despite a large market opportunity, writes guest author Patrick Ip, investors are increasingly watching whether startups can build scalable platforms around litigation intelligence, risk benchmarking and proprietary outcome da",
+    "type": "article",
+    "region": "global"
+  },
+  {
+    "id": "fa1213bde1b45ce685a325f05c4e0f68598bb1dd",
+    "title": "5 Interesting Startup Deals You May Have Missed: On-Demand Custom Manufacturing, Underwater Geothermal Energy, And Adventure Group Travel",
+    "source": "Crunchbase News",
+    "url": "https://news.crunchbase.com/venture/interesting-startup-deals-custom-metal-group-travel-geothermal-energy/",
+    "publishedAt": "2026-06-05T11:00:37.000Z",
+    "category": "venture-capital",
+    "summary": "A grab bag of funded startups caught our attention this past month, from a previously bootstrapped custom metal manufacturer that got its first outside funding from big-name Silicon Valley backers, to a startup that aims to provide geothermal energy from underwater volcanoes to s",
+    "type": "article",
+    "region": "global"
+  },
+  {
+    "id": "8168556ee15a98cef10fe7d4071a173230bd0f33",
+    "title": "Tanzania: Tanzania, Sweden Agree to Deepen Bilateral Ties in Trade, Investment, Education, Technology",
+    "source": "AllAfrica Investment",
+    "url": "https://allafrica.com/stories/202606050239.html",
+    "publishedAt": "2026-06-05T10:13:34.000Z",
+    "category": "africa-markets",
+    "summary": "[Daily News] Dar es Salaam -- TANZANIA and Sweden have reaffirmed their commitment to strengthening bilateral relations, with both countries seeking to expand cooperation in trade, investment, education, technology and sustainable development.",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "8dc4b03980d30bbc6e009aacacac5f3d32785525",
+    "title": "Africa: 131 Nigerian Companies Earn Africa Quality Mark in Major Trade Boost",
+    "source": "AllAfrica Business",
+    "url": "https://allafrica.com/stories/202606050157.html",
+    "publishedAt": "2026-06-05T09:00:55.000Z",
+    "category": "africa-markets",
+    "summary": "[Vanguard] ABUJA - The Federal Government has presented the Africa Quality Mark (AQM) certification to 131 companies for 220 made-in-Nigeria products, reiterating its commitment to supporting industrial expansion and export growth.",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "0cc56ab1bd77781d1ee278b05eac5741a767c589",
+    "title": "Zimbabwe: Zimbabwe Key to Regional Power Trade and Transmission - Govt",
+    "source": "AllAfrica Business",
+    "url": "https://allafrica.com/stories/202606050147.html",
+    "publishedAt": "2026-06-05T08:54:30.000Z",
+    "category": "africa-markets",
+    "summary": "[263Chat] Zimbabwe remains a critical player in Southern Africa's electricity market and transmission network with the Government pledging to strengthen the country's power infrastructure to support regional energy integration and trade, Energy and Power Development Minister July",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "0f768f17c179b97aacf95305fde8b0d18a7ec18c",
+    "title": "Nigeria: N100,000 Wage - Lagos Labour Harps On Proper Consultation, Economic Realities",
+    "source": "AllAfrica Business",
+    "url": "https://allafrica.com/stories/202606050144.html",
+    "publishedAt": "2026-06-05T08:52:30.000Z",
+    "category": "africa-markets",
+    "summary": "[Vanguard] Comrade Funmi Sesi, the chairperson, Nigeria Labour Congress (NLC), Lagos State Council, has stressed the need for proper consultation and consideration of prevailing economic realities in any discussion on a new national minimum wage.",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "7c3ccec6868210fc78274517ed782548c090c647",
+    "title": "Africa: All of Africa Today - June 5, 2026",
+    "source": "AllAfrica Investment",
+    "url": "https://allafrica.com/stories/202606050069.html",
+    "publishedAt": "2026-06-05T06:50:51.000Z",
+    "category": "africa-markets",
+    "summary": "[allAfrica]",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "cd51978b0a3bfb1a37bd89238a647f91611d0ee5",
+    "title": "South Africa: FlySafair Cuts Fuel Surcharge by 40% - South African News Briefs - June 5, 2026",
+    "source": "AllAfrica Business",
+    "url": "https://allafrica.com/stories/202606050056.html",
+    "publishedAt": "2026-06-05T05:28:47.000Z",
+    "category": "africa-markets",
+    "summary": "[allAfrica]",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "e2bf1cd7a69c040b1e61f94b2ccc5f656bd7c03e",
+    "title": "Defense tech, AI, and fundraising take center stage at StrictlyVC Los Angeles on June 18",
+    "source": "TechCrunch Startups",
+    "url": "https://techcrunch.com/2026/06/04/defense-tech-ai-and-fundraising-take-center-stage-at-strictlyvc-los-angeles-on-june-18/",
+    "publishedAt": "2026-06-04T21:30:00.000Z",
+    "category": "early-stage",
+    "summary": "On Thursday, June 18, at The Aerospace Corporation Campus, investors, founders, and tech leaders will gather for an evening of conversation exploring some of the most consequential shifts taking place across venture capital, defense technology, artificial intelligence, and advanc",
+    "type": "article",
+    "region": "global"
+  },
+  {
+    "id": "1df75f43641c951c1b3188f84c89d003b7f6d775",
+    "title": "Startup Battlefield is returning to Australia — here’s what happened the last time we came to Sydney",
+    "source": "TechCrunch Startups",
+    "url": "https://techcrunch.com/2026/06/04/startup-battlefield-is-returning-to-australia-heres-what-happened-the-last-time-we-came-to-sydney/",
+    "publishedAt": "2026-06-04T20:55:38.000Z",
+    "category": "early-stage",
+    "summary": "On August 19, Startup Battlefield is returning to Sydney in partnership with Stripe, one of the world's most iconic technology companies. We're taking over Stripe Tour Sydney for a night that the Australian startup ecosystem won't forget.",
+    "type": "article",
+    "region": "global"
+  },
+  {
+    "id": "bd0ea0934a327e3c31f490ee38baf73a29c40cac",
+    "title": "Anthropic says 80% of its new production code is now authored by Claude — how your enterprise can keep up",
+    "source": "VentureBeat",
+    "url": "https://venturebeat.com/technology/anthropic-says-80-of-its-new-production-code-is-now-authored-by-claude-how-your-enterprise-can-keep-up",
+    "publishedAt": "2026-06-04T20:25:00.000Z",
+    "category": "ai",
+    "summary": "Anthropic co-founder and CEO Dario Amodei said it was coming, but it still feels like a milestone: More than 80% of the code merged into Anthropic’s production codebase in May wasn't authored by humans, but by its own AI model, Claude, according to a new report shared by the reco",
+    "type": "article",
+    "region": "global"
+  },
+  {
+    "id": "97b130469fba021ed06c09100fa7fa0063df2a6c",
+    "title": "Helion, the Sam Altman-backed fusion startup, raises $465M to build a power plant for Microsoft",
+    "source": "TechCrunch Startups",
+    "url": "https://techcrunch.com/2026/06/04/helion-the-sam-altman-backed-fusion-startup-raises-465m-to-build-a-power-plant-for-microsoft/",
+    "publishedAt": "2026-06-04T18:54:08.000Z",
+    "category": "early-stage",
+    "summary": "Fusion startup Helion is racing to complete a power plant for Microsoft by 2028. A fresh infusion of cash should help with that.",
+    "type": "article",
+    "region": "global"
+  },
+  {
+    "id": "588c70b1f5d0b7e381cfc3910775e069bf3178fa",
+    "title": "Africa: Spiro Secures $215m Investment to Accelerate Electric Mobility Across Africa",
+    "source": "AllAfrica Investment",
+    "url": "https://allafrica.com/stories/202606040683.html",
+    "publishedAt": "2026-06-04T17:41:06.000Z",
+    "category": "africa-markets",
+    "summary": "[Independent (Kampala)] Kampala, Uganda -- African electric mobility company Spiro has secured a landmark $215 million equity investment to accelerate the expansion of its electric vehicle (EV) and battery-swapping infrastructure across the continent, positioning the company amon",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "d6c8ae0cbc64d27adda84903558622b14a51317e",
+    "title": "Ghana: Turn Rice Sector Into Growth Engine - Veep Tells Regional Investors, Policymakers",
+    "source": "AllAfrica Investment",
+    "url": "https://allafrica.com/stories/202606040669.html",
+    "publishedAt": "2026-06-04T17:32:41.000Z",
+    "category": "africa-markets",
+    "summary": "[Ghanaian Times] The Vice President, Professor Naana Jane Opoku-Agyemang, yesterday opened a two-day ECOWAS Rice Investment Roundtable in Accra with a call on West Africa to see the rice sector as a strategic economic asset.",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "51a879d753b086b6eba856e59e4dabf6099c921b",
+    "title": "South Africa: Public Servants' Pension Money - The R88bn Question Behind the Pic's Isibaya Portfolio",
+    "source": "AllAfrica Investment",
+    "url": "https://allafrica.com/stories/202606040625.html",
+    "publishedAt": "2026-06-04T17:00:33.000Z",
+    "category": "africa-markets",
+    "summary": "[Daily Maverick] The Public Investment Corporation's Isibaya portfolio was meant to do more than make money. It was supposed to help build the country by funding infrastructure, supporting empowerment deals, creating jobs and backing investments that could deliver both social imp",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "89c632aa101b9f62f018581c8ca4b4dd65953242",
+    "title": "Uganda: UTB CEO Juliana Kagwa Urges Tourism Sector to Turn Poate Gains Into Investments",
+    "source": "AllAfrica Investment",
+    "url": "https://allafrica.com/stories/202606040616.html",
+    "publishedAt": "2026-06-04T16:43:28.000Z",
+    "category": "africa-markets",
+    "summary": "[Nile Post] The Chief Executive Officer of the Uganda Tourism Board, Juliana Kagwa, has called on tourism stakeholders to convert connections made during the Pearl of Africa Tourism Expo (POATE) 2026 into investments, partnerships, and business opportunities that can drive econom",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "c475957ccba435ffcfea21c15b6d3cf5a277b7c9",
+    "title": "Is Silicon Valley ready to put robots in people’s homes? Hello Robot is.",
+    "source": "TechCrunch Startups",
+    "url": "https://techcrunch.com/2026/06/04/is-silicon-valley-ready-to-put-robots-in-peoples-homes-hello-robot-is/",
+    "publishedAt": "2026-06-04T15:05:00.000Z",
+    "category": "early-stage",
+    "summary": "The California startup released the fourth-generation of its home assistance robot, Stretch.",
+    "type": "article",
+    "region": "global"
+  },
+  {
+    "id": "b8413fdb4bb1820ff5b72e2275058871a96e4dd1",
+    "title": "Africa: Ghana Launches Agriconnect Compact to Strengthen Food Security, Create Jobs, and Mobilize Investment",
+    "source": "AllAfrica Investment",
+    "url": "https://allafrica.com/stories/202606040376.html",
+    "publishedAt": "2026-06-04T12:11:57.000Z",
+    "category": "africa-markets",
+    "summary": "[World Bank] Accra -- The Government of Ghana, with support from the World Bank Group and development partners, today launched its AgriConnect Compact, a national framework to strengthen food security, create jobs, reduce food imports, and mobilize investment across priority agri",
     "type": "article",
     "region": "africa"
   },
@@ -33,72 +495,6 @@
     "region": "africa"
   },
   {
-    "id": "86fe6b0875216531989f0665cd32d0c3a5b1e661",
-    "title": "Tanzania: When Is a Child Ready for Their First Mobile Phone?",
-    "source": "AllAfrica Business",
-    "url": "https://allafrica.com/stories/202606040327.html",
-    "publishedAt": "2026-06-04T11:32:10.000Z",
-    "category": "africa-markets",
-    "summary": "[Daily News] Dar es Salaam -- FOR many parents today, deciding when a child should own a mobile phone is not an easy choice. While phones have become an important tool for communication, learning and entertainment, concerns about online safety, distractions and inappropriate cont",
-    "type": "article",
-    "region": "africa"
-  },
-  {
-    "id": "58b6beee5b8c75640029106eb915b13abf073f36",
-    "title": "Tanzania: Govt Intervention Shields Consumers As Petrol Prices Fall",
-    "source": "AllAfrica Business",
-    "url": "https://allafrica.com/stories/202606040324.html",
-    "publishedAt": "2026-06-04T11:28:52.000Z",
-    "category": "africa-markets",
-    "summary": "[Daily News] Dar es Salaam -- TANZANIAN consumers have received relief this month following a drop in petrol prices, thanks to government measures aimed at cushioning the economy from the effects of escalating global fuel market disruptions caused by tensions in the Middle East.",
-    "type": "article",
-    "region": "africa"
-  },
-  {
-    "id": "01a3f407ab678d09a331991aa3aef3f01691a4de",
-    "title": "Tanzania: Tz's Handling of Economy Wins Global Backing, Clinches Twin Awards",
-    "source": "AllAfrica Business",
-    "url": "https://allafrica.com/stories/202606040323.html",
-    "publishedAt": "2026-06-04T11:28:26.000Z",
-    "category": "africa-markets",
-    "summary": "[Daily News] Dar es Salaam -- TANZANIA'S prudent management of public debt has earned international recognition after the country won two prestigious awards for its performance in debt servicing and management.",
-    "type": "article",
-    "region": "africa"
-  },
-  {
-    "id": "107d4eac50bb248364ebda61a5062df336c40eba",
-    "title": "Kenya: Bolt Targets Everyday Consumer Spending With Quickmart Retail Deal",
-    "source": "AllAfrica Business",
-    "url": "https://allafrica.com/stories/202606040321.html",
-    "publishedAt": "2026-06-04T11:27:27.000Z",
-    "category": "africa-markets",
-    "summary": "[Capital FM] NAIROBI -- Bolt Food has expanded into Kenya's on-demand retail segment through a partnership with supermarket chain Quickmart, in what it says will deepen digital commerce adoption and create additional opportunities for retailers and delivery riders.",
-    "type": "article",
-    "region": "africa"
-  },
-  {
-    "id": "fc7c74fbbb26c3e0ce08605c686bffd035371bb2",
-    "title": "Nigeria: Nigeria Ranks Among 10 Worst Countries for Workers",
-    "source": "AllAfrica Business",
-    "url": "https://allafrica.com/stories/202606040317.html",
-    "publishedAt": "2026-06-04T11:26:26.000Z",
-    "category": "africa-markets",
-    "summary": "[Vanguard] Nigeria has been ranked among the 10 worst countries in the world for workers' rights, according to the 2026 Global Rights Index released by the International Trade Union Confederation, ITUC.",
-    "type": "article",
-    "region": "africa"
-  },
-  {
-    "id": "9b61278bd67c5361f513fa0129ed03fe76942881",
-    "title": "Kenya: Hybrid Work Demand Spurs Nairobi Office Expansion As IWG Opens Three New Centres",
-    "source": "AllAfrica Business",
-    "url": "https://allafrica.com/stories/202606040292.html",
-    "publishedAt": "2026-06-04T11:08:51.000Z",
-    "category": "africa-markets",
-    "summary": "[Capital FM] Demand for flexible office space is reshaping Nairobi's commercial property market, with International Workplace Group (IWG) opening three new workspaces in the capital as businesses increasingly adopt hybrid working models to cut costs and improve productivity.",
-    "type": "article",
-    "region": "africa"
-  },
-  {
     "id": "356249b068506b6486fb70b1e2174ebc3da79315",
     "title": "Nigeria: Legend Internet Reassures Investors Amid Expansion-Driven Earnings Pressures",
     "source": "AllAfrica Investment",
@@ -106,17 +502,6 @@
     "publishedAt": "2026-06-04T11:06:24.000Z",
     "category": "africa-markets",
     "summary": "[This Day] The investors in Legend Internet Plc have been reassured of stronger future earnings prospects as the company continues to expand its infrastructure, strengthen liquidity, and maintain a resilient equity base, despite weaker earnings recorded in its unaudited six-month",
-    "type": "article",
-    "region": "africa"
-  },
-  {
-    "id": "a27deebf37ff664eabef7ce495a7ee1014ba2726",
-    "title": "Kenya: New Packaging Technology Promises to Cut Losses for Kenyan Flower Exporters",
-    "source": "AllAfrica Business",
-    "url": "https://allafrica.com/stories/202606040260.html",
-    "publishedAt": "2026-06-04T11:00:40.000Z",
-    "category": "africa-markets",
-    "summary": "[Capital FM] Nairobi -- Every day, millions of Kenyan roses begin a journey of more than 6,000 kilometres to flower markets across Europe.",
     "type": "article",
     "region": "africa"
   },
@@ -143,50 +528,6 @@
     "region": "global"
   },
   {
-    "id": "6d70150e546b489167f5e23e0e9ac7a4ce7d63a4",
-    "title": "Kenya: Israel Eyes Bigger Role in Expanding Global Markets for Kenyan Flower Exports",
-    "source": "AllAfrica Business",
-    "url": "https://allafrica.com/stories/202606040254.html",
-    "publishedAt": "2026-06-04T11:00:05.000Z",
-    "category": "africa-markets",
-    "summary": "[Capital FM] Nairobi -- Israel is seeking to deepen its agricultural partnership with Kenya by leveraging its global trade networks and technological expertise to help expand international market access for Kenyan flowers, fresh produce and other agricultural exports.",
-    "type": "article",
-    "region": "africa"
-  },
-  {
-    "id": "795e34684660b1d48d090fc9cee9ec7d546f1542",
-    "title": "Kenya: Kenya Power Moves to Regularize EV Charging Customers As E-Mobility Tariff Revenues Surge",
-    "source": "AllAfrica Business",
-    "url": "https://allafrica.com/stories/202606040247.html",
-    "publishedAt": "2026-06-04T10:56:04.000Z",
-    "category": "africa-markets",
-    "summary": "[Capital FM] NAIROBI, Kenya, June 4-Kenya Power has begun a countrywide exercise to identify and migrate all customers using electricity to charge electric vehicles (EVs) onto its dedicated e-mobility tariff, in a move aimed at improving revenue tracking and strengthening plannin",
-    "type": "article",
-    "region": "africa"
-  },
-  {
-    "id": "2c4536f2381d6e116b3a25301b754bb0c100b27a",
-    "title": "Malawi: Government Shifts From Subsidies to Mega Farms in Bid to Revive Economy",
-    "source": "AllAfrica Business",
-    "url": "https://allafrica.com/stories/202606040238.html",
-    "publishedAt": "2026-06-04T10:35:42.000Z",
-    "category": "africa-markets",
-    "summary": "[Nyasa Times] The Malawi Government has unveiled an ambitious economic recovery blueprint that seeks to fundamentally transform how the country produces food, earns foreign exchange and finances development, marking what officials describe as a decisive break from years of econom",
-    "type": "article",
-    "region": "africa"
-  },
-  {
-    "id": "a0d49bef61e23e5eadab274e97fc205e0b147673",
-    "title": "Malawi: Medicines Tax Shock - Government Silent As New Tariffs Threaten to Push Up Drug Prices",
-    "source": "AllAfrica Business",
-    "url": "https://allafrica.com/stories/202606040235.html",
-    "publishedAt": "2026-06-04T10:35:38.000Z",
-    "category": "africa-markets",
-    "summary": "[Nyasa Times] The government is facing mounting questions over its decision to impose new import tariffs on some of Malawi's most commonly used medicines, with officials maintaining a conspicuous silence even as fears grow that ordinary citizens could soon be forced to pay more f",
-    "type": "article",
-    "region": "africa"
-  },
-  {
     "id": "afe81ce887597810c139d795ae88c2e3fb75bea3",
     "title": "Christine Lagarde: Women and leadership: widening the pipeline",
     "source": "ECB Press Releases",
@@ -209,17 +550,6 @@
     "region": "africa"
   },
   {
-    "id": "f253c1df2a281eebc0ae2b3b0df77f4d35b01042",
-    "title": "Lesotho: The Mountain Men Behind Lesotho's Wool Wealth",
-    "source": "AllAfrica Business",
-    "url": "https://allafrica.com/stories/202606040032.html",
-    "publishedAt": "2026-06-04T03:50:47.000Z",
-    "category": "africa-markets",
-    "summary": "[GroundUp] More than 80,000 herders tend the country's sheep and goats",
-    "type": "article",
-    "region": "africa"
-  },
-  {
     "id": "ce5451ba5df765cf0e1225a204865053e7a3fedd",
     "title": "Ghana: Ghana, UK Sign Landmark &#xA3;215m Growth Partnership Agreement",
     "source": "AllAfrica Investment",
@@ -232,7 +562,7 @@
   },
   {
     "id": "b71fc616b0ebbbafb29cd9ed518c7be2e090cdfe",
-    "title": "Quick commerce FirstClub doubles valuation to $255M in nine months",
+    "title": "Quick-commerce FirstClub doubles valuation to $255M in 9 months",
     "source": "TechCrunch Startups",
     "url": "https://techcrunch.com/2026/06/03/firstclub-doubles-valuation-to-255m-in-nine-months-on-quality-first-grocery-bet/",
     "publishedAt": "2026-06-04T00:30:00.000Z",
@@ -262,17 +592,6 @@
     "summary": "While many AI open source model providers are pursuing larger and more powerful models, Google is still giving attention to the smaller, more local side of the market. Today, the tech giant released Gemma 4 12B, an 11.95-billion-parameter open-weights model with permissive Apache",
     "type": "article",
     "region": "global"
-  },
-  {
-    "id": "0fc52e8f15dcddbd5737e37bcf88f92d5cf22a11",
-    "title": "Africa: African Integration Beyond Trade - When Africans Become Foreigners in Africa",
-    "source": "AllAfrica Business",
-    "url": "https://allafrica.com/stories/202606030748.html",
-    "publishedAt": "2026-06-03T16:35:25.000Z",
-    "category": "africa-markets",
-    "summary": "[allAfrica] In my earlier piece in February, Beyond Preferences and Rhetoric: What Africa's 2025 Integration Moment Really Demanded I argued that Africa's long-term competitiveness would not be secured by waiting on external trade preferences, but by taking integration seriously ",
-    "type": "article",
-    "region": "africa"
   },
   {
     "id": "3dc93f4745865ca2ea31304699b5fe27beaa9d7c",
@@ -317,50 +636,6 @@
     "summary": "Coralogix is among a growing number of infrastructure firms betting that as AI systems move into production, demand will rise for tools that can monitor their behavior, troubleshoot failures, and provide the operational data needed to keep them running reliably.",
     "type": "article",
     "region": "global"
-  },
-  {
-    "id": "51586110b88df67a530f87a6160d73ae2dbeeefa",
-    "title": "South Africa: Bosses Who Hire Undocumented Workers Could Soon Face Jail Not Just a Fine",
-    "source": "AllAfrica Business",
-    "url": "https://allafrica.com/stories/202606030507.html",
-    "publishedAt": "2026-06-03T12:39:26.000Z",
-    "category": "africa-markets",
-    "summary": "[Scrolla] Labour deputy minister Jomo Sibiya says employers are driving demand for undocumented workers and the law must now go after them directly. The Employment Services Amendment Bill has been introduced to the National Assembly and will go through committee hearings and publ",
-    "type": "article",
-    "region": "africa"
-  },
-  {
-    "id": "68d05f735ec751067dcf93b7272822fb70330639",
-    "title": "Kenya: Govt to Keep Power Tariffs Unchanged After Withdrawing KPLC Review Bid",
-    "source": "AllAfrica Business",
-    "url": "https://allafrica.com/stories/202606030440.html",
-    "publishedAt": "2026-06-03T12:14:46.000Z",
-    "category": "africa-markets",
-    "summary": "[Capital FM] NAIROBI,Kenya,June 3-Kenyan households, businesses and manufacturers will continue paying current electricity rates after the government withdrew a retail electricity tariff review application that had been submitted by the Kenya Power and Lighting Company (KPLC) in ",
-    "type": "article",
-    "region": "africa"
-  },
-  {
-    "id": "53cf317c0639a1b600ac10d1f6ec02f05ad80a40",
-    "title": "Kenya: Energy Ministry Withdraws Electricity Tariff Review Application",
-    "source": "AllAfrica Business",
-    "url": "https://allafrica.com/stories/202606030437.html",
-    "publishedAt": "2026-06-03T12:13:52.000Z",
-    "category": "africa-markets",
-    "summary": "[Capital FM] Nairobi -- The Ministry of Energy and Petroleum has announced the withdrawal of a retail electricity tariff review application that had been submitted by Kenya Power and Lighting Company (KPLC) on March 31.",
-    "type": "article",
-    "region": "africa"
-  },
-  {
-    "id": "6021336559a4bbc9141e165096c48d64c7a53975",
-    "title": "Gambia: GALA Threatens Nationwide Protest If NAWEK Fails to Stabilize Electricity By Mid-June",
-    "source": "AllAfrica Business",
-    "url": "https://allafrica.com/stories/202606030415.html",
-    "publishedAt": "2026-06-03T11:50:24.000Z",
-    "category": "africa-markets",
-    "summary": "[The Point] The Gambia Against Looted Assets (GALA) has warned that it will mobilise citizens across the country for a nationwide protest on June 19 if electricity supply does not improve significantly by mid-June, raising the stakes in the ongoing power crisis affecting homes, b",
-    "type": "article",
-    "region": "africa"
   },
   {
     "id": "80acb6f95c12c080775115574116fa1c00627f22",
@@ -429,28 +704,6 @@
     "region": "global"
   },
   {
-    "id": "5a925afb4c00c373198905e5fa681866f7c3449c",
-    "title": "Alibaba's Qwen3.7-Plus supports text, video and imagery inputs at low cost of $0.4/$1.6 per 1M token — but it's proprietary",
-    "source": "VentureBeat",
-    "url": "https://venturebeat.com/technology/alibabas-qwen3-7-plus-supports-text-video-and-imagery-inputs-at-low-cost-of-0-4-1-6-per-1m-token-but-its-proprietary",
-    "publishedAt": "2026-06-02T22:40:00.000Z",
-    "category": "ai",
-    "summary": "Alibaba this week released Qwen3.7-Plus, the latest AI large language model (LLM) in its globally beloved and increasingly expansive Qwen family, boasting more multimodal capabilities and a 60% lower cost than the prior, text-only Qwen3.7-Max model released just weeks ago. Howeve",
-    "type": "article",
-    "region": "global"
-  },
-  {
-    "id": "3c03f386043c2698f9c8874b70a98545afa94613",
-    "title": "Perplexity AI unveils hybrid local-cloud inference system at Computex 2026",
-    "source": "VentureBeat",
-    "url": "https://venturebeat.com/technology/perplexity-ai-unveils-hybrid-local-cloud-inference-system-at-computex-2026",
-    "publishedAt": "2026-06-02T19:08:17.000Z",
-    "category": "ai",
-    "summary": "Perplexity AI, the fast-growing search startup now valued at $20 billion, unveiled what it calls the first hybrid local-server inference orchestrator at Computex 2026 on Monday night, demonstrating software that autonomously decides — in real time and mid-task — which AI workload",
-    "type": "article",
-    "region": "global"
-  },
-  {
     "id": "11537f35ca93fa792d4e5d5b35850d24b890449f",
     "title": "A startup, Everand, is now bundling e-books, audiobooks, and book clubs in challenge to Amazon",
     "source": "TechCrunch Startups",
@@ -480,39 +733,6 @@
     "publishedAt": "2026-06-02T17:01:17.000Z",
     "category": "early-stage",
     "summary": "Another fusion startup has raised another a massive round to make this type of power a reality.",
-    "type": "article",
-    "region": "global"
-  },
-  {
-    "id": "cd8e31d43a0b22da4a6e831f2f6411af349d5172",
-    "title": "Microsoft debuts Surface RTX Spark Dev Box to run large AI models without cloud costs",
-    "source": "VentureBeat",
-    "url": "https://venturebeat.com/infrastructure/microsoft-debuts-surface-rtx-spark-dev-box-to-run-large-ai-models-without-cloud-costs",
-    "publishedAt": "2026-06-02T16:30:00.000Z",
-    "category": "ai",
-    "summary": "Microsoft on Monday unveiled the Surface RTX Spark Dev Box, a compact desktop computer designed to let software developers run large AI models on their desks instead of paying for cloud computing — a move that directly challenges the per-token pricing model that has defined the A",
-    "type": "article",
-    "region": "global"
-  },
-  {
-    "id": "89ccf112595a1385dd93a18e068275261cb714e3",
-    "title": "Microsoft launches MXC, an OS-level sandbox for AI agents, with OpenAI and Nvidia already on board",
-    "source": "VentureBeat",
-    "url": "https://venturebeat.com/security/microsoft-launches-mxc-an-os-level-sandbox-for-ai-agents-with-openai-and-nvidia-already-on-board",
-    "publishedAt": "2026-06-02T16:30:00.000Z",
-    "category": "ai",
-    "summary": "For the past two years, the technology industry has raced to make AI agents more capable — teaching them to write code, navigate software interfaces, manage files, and orchestrate multi-step workflows with increasing autonomy. What the industry has not done, at least not with any",
-    "type": "article",
-    "region": "global"
-  },
-  {
-    "id": "9c322a41a3eb9ca9fe2479807b08d2dfc661aa66",
-    "title": "OpenAI's Codex update lets agents build interactive enterprise workspaces via Sites and role-specific plugins",
-    "source": "VentureBeat",
-    "url": "https://venturebeat.com/orchestration/openais-codex-update-lets-agents-build-interactive-enterprise-workspaces-via-sites-and-role-specific-plugins",
-    "publishedAt": "2026-06-02T16:00:00.000Z",
-    "category": "ai",
-    "summary": "Agentic AI is moving rapidly from the developer terminal to the corporate world. On Tuesday, OpenAI announced a major update of its agentic AI platform Codex, introducing domain-specific workflows, a rapid, semi-private web hosting feature within it for enterprises called \"Sites,",
     "type": "article",
     "region": "global"
   },
@@ -583,50 +803,6 @@
     "region": "africa"
   },
   {
-    "id": "ce28044b9514faaac341aaf69c6acf8318461681",
-    "title": "ZeroDrift raises $10M to protect AI models from themselves",
-    "source": "TechCrunch Startups",
-    "url": "https://techcrunch.com/2026/06/02/zerodrift-raises-10-million-to-protect-ai-models-from-themselves/",
-    "publishedAt": "2026-06-02T12:32:59.000Z",
-    "category": "early-stage",
-    "summary": "A new AI compliance service sits between AI models and end users to flag and replace any messages that might present a compliance problem.",
-    "type": "article",
-    "region": "global"
-  },
-  {
-    "id": "5c441427ce0707c4f7748fd714d61a9217a6c0c5",
-    "title": "Rocket engine startup Impulse raises $500 million to hire people, not AI",
-    "source": "TechCrunch Startups",
-    "url": "https://techcrunch.com/2026/06/02/rocket-engine-startup-impulse-raises-500-million-to-hire-people-not-ai/",
-    "publishedAt": "2026-06-02T12:00:00.000Z",
-    "category": "early-stage",
-    "summary": "Engineering physical systems still depends on human talent, according to Impulse Space president Eric Romo.",
-    "type": "article",
-    "region": "global"
-  },
-  {
-    "id": "a207bee6403509f265bff7aa2a9c6e847d4dbe52",
-    "title": "Ghana: '$250m Investment to Transform Damang Mining Operations'",
-    "source": "AllAfrica Investment",
-    "url": "https://allafrica.com/stories/202606020333.html",
-    "publishedAt": "2026-06-02T11:05:59.000Z",
-    "category": "africa-markets",
-    "summary": "[Ghanaian Times] Indigenous mining firm Damang Gold Mine Limited, a subsidiary of Dzata Holdings Limited, has commenced a large-scale procurement exercise involving state-of-the-art mining equipment as part of a major expansion drive aimed at boosting production capacity and oper",
-    "type": "article",
-    "region": "africa"
-  },
-  {
-    "id": "361999493c8cc178cc77b7e4c1b44efed44996e3",
-    "title": "Tanzania: Collective Investment Schemes - Silent Financial Shift",
-    "source": "AllAfrica Investment",
-    "url": "https://allafrica.com/stories/202606020328.html",
-    "publishedAt": "2026-06-02T11:03:02.000Z",
-    "category": "africa-markets",
-    "summary": "[Daily News] Dar es Salaam -- A QUIET financial revolution is unfolding in Tanzania. While much attention is often directed towards large infrastructure projects, business expansions, and economic reforms, another remarkable success story is taking shape behind the scenes, the ra",
-    "type": "article",
-    "region": "africa"
-  },
-  {
     "id": "368d5530f6a2282f0e4207979144f841a0b450de",
     "title": "SaaS Is Dead. Long Live SaaS! AI And The End Of The Rationing Of Knowledge Work",
     "source": "Crunchbase News",
@@ -636,17 +812,6 @@
     "summary": "Reports of “SaaS being dead” are misguided, writes guest author Bob Morse, who contends that AI will enable software companies to move beyond selling productivity tools to deliver knowledge-work outcomes directly, unlocking massive unmet demand for services, ultimately growing th",
     "type": "article",
     "region": "global"
-  },
-  {
-    "id": "802345c1ac8aa1dab1dd68868582067ba54e9fca",
-    "title": "Nigeria: Zedcrest Expands Into Investment Banking As Demand for Capital Solutions Grows Across Africa",
-    "source": "AllAfrica Investment",
-    "url": "https://allafrica.com/stories/202606020289.html",
-    "publishedAt": "2026-06-02T10:51:31.000Z",
-    "category": "africa-markets",
-    "summary": "[Vanguard] Lagos -- Zedcrest has launched its Investment Banking offering, expanding its capabilities beyond traditional financial services and positioning itself to support businesses, governments and institutions seeking capital, strategic advisory and structured financing solu",
-    "type": "article",
-    "region": "africa"
   },
   {
     "id": "668d0f8be55ad02eb04ece148c19ad63fbd8ffbd",
@@ -671,50 +836,6 @@
     "region": "global"
   },
   {
-    "id": "424e38355bad93b7a6df1100ffbccb8d5e54adec",
-    "title": "Angola: Angola and South Korea Strengthen Bilateral Cooperation",
-    "source": "AllAfrica Investment",
-    "url": "https://allafrica.com/stories/202606020021.html",
-    "publishedAt": "2026-06-02T04:02:39.000Z",
-    "category": "africa-markets",
-    "summary": "[ANGOP] Luanda -- Angola and the Republic of Korea reaffirmed, on Monday in Seoul, their commitment to deepening friendly relations and cooperation, during a working meeting between the Minister of Foreign Affairs, Téte António, and his South Korean counterpart, Cho Hyun.",
-    "type": "article",
-    "region": "africa"
-  },
-  {
-    "id": "868a28198f41e27872436ea08926bbc1af6585df",
-    "title": "How to make the Startup Battlefield Top 20 — and what every company gets regardless",
-    "source": "TechCrunch Startups",
-    "url": "https://techcrunch.com/2026/06/01/how-to-make-the-startup-battlefield-top-20-and-what-every-company-gets-regardless/",
-    "publishedAt": "2026-06-01T23:20:52.000Z",
-    "category": "early-stage",
-    "summary": "Every founder who applies to Startup Battlefield wants the same thing: the Disrupt Main Stage. Here’s how to get there and why the opportunity starts well before the main stage.",
-    "type": "article",
-    "region": "global"
-  },
-  {
-    "id": "5b238ec4d591336d5797242e93cf1c627c7df52b",
-    "title": "Defense tech darling Mach Industries hits $1.8B valuation, a 4x jump in a year",
-    "source": "TechCrunch Startups",
-    "url": "https://techcrunch.com/2026/06/01/defense-tech-darling-mach-industries-hits-1-8b-valuation-a-4x-jump-in-a-year/",
-    "publishedAt": "2026-06-01T21:40:35.000Z",
-    "category": "early-stage",
-    "summary": "In a wild ride for 22-year-old founder and CEO Ethan Thornton, Mach Industries has raised another $300 million. It already has five autonomous vehicles in development and completed a major acquisition.",
-    "type": "article",
-    "region": "global"
-  },
-  {
-    "id": "e0aebce60fa075fb8f4999b6610c3298f61f3884",
-    "title": "From the stage to the future: Where are Startup Battlefield’s alumni now?",
-    "source": "TechCrunch Startups",
-    "url": "https://techcrunch.com/2026/06/01/from-the-stage-to-the-future-where-are-startup-battlefields-alumni-now/",
-    "publishedAt": "2026-06-01T20:26:08.000Z",
-    "category": "early-stage",
-    "summary": "We wanted to show you what happens after the confetti falls. We checked in with some of our recent alumni, many of whom have sat down with us on Build Mode: The Founder Survival Guide, TechCrunch's podcast for founders at every stage.",
-    "type": "article",
-    "region": "global"
-  },
-  {
     "id": "9e528f8055679b7c4feb06e5ecba5c275cede347",
     "title": "Anthropic Files Confidentially For IPO",
     "source": "Crunchbase News",
@@ -726,28 +847,6 @@
     "region": "global"
   },
   {
-    "id": "502b4d714dc327e6c8d84fbe657c6784d9559b38",
-    "title": "Nigeria: Domestic, Foreign Portfolio Investments Hit N1.80trn in April",
-    "source": "AllAfrica Investment",
-    "url": "https://allafrica.com/stories/202606010701.html",
-    "publishedAt": "2026-06-01T16:51:51.000Z",
-    "category": "africa-markets",
-    "summary": "[Leadership] Domestic and foreign portfolio investments on the Nigerian Exchange Limited (NGX) climbed to N1.803 trillion in April 2026, reflecting sustained investor confidence in the equities market despite a moderation in foreign participation.",
-    "type": "article",
-    "region": "africa"
-  },
-  {
-    "id": "a97efd716303368186dec0c653d6bd1fcd6d3df4",
-    "title": "Revolut rolls out services to thousands of users in India ahead of broader launch",
-    "source": "TechCrunch Startups",
-    "url": "https://techcrunch.com/2026/06/01/revolut-rolls-out-services-to-thousands-of-users-in-india-ahead-of-broader-launch/",
-    "publishedAt": "2026-06-01T14:46:08.000Z",
-    "category": "early-stage",
-    "summary": "The British fintech has built a waitlist of about 450,000 users in India as it prepares for a broader launch.",
-    "type": "article",
-    "region": "global"
-  },
-  {
     "id": "364b6a7a3ea1d57f3c249e5aa40bb6281a335c57",
     "title": "How I Raised $14M For My Startup When I Stopped Pitching And Started Speaking",
     "source": "Crunchbase News",
@@ -755,50 +854,6 @@
     "publishedAt": "2026-06-01T11:00:26.000Z",
     "category": "venture-capital",
     "summary": "When investor trust is built through repeated in-person encounters, authentic conversations and thought leadership on meaningful problems, relationships and visibility matter more than aggressive fundraising outreach, argues guest author Alyx van der Vorm, whose startup raised $1",
-    "type": "article",
-    "region": "global"
-  },
-  {
-    "id": "6dd36b81e426fc047c1cca1c167e8ddbc1c049af",
-    "title": "Boston Startup Fundraising Looks Strong Only By Pre-AI Parameters",
-    "source": "Crunchbase News",
-    "url": "https://news.crunchbase.com/venture/boston-startup-funding-gains-ai-biotech-healthcare-whoop/",
-    "publishedAt": "2026-06-01T11:00:05.000Z",
-    "category": "venture-capital",
-    "summary": "So far this year, investors have put about $7.8 billion into Boston-area startups, per Crunchbase data. That puts the region on track for a moderate annual gain and the strongest tally in about four years.",
-    "type": "article",
-    "region": "global"
-  },
-  {
-    "id": "ac9ad69f57365f97130972775a63cefb461e4dcc",
-    "title": "Kenya: Ruto Announces Sh5bn Livestock Investment Company Plan for 21 Asal Counties",
-    "source": "AllAfrica Investment",
-    "url": "https://allafrica.com/stories/202606010315.html",
-    "publishedAt": "2026-06-01T10:22:15.000Z",
-    "category": "africa-markets",
-    "summary": "[Capital FM] Wajir -- President William Ruto has announced a Sh5 billion County Livestock Investment Company initiative aimed at enabling more than 350,000 pastoralists across 21 Arid and Semi-Arid Lands (ASAL) counties to establish and own livestock investment companies.",
-    "type": "article",
-    "region": "africa"
-  },
-  {
-    "id": "8d04b8315b99622b627ea07997c1c1df3d5c000b",
-    "title": "Nigeria: Benue Investment Company Driving Alia's Economic Reforms, Says Official",
-    "source": "AllAfrica Investment",
-    "url": "https://allafrica.com/stories/202606010289.html",
-    "publishedAt": "2026-06-01T10:13:30.000Z",
-    "category": "africa-markets",
-    "summary": "[Leadership] The Benue Investment and Property Company Limited (BIPC) says its initiatives under Governor Hyacinth Alia's administration have contributed significantly to economic reforms, job creation and investment expansion in the state over the last three years.",
-    "type": "article",
-    "region": "africa"
-  },
-  {
-    "id": "bd312ff39fd89937d74a407f5f0d9207eb254cf3",
-    "title": "Unastella, a South Korean rocket startup that launched from home, raises $24M",
-    "source": "TechCrunch Startups",
-    "url": "https://techcrunch.com/2026/06/01/unastella-a-south-korean-rocket-startup-that-launched-from-home-raises-24m/",
-    "publishedAt": "2026-06-01T10:00:00.000Z",
-    "category": "early-stage",
-    "summary": "The Seoul-based rocket startup is developing its own launch vehicles and engines.",
     "type": "article",
     "region": "global"
   },
@@ -836,39 +891,6 @@
     "region": "global"
   },
   {
-    "id": "e68366b167b79332b22a18657613d524edd028e5",
-    "title": "‘This is fine’ artist KC Green reaches agreement with AI startup Artisan",
-    "source": "TechCrunch Startups",
-    "url": "https://techcrunch.com/2026/05/31/this-is-fine-artist-kc-green-reaches-agreement-with-ai-startup-artisan/",
-    "publishedAt": "2026-05-31T18:28:17.000Z",
-    "category": "early-stage",
-    "summary": "The startup has apparently taken down the ads using KC Green's \"This is fine\" meme.",
-    "type": "article",
-    "region": "global"
-  },
-  {
-    "id": "2effc53c7f1e1b22b02465d922f73a13e63317aa",
-    "title": "Making sense of the debate over AI psychosis",
-    "source": "TechCrunch Startups",
-    "url": "https://techcrunch.com/2026/05/31/making-sense-of-the-debate-over-ai-psychosis/",
-    "publishedAt": "2026-05-31T15:30:00.000Z",
-    "category": "early-stage",
-    "summary": "On the latest episode of Equity, we debate whether tech CEOs are \"uniquely prone to AI psychosis.\"",
-    "type": "article",
-    "region": "global"
-  },
-  {
-    "id": "58aba64337de54075329a7788aaa2ffdc8c7f5ca",
-    "title": "Black founders raise highest amount of quarterly funding since 2022, but there’s a catch",
-    "source": "TechCrunch Startups",
-    "url": "https://techcrunch.com/2026/05/31/black-founders-raise-highest-amount-of-quarterly-funding-since-2022-but-theres-a-catch/",
-    "publishedAt": "2026-05-31T15:00:00.000Z",
-    "category": "early-stage",
-    "summary": "Speaking to TechCrunch, Crunchbase’s head of research Gené Teare said the factors holding back Black founders include “access to networks, relationships, and early introductions.\"",
-    "type": "article",
-    "region": "global"
-  },
-  {
     "id": "bf95bd020852c3defb7ce1123e04212512ab6c86",
     "title": "Luis de Guindos: Interview with Expansión",
     "source": "ECB Press Releases",
@@ -880,28 +902,6 @@
     "region": "global"
   },
   {
-    "id": "93ee13c38edc86f61783e2980c665bf944500752",
-    "title": "The Week’s 10 Biggest Funding Rounds: Anthropic Dominates In An Otherwise Slower Week For Megarounds",
-    "source": "Crunchbase News",
-    "url": "https://news.crunchbase.com/ai/biggest-funding-rounds-ai-anthropic-65b-dominates/",
-    "publishedAt": "2026-05-29T19:15:09.000Z",
-    "category": "venture-capital",
-    "summary": "Venture funding has always been a world of haves and have nots. And these days, the haves are having more than ever. Case in point this week was generative AI giant Anthropic's $65 billion Series H funding, followed by a billion-dollar funding for an AI software developer.",
-    "type": "article",
-    "region": "global"
-  },
-  {
-    "id": "2933b7b3d4fdedaf2cdaed9935be18a92c29cc1f",
-    "title": "Uganda: Gulu - Northern Uganda's Next Real Estate Investment Frontier",
-    "source": "AllAfrica Investment",
-    "url": "https://allafrica.com/stories/202605290545.html",
-    "publishedAt": "2026-05-29T14:53:26.000Z",
-    "category": "africa-markets",
-    "summary": "[Independent (Kampala)] Gulu -- Leading property consultants have urged investors to seize emerging opportunities in Gulu City, describing the fast-growing urban centre as one of Uganda's most promising real estate and commercial investment destinations.",
-    "type": "article",
-    "region": "africa"
-  },
-  {
     "id": "aa965ffc6bba1a087f72196aee21bcc78b40544e",
     "title": "Bowman, A Framework for Practical Monetary Policy Decision Making",
     "source": "Federal Reserve Speeches",
@@ -911,39 +911,6 @@
     "summary": "Speech At the Reykjavík Economic Conference 2026, Central Bank of Iceland, Reykjavík, Iceland",
     "type": "article",
     "region": "us"
-  },
-  {
-    "id": "3df33412d5d69ceeec0f103e3ef2125d90b5aac1",
-    "title": "South Africa: Deputy President On Working Visit to India to Drive Investment",
-    "source": "AllAfrica Investment",
-    "url": "https://allafrica.com/stories/202605290455.html",
-    "publishedAt": "2026-05-29T12:07:30.000Z",
-    "category": "africa-markets",
-    "summary": "[SAnews.gov.za] Deputy President Paul Mashatile is undertaking a working visit to the Republic of India to engage with business leaders and investors and attract more investment for both countries.",
-    "type": "article",
-    "region": "africa"
-  },
-  {
-    "id": "ad672b4eaa5c661c9c7461ad1ae77bf3e5adb09f",
-    "title": "They Saw Women Shut Out Of VC, So A PayPal Veteran And Former Navy Officer Built An Alternative",
-    "source": "Crunchbase News",
-    "url": "https://news.crunchbase.com/diversity/venture-women-owned-startup-funding-aequitas-invest/",
-    "publishedAt": "2026-05-29T11:00:59.000Z",
-    "category": "venture-capital",
-    "summary": "Co-founded by Molly Huyck and Amie Konwinski, Aequitas Invest's funding portal provides women-led businesses a way to raise capital. Crunchbase News recently spoke to the founders to learn more about their plans to help female entrepreneurs raise and hold on to more equity.",
-    "type": "article",
-    "region": "global"
-  },
-  {
-    "id": "fb319f7905db6e868d3e65ed6f1ad347a1596c4e",
-    "title": "Rwanda: Kigali Fashion Week Returns With Call for Investment",
-    "source": "AllAfrica Investment",
-    "url": "https://allafrica.com/stories/202605290299.html",
-    "publishedAt": "2026-05-29T10:12:24.000Z",
-    "category": "africa-markets",
-    "summary": "[New Times] Kigali Fashion Week officially returned on May 27 after a six-year hiatus, with organisers using the comeback to call for greater investment in Rwanda's growing creative industry.",
-    "type": "article",
-    "region": "africa"
   },
   {
     "id": "26603bc18ef90800e80b4a3ba0130223f4706c6c",
