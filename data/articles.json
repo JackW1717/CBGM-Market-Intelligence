@@ -1,5 +1,269 @@
 [
   {
+    "id": "4809f853ca31ea595a4a18138c740ce5ecb06417",
+    "title": "He made your free video player run smoothly. Now he’s doing that for robots.",
+    "source": "TechCrunch Startups",
+    "url": "https://techcrunch.com/2026/06/19/he-made-your-free-video-player-run-smoothly-now-hes-doing-that-for-robots/",
+    "publishedAt": "2026-06-20T00:47:44.000Z",
+    "category": "early-stage",
+    "summary": "French serial entrepreneur and open-source legend Jean-Baptiste Kempf has been building Kyber, an infrastructure layer to control remote devices in real time.",
+    "type": "article",
+    "region": "global"
+  },
+  {
+    "id": "f0b9eafe0b9547e42e09a600c5f49a5d1c7ea2c9",
+    "title": "7,000 Langflow servers are under attack. LangGraph and LangChain have the same holes",
+    "source": "VentureBeat",
+    "url": "https://venturebeat.com/security/7000-langflow-servers-under-attack-langgraph-langchain-same-holes",
+    "publishedAt": "2026-06-19T21:14:19.000Z",
+    "category": "ai",
+    "summary": "Your AI agent did exactly what it was designed to do. The framework underneath it just handed an attacker a shell on the box that holds your OpenAI key, your database credentials, and your CRM tokens. That is not a hypothetical. In a few months, three of the most widely deployed ",
+    "type": "article",
+    "region": "global"
+  },
+  {
+    "id": "162ba45116d78d99def3e4a73af0bc1acdf08e3f",
+    "title": "Every fusion startup that has raised over $100M",
+    "source": "TechCrunch Startups",
+    "url": "https://techcrunch.com/2026/06/19/every-fusion-startup-that-has-raised-over-100m/",
+    "publishedAt": "2026-06-19T16:50:58.000Z",
+    "category": "early-stage",
+    "summary": "Fusion startups have raised $7.1 billion to date, with the majority of it going to a handful of companies.",
+    "type": "article",
+    "region": "global"
+  },
+  {
+    "id": "75eaa34108a13752a734ff424b6d2d7326d39bde",
+    "title": "Fine-tuning forgets. RAG leaks context. Hypernetworks build the model your agent needs on demand.",
+    "source": "VentureBeat",
+    "url": "https://venturebeat.com/orchestration/fine-tuning-forgets-rag-leaks-context-hypernetworks-build-the-model-your-agent-needs-on-demand",
+    "publishedAt": "2026-06-19T16:30:50.000Z",
+    "category": "ai",
+    "summary": "Enterprise teams keep watching the same thing happen. An AI agent demos beautifully, goes to production, and stalls: it runs for a short stretch, then needs a human to top up its context and check its output, and the promised efficiency drains into supervision. The agent did the ",
+    "type": "article",
+    "region": "global"
+  },
+  {
+    "id": "86cd3f2e42dac0753140473cd4a5bb0e4e29067c",
+    "title": "Ghana: Coca-Cola Kicks Off FIFA World Cup 26&#x2122; Campaign",
+    "source": "AllAfrica Business",
+    "url": "https://allafrica.com/stories/202606190464.html",
+    "publishedAt": "2026-06-19T16:03:00.000Z",
+    "category": "africa-markets",
+    "summary": "[Ghanaian Times] Coca-Cola on Wednesday officially launched its FIFA World Cup 26™ campaign in Ghana with an electrifying Watch Party for Ghana's opening match against Panama, at the Coca-Cola Experience Zone at the Ghud Park, Accra Mall.",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "3d079fe17c3313474aab7cbca6f2618cfb9746b3",
+    "title": "The US banned Anthropic’s Fable 5 release, but the numbers don’t seem to care",
+    "source": "TechCrunch Startups",
+    "url": "https://techcrunch.com/podcast/the-us-banned-anthropics-fable-5-release-but-the-numbers-dont-seem-to-care/",
+    "publishedAt": "2026-06-19T16:01:03.000Z",
+    "category": "early-stage",
+    "summary": "Just as last week was ending, the US government forced Anthropic to pull its two newest models, Fable 5 and Mythos 5, citing national security concerns after Amazon researchers allegedly found a way to bypass Fable 5’s guardrails. Cybersecurity researchers have since signed an op",
+    "type": "article",
+    "region": "global"
+  },
+  {
+    "id": "75c04f89589821f34b373ecc9af2be8fb31d1d11",
+    "title": "Africa: Merck Foundation, Tata Centre Train Health Workers in Oncology",
+    "source": "AllAfrica Business",
+    "url": "https://allafrica.com/stories/202606190458.html",
+    "publishedAt": "2026-06-19T15:53:53.000Z",
+    "category": "africa-markets",
+    "summary": "[Ghanaian Times] Twenty-seven African countries, including Ghana, have benefited from specialised oncology training under a partnership between the Merck Foundation and the Tata Memorial Centre (TMC).",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "9b6d89f95d00dbe8a97d2336d530eed75e78cfb0",
+    "title": "Ghana: Ghana Eyes Trade, Investment Gains From World Cup",
+    "source": "AllAfrica Business",
+    "url": "https://allafrica.com/stories/202606190450.html",
+    "publishedAt": "2026-06-19T15:47:30.000Z",
+    "category": "africa-markets",
+    "summary": "[Ghanaian Times] Ghana is set to leverage the global platform of the 2026 FIFA World Cup to attract foreign direct investment and expand trade opportunities through a series of business forums and exhibitions in Canada and the United States.",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "85858e8da44a7fabde6d4170d66130a83a47648e",
+    "title": "Africa: Kaiptc Launches Continental Ai Cyber Security Project",
+    "source": "AllAfrica Business",
+    "url": "https://allafrica.com/stories/202606190443.html",
+    "publishedAt": "2026-06-19T15:44:28.000Z",
+    "category": "africa-markets",
+    "summary": "[Ghanaian Times] A new project titled: Towards Collaborative Artificial Intelligence and Cyber security Governance in Africa aimed at strengthening artificial intelligence (AI) and cyber security governance across Africa was launched in Accra on Wednesday.",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "40ddf8533e5ae20dce6e7f4db99327ffe425c543",
+    "title": "Malawi: Malawi Registers Positive Inflation Trend As Falling Food Prices Ease Cost-of-Living Pressures",
+    "source": "AllAfrica Business",
+    "url": "https://allafrica.com/stories/202606190414.html",
+    "publishedAt": "2026-06-19T15:06:28.000Z",
+    "category": "africa-markets",
+    "summary": "[Nyasa Times] Malawi has recorded a welcome improvement in its inflation outlook, with the latest figures from the National Statistical Office (NSO) showing that the pace at which prices are rising has slowed, largely due to a decline in food prices.",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "88ff25975245412db9476ee8eaccd18dbafcd1f0",
+    "title": "Malawi: RBM Commends Old Mutual Malawi's Strategic Investment Drive As It Launches New Equity Fund",
+    "source": "AllAfrica Business",
+    "url": "https://allafrica.com/stories/202606190413.html",
+    "publishedAt": "2026-06-19T15:06:02.000Z",
+    "category": "africa-markets",
+    "summary": "[Nyasa Times] The Reserve Bank of Malawi (RBM) has praised Old Mutual Malawi for its continued efforts to develop innovative financial products that support economic growth, expand investment opportunities, and promote financial inclusion across the country.",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "6c9c04079ad8cb7fcab6d10dcb74576c74274d11",
+    "title": "Malawi: Mera Cuts Fuel Prices As Malawi Moves to Ease Pump Costs",
+    "source": "AllAfrica Business",
+    "url": "https://allafrica.com/stories/202606190412.html",
+    "publishedAt": "2026-06-19T15:05:13.000Z",
+    "category": "africa-markets",
+    "summary": "[Nyasa Times] Motorists and businesses across Malawi are set to benefit from lower fuel costs after the Malawi Energy Regulatory Authority (MERA) announced significant reductions in the retail prices of petrol, diesel, and kerosene, effective midnight on 19 June 2026.",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "ae36a6e5c627fa4184e022910a17ab08d734f317",
+    "title": "Uganda: How Equity Bank Is Helping Schools Adopt Smart Cooking to Save On Energy Costs",
+    "source": "AllAfrica Business",
+    "url": "https://allafrica.com/stories/202606190411.html",
+    "publishedAt": "2026-06-19T15:04:36.000Z",
+    "category": "africa-markets",
+    "summary": "[Independent (Kampala)] In Mbarara district, within Rubindi village, a quiet revolution is taking place. St Andrew's Secondary School is leading clean cooking in the area.",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "da94166b68ac1cd82de9a19ace524c244a25c5e7",
+    "title": "Uganda: Oil Revenues Alone Cannot Fund Uganda's Energy Transition, Experts Warn",
+    "source": "AllAfrica Business",
+    "url": "https://allafrica.com/stories/202606190407.html",
+    "publishedAt": "2026-06-19T15:02:12.000Z",
+    "category": "africa-markets",
+    "summary": "[Independent (Kampala)] Kampala -- The expected oil revenues could provide an important source of financing for the country's Energy Transition Plan (ETP), but they will not be sufficient on their own to fund investments required to transform the energy sector and achieve broader",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "0f569f6e33215d61f0fe3770a7bd77a5d98b2562",
+    "title": "Rwanda: Passengers to Kigali Airport Urged to Arrive Early Amid Traffic Disruptions",
+    "source": "AllAfrica Business",
+    "url": "https://allafrica.com/stories/202606190405.html",
+    "publishedAt": "2026-06-19T15:00:31.000Z",
+    "category": "africa-markets",
+    "summary": "[New Times] Passengers travelling through Kigali International Airport have been advised to plan ahead following the temporary closure of the Prince House Junction-Cyamitsingi road section, which is expected to affect traffic flow to and from the airport.",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "008d1691c8dca143845d5f846b07150ba23484fa",
+    "title": "Ghana: UN Ghana Urges Govt to Increase Investment in Jobs, Skills Training... As It Spends $113.3m On Devt Programmes",
+    "source": "AllAfrica Investment",
+    "url": "https://allafrica.com/stories/202606190301.html",
+    "publishedAt": "2026-06-19T11:48:39.000Z",
+    "category": "africa-markets",
+    "summary": "[Ghanaian Times] The United Nations (UN) Ghana has called on the government to deepen investment in job creation, skills development and quality education to tackle the country's growing youth unemployment challenge, particularly among the youth.",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "6894b762fd09c20bd9dac5eb03bf337cd0ebcffc",
+    "title": "Ghana: Labour Ministry Inaugurates Audit Committee to Strengthen Accountability",
+    "source": "AllAfrica Business",
+    "url": "https://allafrica.com/stories/202606190300.html",
+    "publishedAt": "2026-06-19T11:48:04.000Z",
+    "category": "africa-markets",
+    "summary": "[Ghanaian Times] The Ministry of Labour, Jobs and Employment (MLJE) has inaugurated a five-member audit committee to promote accountability, transparency and prudent management of public resources.",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "77f1cb788f7fb44eaad4001860f64450991e1f30",
+    "title": "Tanzania: Kihongosi Orders Timely Completion of Sh23.9bn Irrigation Project",
+    "source": "AllAfrica Business",
+    "url": "https://allafrica.com/stories/202606190293.html",
+    "publishedAt": "2026-06-19T11:42:27.000Z",
+    "category": "africa-markets",
+    "summary": "[Daily News] Iringa -- CHAMA Cha Mapinduzi (CCM) Secretary for Ideology, Propaganda and Training Kenani Kihongosi has directed the contractor responsible for the Sh23.9bn Mgambalenga irrigation project to complete the scheme within the agreed timeframe, warning that no further ex",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "6255d07cc7ec1058d7e2a7a798eec8c5f9908b79",
+    "title": "Tanzania: Legal Aid Campaign Targets Campus, Workplace Abuse",
+    "source": "AllAfrica Business",
+    "url": "https://allafrica.com/stories/202606190292.html",
+    "publishedAt": "2026-06-19T11:41:51.000Z",
+    "category": "africa-markets",
+    "summary": "[Daily News] Dodoma -- THE government will use the second phase of the Mama Samia Legal Aid Campaign to tackle gender-based harassment and abuse in universities and workplaces following complaints from students and workers across the country.",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "5b0850d81a8029c48fa5be2f2f8877fecd691153",
+    "title": "Tanzania: Employers Told to Honour Domestic Workers' Wages",
+    "source": "AllAfrica Business",
+    "url": "https://allafrica.com/stories/202606190287.html",
+    "publishedAt": "2026-06-19T11:38:34.000Z",
+    "category": "africa-markets",
+    "summary": "[Daily News] Mwanza -- THE government has reminded employers of domestic workers to comply with newly introduced minimum wage regulations and ensure workers receive all benefits provided under labour laws.",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "4adcbe42962f02426360c3506504504f371177b5",
+    "title": "Tanzania: Mineral Markets Cut Smuggling, Lift Revenue",
+    "source": "AllAfrica Business",
+    "url": "https://allafrica.com/stories/202606190286.html",
+    "publishedAt": "2026-06-19T11:38:03.000Z",
+    "category": "africa-markets",
+    "summary": "[Daily News] Dodoma -- THE establishment of mineral markets and purchasing centres has improved transparency in Tanzania's mineral trade and reduced smuggling, the Mineral Commission has said.",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "d06fdbb17a495fbcf41b62c3adcac1d497fcb7ab",
+    "title": "Liberia: House Seeks Further Tests On Bassa Oil Discovery",
+    "source": "AllAfrica Business",
+    "url": "https://allafrica.com/stories/202606190273.html",
+    "publishedAt": "2026-06-19T11:30:36.000Z",
+    "category": "africa-markets",
+    "summary": "[New Dawn] The House of Representatives has called for additional scientific testing into the reported discovery of crude oil in Grand Bassa County, citing a lack of conclusive evidence to confirm the presence of commercially recoverable petroleum resources.",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "f491829428825eb1d38f0e0dca27241ff46ad844",
+    "title": "Liberia: LEC Scales Back Imports From C&#xF4;te d'Ivoire and Guinea",
+    "source": "AllAfrica Business",
+    "url": "https://allafrica.com/stories/202606190272.html",
+    "publishedAt": "2026-06-19T11:29:43.000Z",
+    "category": "africa-markets",
+    "summary": "[New Dawn] The Liberia Electricity Corporation (LEC) has begun reducing electricity imports from Côte d'Ivoire and Guinea following the restoration of full generating capacity at the Mount Coffee Hydropower Plant and the addition of a new solar power facility.",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "81ee9a8c06a89b8a0523a9159aa83b4bd582fbfe",
+    "title": "Uganda: Bank Customers Warned Against Turning Disputes Into Social Media Campaigns",
+    "source": "AllAfrica Business",
+    "url": "https://allafrica.com/stories/202606190267.html",
+    "publishedAt": "2026-06-19T11:24:50.000Z",
+    "category": "africa-markets",
+    "summary": "[Nile Post] The Chief Executive Officer of the Deposit Protection Fund (DPF), Julia Claire Olima Oyet, has warned bank customers against using social media as the first avenue for resolving disputes with financial institutions, saying such actions can inadvertently destabilise th",
+    "type": "article",
+    "region": "africa"
+  },
+  {
     "id": "8eea5a620ab514ef86ed030e8cca44d49f9913b8",
     "title": "Nigeria: Further Drop in Domestic Fuel Prices Expected As Oil Slips Below $75",
     "source": "AllAfrica Business",
@@ -7,17 +271,6 @@
     "publishedAt": "2026-06-19T11:16:08.000Z",
     "category": "africa-markets",
     "summary": "[Leadership] Crude oil prices fell sharply on Thursday, with the WTI crude slipping below $75 per barrel for the first time since early March 2026, market participants said, after the United States and Iran reached an agreement to end a prolonged conflict that had caused the larg",
-    "type": "article",
-    "region": "africa"
-  },
-  {
-    "id": "8573804ac4510f44a4edba8a9de2b84170416511",
-    "title": "Nigeria: How Tantita's Pipeline Surveillance Operations Entrenched Peace, Stability in Niger Delta",
-    "source": "AllAfrica Business",
-    "url": "https://allafrica.com/stories/202606190242.html",
-    "publishedAt": "2026-06-19T11:08:04.000Z",
-    "category": "africa-markets",
-    "summary": "[This Day] Tantita Security Services Nigeria Ltd (TSSNL's) role in providing pipeline surveillance operations in the Niger Delta has significantly entrenched lasting peace and stability in the region. Findings showed that despite the escalating insecurity across several parts of ",
     "type": "article",
     "region": "africa"
   },
@@ -55,83 +308,6 @@
     "region": "africa"
   },
   {
-    "id": "745e856ffcea4ca2416527884b87e3fa79ca909a",
-    "title": "Tanzania: Govt Abandons Gold Sale Plan",
-    "source": "AllAfrica Business",
-    "url": "https://allafrica.com/stories/202606190173.html",
-    "publishedAt": "2026-06-19T10:02:54.000Z",
-    "category": "africa-markets",
-    "summary": "[Daily News] Dodoma -- PRIME Minister Dr Mwigulu Nchemba has said the government has not sold any of the gold acquired by the Bank of Tanzania (BoT) as part of the country's foreign exchange reserves, explaining that plans to do so were shelved after international prices declined",
-    "type": "article",
-    "region": "africa"
-  },
-  {
-    "id": "6266af2f1ab1aeff22be26e8068bee28f136b442",
-    "title": "Tanzania: Indigenous Seeds Gain Ground As Farmers Challenge Modern Dependence",
-    "source": "AllAfrica Business",
-    "url": "https://allafrica.com/stories/202606190172.html",
-    "publishedAt": "2026-06-19T10:02:21.000Z",
-    "category": "africa-markets",
-    "summary": "[Daily News] ACROSS Tanzania and beyond, a quiet agricultural revolution is taking shape. At the centre of the movement is a simple but powerful idea: farmers should have the freedom to save, exchange and plant their own seeds.",
-    "type": "article",
-    "region": "africa"
-  },
-  {
-    "id": "63bb977757e44151f6eef9bed140e2be6843f859",
-    "title": "Ghana: Economy to Grow Up to 6.1 Percent in 2026",
-    "source": "AllAfrica Business",
-    "url": "https://allafrica.com/stories/202606190171.html",
-    "publishedAt": "2026-06-19T10:02:15.000Z",
-    "category": "africa-markets",
-    "summary": "[Ghanaian Times] Ghana's economy is projected to expand by between 5.9 per cent and 6.1 per cent in 2026, supported by growth in gold mining, major infrastructure investments and stronger foreign exchange buffers, the Head of Africa Research at Standard Bank, Mr Jibran Qureishi, ",
-    "type": "article",
-    "region": "africa"
-  },
-  {
-    "id": "e7ee3644b2b096ed5eb42c09016ae404736ba590",
-    "title": "Liberia: Liberia Eyes Major Energy Expansion",
-    "source": "AllAfrica Business",
-    "url": "https://allafrica.com/stories/202606190169.html",
-    "publishedAt": "2026-06-19T10:00:51.000Z",
-    "category": "africa-markets",
-    "summary": "[New Dawn] The Government of Liberia has announced ambitious plans to expand the nation's energy generation capacity following the full restoration of the Mount Coffee Hydropower Plant to its 88-megawatt output.",
-    "type": "article",
-    "region": "africa"
-  },
-  {
-    "id": "a1ac2451c82b2ea9c9edc57e6f31e94672dc30e9",
-    "title": "Nigeria: Vat Hits N2.42 Trillion As Tinubu's Tax Reforms Begin to Deliver Results",
-    "source": "AllAfrica Business",
-    "url": "https://allafrica.com/stories/202606190165.html",
-    "publishedAt": "2026-06-19T09:59:48.000Z",
-    "category": "africa-markets",
-    "summary": "[Vanguard] The latest Value Added Tax (VAT) report released by the National Bureau of Statistics (NBS) provides strong evidence that Nigeria's tax and economic reforms are beginning to produce measurable results.",
-    "type": "article",
-    "region": "africa"
-  },
-  {
-    "id": "a5559536c4e3e54d1f028864975a9de98123a22d",
-    "title": "Ghana: Gtmo Condemns Attack On Forestry Commission Checkpoint",
-    "source": "AllAfrica Business",
-    "url": "https://allafrica.com/stories/202606190162.html",
-    "publishedAt": "2026-06-19T09:57:32.000Z",
-    "category": "africa-markets",
-    "summary": "[Ghanaian Times] The Ghana Timber Millers Organisation (GTMO) has condemned the vandalisation of a Forestry Commission timber monitoring checkpoint at Babatokuma in the Bono East Region, describing the attack as criminal and a threat to efforts to combat illegal timber trade.",
-    "type": "article",
-    "region": "africa"
-  },
-  {
-    "id": "ff500e10fb564ef68471a37ac2feb735182b3f86",
-    "title": "South Africa: Makhanda High Court Halts Drastic Eskom Power Cuts for Troubled Karoo Towns",
-    "source": "AllAfrica Business",
-    "url": "https://allafrica.com/stories/202606190127.html",
-    "publishedAt": "2026-06-19T09:20:16.000Z",
-    "category": "africa-markets",
-    "summary": "[Daily Maverick] The Makhanda high court has temporarily halted Eskom's threatened escalating power cuts that could have led to Karoo communities being denied electricity for 14 hours a day, seven days a week, prompted by unpaid debts exceeding R532m.",
-    "type": "article",
-    "region": "africa"
-  },
-  {
     "id": "a6fc54970c826c747ae719c0ac505e391e6f9a3e",
     "title": "ECB publishes consolidated banking data for end-December 2025",
     "source": "ECB Press Releases",
@@ -143,68 +319,13 @@
     "region": "global"
   },
   {
-    "id": "b3172d1b949b8e8de9418ecdaa13b2a8f8a271e7",
-    "title": "Niger: The Politics of Jobless Growth Under Tinubu",
-    "source": "AllAfrica Business",
-    "url": "https://allafrica.com/stories/202606190032.html",
-    "publishedAt": "2026-06-19T07:29:34.000Z",
-    "category": "africa-markets",
-    "summary": "[African Arguments] On 29 May 2023, moments after taking the oath of office, President Bola Ahmed Tinubu declared: \"Fuel subsidy is gone.\" The announcement marked the beginning of one of the most consequential economic reform cycles in Nigeria's recent history. Over the following",
-    "type": "article",
-    "region": "africa"
-  },
-  {
-    "id": "5148170e893c8fd8acedb2a16dfadeb07690c813",
-    "title": "Malawi: Mwanamvekha On the Ropes As Malawi's Economy Teeters",
-    "source": "AllAfrica Business",
-    "url": "https://allafrica.com/stories/202606190026.html",
-    "publishedAt": "2026-06-19T07:17:17.000Z",
-    "category": "africa-markets",
-    "summary": "[Nyasa Times] Minister of Finance, Economic Planning and Decentralisation Joseph Mwanamvekha faces a stern test of his leadership as he navigates the serious economic challenges confronting Malawi.",
-    "type": "article",
-    "region": "africa"
-  },
-  {
-    "id": "e73f08f84efd9522332c9a6ce98bb4bdee7275d8",
-    "title": "Zimbabwe: Stop Criminalising Poverty - Mining Leaders Push for Urgent Artisanal, Small Scale Formalisation",
-    "source": "AllAfrica Business",
-    "url": "https://allafrica.com/stories/202606190020.html",
-    "publishedAt": "2026-06-19T07:14:10.000Z",
-    "category": "africa-markets",
-    "summary": "[New Zimbabwe] MINING executives have urged the government to accelerate formalisation of artisanal and small-scale miners, saying the sector's future depends on bringing operators into the mainstream economy.",
-    "type": "article",
-    "region": "africa"
-  },
-  {
-    "id": "bf3afbcf40a901a4104bfb8d51b5e81c138eb803",
-    "title": "Zimbabwe: Zimbabwe Lithium Producers Plead for More Time to Complete Beneficiation Plants",
-    "source": "AllAfrica Business",
-    "url": "https://allafrica.com/stories/202606190019.html",
-    "publishedAt": "2026-06-19T07:13:47.000Z",
-    "category": "africa-markets",
-    "summary": "[New Zimbabwe] ZIMBABWE'S lithium producers have appealed to the government to extend the January 2027 deadline for a ban on lithium concentrate exports, saying that most companies are still completing processing plants required under the country's beneficiation drive.",
-    "type": "article",
-    "region": "africa"
-  },
-  {
-    "id": "1ab46c093b83b66c8090cc9c6e1033a9255e6df2",
-    "title": "Nigeria: Guidelines Issued for Transition to New Tax Regime",
-    "source": "AllAfrica Business",
-    "url": "https://allafrica.com/stories/202606190003.html",
-    "publishedAt": "2026-06-19T07:06:34.000Z",
-    "category": "africa-markets",
-    "summary": "[Premium Times] \"The document provides a framework for managing transitional issues while ensuring that the new laws are not applied retrospectively,\" says Taiwo Oyedele, Minister of Finance and Coordinating Minister of the Economy.",
-    "type": "article",
-    "region": "africa"
-  },
-  {
     "id": "1fbdc3ff0b9d8200673f10b20b2e707aac1a18be",
-    "title": "Source: Elastic agrees to buy CRV-backed DeductiveAI for up to $85M",
+    "title": "Source: Elastic agrees to buy CRV-backed Deductive AI for up to $85M",
     "source": "TechCrunch Startups",
     "url": "https://techcrunch.com/2026/06/18/source-elastic-agrees-to-buy-crv-backed-deductiveai-for-up-to-85m/",
     "publishedAt": "2026-06-19T00:51:11.000Z",
     "category": "early-stage",
-    "summary": "DeductiveAI, a startup that uses AI to catch and resolve bugs in software, was founded just three years ago.",
+    "summary": "Deductive AI, a startup that uses AI to catch and resolve bugs in software, was founded just three years ago.",
     "type": "article",
     "region": "global"
   },
@@ -297,17 +418,6 @@
     "region": "global"
   },
   {
-    "id": "c8c55fab2e35fa622476c4914d816d24247f486c",
-    "title": "Nigeria: Xenophobia - Boycotting Pan-African Firms Threatens Jobs, Economic Integration - Mupita",
-    "source": "AllAfrica Business",
-    "url": "https://allafrica.com/stories/202606180488.html",
-    "publishedAt": "2026-06-18T16:17:46.000Z",
-    "category": "africa-markets",
-    "summary": "[Leadership] As renewed xenophobic attacks against foreign nationals in South Africa continue to generate outrage across the continent, president and chief executive officer of MTN Group, Ralph Mupita, has cautioned against retaliatory actions targeting African businesses operati",
-    "type": "article",
-    "region": "africa"
-  },
-  {
     "id": "4b1e9b3ee42da86e50ef2d38adabea708c3fb0af",
     "title": "Nigeria: DBN Secures &#x20AC;200m European Investment Bank Loan for Green Digital Growth",
     "source": "AllAfrica Investment",
@@ -315,17 +425,6 @@
     "publishedAt": "2026-06-18T16:16:57.000Z",
     "category": "africa-markets",
     "summary": "[Leadership] The European Investment Bank's development arm, EIB Global, and the Development Bank of Nigeria (DBN) have signed a €200 million financing agreement aimed at supporting small-scale investments by Nigerian businesses operating in the green and digital economy.",
-    "type": "article",
-    "region": "africa"
-  },
-  {
-    "id": "1273521badbc1ab05856216cd08ceb63dae15fd6",
-    "title": "Nigeria: Poor Data Infrastructure Undermines Banks Ai Profitability Drive - Report",
-    "source": "AllAfrica Business",
-    "url": "https://allafrica.com/stories/202606180486.html",
-    "publishedAt": "2026-06-18T16:16:11.000Z",
-    "category": "africa-markets",
-    "summary": "[Leadership] As banks in Nigeria and across the African continent accelerate investments in artificial intelligence (AI) to enhance operations and improve customer experience, experts have warned that such investments may fail to deliver meaningful returns unless they are built o",
     "type": "article",
     "region": "africa"
   },
@@ -385,17 +484,6 @@
     "region": "global"
   },
   {
-    "id": "076e05d2be075732474b83c56496514b5efcc90b",
-    "title": "South Africa: Immigrant Traders Abandon Shops in Springs After Threats",
-    "source": "AllAfrica Business",
-    "url": "https://allafrica.com/stories/202606180287.html",
-    "publishedAt": "2026-06-18T11:53:49.000Z",
-    "category": "africa-markets",
-    "summary": "[GroundUp] Vigilante groups in Kwathema say immigrants must be out by 30 June or else",
-    "type": "article",
-    "region": "africa"
-  },
-  {
     "id": "7532e0af8b6a35b7414e485105f99517992071c2",
     "title": "Tanzania: Tanzania, U.S. Boost Trade, Investment Cooperation",
     "source": "AllAfrica Investment",
@@ -403,17 +491,6 @@
     "publishedAt": "2026-06-18T11:41:28.000Z",
     "category": "africa-markets",
     "summary": "[Daily News] Dar es Salaam -- TANZANIA and the United States have reaffirmed their commitment to strengthening diplomatic, trade, and investment relations after talks between senior officials from both countries.",
-    "type": "article",
-    "region": "africa"
-  },
-  {
-    "id": "aacd23097238505404a564c92a954c1d80ed40bd",
-    "title": "Ghana: Ghana, Cote d'Ivoire Sign Deal to Harmonise Producer Price Policies",
-    "source": "AllAfrica Business",
-    "url": "https://allafrica.com/stories/202606180232.html",
-    "publishedAt": "2026-06-18T11:31:23.000Z",
-    "category": "africa-markets",
-    "summary": "[Ghanaian Times] GHANA and Cote d'Ivoire have agreed to implement interventions to promote a sustainable cocoa economy, placing the farmer at the centre of priorities for the sector's governance and value sharing.",
     "type": "article",
     "region": "africa"
   },
@@ -490,17 +567,6 @@
     "publishedAt": "2026-06-17T22:10:38.000Z",
     "category": "ai",
     "summary": "Building a context layer between enterprise data stores and AI agents is bespoke work, with no standard service to automate or maintain the graphs over time. Amazon is making a direct play to change that. Amazon on Wednesday entered the space, announcing a series of three product",
-    "type": "article",
-    "region": "global"
-  },
-  {
-    "id": "95a26897674b89e0d9a32984b5190df84d900ac4",
-    "title": "Anthropic ships major Claude Design overhaul with design system imports, code round-trips, and a fix for its token-burning problem",
-    "source": "VentureBeat",
-    "url": "https://venturebeat.com/technology/anthropic-ships-major-claude-design-overhaul-with-design-system-imports-code-round-trips-and-a-fix-for-its-token-burning-problem",
-    "publishedAt": "2026-06-17T19:00:00.000Z",
-    "category": "ai",
-    "summary": "When Anthropic quietly released Claude Design in April as a \"research preview,\" it generated the kind of instant traction most product teams dream about: more than one million users in its first week. It also generated a problem. The tool consumed tokens so voraciously that a PCW",
     "type": "article",
     "region": "global"
   },
@@ -644,17 +710,6 @@
     "publishedAt": "2026-06-17T08:00:00.000Z",
     "category": "macro",
     "summary": "",
-    "type": "article",
-    "region": "global"
-  },
-  {
-    "id": "5978f1b8f5c03d1513f2c92563bdd958732bfa73",
-    "title": "Why Weibo’s tiny VibeThinker-3B has the AI world arguing over benchmarks again",
-    "source": "VentureBeat",
-    "url": "https://venturebeat.com/technology/why-weibos-tiny-vibethinker-3b-has-the-ai-world-arguing-over-benchmarks-again",
-    "publishedAt": "2026-06-17T00:32:19.000Z",
-    "category": "ai",
-    "summary": "On Sunday, a team of nine researchers at Sina Weibo — the Chinese social media giant better known for its microblogging platform than for cutting-edge artificial intelligence — quietly posted a 14-page technical report to arXiv that sent shockwaves through the AI research communi",
     "type": "article",
     "region": "global"
   },
@@ -882,28 +937,6 @@
     "region": "africa"
   },
   {
-    "id": "9a32bff36420dacf2ccf5a8b505108059fdf5018",
-    "title": "Sarvam becomes India’s newest AI unicorn with $234 million funding round led by HCLTech",
-    "source": "TechCrunch Startups",
-    "url": "https://techcrunch.com/2026/06/15/sarvam-becomes-indias-newest-ai-unicorn-with-234-million-funding-round-led-by-hcltech/",
-    "publishedAt": "2026-06-15T13:46:08.000Z",
-    "category": "early-stage",
-    "summary": "Indian IT services company HCLTech is investing $150 million in the Bengaluru startup.",
-    "type": "article",
-    "region": "global"
-  },
-  {
-    "id": "bf4c56821442f36c1aa3690b2c09959c7a9c537e",
-    "title": "As AI agents become employees, NewCore emerges with $66M to give them identities",
-    "source": "TechCrunch Startups",
-    "url": "https://techcrunch.com/2026/06/15/ai-agents-are-becoming-employees-newcore-emerges-with-66m-to-give-them-identities/",
-    "publishedAt": "2026-06-15T13:00:00.000Z",
-    "category": "early-stage",
-    "summary": "NewCore argues the next challenge in enterprise security will be managing AI agents, not people.",
-    "type": "article",
-    "region": "global"
-  },
-  {
     "id": "61888afe6cff8fe0c778eb678738fa6b511ac94f",
     "title": "Somalia: Somali President Hosts Italian Investors to Promote Trade and Investment",
     "source": "AllAfrica Investment",
@@ -979,17 +1012,6 @@
     "summary": "[Daily News] Zanzibar -- THE Zanzibar Investment Promotion Authority (ZIPA) has said the visit by investors from Singapore reflects growing international confidence in Zanzibar as an emerging investment hub in East Africa, driven by government efforts to improve the business envi",
     "type": "article",
     "region": "africa"
-  },
-  {
-    "id": "ed5e7d909873c2b62fe2bd8e93fe80fc09ccd45a",
-    "title": "Orbio raises $21 million to automate hiring and onboarding for frontline workers",
-    "source": "TechCrunch Startups",
-    "url": "https://techcrunch.com/2026/06/14/orbio-raises-21-million-to-automate-hiring-and-onboarding-for-frontline-workers/",
-    "publishedAt": "2026-06-15T04:01:00.000Z",
-    "category": "early-stage",
-    "summary": "Orbio announces $21 million Series A in round led by Dawn Capital.",
-    "type": "article",
-    "region": "global"
   },
   {
     "id": "4fef2312883552a0a1d5b481df964e4f3115b925",
@@ -1111,17 +1133,6 @@
     "summary": "",
     "type": "article",
     "region": "global"
-  },
-  {
-    "id": "473d92182f7346e86b4a368e7506bcd7ade24ca8",
-    "title": "Africa: All of Africa Today - June 10, 2026",
-    "source": "AllAfrica Investment",
-    "url": "https://allafrica.com/stories/202606100099.html",
-    "publishedAt": "2026-06-10T07:01:16.000Z",
-    "category": "africa-markets",
-    "summary": "[allAfrica]",
-    "type": "article",
-    "region": "africa"
   },
   {
     "id": "d0668823d7d4ca99053b163d181f7b7c7c759d42",
