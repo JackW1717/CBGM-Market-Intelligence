@@ -1,5 +1,38 @@
 [
   {
+    "id": "ebaf3fba7b45f0d7ab73627edc00757ea6974dd7",
+    "title": "How America's 250th birthday became a test of AI-powered collective intelligence",
+    "source": "VentureBeat",
+    "url": "https://venturebeat.com/technology/how-americas-250th-birthday-became-a-test-of-ai-powered-collective-intelligence",
+    "publishedAt": "2026-07-04T19:00:12.000Z",
+    "category": "ai",
+    "summary": "Imagine if you could bring 250 people together in a massive room and have them discuss and debate an important issue, arguing the points and counterpoints, and converging on answers that accurately reflect their collective knowledge, wisdom, values, and sensibilities. Now imagine",
+    "type": "article",
+    "region": "global"
+  },
+  {
+    "id": "2f6fc0b6a29caa9b23241a9ed8c35366fe571074",
+    "title": "What is Mistral AI? Everything to know about the OpenAI competitor",
+    "source": "TechCrunch Startups",
+    "url": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
+    "publishedAt": "2026-07-04T15:51:32.000Z",
+    "category": "early-stage",
+    "summary": "Mistral AI, which offers some open source AI models, has raised significant funding since its creation in 2023, with the ambition to “put frontier AI in the hands of everyone.”",
+    "type": "article",
+    "region": "global"
+  },
+  {
+    "id": "d759bd727af9f2b40344c9e6fa620682c7417c5d",
+    "title": "Trunk Tools' stack cut document review from 60 days to 10 by ditching general-purpose models",
+    "source": "VentureBeat",
+    "url": "https://venturebeat.com/orchestration/trunk-tools-stack-cut-document-review-from-60-days-to-10-by-ditching-general-purpose-models",
+    "publishedAt": "2026-07-04T14:34:50.000Z",
+    "category": "ai",
+    "summary": "Most verticals aren’t clean, well-oiled SaaS databases; the reality is ugly documents, proprietary schemas, implicit workflows, and long‑running tasks that most general-purpose models struggle with. This prompted construction project management company Trunk Tools to build a spec",
+    "type": "article",
+    "region": "global"
+  },
+  {
     "id": "97e0788f24226c20c09ceab7adb5831a83bc0653",
     "title": "The browser wars aren’t about search anymore — here are the best alternatives to Chrome and Safari",
     "source": "TechCrunch Startups",
@@ -108,17 +141,6 @@
     "summary": "[ENA] Addis Ababa -- Prime Minister Abiy Ahmed today inspected the ongoing Chano-Chencha Road Project, highlighting infrastructure and tourism as drivers of growth.",
     "type": "article",
     "region": "africa"
-  },
-  {
-    "id": "d759bd727af9f2b40344c9e6fa620682c7417c5d",
-    "title": "Trunk Tools' stack cut document review from 60 days to 10 by ditching general-purpose models",
-    "source": "VentureBeat",
-    "url": "https://venturebeat.com/orchestration/trunk-tools-stack-cut-document-review-from-60-days-to-10-by-ditching-general-purpose-models",
-    "publishedAt": "2026-07-03T13:00:00.000Z",
-    "category": "ai",
-    "summary": "Most verticals aren’t clean, well-oiled SaaS databases; the reality is ugly documents, proprietary schemas, implicit workflows, and long‑running tasks that most general-purpose models struggle with. This prompted construction project management company Trunk Tools to build a spec",
-    "type": "article",
-    "region": "global"
   },
   {
     "id": "e6853dbc76cf1b547a7452a061ebbeb16281784e",
@@ -550,17 +572,6 @@
     "region": "global"
   },
   {
-    "id": "6544ea213c4197b18339fb62043e8b751794561d",
-    "title": "Restaurants can now accept orders placed directly from ChatGPT and Claude thanks to Square's new, low-fee, no setup integration",
-    "source": "VentureBeat",
-    "url": "https://venturebeat.com/technology/restaurants-can-now-accept-orders-placed-directly-from-chatgpt-and-claude-thanks-to-squares-new-low-fee-no-setup-integration",
-    "publishedAt": "2026-07-01T14:41:22.000Z",
-    "category": "ai",
-    "summary": "Square is launching a new ChatGPT app and Claude plugin, enabling consumers to discover restaurants and seamlessly place orders directly within these AI platforms — and allowing restaurants, in turn, to accept orders from users and their AI agents without any technical capabiliti",
-    "type": "article",
-    "region": "global"
-  },
-  {
     "id": "78faf445905b5a9fd5231c6ae98158e52bf8aa33",
     "title": "Builders Stage agenda revealed: Practical strategies for scaling startups at TechCrunch Disrupt 2026",
     "source": "TechCrunch Startups",
@@ -909,17 +920,6 @@
     "publishedAt": "2026-06-27T12:00:00.000Z",
     "category": "early-stage",
     "summary": "New models are launching in Asia that promise Mythos-like capabilities without fear of an export ban. U.S. AI labs may never recover this enormous market.",
-    "type": "article",
-    "region": "global"
-  },
-  {
-    "id": "9a5a08fe9c910cdb6de293ce6c6c935a1e46702e",
-    "title": "Corgi, the buzzy Y Combinator-backed insurance tech startup, says it didn’t steal an open source product",
-    "source": "TechCrunch Startups",
-    "url": "https://techcrunch.com/2026/06/26/corgi-the-buzzy-y-combinator-backed-insurance-tech-startup-says-it-didnt-steal-an-open-source-product/",
-    "publishedAt": "2026-06-26T22:00:37.000Z",
-    "category": "early-stage",
-    "summary": "Corgi became embroiled in controversy when Papermark accused it of stealing its software. Corgi says it did not, raising new questions about vibe coding.",
     "type": "article",
     "region": "global"
   },
