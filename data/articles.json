@@ -1,5 +1,214 @@
 [
   {
+    "id": "ad7adb4bd52d00011ed8087dac5c66ad7320c7aa",
+    "title": "Phia accused of ‘cookie stuffing,’ taking affiliate credit on purchases it didn’t earn",
+    "source": "TechCrunch Startups",
+    "url": "https://techcrunch.com/2026/07/10/phia-accused-of-cookie-stuffing-taking-affiliate-credit-on-purchases-it-didnt-earn/",
+    "publishedAt": "2026-07-11T00:29:25.000Z",
+    "category": "early-stage",
+    "summary": "Phia, the shopping startup founded by Bill Gates’ daughter, Phoebe, and her friend Sophia Kianni is under fire for a practice known as “cookie stuffing,” which helped the product receive commissions and credit for sales it did not actually generate, per a Bloomberg investigation.",
+    "type": "article",
+    "region": "global"
+  },
+  {
+    "id": "2791c076a67bccc777daf0c16e5d3e4ec8d9a7b3",
+    "title": "West Africa: BRVM Sees Notable Upward Moves - Ecobank Transnational Inc Leads With +36.17 Percent Gain",
+    "source": "AllAfrica Business",
+    "url": "https://allafrica.com/stories/202607100566.html",
+    "publishedAt": "2026-07-10T23:18:48.000Z",
+    "category": "africa-markets",
+    "summary": "[Daba Finance] The Bourse Régionale des Valeurs Mobilières (BRVM) has recently showcased dynamic activity, with four key stocks registering significant upward price movements over the past seven days. These notable shifts provide valuable insights for investors tracking opportuni",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "b07751db7cee61a08eeec63bdfc73d4e5ade1a24",
+    "title": "57% of enterprises have watched AI agents be confidently wrong. The fix is an agentic context layer, but who has one?",
+    "source": "VentureBeat",
+    "url": "https://venturebeat.com/data/57-of-enterprises-have-watched-ai-agents-be-confidently-wrong-the-fix-is-an-agentic-context-layer-but-who-has-one",
+    "publishedAt": "2026-07-10T20:58:32.000Z",
+    "category": "ai",
+    "summary": "An enterprise AI agent answers with total confidence, but the number is wrong. Nobody catches it until someone traces it back to a stale metric definition or a document the retrieval system never pulled. The model did not fail. The context it was given did. In the past six months",
+    "type": "article",
+    "region": "global"
+  },
+  {
+    "id": "69ee91eb1fb9f2b4da879a2f20d1b4efb0d26b36",
+    "title": "OpenAI introduces ChatGPT Work, a cloud-based AI agent that manages tasks across email, Slack and calendars",
+    "source": "VentureBeat",
+    "url": "https://venturebeat.com/technology/openai-introduces-chatgpt-work-a-cloud-based-ai-agent-that-manages-tasks-across-email-slack-and-calendars",
+    "publishedAt": "2026-07-10T20:20:00.000Z",
+    "category": "ai",
+    "summary": "OpenAI on Thursday launched ChatGPT Work, a new AI agent embedded inside its flagship chatbot that aims to transform ChatGPT from a question-and-answer tool into an autonomous work platform capable of executing complex, multi-step tasks across users' email, calendars, code reposi",
+    "type": "article",
+    "region": "global"
+  },
+  {
+    "id": "5ac8728b8b9019a7904a00c7c2547ae4cdfa7958",
+    "title": "Wall Street is debating the AI buildout. Enterprises just answered: 86% say their GPUs run at half capacity or less",
+    "source": "VentureBeat",
+    "url": "https://venturebeat.com/orchestration/wall-street-is-debating-the-ai-buildout-enterprises-just-answered-86-say-their-gpus-run-at-half-capacity-or-less",
+    "publishedAt": "2026-07-10T19:29:07.000Z",
+    "category": "ai",
+    "summary": "Enterprise companies are running AI agents ahead of the controls needed to manage them — and they deployed that way knowingly. That is the central finding from VentureBeat Research's June survey of 573 technical leaders at companies with 100 or more employees, fielded across five",
+    "type": "article",
+    "region": "global"
+  },
+  {
+    "id": "c6175885a6472482a243fa7309ba636304bb0e6c",
+    "title": "Open source AI matters more than ever, according to Hugging Face’s Clem Delangue",
+    "source": "TechCrunch Startups",
+    "url": "https://techcrunch.com/podcast/open-source-ai-matters-more-than-ever-according-to-hugging-faces-clem-delangue/",
+    "publishedAt": "2026-07-10T19:00:00.000Z",
+    "category": "early-stage",
+    "summary": "Open source AI is booming, according to Hugging Face CEO Clem Delangue. The company has grown into something like a GitHub for AI in recent years, where AI builders can share and download open models and datasets, now used by roughly half the Fortune 500. Delangue has seen the sa",
+    "type": "article",
+    "region": "global"
+  },
+  {
+    "id": "9d5a2a8c6a1e62a62fc2f04f3dfccf1ea400c180",
+    "title": "Enterprise AI is entering an evaluation gap: Agents are gaining autonomy faster than companies can verify them",
+    "source": "VentureBeat",
+    "url": "https://venturebeat.com/orchestration/enterprise-ai-is-entering-an-evaluation-gap-agents-are-gaining-autonomy-faster-than-companies-can-verify-them",
+    "publishedAt": "2026-07-10T18:21:13.000Z",
+    "category": "ai",
+    "summary": "Enterprise AI teams are giving agents more freedom at the same moment their confidence in automated testing is collapsing. Half of enterprises have deployed an AI agent or LLM feature that passed internal evaluations and yet still caused a customer-facing failure — one in four mo",
+    "type": "article",
+    "region": "global"
+  },
+  {
+    "id": "a687e9cef7be2fbce6cc71df4225c49ab2af9b9b",
+    "title": "The Week’s 10 Biggest Funding Rounds: A Pair Of Billion-Dollar Deals For Cyber And AI Infrastructure Lead",
+    "source": "Crunchbase News",
+    "url": "https://news.crunchbase.com/ai/biggest-funding-rounds-billion-dollar-cyber-ai-keyfactor-sambanova/",
+    "publishedAt": "2026-07-10T18:11:59.000Z",
+    "category": "venture-capital",
+    "summary": "AI once again dominated venture funding this week, claiming five of the 10 largest announced rounds, including a pair of billion-dollar financings for AI infrastructure and cybersecurity that led the pack.",
+    "type": "article",
+    "region": "global"
+  },
+  {
+    "id": "d43b13bc18f089d2ca40522437acd3f70c7c8fff",
+    "title": "Google's TabFM skips per-dataset training and still predicts on tables it's never seen",
+    "source": "VentureBeat",
+    "url": "https://venturebeat.com/technology/googles-tabfm-skips-per-dataset-training-and-still-predicts-on-tables-its-never-seen",
+    "publishedAt": "2026-07-10T16:14:24.000Z",
+    "category": "ai",
+    "summary": "The vast majority of business data is tabular — living in data warehouses, CRMs, and financial ledgers — yet building a reliable model from it still means training a new one from scratch for every dataset, then maintaining hyperparameter tuning loops, feature engineering, and ret",
+    "type": "article",
+    "region": "global"
+  },
+  {
+    "id": "fb336e65bb1ed55b620dee12972178c27be410d7",
+    "title": "Oratomic raises $300M to build a viable quantum computer that needs only 20K qubits",
+    "source": "TechCrunch Startups",
+    "url": "https://techcrunch.com/2026/07/10/oratomic-raises-300m-to-build-a-viable-quantum-computer-that-needs-only-20k-qubits/",
+    "publishedAt": "2026-07-10T15:00:09.000Z",
+    "category": "early-stage",
+    "summary": "The massive round was co-led by ARCH Venture Partners, Spark Capital, and Khosla Ventures.",
+    "type": "article",
+    "region": "global"
+  },
+  {
+    "id": "33cb29d0b7daaef7786996c6994cd035aa4819c4",
+    "title": "Hugging Face’s CEO on why companies are done renting their AI",
+    "source": "TechCrunch Startups",
+    "url": "https://techcrunch.com/2026/07/10/hugging-faces-ceo-on-why-companies-are-done-renting-their-ai/",
+    "publishedAt": "2026-07-10T14:00:00.000Z",
+    "category": "early-stage",
+    "summary": "Open source AI is booming, according to Hugging Face CEO Clem Delangue. The company has grown into something like a GitHub for AI in recent years, where AI builders can share and download open models and datasets, now used by roughly half the Fortune 500. Delangue has seen the sa",
+    "type": "article",
+    "region": "global"
+  },
+  {
+    "id": "3c047580f9734c7faf9924769f566f152ecc3907",
+    "title": "South Africa: More Than 70 Arrested in Mohlakeng Illegal Mining Raid",
+    "source": "AllAfrica Business",
+    "url": "https://allafrica.com/stories/202607100486.html",
+    "publishedAt": "2026-07-10T13:24:49.000Z",
+    "category": "africa-markets",
+    "summary": "[Scrolla] Funda ngesiZuluBy Anita Dangazele",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "93ac84c44d758db5ab4b2a34d11f005658cb8cf4",
+    "title": "Namibia: NNN Eyes Sichuan to Drive Nam's Economy",
+    "source": "AllAfrica Business",
+    "url": "https://allafrica.com/stories/202607100481.html",
+    "publishedAt": "2026-07-10T13:20:37.000Z",
+    "category": "africa-markets",
+    "summary": "[New Era] China -- President Netumbo Nandi-Ndaitwah used her state visit to China to map out the sectors where Namibia wants Chinese investment and expertise.",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "e66384a3c4148cbf711e975a93687aa153af7da1",
+    "title": "Namibia: Green Hydrogen Must Create Jobs and Industries in Namibia - UNIDO",
+    "source": "AllAfrica Business",
+    "url": "https://allafrica.com/stories/202607100479.html",
+    "publishedAt": "2026-07-10T13:18:34.000Z",
+    "category": "africa-markets",
+    "summary": "[New Era] Green hydrogen development should create local industries, skilled jobs and value addition in Namibia rather than focus only on exports, United Nations Industrial Development Organisation (UNIDO) project manager, Sven Schuppener has said.",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "70574ead224ae1fb9134d148cdcb3a83c6b8a531",
+    "title": "Kenya: Lamu's Oil Refinery to Create 60,000 Jobs, President Ruto Promises",
+    "source": "AllAfrica Business",
+    "url": "https://allafrica.com/stories/202607100448.html",
+    "publishedAt": "2026-07-10T12:52:41.000Z",
+    "category": "africa-markets",
+    "summary": "[Capital FM] Nairobi -- President William Ruto has said that the planned oil refinery in Lamu, being developed in partnership with Nigerian billionaire Aliko Dangote, will create at least 60,000 jobs while positioning Kenya as a regional energy and industrial hub.",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "fb6d207b4134780a11609b046590b63ecbb904d5",
+    "title": "South Africa: Investment in Border Security Is Paramount to Avoid Deportation and Repatriation Revolving Door",
+    "source": "AllAfrica Investment",
+    "url": "https://allafrica.com/stories/202607100430.html",
+    "publishedAt": "2026-07-10T12:26:45.000Z",
+    "category": "africa-markets",
+    "summary": "[Parliament of South Africa] The Portfolio Committee on Home Affairs has concluded that sustained investment in border security is essential if South Africa is to break what it described as the \"deportation and repatriation revolving door\", where thousands of undocumented foreign",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "01a8d8aaea31cca1ba061382c344cf044782db70",
+    "title": "Zimbabwe: ZMC Urges Journalists to Embrace Technology Responsibly",
+    "source": "AllAfrica Business",
+    "url": "https://allafrica.com/stories/202607100405.html",
+    "publishedAt": "2026-07-10T12:05:53.000Z",
+    "category": "africa-markets",
+    "summary": "[263Chat] The Zimbabwe Media Commission (ZMC) has urged journalists and media organisations to embrace artificial intelligence (AI) responsibly warning that while the technology offers significant opportunities for the media industry, it must be guided by strong ethical standards",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "7ee5e0fbf540e2daeea1cab9b2c4c0999ce9bfc5",
+    "title": "Namibia: Namibian, Chinese Firms Sign Clean Energy Joint Venture",
+    "source": "AllAfrica Business",
+    "url": "https://allafrica.com/stories/202607100386.html",
+    "publishedAt": "2026-07-10T11:55:21.000Z",
+    "category": "africa-markets",
+    "summary": "[Namibian] President Netumbo Nandi-Ndaitwah on Friday witnessed the signing of an agreement between Namibia's Okaparwa Investment CC and China's Sany Energy Equipment Co Ltd during her state visit to China.",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "8005efa024801a3b242fba948c3dea19dc8463e2",
+    "title": "Namibia: President Meets Hyphen Hydrogen Leadership in China",
+    "source": "AllAfrica Business",
+    "url": "https://allafrica.com/stories/202607100383.html",
+    "publishedAt": "2026-07-10T11:54:50.000Z",
+    "category": "africa-markets",
+    "summary": "[Namibian] President Netumbo Nandi-Ndaitwah held a courtesy meeting in Chengdu, China, with representatives of China National Chemical Engineering (CNCEC) and Hyphen Hydrogen Energy.",
+    "type": "article",
+    "region": "africa"
+  },
+  {
     "id": "ba413a21ae1b1dce714715c6bc21172da3fda4d7",
     "title": "5 Interesting Startup Deals You May Have Missed: AI That Dispatches The Plumber, Underground Warfare And Cutting Down Private-Market Paperwork",
     "source": "Crunchbase News",
@@ -132,39 +341,6 @@
     "region": "africa"
   },
   {
-    "id": "4d705dc876ed1fa3cb556318e9ab2eb326f454d1",
-    "title": "Nigeria: Lawmakers Worry As Senate Approves Sale of Third-Largest Cement Producer",
-    "source": "AllAfrica Business",
-    "url": "https://allafrica.com/stories/202607100101.html",
-    "publishedAt": "2026-07-10T05:39:16.000Z",
-    "category": "africa-markets",
-    "summary": "[Premium Times] The senators said that a transaction involving one of Nigeria's major cement producers should be conducted with greater transparency, including full disclosure of the company's ownership structure.",
-    "type": "article",
-    "region": "africa"
-  },
-  {
-    "id": "9c4c357dfdb26bbad72f1c6c6958a1dca45dcb2e",
-    "title": "Africa: Nigeria Ranks First in Africa, 38th Globally in Responsible AI Index",
-    "source": "AllAfrica Business",
-    "url": "https://allafrica.com/stories/202607100093.html",
-    "publishedAt": "2026-07-10T05:34:54.000Z",
-    "category": "africa-markets",
-    "summary": "[Premium Times] Mr Tijani stated that Nigeria's rise by 42 places to 38th globally and first in Africa reflects the deliberate efforts being made to build an AI ecosystem that is inclusive, responsible, and aligned with the country's development priorities.",
-    "type": "article",
-    "region": "africa"
-  },
-  {
-    "id": "cd6bc1b30c8340f1eebe77d533a012345880a92c",
-    "title": "Nigeria: Govt's Reforms Repositioning Nigeria for Economic Growth - Information Minister",
-    "source": "AllAfrica Business",
-    "url": "https://allafrica.com/stories/202607100088.html",
-    "publishedAt": "2026-07-10T05:31:48.000Z",
-    "category": "africa-markets",
-    "summary": "[Vanguard] The Federal Government says its reforms are repositioning Nigeria as a leading destination for investment, innovation and sustainable economic growth.",
-    "type": "article",
-    "region": "africa"
-  },
-  {
     "id": "f1d9b71354efe9bdfce2d259bbbee71f0c50fa7a",
     "title": "Nigeria: Reps Introduce Bill to Professionalise Nutrition Workforce, Drive Investment",
     "source": "AllAfrica Investment",
@@ -172,17 +348,6 @@
     "publishedAt": "2026-07-10T05:22:06.000Z",
     "category": "africa-markets",
     "summary": "[Leadership] The House of Representatives is considering a bill to professionalise the nutrition workforce, protect public health and ensure accountability and value for the massive investments in nutrition.Titled:\" A Bill for an Act to Provide for the Establishment of the Nutrit",
-    "type": "article",
-    "region": "africa"
-  },
-  {
-    "id": "ccde120be483cf861a5a5d34bbb5e3ad3df76180",
-    "title": "Rwanda: Rwanda, Egypt Sign Agreement On Cooperation in AI, Digital Technology",
-    "source": "AllAfrica Business",
-    "url": "https://allafrica.com/stories/202607100073.html",
-    "publishedAt": "2026-07-10T05:22:02.000Z",
-    "category": "africa-markets",
-    "summary": "[New Times] Rwanda and Egypt have signed a Memorandum of Understanding aimed at strengthening cooperation in artificial intelligence (AI) and digital transformation.",
     "type": "article",
     "region": "africa"
   },
@@ -198,28 +363,6 @@
     "region": "africa"
   },
   {
-    "id": "c774b03f424879efb66b246d24d6b90bc734057b",
-    "title": "Zimbabwe: Air Zimbabwe Announces London Return Date, Sets Promotional Prices",
-    "source": "AllAfrica Business",
-    "url": "https://allafrica.com/stories/202607100041.html",
-    "publishedAt": "2026-07-10T05:11:18.000Z",
-    "category": "africa-markets",
-    "summary": "[263Chat] Air Zimbabwe will return to one of its most prestigious international routes later this month, announcing the resumption of direct passenger flights between Harare and London for the first time in years as the national carrier seeks to rebuild its long-haul network and ",
-    "type": "article",
-    "region": "africa"
-  },
-  {
-    "id": "096cec11247b26869688de6f37615044a9437b3e",
-    "title": "Nigeria: NCAA, NAMA Clash Over Proposed Ticket Sales, Cargo Sales Charges Sharing Formula",
-    "source": "AllAfrica Business",
-    "url": "https://allafrica.com/stories/202607100022.html",
-    "publishedAt": "2026-07-10T04:58:30.000Z",
-    "category": "africa-markets",
-    "summary": "[This Day] The Nigeria Civil Aviation Authority (NCAA) and the Nigerian Airspace Management Agency (NAMA) are at daggers drawn over the proposed sharing formula on accruals from the 5 per cent ticket sales charge (TSC) and cargo sales charge (CSC), which run into billions of nair",
-    "type": "article",
-    "region": "africa"
-  },
-  {
     "id": "998a3578b613b4d54fb2cf356ebdeb7da27de1cc",
     "title": "Ethiopia: Ethiopia Attracts Record U.S.$4.32 Billion in FDI in 2025/26 Fiscal Year",
     "source": "AllAfrica Investment",
@@ -229,6 +372,38 @@
     "summary": "[ENA] Addis Ababa -- Ethiopia attracted 4.32 billion U.S. dollars in Foreign Direct Investment (FDI) during the 2025/26 Ethiopian Fiscal Year.",
     "type": "article",
     "region": "africa"
+  },
+  {
+    "id": "5d1403d41778e4e12875b327bb5a310f80478c22",
+    "title": "10Y-2Y spread: 0.35%",
+    "source": "FRED",
+    "url": "https://fred.stlouisfed.org/series/T10Y2Y",
+    "publishedAt": "2026-07-10T00:00:00.000Z",
+    "category": "yield-curve",
+    "summary": "10Y-2Y spread is 0.35% (-0.03% vs previous).",
+    "type": "market-data",
+    "region": "us",
+    "symbol": "T10Y2Y",
+    "value": 0.35,
+    "change": -0.030000000000000027,
+    "changePercent": -0.030000000000000027,
+    "unit": "%"
+  },
+  {
+    "id": "950fcb0e347042b571e2d2ca9a27400fb72f7e05",
+    "title": "10Y-3M spread: 0.71%",
+    "source": "FRED",
+    "url": "https://fred.stlouisfed.org/series/T10Y3M",
+    "publishedAt": "2026-07-10T00:00:00.000Z",
+    "category": "yield-curve",
+    "summary": "10Y-3M spread is 0.71% (+0.00% vs previous).",
+    "type": "market-data",
+    "region": "us",
+    "symbol": "T10Y3M",
+    "value": 0.71,
+    "change": 0,
+    "changePercent": 0,
+    "unit": "%"
   },
   {
     "id": "597e6a4c0356863161c18a934f5e3ce7e243a29b",
@@ -330,17 +505,6 @@
     "region": "africa"
   },
   {
-    "id": "94e751076c68a493dbf2d57b0da0941696062218",
-    "title": "The enterprise AI challenge nobody solves with code generation alone",
-    "source": "VentureBeat",
-    "url": "https://venturebeat.com/orchestration/the-enterprise-ai-challenge-nobody-solves-with-code-generation-alone",
-    "publishedAt": "2026-07-09T15:00:10.000Z",
-    "category": "ai",
-    "summary": "Presented by SAP Generating code with AI is fast, but getting that code to run reliably inside a large enterprise, integrated with live systems, governed for compliance, and maintainable over years requires foundational work that most organizations underestimate. While 81% of all",
-    "type": "article",
-    "region": "global"
-  },
-  {
     "id": "7c284c4469957805ab164261514ed350deba1cda",
     "title": "Federal Reserve Board issues enforcement action with TS Banking Group, Inc. and TS Contrarian Bancshares, Inc.",
     "source": "Federal Reserve Press Releases",
@@ -392,17 +556,6 @@
     "publishedAt": "2026-07-09T12:49:14.000Z",
     "category": "africa-markets",
     "summary": "[The Point] Africa's wealthiest man Alhaji Aliko Dangote has pledged US$2 billion strategic investment partnership with The Gambia.",
-    "type": "article",
-    "region": "africa"
-  },
-  {
-    "id": "03671b3fa0818f55b2d8bff012400d75fbae6def",
-    "title": "Zimbabwe: Zimbabwe Begins Blueberry Exports to China As It Targets a $400 Million Market",
-    "source": "AllAfrica Business",
-    "url": "https://allafrica.com/stories/202607090405.html",
-    "publishedAt": "2026-07-09T12:48:29.000Z",
-    "category": "africa-markets",
-    "summary": "[New Zimbabwe] Zimbabwe has officially begun exporting fresh blueberries to China, opening one of the world's fastest-growing consumer markets to one of Africa's fastest-expanding horticultural industries.",
     "type": "article",
     "region": "africa"
   },
@@ -473,17 +626,6 @@
     "region": "africa"
   },
   {
-    "id": "348683d7c269f4f4ff360dab01e37e015349e6bc",
-    "title": "One interface isn't enough for enterprise AI",
-    "source": "VentureBeat",
-    "url": "https://venturebeat.com/orchestration/one-interface-isnt-enough-for-enterprise-ai",
-    "publishedAt": "2026-07-09T07:00:00.000Z",
-    "category": "ai",
-    "summary": "Presented by Oracle NetSuite Every major technology transition produces a set of assumptions about where the market is headed. The assumptions are often directionally correct, but they tend to underestimate the degree to which organizations adapt new technologies to their own cir",
-    "type": "article",
-    "region": "global"
-  },
-  {
     "id": "1572918e7a85153dd5e27bf6bf8c27e9fd513801",
     "title": "Namibia: Nandi-Ndaitwah Pushes Value Addition in China",
     "source": "AllAfrica Investment",
@@ -506,6 +648,86 @@
     "region": "africa"
   },
   {
+    "id": "8f1154cdeda414f595beb2ba353380ac6e41ba6d",
+    "title": "US 2Y Treasury yield: 4.16%",
+    "source": "FRED",
+    "url": "https://fred.stlouisfed.org/series/DGS2",
+    "publishedAt": "2026-07-09T00:00:00.000Z",
+    "category": "yield-curve",
+    "summary": "US 2Y Treasury yield is 4.16% (-0.05% vs previous).",
+    "type": "market-data",
+    "region": "us",
+    "symbol": "DGS2",
+    "value": 4.16,
+    "change": -0.04999999999999982,
+    "changePercent": -0.04999999999999982,
+    "unit": "%"
+  },
+  {
+    "id": "9355a45cbb663e74030f80aef5511972e975f112",
+    "title": "US 10Y Treasury yield: 4.54%",
+    "source": "FRED",
+    "url": "https://fred.stlouisfed.org/series/DGS10",
+    "publishedAt": "2026-07-09T00:00:00.000Z",
+    "category": "yield-curve",
+    "summary": "US 10Y Treasury yield is 4.54% (-0.02% vs previous).",
+    "type": "market-data",
+    "region": "us",
+    "symbol": "DGS10",
+    "value": 4.54,
+    "change": -0.019999999999999574,
+    "changePercent": -0.019999999999999574,
+    "unit": "%"
+  },
+  {
+    "id": "d3fe01d3ebf1be2d0f4d4ba9532ab4e97aa2f382",
+    "title": "US 30Y Treasury yield: 5.05%",
+    "source": "FRED",
+    "url": "https://fred.stlouisfed.org/series/DGS30",
+    "publishedAt": "2026-07-09T00:00:00.000Z",
+    "category": "yield-curve",
+    "summary": "US 30Y Treasury yield is 5.05% (-0.01% vs previous).",
+    "type": "market-data",
+    "region": "us",
+    "symbol": "DGS30",
+    "value": 5.05,
+    "change": -0.009999999999999787,
+    "changePercent": -0.009999999999999787,
+    "unit": "%"
+  },
+  {
+    "id": "77c06e36d026919b81dd3ecd6dbab27a4404c19d",
+    "title": "US 3M Treasury yield: 3.83%",
+    "source": "FRED",
+    "url": "https://fred.stlouisfed.org/series/DGS3MO",
+    "publishedAt": "2026-07-09T00:00:00.000Z",
+    "category": "yield-curve",
+    "summary": "US 3M Treasury yield is 3.83% (-0.04% vs previous).",
+    "type": "market-data",
+    "region": "us",
+    "symbol": "DGS3MO",
+    "value": 3.83,
+    "change": -0.040000000000000036,
+    "changePercent": -0.040000000000000036,
+    "unit": "%"
+  },
+  {
+    "id": "789732dcaffa8c03288adfb520df5e53ca3e2ac4",
+    "title": "US 10Y TIPS yield: 2.31%",
+    "source": "FRED",
+    "url": "https://fred.stlouisfed.org/series/DFII10",
+    "publishedAt": "2026-07-09T00:00:00.000Z",
+    "category": "yield-curve",
+    "summary": "US 10Y TIPS yield is 2.31% (+0.00% vs previous).",
+    "type": "market-data",
+    "region": "us",
+    "symbol": "DFII10",
+    "value": 2.31,
+    "change": 0,
+    "changePercent": 0,
+    "unit": "%"
+  },
+  {
     "id": "18842840ea24b22ef712491567a7eb55ef262098",
     "title": "Lovable reportedly in talks to double its valuation to $13.2B",
     "source": "TechCrunch Startups",
@@ -517,17 +739,6 @@
     "region": "global"
   },
   {
-    "id": "06d681f18c0aafc0d789c5e0319c7b57fbb0bdf1",
-    "title": "SpaceX's Grok 4.5 launches at half the price of rivals — here's why that could rattle Anthropic and OpenAI",
-    "source": "VentureBeat",
-    "url": "https://venturebeat.com/technology/spacexs-grok-4-5-launches-at-half-the-price-of-rivals-heres-why-that-could-rattle-anthropic-and-openai",
-    "publishedAt": "2026-07-08T22:00:00.000Z",
-    "category": "ai",
-    "summary": "Elon Musk's SpaceX released Grok 4.5 on Wednesday, the first artificial intelligence model the company has trained specifically for coding and autonomous agents — and the first tangible product of its $60 billion acquisition of the AI coding startup Cursor, completed just weeks a",
-    "type": "article",
-    "region": "global"
-  },
-  {
     "id": "5d71aeaf84fd7dbdb09b8d0c86b80af9111b8d09",
     "title": "With EU backing, QuantumDiamonds aims to speed up chip manufacturing",
     "source": "TechCrunch Startups",
@@ -535,17 +746,6 @@
     "publishedAt": "2026-07-08T20:29:50.000Z",
     "category": "early-stage",
     "summary": "Like its U.S. counterpart, the European Chips Act aims to foster the semiconductor industry — in part thanks to state subsidies. One of the beneficiaries is QuantumDiamonds, a German startup that applies a novel approach to inspecting chips.",
-    "type": "article",
-    "region": "global"
-  },
-  {
-    "id": "b9c8ef0351e19ed07ba66e0bcdd61e68902cd2f0",
-    "title": "OpenAI launches GPT-Live, a full-duplex voice upgrade that lets ChatGPT talk more like a person",
-    "source": "VentureBeat",
-    "url": "https://venturebeat.com/technology/openai-launches-gpt-live-a-full-duplex-voice-upgrade-that-lets-chatgpt-talk-more-like-a-person",
-    "publishedAt": "2026-07-08T18:49:06.000Z",
-    "category": "ai",
-    "summary": "OpenAI on Wednesday launched GPT-Live, a pair of new voice models that fundamentally redesign how people talk to ChatGPT — replacing the company's existing Advanced Voice Mode with an architecture that can listen and speak simultaneously, much like an actual human conversation. T",
     "type": "article",
     "region": "global"
   },
@@ -605,17 +805,6 @@
     "region": "global"
   },
   {
-    "id": "32b2c9cf4d558d6a4abf626cc1b514d0ff899417",
-    "title": "Nigeria: Nepl/Seplat Energy Jv Invested Over N100m in School Infrastructure, Educational Development",
-    "source": "AllAfrica Investment",
-    "url": "https://allafrica.com/stories/202607080567.html",
-    "publishedAt": "2026-07-08T15:05:32.000Z",
-    "category": "africa-markets",
-    "summary": "[This Day] · Celebrates academic excellence as PEARLs quiz impacts 57,000 students",
-    "type": "article",
-    "region": "africa"
-  },
-  {
     "id": "e508ea6f17330ff1ad45391f439864148d0a3a5f",
     "title": "Your gaming data could be the secret to AGI, according to this Bezos-backed startup",
     "source": "TechCrunch Startups",
@@ -634,17 +823,6 @@
     "publishedAt": "2026-07-08T12:00:00.000Z",
     "category": "early-stage",
     "summary": "Kevin Weil's new role at Stoke Space suggests reusable rockets are the next hot thing in Silicon Valley.",
-    "type": "article",
-    "region": "global"
-  },
-  {
-    "id": "098518e0073a5096bc51e49d6351bcdb50665316",
-    "title": "Slack’s Slackbot can now pull your CRM data, generate charts, and send DocuSigns — all from a chat message.",
-    "source": "VentureBeat",
-    "url": "https://venturebeat.com/orchestration/slacks-slackbot-can-now-pull-your-crm-data-generate-charts-and-send-docusigns-all-from-a-chat-message",
-    "publishedAt": "2026-07-08T12:00:00.000Z",
-    "category": "ai",
-    "summary": "Five years and $27.7 billion after Salesforce acquired Slack, the two products are finally starting to function as a single system. On Wednesday, Slack launched an integration that connects Slackbot — the personal AI agent built into every workspace — to the entire Salesforce pla",
     "type": "article",
     "region": "global"
   },
@@ -737,17 +915,6 @@
     "region": "africa"
   },
   {
-    "id": "0f6aa89ea80497009793f2869d8295c32ad784e1",
-    "title": "Final extension: Startup Battlefield Australia applications now close July 20",
-    "source": "TechCrunch Startups",
-    "url": "https://techcrunch.com/2026/07/07/final-extension-startup-battlefield-australia-applications-now-close-july-20/",
-    "publishedAt": "2026-07-07T22:30:00.000Z",
-    "category": "early-stage",
-    "summary": "If you're building something ambitious, this is a fast track to the people who can move your startup forward.",
-    "type": "article",
-    "region": "global"
-  },
-  {
     "id": "63af4405dc1b061b78a6c3caf81300faa6522329",
     "title": "Federal Reserve Board requests comment on a proposal to amend its requirements for banks to maintain anti-money laundering programs",
     "source": "Federal Reserve Press Releases",
@@ -755,39 +922,6 @@
     "publishedAt": "2026-07-07T19:00:00.000Z",
     "category": "macro",
     "summary": "Federal Reserve Board requests comment on a proposal to amend its requirements for banks to maintain anti-money laundering programs",
-    "type": "article",
-    "region": "global"
-  },
-  {
-    "id": "12970677313bef19c3e34ce059d8e9a50839f22f",
-    "title": "AI law startup Norm raises $120M, hits unicorn valuation",
-    "source": "TechCrunch Startups",
-    "url": "https://techcrunch.com/2026/07/07/ai-law-startup-norm-raises-120m-hits-unicorn-valuation/",
-    "publishedAt": "2026-07-07T14:35:42.000Z",
-    "category": "early-stage",
-    "summary": "AI law startup Norm has raised a $120 million Series C round led by Khosla Ventures, valuing the startup at $1.2 billion.",
-    "type": "article",
-    "region": "global"
-  },
-  {
-    "id": "753e6c4aaf9c07833f9978d8b55956f4b09f9fb9",
-    "title": "This startup pits dealerships against each other to bid on your used car",
-    "source": "TechCrunch Startups",
-    "url": "https://techcrunch.com/2026/07/07/this-startup-is-pitting-dealerships-against-each-other-to-bid-on-your-used-car/",
-    "publishedAt": "2026-07-07T14:00:00.000Z",
-    "category": "early-stage",
-    "summary": "Bidbus, which lets dealerships bid on used cars, has raised $15 million in a Series A round that was led by early-stage mobility fund Ibex Investors.",
-    "type": "article",
-    "region": "global"
-  },
-  {
-    "id": "16589613c66e16fbf138b2afb8c218608e006bd4",
-    "title": "Savi’s app aims to protect consumers from realistic AI scams like kidnappers demanding ransom",
-    "source": "TechCrunch Startups",
-    "url": "https://techcrunch.com/2026/07/07/savis-app-aims-to-protect-consumers-from-realistic-ai-scams-like-kidnappers-demanding-ransom/",
-    "publishedAt": "2026-07-07T12:00:00.000Z",
-    "category": "early-stage",
-    "summary": "The company just raised $7 million in seed funding, and is launching its app for iPhone and Android on Tuesday.",
     "type": "article",
     "region": "global"
   },
@@ -898,17 +1032,6 @@
     "publishedAt": "2026-07-02T15:00:00.000Z",
     "category": "macro",
     "summary": "Federal Reserve Board issues enforcement action with Small Business Bank and announces termination enforcement actions with BNP Paribas S.A., BNP Paribas USA, Inc., BNP Paribas Securities Corp., and Community Bankshares, Inc.",
-    "type": "article",
-    "region": "global"
-  },
-  {
-    "id": "31c463920be0122243a1a5f847f6bafa897fe4f9",
-    "title": "Crunchbase Data: Global Startup Investment Hit Record $510B In H1 2026 As AI Boom Accelerates Funding And Exits",
-    "source": "Crunchbase News",
-    "url": "https://news.crunchbase.com/venture/global-startup-exits-ipo-ma-soar-ai-q2-h1-2026/",
-    "publishedAt": "2026-07-02T11:00:47.000Z",
-    "category": "venture-capital",
-    "summary": "Investors poured more than $200 billion into startups globally in the just-ended quarter, making Q2 2026 the second-largest quarter on record, our data shows. And, with IPOs and acquisitions returning in force, the second quarter notched one of the strongest periods for venture-b",
     "type": "article",
     "region": "global"
   },
