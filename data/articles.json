@@ -1,5 +1,16 @@
 [
   {
+    "id": "e399c9b58f98330edd0a7dc6cfaaf5073f040712",
+    "title": "Forget typosquatting; slopsquatting is the software supply chain threat created by AI coding tools",
+    "source": "VentureBeat",
+    "url": "https://venturebeat.com/security/forget-typosquatting-slopsquatting-is-the-software-supply-chain-threat-created-by-ai-coding-tools",
+    "publishedAt": "2026-07-11T16:00:00.000Z",
+    "category": "ai",
+    "summary": "Slopsquatting represents an emerging supply chain threat made possible by AI hallucinations. As developers increasingly rely on AI coding assistants, they unknowingly grant cybercriminals access to their software from day one. Understanding what slopsquatting is Slopsquatting is ",
+    "type": "article",
+    "region": "global"
+  },
+  {
     "id": "ad7adb4bd52d00011ed8087dac5c66ad7320c7aa",
     "title": "Phia accused of ‘cookie stuffing,’ taking affiliate credit on purchases it didn’t earn",
     "source": "TechCrunch Startups",
@@ -198,17 +209,6 @@
     "region": "africa"
   },
   {
-    "id": "8005efa024801a3b242fba948c3dea19dc8463e2",
-    "title": "Namibia: President Meets Hyphen Hydrogen Leadership in China",
-    "source": "AllAfrica Business",
-    "url": "https://allafrica.com/stories/202607100383.html",
-    "publishedAt": "2026-07-10T11:54:50.000Z",
-    "category": "africa-markets",
-    "summary": "[Namibian] President Netumbo Nandi-Ndaitwah held a courtesy meeting in Chengdu, China, with representatives of China National Chemical Engineering (CNCEC) and Hyphen Hydrogen Energy.",
-    "type": "article",
-    "region": "africa"
-  },
-  {
     "id": "ba413a21ae1b1dce714715c6bc21172da3fda4d7",
     "title": "5 Interesting Startup Deals You May Have Missed: AI That Dispatches The Plumber, Underground Warfare And Cutting Down Private-Market Paperwork",
     "source": "Crunchbase News",
@@ -363,6 +363,17 @@
     "region": "africa"
   },
   {
+    "id": "096cec11247b26869688de6f37615044a9437b3e",
+    "title": "Nigeria: NCAA, NAMA Clash Over Proposed Ticket Sales, Cargo Sales Charges Sharing Formula",
+    "source": "AllAfrica Business",
+    "url": "https://allafrica.com/stories/202607100022.html",
+    "publishedAt": "2026-07-10T04:58:30.000Z",
+    "category": "africa-markets",
+    "summary": "[This Day] The Nigeria Civil Aviation Authority (NCAA) and the Nigerian Airspace Management Agency (NAMA) are at daggers drawn over the proposed sharing formula on accruals from the 5 per cent ticket sales charge (TSC) and cargo sales charge (CSC), which run into billions of nair",
+    "type": "article",
+    "region": "africa"
+  },
+  {
     "id": "998a3578b613b4d54fb2cf356ebdeb7da27de1cc",
     "title": "Ethiopia: Ethiopia Attracts Record U.S.$4.32 Billion in FDI in 2025/26 Fiscal Year",
     "source": "AllAfrica Investment",
@@ -468,17 +479,6 @@
     "publishedAt": "2026-07-09T19:00:00.000Z",
     "category": "macro",
     "summary": "Federal Reserve announces the leadership and objectives of its task forces to advance the conduct of monetary policy",
-    "type": "article",
-    "region": "global"
-  },
-  {
-    "id": "eebda9f9496ea8a4976b4a395dae606ad1272d76",
-    "title": "Enterprises using multiple AI models are underestimating failure rates by 2.25x",
-    "source": "VentureBeat",
-    "url": "https://venturebeat.com/orchestration/enterprises-using-multiple-ai-models-are-underestimating-failure-rates-by-2-25x",
-    "publishedAt": "2026-07-09T18:46:56.000Z",
-    "category": "ai",
-    "summary": "A team routing queries across a coding specialist, a logic specialist, and a generalist model assumes each will cover the others' blind spots. A new study evaluating 67 frontier models from 21 providers shows that assumption is mathematically flawed — and the flaw has a name: the",
     "type": "article",
     "region": "global"
   },
