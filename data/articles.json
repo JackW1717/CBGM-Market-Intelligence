@@ -11,28 +11,6 @@
     "region": "africa"
   },
   {
-    "id": "786e4186948dbc72369961cf2c35efdbcff02b6d",
-    "title": "Cote d'Ivoire: U.S. Backs Ivory Coast With Digital, Health, Logistics Deals",
-    "source": "AllAfrica Business",
-    "url": "https://allafrica.com/stories/202607170713.html",
-    "publishedAt": "2026-07-17T23:28:32.000Z",
-    "category": "africa-markets",
-    "summary": "[Daba Finance] The United States announced a series of investment and trade agreements with Côte d'Ivoire during a visit by Assistant Secretary of State for African Affairs Frank Garcia, including approval for Starlink to launch commercial satellite internet services in the count",
-    "type": "article",
-    "region": "africa"
-  },
-  {
-    "id": "0615a333e38973be0e1b747696a154a06b3375ef",
-    "title": "West Africa: BRVM Rally Hits Pause As Profit-Taking Weighs On Ecobank Group",
-    "source": "AllAfrica Business",
-    "url": "https://allafrica.com/stories/202607170714.html",
-    "publishedAt": "2026-07-17T23:28:32.000Z",
-    "category": "africa-markets",
-    "summary": "[Daba Finance] The BRVM ended lower after several sessions of gains as investors locked in profits, pulling the market's main indexes into negative territory despite strong trading activity.",
-    "type": "article",
-    "region": "africa"
-  },
-  {
     "id": "7fec639cd0db6dff390f80ca795de8a3a46e18e6",
     "title": "Applications close in 48 hours — here’s everything Australian founders need to know about Stripe x Startup Battlefield",
     "source": "TechCrunch Startups",
@@ -119,17 +97,6 @@
     "summary": "OpenClaw has become one of the most widely adopted agentic frameworks, but it has yet to prove itself at enterprise scale. Agents need real credentials — API keys, OAuth tokens, service accounts — to work effectively, and Brex found that traditional guardrails couldn't contain wh",
     "type": "article",
     "region": "global"
-  },
-  {
-    "id": "9a58b2ba46a43f44dee41eb01dd6b6af081d5ecb",
-    "title": "Nigeria: FG Begins Digital Switchover Training for Installers in Ibadan",
-    "source": "AllAfrica Business",
-    "url": "https://allafrica.com/stories/202607170602.html",
-    "publishedAt": "2026-07-17T16:37:29.000Z",
-    "category": "africa-markets",
-    "summary": "[Leadership] The federal government has commenced technical and sensitisation training for installers of set-top boxes and related reception equipment in Ibadan, Oyo State, as part of efforts to accelerate Nigeria's transition from analogue to digital television broadcasting.",
-    "type": "article",
-    "region": "africa"
   },
   {
     "id": "d7ebd70cc6667b9d91b01a58a5355ff8f00c4533",
@@ -264,39 +231,6 @@
     "region": "africa"
   },
   {
-    "id": "7f0e0d274e2a99ecd424747dafa34df71e7190d0",
-    "title": "Ghana: Bank of Ghana Recapitalisation - More Than Money",
-    "source": "AllAfrica Business",
-    "url": "https://allafrica.com/stories/202607170359.html",
-    "publishedAt": "2026-07-17T11:47:41.000Z",
-    "category": "africa-markets",
-    "summary": "[Ghanaian Times] The government's decision to raise GH¢5 billion to support the recapitalisation of the Bank of Ghana (BoG) is a timely and necessary intervention.",
-    "type": "article",
-    "region": "africa"
-  },
-  {
-    "id": "0adbd145593c73a8d5faba1ef6d5a82195e76c2b",
-    "title": "Zimbabwe: Six Die in Head-On Collision Along Harare-Chirundu Highway",
-    "source": "AllAfrica Business",
-    "url": "https://allafrica.com/stories/202607170358.html",
-    "publishedAt": "2026-07-17T11:47:23.000Z",
-    "category": "africa-markets",
-    "summary": "[New Zimbabwe] SIX people died in an accident along the Harare-Chirundu road on Thursday afternoon after two vehicles were involved in a head-on collision just outside Chinhoyi, Mashonaland West Province.",
-    "type": "article",
-    "region": "africa"
-  },
-  {
-    "id": "681f04130a0d28c0074fe48ff159629a611eefb7",
-    "title": "Ghana: Buipe Solar Project to Take Off Next Month - Presidential Adviser",
-    "source": "AllAfrica Business",
-    "url": "https://allafrica.com/stories/202607170291.html",
-    "publishedAt": "2026-07-17T11:13:28.000Z",
-    "category": "africa-markets",
-    "summary": "[Ghanaian Times] Construction of the first phase of the Buipe solar power project, expected to generate 1,500 megawatts, will begin next month under the government's 24-Hour Economy and Accelerated Export Development (24H+) Programme.",
-    "type": "article",
-    "region": "africa"
-  },
-  {
     "id": "8b5db6b55b2a8fe9de6a27e807e670e7e9595e87",
     "title": "Liberia: LTA Unveils Sweeping Telecom Reforms, Revokes Star Cell License After Six Years of Inactivity",
     "source": "AllAfrica Business",
@@ -359,6 +293,61 @@
     "publishedAt": "2026-07-17T07:04:15.000Z",
     "category": "africa-markets",
     "summary": "[This Day] Abuja -- President Bola Tinubu on Thirsday reiterated the commitment of his government to guarantee the safety of domestic and international investments, declaring that Nigeria, under his leadership, is ready and open for business.",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "dd349b7a7fb16f66f057d115df83f94de5406b31",
+    "title": "Africa: All of Africa Today - July 17, 2026",
+    "source": "AllAfrica Business",
+    "url": "https://allafrica.com/stories/202607170079.html",
+    "publishedAt": "2026-07-17T06:52:29.000Z",
+    "category": "africa-markets",
+    "summary": "[allAfrica]",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "81f96f85067d47361390dcb67b4ae83b35ecac28",
+    "title": "Nigeria: Nigerians Want Cheaper Petrol, but Renewed Hormuz Battle Won't Make That Happen",
+    "source": "AllAfrica Business",
+    "url": "https://allafrica.com/stories/202607170070.html",
+    "publishedAt": "2026-07-17T06:48:45.000Z",
+    "category": "africa-markets",
+    "summary": "[Premium Times] Many Nigerians clamoured that petrol prices should return to the pre-war level.",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "69082bc31b59a9c67f3ce3e8011bb67998f0907c",
+    "title": "South Africa: Cape Flats Residents Fight Extortionists - South African News Briefs - July 17, 2026",
+    "source": "AllAfrica Business",
+    "url": "https://allafrica.com/stories/202607170061.html",
+    "publishedAt": "2026-07-17T05:55:29.000Z",
+    "category": "africa-markets",
+    "summary": "[allAfrica]",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "f222019805556645c3b5dc573ee1bd3984c43f11",
+    "title": "Uganda: Kapchorwa Bus Tragedy - 23 Ndejje Pupils Feared Dead After School Tour Turns Fatal",
+    "source": "AllAfrica Business",
+    "url": "https://allafrica.com/stories/202607170042.html",
+    "publishedAt": "2026-07-17T05:07:15.000Z",
+    "category": "africa-markets",
+    "summary": "[New Light] Kapchorwa: At least 23 pupils of King David Junior School Ndejje are feared dead following a road accident in Kapchorwa District on Thursday evening, as the pupils travelled for a field trip whose exact destination remained unclear at the time of the crash.",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "a31a3b401c5b5e9bac2da69595c577a05a0dafab",
+    "title": "Kenya: Greenpeace Demands Halt to Dangote's $17bn Kenya Coastal Refinery",
+    "source": "AllAfrica Business",
+    "url": "https://allafrica.com/stories/202607170002.html",
+    "publishedAt": "2026-07-17T04:45:26.000Z",
+    "category": "africa-markets",
+    "summary": "[RFI] Climate rights group Greenpeace Africa called for a halt to a proposed mega oil refinery project by Africa's richest man, Aliko Dangote, in Kenya's coastal region, warning of environmental risks.",
     "type": "article",
     "region": "africa"
   },
@@ -582,17 +571,6 @@
     "region": "africa"
   },
   {
-    "id": "2d626a13a678ef4db10d4963331a559c5925e22d",
-    "title": "Applied Computing wants to give oil and gas operators an AI model for the entire plant",
-    "source": "TechCrunch Startups",
-    "url": "https://techcrunch.com/2026/07/15/applied-computing-wants-to-give-oil-and-gas-operators-an-ai-model-for-the-entire-plant/",
-    "publishedAt": "2026-07-16T04:00:00.000Z",
-    "category": "early-stage",
-    "summary": "Applied Computing has raised a $20M Series A to build a foundation AI model for the oil, gas and petrochemical industry.",
-    "type": "article",
-    "region": "global"
-  },
-  {
     "id": "862798aa8b44d1d48b3cf5754c355786508d2424",
     "title": "Lululemon backs nylon-recycling startup Syntetica in $30M Series A",
     "source": "TechCrunch Startups",
@@ -600,6 +578,17 @@
     "publishedAt": "2026-07-16T04:00:00.000Z",
     "category": "early-stage",
     "summary": "Syntetica, a French startup that has developed a novel approach to recycling nylon, has already obtained big-name partners and investors.",
+    "type": "article",
+    "region": "global"
+  },
+  {
+    "id": "2d626a13a678ef4db10d4963331a559c5925e22d",
+    "title": "Applied Computing wants to give oil and gas operators an AI model for the entire plant",
+    "source": "TechCrunch Startups",
+    "url": "https://techcrunch.com/2026/07/15/applied-computing-wants-to-give-oil-and-gas-operators-an-ai-model-for-the-entire-plant/",
+    "publishedAt": "2026-07-16T04:00:00.000Z",
+    "category": "early-stage",
+    "summary": "Applied Computing has raised a $20M Series A to build a foundation AI model for the oil, gas and petrochemical industry.",
     "type": "article",
     "region": "global"
   },
@@ -1036,17 +1025,6 @@
     "region": "us"
   },
   {
-    "id": "049005576b043302ad659befda322983ad9d24b7",
-    "title": "Ghana: Solomon Asamoah - Why Global Investors Are Watching Ghana More Closely Than Ever",
-    "source": "AllAfrica Investment",
-    "url": "https://allafrica.com/stories/202607130485.html",
-    "publishedAt": "2026-07-13T11:26:03.000Z",
-    "category": "africa-markets",
-    "summary": "[Ghanaian Times] Ghana has always had a certain pull for international investors. It is politically significant, commercially active and strategically positioned in West Africa. It has a strong entrepreneurial culture, a young population and a long record of engagement with globa",
-    "type": "article",
-    "region": "africa"
-  },
-  {
     "id": "1c86f4dd196643d56e2dddcbc1fef8cfbb4c84b7",
     "title": "Tanzania: How the Tanzanian Finance Minister's Meeting With the IMF Could Unlock Investment, Fiscal Stability and Sustainable Growth",
     "source": "AllAfrica Investment",
@@ -1089,6 +1067,17 @@
     "summary": "Speech At a Bank Policy Institute London Conference, London, United Kingdom",
     "type": "article",
     "region": "us"
+  },
+  {
+    "id": "b889ac8d0a0b762e0597f335efa7065316fc265f",
+    "title": "Liberia: Teachers' Group Calls for More Investment in Public Education",
+    "source": "AllAfrica Investment",
+    "url": "https://allafrica.com/stories/202607130022.html",
+    "publishedAt": "2026-07-13T04:35:18.000Z",
+    "category": "africa-markets",
+    "summary": "[New Dawn] Monrovia, July 13, 2026: The National Teachers Association of Liberia and Education International have called for increased government investment in public education, improved teacher welfare, and stronger regulation of private education providers.",
+    "type": "article",
+    "region": "africa"
   },
   {
     "id": "2674fe6f069a38236f9191ecc67cbdef33665981",
