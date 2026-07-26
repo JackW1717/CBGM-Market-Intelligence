@@ -1,5 +1,27 @@
 [
   {
+    "id": "32a3bc3dd6bbd9050565725dc3814f21339d69fe",
+    "title": "Africa: Africa's AI Moment - How the Continent Can Quantum Leap into the Future--Today",
+    "source": "AllAfrica Business",
+    "url": "https://allafrica.com/stories/202607250233.html",
+    "publishedAt": "2026-07-25T19:23:21.000Z",
+    "category": "africa-markets",
+    "summary": "[allAfrica] Artificial Intelligence (AI) is often described as the next industrial revolution. That description is already outdated. AI is rapidly becoming the infrastructure upon which future economies, governments, healthcare systems, education, agriculture, finance and nationa",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "0a03e6d33dfec0f95d8ca889af9e378efc21a36c",
+    "title": "Mali: How Mali's Ancient Craft Is Building New Economic Futures",
+    "source": "AllAfrica Investment",
+    "url": "https://allafrica.com/stories/202607250157.html",
+    "publishedAt": "2026-07-25T12:38:55.000Z",
+    "category": "africa-markets",
+    "summary": "[Bird Story Agency] Mali's iconic mud-dyed textile, bogolan, is creating new opportunities beyond its cultural significance. As the centuries-old craft gains protected status, women artisans and entrepreneurs are turning tradition into thriving businesses while preserving indigen",
+    "type": "article",
+    "region": "africa"
+  },
+  {
     "id": "e887b32468d67bea5de5df6c0a139105653a70ea",
     "title": "Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M",
     "source": "TechCrunch Startups",
@@ -271,28 +293,6 @@
     "publishedAt": "2026-07-24T10:59:48.000Z",
     "category": "africa-markets",
     "summary": "[FrontPageAfrica] Monrovia -- Liberia's Finance and Development Planning Minister, Augustine Kpehe Ngafuan, has called on government ministries, agencies and spending entities to ensure that the FY2027 National Budget is strictly aligned with the priorities of the ARREST Agenda f",
-    "type": "article",
-    "region": "africa"
-  },
-  {
-    "id": "b87b91ccecedd97633498a773c48c523a6f3465f",
-    "title": "Liberia: LRA Chief Urges Boakai to Reject Port Bills Again, Warns of Revenue Risks and Legal Conflicts",
-    "source": "AllAfrica Business",
-    "url": "https://allafrica.com/stories/202607240301.html",
-    "publishedAt": "2026-07-24T10:58:17.000Z",
-    "category": "africa-markets",
-    "summary": "[FrontPageAfrica] Monrovia -- The Commissioner General of the Liberia Revenue Authority (LRA), James Dorbor Jallah, has urged the Ministry of Justice to advise President Joseph Nyuma Boakai to veto two major port reform bills for a second time, warning that the proposed laws cont",
-    "type": "article",
-    "region": "africa"
-  },
-  {
-    "id": "1c2f3b0e9c0caa6e580c0de55372fd42db28fd0c",
-    "title": "Liberia: Mfdp Opens Fy2027 Budget Process",
-    "source": "AllAfrica Business",
-    "url": "https://allafrica.com/stories/202607240276.html",
-    "publishedAt": "2026-07-24T10:49:26.000Z",
-    "category": "africa-markets",
-    "summary": "[Liberian Observer] The Ministry of Finance and Development Planning (MFDP) has officially launched the formulation of Liberia's Fiscal Year 2027 National Budget, with Finance and Development Planning Minister Augustine Kpehe Ngafuan calling on ministries, agencies and commission",
     "type": "article",
     "region": "africa"
   },
@@ -1012,17 +1012,6 @@
     "summary": "",
     "type": "article",
     "region": "global"
-  },
-  {
-    "id": "de71d8707b4b276e8eaf8b5b960dbf13fe86056c",
-    "title": "Africa: All of Africa Today - July 20, 2026",
-    "source": "AllAfrica Investment",
-    "url": "https://allafrica.com/stories/202607200097.html",
-    "publishedAt": "2026-07-20T06:51:29.000Z",
-    "category": "africa-markets",
-    "summary": "[allAfrica]",
-    "type": "article",
-    "region": "africa"
   },
   {
     "id": "7aa29184ec52f6e27d1e0742bb552205b6249632",
