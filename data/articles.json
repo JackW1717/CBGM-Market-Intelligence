@@ -1,5 +1,225 @@
 [
   {
+    "id": "5131ecbcb95226a917ba956e2c0fffbaca079188",
+    "title": "Silicon Valley loves young founders. Until it doesn’t.",
+    "source": "TechCrunch Startups",
+    "url": "https://techcrunch.com/2026/07/31/build-in-public-fail-in-public-what-its-like-to-be-a-founder-under-20-right-now/",
+    "publishedAt": "2026-07-31T22:00:00.000Z",
+    "category": "early-stage",
+    "summary": "AI tools have democratized the opportunity to build, shortening the timelines of success and enabling more young people to start successful companies without stepping foot inside a Big Tech company.",
+    "type": "article",
+    "region": "global"
+  },
+  {
+    "id": "ad8d650b77fe67abfcee3d5d3a5fd6f2c7ffdb67",
+    "title": "Structured AI data pipelines score 10.9 points below free-form code — DataFlow-Harness closes the gap",
+    "source": "VentureBeat",
+    "url": "https://venturebeat.com/orchestration/structured-ai-data-pipelines-score-10-9-points-below-free-form-code-dataflow-harness-closes-the-gap",
+    "publishedAt": "2026-07-31T21:19:09.000Z",
+    "category": "ai",
+    "summary": "If you ask an AI coding agent to write a standalone Python script to parse a single JSON file, it will likely give you a perfect answer in seconds. But the same agent often breaks if you ask it to build a systematic data processing pipeline, like ingesting thousands of messy docu",
+    "type": "article",
+    "region": "global"
+  },
+  {
+    "id": "890bd7ce437907ed0929ede401e49d3a8a49de21",
+    "title": "The Week’s 10 Biggest Funding Rounds: Safe Superintelligence And Commonwealth Fusion Lead With Billion-Dollar Deals",
+    "source": "Crunchbase News",
+    "url": "https://news.crunchbase.com/venture/biggest-funding-rounds-safe-superintelligence-commonwealth-fusion/",
+    "publishedAt": "2026-07-31T20:14:23.000Z",
+    "category": "venture-capital",
+    "summary": "Another week, another bevy of big rounds. The largest round was a reported $5 billion Nvidia-backed financing for foundational AI unicorn Safe Superintelligence, followed by a $1 billion investment in Commonwealth Fusion Systems.",
+    "type": "article",
+    "region": "global"
+  },
+  {
+    "id": "d7b7c0bf6df2713ba6bcca8667970a505d43d3df",
+    "title": "How is your enterprise tracking AI agent telemetry? Groundcover thinks it should never leave your cloud",
+    "source": "VentureBeat",
+    "url": "https://venturebeat.com/data/how-is-your-enterprise-tracking-ai-agent-telemetry-groundcover-thinks-it-should-never-leave-your-cloud",
+    "publishedAt": "2026-07-31T19:20:00.000Z",
+    "category": "ai",
+    "summary": "The AI agent observability space is taking off — but how can enterprises be sure what observability products and solutions they need? Observability startup groudcover (lower case \"g\" intentional) announced this week that it raised $100 million in a round led by One Peak, bringing",
+    "type": "article",
+    "region": "global"
+  },
+  {
+    "id": "3aa365b8b014c761b7162d4d42219456ae0d780b",
+    "title": "VC-backed startups commit more fraud, and researchers think they know why",
+    "source": "TechCrunch Startups",
+    "url": "https://techcrunch.com/2026/07/31/vc-backed-startups-commit-more-fraud-and-researchers-think-they-know-why/",
+    "publishedAt": "2026-07-31T19:00:00.000Z",
+    "category": "early-stage",
+    "summary": "New research from the U.K.’s Imperial College and France’s Emlyon Business School mapped out how Silicon Valley founders commit fraud — and the role investors play.",
+    "type": "article",
+    "region": "global"
+  },
+  {
+    "id": "8f9218ebc14cb91dee77507170729e181448da9f",
+    "title": "Sam Altman isn’t the only one who wants to pump the brakes on AI",
+    "source": "TechCrunch Startups",
+    "url": "https://techcrunch.com/video/sam-altman-isnt-the-only-one-who-wants-to-pump-the-brakes-on-ai/",
+    "publishedAt": "2026-07-31T17:26:32.000Z",
+    "category": "early-stage",
+    "summary": "After years of pushing full speed ahead on AI, OpenAI CEO Sam Altman says maybe it’s time for the AI industry to “pace” itself. The comments came just days after one of OpenAI’s own models broke out of its test environment and got tangled up in a breach at Hugging Face — though a",
+    "type": "article",
+    "region": "global"
+  },
+  {
+    "id": "d9dd2067c18d63cb44e96ca98fbe9c1b9e2ab2e6",
+    "title": "Kenya: Standard Chartered Mobilizes Sh97bn for Sustainable Finance in Kenya",
+    "source": "AllAfrica Business",
+    "url": "https://allafrica.com/stories/202607310415.html",
+    "publishedAt": "2026-07-31T16:32:00.000Z",
+    "category": "africa-markets",
+    "summary": "[Capital FM] Nairobi -- Standard Chartered Bank Kenya has mobilized more than Sh97 billion in sustainable finance since 2021, supporting renewable energy, affordable housing, sustainable infrastructure and women-led businesses as demand for climate-focused investments grows.",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "b31de331f4446c49682c1564e6f2d7364bc01bc1",
+    "title": "Uganda: Government Declares Telecom Infrastructure Vandalism Economic Sabotage",
+    "source": "AllAfrica Business",
+    "url": "https://allafrica.com/stories/202607310413.html",
+    "publishedAt": "2026-07-31T16:30:50.000Z",
+    "category": "africa-markets",
+    "summary": "[Nile Post] The government has warned that vandalism of telecommunications infrastructure is undermining national development and will be treated as economic sabotage as Uganda expands digital connectivity across the country.",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "d993b9442c62409e551c0b78d09c6bd9e861989d",
+    "title": "Ethiopia: Amhara Region Delivers 357 Kilograms of Gold to Nbe",
+    "source": "AllAfrica Business",
+    "url": "https://allafrica.com/stories/202607310412.html",
+    "publishedAt": "2026-07-31T16:29:32.000Z",
+    "category": "africa-markets",
+    "summary": "[ENA] Addis Ababa -- The Amhara National Regional State supplied 357 kilograms of gold to the National Bank of Ethiopia (NBE) for the first time during the 2018 Ethiopian fiscal year.",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "24d7d6e0d201c99e28fe0342c00b8f9adb397b3b",
+    "title": "Zimbabwe: Netone Urges Youth to Harness Ai As Driver of Jobs and Digital Transformation",
+    "source": "AllAfrica Business",
+    "url": "https://allafrica.com/stories/202607310411.html",
+    "publishedAt": "2026-07-31T16:27:55.000Z",
+    "category": "africa-markets",
+    "summary": "[263Chat] Mobile network operator NetOne has called on young Zimbabweans to embrace artificial intelligence (AI) as a catalyst for innovation, industrialisation and job creation, while warning that the rapid adoption of the technology must be accompanied by robust cybersecurity m",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "6c6ebaa546fa7ba1f34fc8a9a52413687749ee2e",
+    "title": "Nigeria: FG to End Electricity Subsidy From 2027",
+    "source": "AllAfrica Business",
+    "url": "https://allafrica.com/stories/202607310406.html",
+    "publishedAt": "2026-07-31T16:23:05.000Z",
+    "category": "africa-markets",
+    "summary": "[Vanguard] The Federal Government has announced plans to phase out electricity subsidy payments from 2027 as part of efforts to address mounting debts in the power sector.",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "535e8e4d0af50f33fc6174d17c6fd54e95623836",
+    "title": "Algeria: President Tebboune Offers Condolences to Families of Boumerdes Bus Crash Victims",
+    "source": "AllAfrica Business",
+    "url": "https://allafrica.com/stories/202607310401.html",
+    "publishedAt": "2026-07-31T16:19:47.000Z",
+    "category": "africa-markets",
+    "summary": "[Algerie Presse Service] Algiers -- President of the Republic Abdelmadjid Tebboune offered his deepest condolences on Friday to the families of the victims of a passenger bus crash in the Berrahmoun El-Karma area of Boumerdes province. According to an updated preliminary toll, th",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "d240f02eb7f1d851185839d5278f847c27fe23dc",
+    "title": "Smallest.ai raises $13M to build ultra-fast voice AI that sounds genuinely human",
+    "source": "TechCrunch Startups",
+    "url": "https://techcrunch.com/2026/07/31/smallest-ai-raises-13m-to-build-ultra-fast-voice-ai-that-sounds-genuinely-human/",
+    "publishedAt": "2026-07-31T14:47:11.000Z",
+    "category": "early-stage",
+    "summary": "The startup is building voice models designed to make AI phone calls pass the Turing test.",
+    "type": "article",
+    "region": "global"
+  },
+  {
+    "id": "eb335d09e7f6ada5688762245209dbee2a869ef4",
+    "title": "Federal Reserve Board requests comment on a proposal to modernize its rule governing the extension of credit to bank \"insiders\"—bank executives, board members and major shareholders who could potentially influence a bank's lending decisions",
+    "source": "Federal Reserve Press Releases",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260731b.htm",
+    "publishedAt": "2026-07-31T14:00:00.000Z",
+    "category": "macro",
+    "summary": "Federal Reserve Board requests comment on a proposal to modernize its rule governing the extension of credit to bank \"insiders\"—bank executives, board members and major shareholders who could potentially influence a bank's lending decisions",
+    "type": "article",
+    "region": "global"
+  },
+  {
+    "id": "185e475f6a0f3206113dd2a297184b9c4782c627",
+    "title": "Federal Reserve Board requests comment on a proposal to modernize rules for mutual banking organizations",
+    "source": "Federal Reserve Press Releases",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260731a.htm",
+    "publishedAt": "2026-07-31T14:00:00.000Z",
+    "category": "macro",
+    "summary": "Federal Reserve Board requests comment on a proposal to modernize rules for mutual banking organizations",
+    "type": "article",
+    "region": "global"
+  },
+  {
+    "id": "e9b5c38dc7f2da2cd093a0e669f7328285dd7b19",
+    "title": "AI labs want to pump the brakes, but Amazon and SpaceX are still blasting off",
+    "source": "TechCrunch Startups",
+    "url": "https://techcrunch.com/podcast/ai-labs-want-to-pump-the-brakes-but-amazon-and-spacex-are-still-blasting-off/",
+    "publishedAt": "2026-07-31T14:00:00.000Z",
+    "category": "early-stage",
+    "summary": "After years of pushing full speed ahead on AI, OpenAI CEO Sam Altman says maybe it’s time for the AI industry to “pace” itself. The comments came just days after one of OpenAI’s own models broke out of its test environment and got tangled up in a breach at Hugging Face — though a",
+    "type": "article",
+    "region": "global"
+  },
+  {
+    "id": "21de5079be0200db6b74a1c72c8356ca50a452c7",
+    "title": "These Are Sectors Where Seed Rounds Of $5M To $10M Are Clustering This Year",
+    "source": "Crunchbase News",
+    "url": "https://news.crunchbase.com/seed/startup-funding-trends-2026-proptech-robotics-cancer-space-tech/",
+    "publishedAt": "2026-07-31T13:00:19.000Z",
+    "category": "venture-capital",
+    "summary": "We identified popular themes for seed-stage investment this year, including cancer therapeutics and space tech.",
+    "type": "article",
+    "region": "global"
+  },
+  {
+    "id": "9e5cae8caa03e86781419eb36d6bd1af58909fe6",
+    "title": "Mozambique: Portugal Is Key Partner for Attraction of Agro-Investment",
+    "source": "AllAfrica Investment",
+    "url": "https://allafrica.com/stories/202607310271.html",
+    "publishedAt": "2026-07-31T12:02:33.000Z",
+    "category": "africa-markets",
+    "summary": "[AIM] Maputo -- The Mozambican Minister of Agriculture, Roberto Albino, believes that Portugal is one of the country's crucial partners for attraction of new investments and technologies to boost agro-industrial development and economic growth",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "543560b88bee718cfe80e5e58ecf22105770306b",
+    "title": "Repeat founder Ryan Williams raises $10M seed for an AI startup for private credit managers",
+    "source": "TechCrunch Startups",
+    "url": "https://techcrunch.com/2026/07/31/repeat-founder-ryan-williams-raises-10m-seed-for-an-ai-startup-for-private-credit-managers/",
+    "publishedAt": "2026-07-31T12:00:00.000Z",
+    "category": "early-stage",
+    "summary": "Ellis AI announced Thursday its emergence from stealth with $10 million in seed funding.",
+    "type": "article",
+    "region": "global"
+  },
+  {
+    "id": "b81c95b1818a6272dfe05b007309c1857a363d23",
+    "title": "Ghana: Piac Raises Concern Over Quality of Oil-Funded Projects",
+    "source": "AllAfrica Business",
+    "url": "https://allafrica.com/stories/202607310260.html",
+    "publishedAt": "2026-07-31T11:51:13.000Z",
+    "category": "africa-markets",
+    "summary": "[Ghanaian Times] The Public Interest and Accountability Committee (PIAC) has urged the government to involve Metropolitan, Municipal and District Assemblies (MMDAs) more directly in the planning and implementation of petroleum-funded projects.",
+    "type": "article",
+    "region": "africa"
+  },
+  {
     "id": "e5cb02d689276632de4321d660f4f7fd1d493862",
     "title": "Nigeria: Resident Doctors Issue Final Deadline, Threaten Nationwide Strike From Aug 10",
     "source": "AllAfrica Business",
@@ -66,28 +286,6 @@
     "region": "africa"
   },
   {
-    "id": "49866a3f3f0058bcb81997419726721112d682b0",
-    "title": "South Africa: How FNB Enabled People to Join the SGK Pyramid Scheme",
-    "source": "AllAfrica Business",
-    "url": "https://allafrica.com/stories/202607310031.html",
-    "publishedAt": "2026-07-31T07:35:52.000Z",
-    "category": "africa-markets",
-    "summary": "[GroundUp] Bank employees signed up new customers at an SGK recruitment site",
-    "type": "article",
-    "region": "africa"
-  },
-  {
-    "id": "3aad04fc0eadb51cf673c1c3a1cc63526aae2f3a",
-    "title": "Zimbabwe: Ncube Declines to Allocate Supplementary Budget in Latest Review",
-    "source": "AllAfrica Business",
-    "url": "https://allafrica.com/stories/202607310030.html",
-    "publishedAt": "2026-07-31T07:34:43.000Z",
-    "category": "africa-markets",
-    "summary": "[New Zimbabwe] Finance Minister Mthuli Ncube on Thursday announced that no supplementary budget would be allocated in the latest Mid-Term Budget Review, stating that Treasury has enough fiscal space to carry out programs through the end of the year.",
-    "type": "article",
-    "region": "africa"
-  },
-  {
     "id": "063c7f52602329917b477562551cda67f6f5162c",
     "title": "Zimbabwe: Mid-Term Budget Review - Zimbabwe to Stay Course On Economic Reforms, Says Ncube As FDI Surges to U.S.$965 Million",
     "source": "AllAfrica Business",
@@ -95,17 +293,6 @@
     "publishedAt": "2026-07-31T07:33:49.000Z",
     "category": "africa-markets",
     "summary": "[New Zimbabwe] FINANCE Minister Professor Mthuli Ncube has pledged that the government will maintain the macroeconomic policies that have underpinned recent economic stability, saying the focus for the remainder of 2026 will be on sustaining growth, attracting investment and stre",
-    "type": "article",
-    "region": "africa"
-  },
-  {
-    "id": "195e9ba4443565219f729c44d8f141ede8c6afd5",
-    "title": "Kenya: Maraga Tears Into Ruto's Address, Says Kenyans Deserve Answers--Not New Promises",
-    "source": "AllAfrica Business",
-    "url": "https://allafrica.com/stories/202607310021.html",
-    "publishedAt": "2026-07-31T07:26:33.000Z",
-    "category": "africa-markets",
-    "summary": "[Capital FM] Nairobi -- Immediate former Chief Justice David Maraga has dismissed President William Ruto's proposed national dialogue on Kenya's post-Vision 2030 future as a distraction from what he termed the administration's failures on corruption, the cost of living and consti",
     "type": "article",
     "region": "africa"
   },
@@ -198,28 +385,6 @@
     "region": "global"
   },
   {
-    "id": "65591ecdc5362a8d786b5cb2a31895dca0708fcb",
-    "title": "Namibia: Namibia Survives Trump's Sweeping Tariffs",
-    "source": "AllAfrica Business",
-    "url": "https://allafrica.com/stories/202607300489.html",
-    "publishedAt": "2026-07-30T16:21:13.000Z",
-    "category": "africa-markets",
-    "summary": "[New Era] Namibia has survived a dreadful external economic shock after the country was excluded from the list of seven African countries that are facing President Donald Trump's latest 12.5% tariff hit on goods entering the United States.",
-    "type": "article",
-    "region": "africa"
-  },
-  {
-    "id": "7ead924338f04540e9426fe4baf69f3373f62237",
-    "title": "Uganda: Eswatini Officials Awestruck By Kiira Motors Vehicle Plant",
-    "source": "AllAfrica Business",
-    "url": "https://allafrica.com/stories/202607300475.html",
-    "publishedAt": "2026-07-30T16:14:20.000Z",
-    "category": "africa-markets",
-    "summary": "[Nile Post] A high-level delegation from the Kingdom of Eswatini has expressed admiration for Uganda's automotive manufacturing progress after touring the Kiira Vehicle Plant in Jinja, where they witnessed the country's growing capacity to produce electric and conventional buses ",
-    "type": "article",
-    "region": "africa"
-  },
-  {
     "id": "25e60d94966027598682d3a73a13638129475336",
     "title": "Okta buys AI security startup Permiso — source says for about $200M",
     "source": "TechCrunch Startups",
@@ -253,17 +418,6 @@
     "region": "global"
   },
   {
-    "id": "0edb7afd0aae23206596cf6c8ad0b56d322e72de",
-    "title": "Federal Reserve Board issues enforcement actions with former employee of Regions Bank and former employee of First Interstate Bank",
-    "source": "Federal Reserve Press Releases",
-    "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260730a.htm",
-    "publishedAt": "2026-07-30T15:00:00.000Z",
-    "category": "macro",
-    "summary": "Federal Reserve Board issues enforcement actions with former employee of Regions Bank and former employee of First Interstate Bank",
-    "type": "article",
-    "region": "global"
-  },
-  {
     "id": "aabe730a8f85c384dd8fc2c20db4a6001433445d",
     "title": "Federal Reserve Board issues enforcement action with Iuka Bancshares, Inc. and The Iuka State Bank",
     "source": "Federal Reserve Press Releases",
@@ -275,6 +429,17 @@
     "region": "global"
   },
   {
+    "id": "0edb7afd0aae23206596cf6c8ad0b56d322e72de",
+    "title": "Federal Reserve Board issues enforcement actions with former employee of Regions Bank and former employee of First Interstate Bank",
+    "source": "Federal Reserve Press Releases",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260730a.htm",
+    "publishedAt": "2026-07-30T15:00:00.000Z",
+    "category": "macro",
+    "summary": "Federal Reserve Board issues enforcement actions with former employee of Regions Bank and former employee of First Interstate Bank",
+    "type": "article",
+    "region": "global"
+  },
+  {
     "id": "0775d97a5b3d6fea56d5d93281aa915ecc935cd5",
     "title": "Kenya: High Costs, Policy Uncertainty Hurt Kenya's Investment Appeal - PWC",
     "source": "AllAfrica Investment",
@@ -282,28 +447,6 @@
     "publishedAt": "2026-07-30T14:53:00.000Z",
     "category": "africa-markets",
     "summary": "[Capital FM] Nairobi -- Kenya's attractiveness to investors is being eroded by factors such as high business costs and policy uncertainty.",
-    "type": "article",
-    "region": "africa"
-  },
-  {
-    "id": "510290798ef2478778c5d544f3a6807123306874",
-    "title": "Malawi: Namiwa Summoned to Malawi Police Headquarters",
-    "source": "AllAfrica Business",
-    "url": "https://allafrica.com/stories/202607300419.html",
-    "publishedAt": "2026-07-30T14:49:57.000Z",
-    "category": "africa-markets",
-    "summary": "[Nyasa Times] CDEDI Executive Director Sylvester Namiwa has been summoned by the Malawi Police Service to appear at the National Police Headquarters in Area 30, Lilongwe, at 2:30pm today -- the latest twist in what has become a closely watched standoff between the outspoken activ",
-    "type": "article",
-    "region": "africa"
-  },
-  {
-    "id": "62c18008b4ef5109da82a108a85e462ec9f58044",
-    "title": "Africa: Financing Africa's Digital Future - Institutions Push for Smarter, Coordinated Funding",
-    "source": "AllAfrica Business",
-    "url": "https://allafrica.com/stories/202607300403.html",
-    "publishedAt": "2026-07-30T14:34:06.000Z",
-    "category": "africa-markets",
-    "summary": "[IPS] Addis Ababa, Ethiopia -- Africa's digital revolution is gathering pace, but the financing needed to sustain it remains uneven, fragmented, and often out of reach.",
     "type": "article",
     "region": "africa"
   },
@@ -363,28 +506,6 @@
     "region": "global"
   },
   {
-    "id": "37572970abb967d4daace9efd77422b936f5409a",
-    "title": "The lineage behind 69% of open models was never verified. Cisco just fingerprinted almost 900 for free",
-    "source": "VentureBeat",
-    "url": "https://venturebeat.com/security/cisco-ai-supply-chain-provenance-explorer-fingerprints-900-open-models-replaces-self-reported-tags",
-    "publishedAt": "2026-07-30T13:00:00.000Z",
-    "category": "ai",
-    "summary": "A security team approving an open-source model for production today starts with a repository page. The page lists the model name, the license, and a tag identifying the base model it descended from. That tag is a string the uploader typed. Hugging Face does not require uploaders ",
-    "type": "article",
-    "region": "global"
-  },
-  {
-    "id": "cac0d32335eade77893b08e21da6373c25fb2967",
-    "title": "Kenya: Treasury to Centralize Public Debt Data On Single Platform",
-    "source": "AllAfrica Business",
-    "url": "https://allafrica.com/stories/202607300314.html",
-    "publishedAt": "2026-07-30T12:07:29.000Z",
-    "category": "africa-markets",
-    "summary": "[Capital FM] Nairobi -- The Government is developing a new digital platform to centralize public debt data in a move aimed at improving transparency and strengthening debt management.",
-    "type": "article",
-    "region": "africa"
-  },
-  {
     "id": "39f769f2f81b863ab9e4e3b58f42e5cee4c3d294",
     "title": "Lesotho: Relief for Lesotho As U.S. Tariffs Expire",
     "source": "AllAfrica Business",
@@ -427,49 +548,6 @@
     "summary": "",
     "type": "article",
     "region": "global"
-  },
-  {
-    "id": "ca43638940ee4aa418bc84600393b11397dcaa1a",
-    "title": "Companies are finally seeing AI ROI — and now they know how much more value it can deliver",
-    "source": "VentureBeat",
-    "url": "https://venturebeat.com/technology/companies-are-finally-seeing-ai-roi-and-now-they-know-how-much-more-value-it-can-deliver",
-    "publishedAt": "2026-07-30T07:00:00.000Z",
-    "category": "ai",
-    "summary": "Presented by SAP Enterprise AI has moved from experiment to execution, and that shift is beginning to show real returns. The SAP Value of AI Report 2026, produced with Oxford Economics and based on a survey of 2,600 business leaders across 13 countries, found that AI now supports",
-    "type": "article",
-    "region": "global"
-  },
-  {
-    "id": "a124c4486aed2faad7ee219df924a9a5993ebb43",
-    "title": "10Y-2Y spread: 0.45%",
-    "source": "FRED",
-    "url": "https://fred.stlouisfed.org/series/T10Y2Y",
-    "publishedAt": "2026-07-30T00:00:00.000Z",
-    "category": "yield-curve",
-    "summary": "10Y-2Y spread is 0.45% (+0.00% vs previous).",
-    "type": "market-data",
-    "region": "us",
-    "symbol": "T10Y2Y",
-    "value": 0.45,
-    "change": 0,
-    "changePercent": 0,
-    "unit": "%"
-  },
-  {
-    "id": "5748716b0fc174b4f58d274909b23eb0d66e286c",
-    "title": "10Y-3M spread: 0.86%",
-    "source": "FRED",
-    "url": "https://fred.stlouisfed.org/series/T10Y3M",
-    "publishedAt": "2026-07-30T00:00:00.000Z",
-    "category": "yield-curve",
-    "summary": "10Y-3M spread is 0.86% (+0.02% vs previous).",
-    "type": "market-data",
-    "region": "us",
-    "symbol": "T10Y3M",
-    "value": 0.86,
-    "change": 0.020000000000000018,
-    "changePercent": 0.020000000000000018,
-    "unit": "%"
   },
   {
     "id": "1bd342b4b31f1dd84650bc432cc4738255320ba1",
@@ -582,86 +660,6 @@
     "region": "global"
   },
   {
-    "id": "bade726bf62b58e4bb0f2e754fb9ca4f4ff0968c",
-    "title": "US 2Y Treasury yield: 4.22%",
-    "source": "FRED",
-    "url": "https://fred.stlouisfed.org/series/DGS2",
-    "publishedAt": "2026-07-29T00:00:00.000Z",
-    "category": "yield-curve",
-    "summary": "US 2Y Treasury yield is 4.22% (-0.04% vs previous).",
-    "type": "market-data",
-    "region": "us",
-    "symbol": "DGS2",
-    "value": 4.22,
-    "change": -0.040000000000000036,
-    "changePercent": -0.040000000000000036,
-    "unit": "%"
-  },
-  {
-    "id": "c828fb6a00e43fecf3c02e4792afb228dcfb12ff",
-    "title": "US 10Y Treasury yield: 4.67%",
-    "source": "FRED",
-    "url": "https://fred.stlouisfed.org/series/DGS10",
-    "publishedAt": "2026-07-29T00:00:00.000Z",
-    "category": "yield-curve",
-    "summary": "US 10Y Treasury yield is 4.67% (+0.06% vs previous).",
-    "type": "market-data",
-    "region": "us",
-    "symbol": "DGS10",
-    "value": 4.67,
-    "change": 0.05999999999999961,
-    "changePercent": 0.05999999999999961,
-    "unit": "%"
-  },
-  {
-    "id": "014508d1dff4cdfcc85e4e8906a349462d5dcf98",
-    "title": "US 30Y Treasury yield: 5.20%",
-    "source": "FRED",
-    "url": "https://fred.stlouisfed.org/series/DGS30",
-    "publishedAt": "2026-07-29T00:00:00.000Z",
-    "category": "yield-curve",
-    "summary": "US 30Y Treasury yield is 5.20% (+0.11% vs previous).",
-    "type": "market-data",
-    "region": "us",
-    "symbol": "DGS30",
-    "value": 5.2,
-    "change": 0.11000000000000032,
-    "changePercent": 0.11000000000000032,
-    "unit": "%"
-  },
-  {
-    "id": "97e2bed9f34e3a60f2d91991f7392fc4dd24eb0d",
-    "title": "US 3M Treasury yield: 3.83%",
-    "source": "FRED",
-    "url": "https://fred.stlouisfed.org/series/DGS3MO",
-    "publishedAt": "2026-07-29T00:00:00.000Z",
-    "category": "yield-curve",
-    "summary": "US 3M Treasury yield is 3.83% (-0.07% vs previous).",
-    "type": "market-data",
-    "region": "us",
-    "symbol": "DGS3MO",
-    "value": 3.83,
-    "change": -0.06999999999999984,
-    "changePercent": -0.06999999999999984,
-    "unit": "%"
-  },
-  {
-    "id": "3fe684c7a13c67aeb27396d3aaea5bf7d2fb221f",
-    "title": "US 10Y TIPS yield: 2.41%",
-    "source": "FRED",
-    "url": "https://fred.stlouisfed.org/series/DFII10",
-    "publishedAt": "2026-07-29T00:00:00.000Z",
-    "category": "yield-curve",
-    "summary": "US 10Y TIPS yield is 2.41% (+0.00% vs previous).",
-    "type": "market-data",
-    "region": "us",
-    "symbol": "DFII10",
-    "value": 2.41,
-    "change": 0,
-    "changePercent": 0,
-    "unit": "%"
-  },
-  {
     "id": "ac59c7d45b3c25f6ec034c34286e402c15c5029f",
     "title": "Bot-detection startup Spur nabs $200M from Insight",
     "source": "TechCrunch Startups",
@@ -680,17 +678,6 @@
     "publishedAt": "2026-07-28T20:45:12.000Z",
     "category": "early-stage",
     "summary": "Runlayer is suing Rippling after Rippling evaluated the startup's MCP gateway product and then opted to build one itself.",
-    "type": "article",
-    "region": "global"
-  },
-  {
-    "id": "09c57e7027eb114f40146b6fc5230ef97741b081",
-    "title": "Ozlo’s Sleepbuds 2 build on Bose’s sleep earbud legacy",
-    "source": "TechCrunch Startups",
-    "url": "https://techcrunch.com/2026/07/28/ozlos-sleepbuds-2-build-on-boses-sleep-earbud-legacy/",
-    "publishedAt": "2026-07-28T19:09:18.000Z",
-    "category": "early-stage",
-    "summary": "Ozlo’s first major update to its sleep earbuds introduces longer battery life, improved connectivity, enhanced audio, and new sleep features as the startup continues the product line once abandoned by Bose.",
     "type": "article",
     "region": "global"
   },
@@ -739,17 +726,6 @@
     "region": "global"
   },
   {
-    "id": "5dd05f1ed5d9e7d2088ea086d632de2cce2c3424",
-    "title": "Cursor makes its biggest India push yet ahead of SpaceX acquisition with localized pricing",
-    "source": "TechCrunch Startups",
-    "url": "https://techcrunch.com/2026/07/27/cursor-makes-its-biggest-india-push-yet-ahead-of-spacex-acquisition-with-localized-pricing/",
-    "publishedAt": "2026-07-28T04:30:00.000Z",
-    "category": "early-stage",
-    "summary": "Cursor says India is now its third-largest market globally and plans to expand local hiring and enterprise sales.",
-    "type": "article",
-    "region": "global"
-  },
-  {
     "id": "13d500db828f2e2b4ddba3d9c4c205193f126f37",
     "title": "Ethiopia: Ethiopia-U.S. Investment Dialogue Seeks to Strengthen Commercial Diplomacy",
     "source": "AllAfrica Investment",
@@ -759,17 +735,6 @@
     "summary": "[ENA] Addis Ababa -- Ethiopia and the United States have stepped up efforts to strengthen commercial diplomacy and make the investment climate more conducive, as senior government officials and American business leaders held a high-level dialogue.",
     "type": "article",
     "region": "africa"
-  },
-  {
-    "id": "2b52e291006e47f4a12c245920a70cd30c3bc194",
-    "title": "Antares raises $470M to build nuclear reactors for the US military",
-    "source": "TechCrunch Startups",
-    "url": "https://techcrunch.com/2026/07/27/antares-raises-470m-to-build-nuclear-reactors-for-the-u-s-military/",
-    "publishedAt": "2026-07-27T17:49:28.000Z",
-    "category": "early-stage",
-    "summary": "Antares has raised $470 million to build small modular reactors — 100 kW to 1 MW — for U.S. Air Force bases.",
-    "type": "article",
-    "region": "global"
   },
   {
     "id": "a9055ea1b1af2f86763fb02b002160b4d7b2af49",
@@ -783,28 +748,6 @@
     "region": "africa"
   },
   {
-    "id": "5c85807dea6db7ccb0a4d1c4ac068e84ee8440f6",
-    "title": "Power up your AI infrastructure! A first look at the Smart Systems Stage agenda at TechCrunch Disrupt 2026",
-    "source": "TechCrunch Startups",
-    "url": "https://techcrunch.com/2026/07/27/power-up-your-ai-infrastructure-a-first-look-at-the-smart-systems-stage-agenda-at-techcrunch-disrupt-2026/",
-    "publishedAt": "2026-07-27T15:30:00.000Z",
-    "category": "early-stage",
-    "summary": "At TechCrunch Disrupt 2026, the Smart Systems Stage will be where energy, infrastructure, and technology collide, covering everything from fusion breakthroughs to the grid strain AI is putting on the entire economy.",
-    "type": "article",
-    "region": "global"
-  },
-  {
-    "id": "3f1518dce932f93ea8b5b6e356f2d3a96ac11f07",
-    "title": "Ilya Sutskever’s Safe Superintelligence partners with Nvidia to scale its AI research",
-    "source": "TechCrunch Startups",
-    "url": "https://techcrunch.com/2026/07/27/ilya-sutskevers-safe-superintelligence-partners-with-nvidia-to-scale-its-ai-research/",
-    "publishedAt": "2026-07-27T15:01:50.000Z",
-    "category": "early-stage",
-    "summary": "After two years in stealth, Safe Superintelligence has announced a long-term partnership with Nvidia as it prepares to scale to its next phase.",
-    "type": "article",
-    "region": "global"
-  },
-  {
     "id": "37bd2858bd768cc41a990af140ba0923295460f3",
     "title": "Nigeria: COAS Seeks Private Sector Investment in Military Infrastructure",
     "source": "AllAfrica Investment",
@@ -814,17 +757,6 @@
     "summary": "[Leadership] The Chief of Army Staff (COAS), Lieutenant General Waidi Shaibu, has advocated private sector investment in military infrastructure, troops' welfare and support for veterans.",
     "type": "article",
     "region": "africa"
-  },
-  {
-    "id": "1c48d2633e580781f7f530a5bdf9011066067a7a",
-    "title": "Enigma raises $71M to make controlling a robot as easy as adjusting the volume",
-    "source": "TechCrunch Startups",
-    "url": "https://techcrunch.com/2026/07/27/enigma-raises-70m-to-make-controlling-a-robot-as-easy-as-adjusting-the-volume/",
-    "publishedAt": "2026-07-27T13:00:00.000Z",
-    "category": "early-stage",
-    "summary": "The massive seed round was led by Index Ventures and Ribbit Capital, with participation from Sarah Guo's Conviction Partners.",
-    "type": "article",
-    "region": "global"
   },
   {
     "id": "9b3e19d0910c8155a357f75cf91dab8cd9393747",
@@ -858,17 +790,6 @@
     "summary": "[Bird Story Agency] Mali's iconic mud-dyed textile, bogolan, is creating new opportunities beyond its cultural significance. As the centuries-old craft gains protected status, women artisans and entrepreneurs are turning tradition into thriving businesses while preserving indigen",
     "type": "article",
     "region": "africa"
-  },
-  {
-    "id": "2647cf807762d18d663abdd9164c6687fb6e014d",
-    "title": "The Week’s 10 Biggest Funding Rounds: Physical AI Startup Atoms Leads In Varied Week For Large Deals",
-    "source": "Crunchbase News",
-    "url": "https://news.crunchbase.com/venture/biggest-funding-rounds-physical-ai-fintech-defense-atoms/",
-    "publishedAt": "2026-07-24T19:25:21.000Z",
-    "category": "venture-capital",
-    "summary": "Startup investors poured capital into a varied lineup of large rounds this week, targeting sectors including physical AI, biotech, cybersecurity, AI infrastructure and fintech.",
-    "type": "article",
-    "region": "global"
   },
   {
     "id": "a1f7cdbf43be41cd2528eec19be5ebd4bffd3460",
@@ -935,17 +856,6 @@
     "summary": "[Ghanaian Times] The Ghana Investment Promotion Centre (GIPC) has been transformed into the Ghana Investment Promotion Authority (GIPA) following President John Dramani Mahama's assent to the Ghana Investment Promotion Authority Act, 2026 (Act 1173).",
     "type": "article",
     "region": "africa"
-  },
-  {
-    "id": "f33dc0a379d742fa31133f4c9a014f1ca3b87a3b",
-    "title": "General Catalyst Takes The Lead Over Y Combinator In Backing $5M+ Fintech Deals",
-    "source": "Crunchbase News",
-    "url": "https://news.crunchbase.com/venture/fintech-funder-general-catalyst-leads-deal-count-q2-2026/",
-    "publishedAt": "2026-07-24T11:00:46.000Z",
-    "category": "venture-capital",
-    "summary": "For the first time in several quarters, General Catalyst in Q2 overtook Y Combinator when it came to participating in the most fintech deals of $5 million or more, per Crunchbase data. The quarter also marked the busiest one for General Catalyst since 2021 in terms of investing i",
-    "type": "article",
-    "region": "global"
   },
   {
     "id": "bce6b955e1b0e63c428d119d1537775fdabc6722",
@@ -1021,17 +931,6 @@
     "publishedAt": "2026-07-24T05:02:07.000Z",
     "category": "africa-markets",
     "summary": "[Daily News] London, UK -- TANZANIA has urged international investors to tap into opportunities in infrastructure, energy, industry, agriculture, mining and financial services as the country steps up efforts to transform its economy.",
-    "type": "article",
-    "region": "africa"
-  },
-  {
-    "id": "e7859451dac39ad74e340f53a5f58bd13a5f86dd",
-    "title": "Tanzania: Tanzania Resorts to Regular Dialogue With Global Investors to Attract Productive Investments",
-    "source": "AllAfrica Investment",
-    "url": "https://allafrica.com/stories/202607240037.html",
-    "publishedAt": "2026-07-24T05:02:07.000Z",
-    "category": "africa-markets",
-    "summary": "[Daily News] London -- TANZANIA High Commissioner to the United Kingdom, Mbelwa Kairuki, has said the government continues to maintain regular dialogue with the international investment community as part of efforts to strengthen partnerships and attract productive investments int",
     "type": "article",
     "region": "africa"
   },
@@ -1322,17 +1221,6 @@
     "region": "global"
   },
   {
-    "id": "ab4270658ec8cf56376bce077e05484d17be05b8",
-    "title": "Federal Reserve Board issues enforcement action with employee of Bank of Eufaula and S N B Bancshares, Inc.",
-    "source": "Federal Reserve Press Releases",
-    "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260625b.htm",
-    "publishedAt": "2026-06-25T15:00:00.000Z",
-    "category": "macro",
-    "summary": "Federal Reserve Board issues enforcement action with employee of Bank of Eufaula and S N B Bancshares, Inc.",
-    "type": "article",
-    "region": "global"
-  },
-  {
     "id": "2599741e17593a30b005577df80ca99e3d24790e",
     "title": "Federal Reserve Board announces termination of enforcement action with Jiko Group, Inc.",
     "source": "Federal Reserve Press Releases",
@@ -1340,6 +1228,17 @@
     "publishedAt": "2026-06-25T15:00:00.000Z",
     "category": "macro",
     "summary": "Federal Reserve Board announces termination of enforcement action with Jiko Group, Inc.",
+    "type": "article",
+    "region": "global"
+  },
+  {
+    "id": "ab4270658ec8cf56376bce077e05484d17be05b8",
+    "title": "Federal Reserve Board issues enforcement action with employee of Bank of Eufaula and S N B Bancshares, Inc.",
+    "source": "Federal Reserve Press Releases",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260625b.htm",
+    "publishedAt": "2026-06-25T15:00:00.000Z",
+    "category": "macro",
+    "summary": "Federal Reserve Board issues enforcement action with employee of Bank of Eufaula and S N B Bancshares, Inc.",
     "type": "article",
     "region": "global"
   },
@@ -1395,28 +1294,6 @@
     "publishedAt": "2026-06-18T19:00:00.000Z",
     "category": "macro",
     "summary": "Federal Reserve Board issues enforcement action with former employee of Bank of Eufaula and S N B Bancshares, Inc.",
-    "type": "article",
-    "region": "global"
-  },
-  {
-    "id": "99f0da34540714df113da852fe738d3bea091af2",
-    "title": "Federal Reserve Board issues enforcement action with former employee of Manufacturers and Traders Trust Company",
-    "source": "Federal Reserve Press Releases",
-    "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260618a.htm",
-    "publishedAt": "2026-06-18T15:00:00.000Z",
-    "category": "macro",
-    "summary": "Federal Reserve Board issues enforcement action with former employee of Manufacturers and Traders Trust Company",
-    "type": "article",
-    "region": "global"
-  },
-  {
-    "id": "521e0c6a87bf1b3b9a605b215797e94682b8da36",
-    "title": "Federal Reserve Board requests comment on proposal to require certain payment stablecoin issuers to maintain an effective customer identification program",
-    "source": "Federal Reserve Press Releases",
-    "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260618a.htm",
-    "publishedAt": "2026-06-18T13:00:00.000Z",
-    "category": "macro",
-    "summary": "Federal Reserve Board requests comment on proposal to require certain payment stablecoin issuers to maintain an effective customer identification program",
     "type": "article",
     "region": "global"
   },
