@@ -1,152 +1,152 @@
 {
   "Reuters Business": {
-    "consecutiveFailures": 3,
-    "lastStatus": "failure",
-    "lastMessage": "fetch failed",
-    "updatedAt": "2026-08-01T11:27:24.658Z"
+    "consecutiveFailures": 0,
+    "lastStatus": "skipped",
+    "lastMessage": "skipped due to 3 consecutive failures",
+    "updatedAt": "2026-08-05T11:58:41.109Z"
   },
   "Reuters World": {
-    "consecutiveFailures": 3,
-    "lastStatus": "failure",
-    "lastMessage": "fetch failed",
-    "updatedAt": "2026-08-01T11:27:24.658Z"
+    "consecutiveFailures": 0,
+    "lastStatus": "skipped",
+    "lastMessage": "skipped due to 3 consecutive failures",
+    "updatedAt": "2026-08-05T11:58:41.109Z"
   },
   "Federal Reserve Press Releases": {
     "consecutiveFailures": 0,
     "lastStatus": "success",
     "lastMessage": "success",
-    "updatedAt": "2026-08-01T11:27:24.658Z"
+    "updatedAt": "2026-08-05T11:58:41.109Z"
   },
   "Federal Reserve Speeches": {
     "consecutiveFailures": 0,
     "lastStatus": "success",
     "lastMessage": "success",
-    "updatedAt": "2026-08-01T11:27:24.658Z"
+    "updatedAt": "2026-08-05T11:58:41.109Z"
   },
   "ECB Press Releases": {
     "consecutiveFailures": 0,
     "lastStatus": "success",
     "lastMessage": "success",
-    "updatedAt": "2026-08-01T11:27:24.658Z"
+    "updatedAt": "2026-08-05T11:58:41.109Z"
   },
   "BIS Press Releases": {
-    "consecutiveFailures": 3,
-    "lastStatus": "failure",
-    "lastMessage": "Feed request failed (404)",
-    "updatedAt": "2026-08-01T11:27:24.658Z"
+    "consecutiveFailures": 0,
+    "lastStatus": "skipped",
+    "lastMessage": "skipped due to 3 consecutive failures",
+    "updatedAt": "2026-08-05T11:58:41.109Z"
   },
   "IMF News": {
-    "consecutiveFailures": 3,
-    "lastStatus": "failure",
-    "lastMessage": "Feed request failed (403)",
-    "updatedAt": "2026-08-01T11:27:24.658Z"
+    "consecutiveFailures": 0,
+    "lastStatus": "skipped",
+    "lastMessage": "skipped due to 3 consecutive failures",
+    "updatedAt": "2026-08-05T11:58:41.109Z"
   },
   "World Bank News": {
-    "consecutiveFailures": 3,
-    "lastStatus": "failure",
-    "lastMessage": "Feed request failed (404)",
-    "updatedAt": "2026-08-01T11:27:24.658Z"
+    "consecutiveFailures": 0,
+    "lastStatus": "skipped",
+    "lastMessage": "skipped due to 3 consecutive failures",
+    "updatedAt": "2026-08-05T11:58:41.109Z"
   },
   "AllAfrica Business": {
     "consecutiveFailures": 0,
     "lastStatus": "success",
     "lastMessage": "success",
-    "updatedAt": "2026-08-01T11:27:24.658Z"
+    "updatedAt": "2026-08-05T11:58:41.109Z"
   },
   "AllAfrica Investment": {
     "consecutiveFailures": 0,
     "lastStatus": "success",
     "lastMessage": "success",
-    "updatedAt": "2026-08-01T11:27:24.658Z"
+    "updatedAt": "2026-08-05T11:58:41.109Z"
   },
   "SIFMA News": {
-    "consecutiveFailures": 3,
-    "lastStatus": "failure",
-    "lastMessage": "Feed request failed (404)",
-    "updatedAt": "2026-08-01T11:27:24.658Z"
+    "consecutiveFailures": 0,
+    "lastStatus": "skipped",
+    "lastMessage": "skipped due to 3 consecutive failures",
+    "updatedAt": "2026-08-05T11:58:41.109Z"
   },
   "Crunchbase News": {
     "consecutiveFailures": 0,
     "lastStatus": "success",
     "lastMessage": "success",
-    "updatedAt": "2026-08-01T11:27:24.658Z"
+    "updatedAt": "2026-08-05T11:58:41.109Z"
   },
   "TechCrunch Startups": {
     "consecutiveFailures": 0,
     "lastStatus": "success",
     "lastMessage": "success",
-    "updatedAt": "2026-08-01T11:27:24.658Z"
+    "updatedAt": "2026-08-05T11:58:41.109Z"
   },
   "VentureBeat": {
     "consecutiveFailures": 0,
     "lastStatus": "success",
     "lastMessage": "success",
-    "updatedAt": "2026-08-01T11:27:24.658Z"
+    "updatedAt": "2026-08-05T11:58:41.109Z"
   },
   "FRED - 2Y Treasury": {
-    "consecutiveFailures": 1,
-    "lastStatus": "failure",
-    "lastMessage": "fetch failed",
-    "updatedAt": "2026-08-01T11:27:24.658Z"
+    "consecutiveFailures": 0,
+    "lastStatus": "success",
+    "lastMessage": "success",
+    "updatedAt": "2026-08-05T11:58:41.109Z"
   },
   "FRED - 10Y Treasury": {
-    "consecutiveFailures": 1,
-    "lastStatus": "failure",
-    "lastMessage": "fetch failed",
-    "updatedAt": "2026-08-01T11:27:24.658Z"
+    "consecutiveFailures": 0,
+    "lastStatus": "success",
+    "lastMessage": "success",
+    "updatedAt": "2026-08-05T11:58:41.109Z"
   },
   "FRED - 30Y Treasury": {
-    "consecutiveFailures": 1,
-    "lastStatus": "failure",
-    "lastMessage": "fetch failed",
-    "updatedAt": "2026-08-01T11:27:24.658Z"
+    "consecutiveFailures": 0,
+    "lastStatus": "success",
+    "lastMessage": "success",
+    "updatedAt": "2026-08-05T11:58:41.109Z"
   },
   "FRED - 3M Treasury": {
-    "consecutiveFailures": 1,
-    "lastStatus": "failure",
-    "lastMessage": "fetch failed",
-    "updatedAt": "2026-08-01T11:27:24.658Z"
+    "consecutiveFailures": 0,
+    "lastStatus": "success",
+    "lastMessage": "success",
+    "updatedAt": "2026-08-05T11:58:41.109Z"
   },
   "FRED - 10Y minus 2Y": {
-    "consecutiveFailures": 1,
-    "lastStatus": "failure",
-    "lastMessage": "fetch failed",
-    "updatedAt": "2026-08-01T11:27:24.658Z"
+    "consecutiveFailures": 0,
+    "lastStatus": "success",
+    "lastMessage": "success",
+    "updatedAt": "2026-08-05T11:58:41.109Z"
   },
   "Alpha Vantage - SPY": {
-    "consecutiveFailures": 3,
-    "lastStatus": "failure",
-    "lastMessage": "ALPHA_VANTAGE_API_KEY is not set",
-    "updatedAt": "2026-08-01T11:27:24.658Z"
+    "consecutiveFailures": 0,
+    "lastStatus": "skipped",
+    "lastMessage": "skipped due to 3 consecutive failures",
+    "updatedAt": "2026-08-05T11:58:41.109Z"
   },
   "Alpha Vantage - QQQ": {
-    "consecutiveFailures": 3,
-    "lastStatus": "failure",
-    "lastMessage": "ALPHA_VANTAGE_API_KEY is not set",
-    "updatedAt": "2026-08-01T11:27:24.658Z"
+    "consecutiveFailures": 0,
+    "lastStatus": "skipped",
+    "lastMessage": "skipped due to 3 consecutive failures",
+    "updatedAt": "2026-08-05T11:58:41.109Z"
   },
   "Alpha Vantage - DIA": {
-    "consecutiveFailures": 3,
-    "lastStatus": "failure",
-    "lastMessage": "ALPHA_VANTAGE_API_KEY is not set",
-    "updatedAt": "2026-08-01T11:27:24.658Z"
+    "consecutiveFailures": 0,
+    "lastStatus": "skipped",
+    "lastMessage": "skipped due to 3 consecutive failures",
+    "updatedAt": "2026-08-05T11:58:41.109Z"
   },
   "FRED - 10Y TIPS": {
-    "consecutiveFailures": 1,
-    "lastStatus": "failure",
-    "lastMessage": "fetch failed",
-    "updatedAt": "2026-08-01T11:27:24.658Z"
+    "consecutiveFailures": 0,
+    "lastStatus": "success",
+    "lastMessage": "success",
+    "updatedAt": "2026-08-05T11:58:41.109Z"
   },
   "FRED - 10Y minus 3M": {
-    "consecutiveFailures": 1,
-    "lastStatus": "failure",
-    "lastMessage": "fetch failed",
-    "updatedAt": "2026-08-01T11:27:24.658Z"
+    "consecutiveFailures": 0,
+    "lastStatus": "success",
+    "lastMessage": "success",
+    "updatedAt": "2026-08-05T11:58:41.109Z"
   },
   "Alpha Vantage - IWM": {
-    "consecutiveFailures": 3,
-    "lastStatus": "failure",
-    "lastMessage": "ALPHA_VANTAGE_API_KEY is not set",
-    "updatedAt": "2026-08-01T11:27:24.658Z"
+    "consecutiveFailures": 0,
+    "lastStatus": "skipped",
+    "lastMessage": "skipped due to 3 consecutive failures",
+    "updatedAt": "2026-08-05T11:58:41.109Z"
   }
 }
