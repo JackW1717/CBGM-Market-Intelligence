@@ -1,5 +1,38 @@
 [
   {
+    "id": "c9329978009ef53ba58ba4b7c96833e19c68ef99",
+    "title": "OpenAI acquires presentation startup NextSlide",
+    "source": "TechCrunch Startups",
+    "url": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
+    "publishedAt": "2026-08-08T19:41:13.000Z",
+    "category": "early-stage",
+    "summary": "NextSlide says its team members are now working on ChatGPT.",
+    "type": "article",
+    "region": "global"
+  },
+  {
+    "id": "136da5543d6fe41fec1d31d5817f477a14577567",
+    "title": "Africa: From Capital to Prosperity - Can Africa build the financial engine for its industrialisation?",
+    "source": "AllAfrica Investment",
+    "url": "https://allafrica.com/stories/202608080079.html",
+    "publishedAt": "2026-08-08T18:14:17.000Z",
+    "category": "africa-markets",
+    "summary": "[allAfrica] Executive Summary",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "ecb5cc92831419b5fea37d15d6d2e2f4d12648d3",
+    "title": "Africa: Africa Has Ideas - What It Lacks Is a Fair Hearing from Global Capital",
+    "source": "AllAfrica Investment",
+    "url": "https://allafrica.com/stories/202608080045.html",
+    "publishedAt": "2026-08-08T12:16:19.000Z",
+    "category": "africa-markets",
+    "summary": "[allAfrica] Why good African businesses and projects can struggle to cross the funding redline",
+    "type": "article",
+    "region": "africa"
+  },
+  {
     "id": "226de72ef8996b91095d95363d2a0c698731154a",
     "title": "Four AI agents coordinating in real time outperformed Claude Opus 4.8 on enterprise coding tasks",
     "source": "VentureBeat",
@@ -84,17 +117,6 @@
     "publishedAt": "2026-08-07T15:14:01.000Z",
     "category": "africa-markets",
     "summary": "[Premium Times] Other industry leaders urged greater adoption of non-interest finance, describing it as a critical tool for mobilising long-term capital and supporting Nigeria's productive economy.",
-    "type": "article",
-    "region": "africa"
-  },
-  {
-    "id": "519f16c9e951e44dd739849bebc0167f52139960",
-    "title": "South Africa: Support for Companies to Showcase Products At Expo",
-    "source": "AllAfrica Business",
-    "url": "https://allafrica.com/stories/202608070563.html",
-    "publishedAt": "2026-08-07T15:08:00.000Z",
-    "category": "africa-markets",
-    "summary": "[SAnews.gov.za] The Department of Trade, Industry and Competition (the dtic) has supported 12 cosmetics companies to showcase their products at the Organic and Natural Products Expo Africa at the Sandton Convention Centre in Gauteng.",
     "type": "article",
     "region": "africa"
   },
@@ -209,50 +231,6 @@
     "region": "global"
   },
   {
-    "id": "0bbe8800f81865215b2be8da7c8123c3219e38b2",
-    "title": "Malawi: Malawi Mining Minister Clears Kangankunde Rare Earths Project of Illegal Exports After Parliamentary Scrutiny",
-    "source": "AllAfrica Business",
-    "url": "https://allafrica.com/stories/202608070372.html",
-    "publishedAt": "2026-08-07T12:24:59.000Z",
-    "category": "africa-markets",
-    "summary": "[Nyasa Times] Malawi's mining minister Thoko Tembo has told parliament that government inspections at the Kangankunde Rare Earth project in Balaka have found no evidence of illegal mining or unauthorised mineral exports, moving to allay concerns raised by MPs over the operations ",
-    "type": "article",
-    "region": "africa"
-  },
-  {
-    "id": "343fa4abe8d3e7d1404264dbceda20b6c327517e",
-    "title": "Tanzania: Uhuru Torch Hails Barrick CSR Projects",
-    "source": "AllAfrica Business",
-    "url": "https://allafrica.com/stories/202608070324.html",
-    "publishedAt": "2026-08-07T12:10:21.000Z",
-    "category": "africa-markets",
-    "summary": "[Daily News] Tanzania -- THE National Leader of the 2026 Uhuru Torch Race, Wazo Mwang'onda, has commended Barrick North Mara for investing in education and health infrastructure in Tarime District, describing the projects as a testament to the success of publicprivate partnership",
-    "type": "article",
-    "region": "africa"
-  },
-  {
-    "id": "713bb8e2d76e92ea4dac42460dded7dadb2fb31d",
-    "title": "Tanzania: Govt Pledges Stronger Support for Private Sector in Agriculture",
-    "source": "AllAfrica Business",
-    "url": "https://allafrica.com/stories/202608070322.html",
-    "publishedAt": "2026-08-07T12:09:13.000Z",
-    "category": "africa-markets",
-    "summary": "[Daily News] Arusha -- THE government has stressed commitment to creating a conducive environment for agriculture, livestock and fisheries, recognising the private sector as a key driver of economic growth and youth employment.",
-    "type": "article",
-    "region": "africa"
-  },
-  {
-    "id": "f23b73c273b3b21dd461fec969c3260f7d064658",
-    "title": "Ghana: MTN Doubles Heroes of Change Prize to Gh&#xA2;400,000",
-    "source": "AllAfrica Business",
-    "url": "https://allafrica.com/stories/202608070303.html",
-    "publishedAt": "2026-08-07T12:04:22.000Z",
-    "category": "africa-markets",
-    "summary": "[Ghanaian Times] MTN Ghana has doubled the prize package for the eighth edition of its Heroes of Change initiative as part of efforts to recognise and support individuals whose selfless contributions are transforming lives in communities across the country.",
-    "type": "article",
-    "region": "africa"
-  },
-  {
     "id": "2bbf170dba49c03fa44fe89425c78fea27768e43",
     "title": "Ghana: Climate Change Now Economic Challenge - Minister",
     "source": "AllAfrica Business",
@@ -264,17 +242,6 @@
     "region": "africa"
   },
   {
-    "id": "c30c8b033263f55077c2034fb8d729967d48e9d4",
-    "title": "Liberia: U.S. Delegation, Epa Strengthen Partnership to Combat Illegal Mining and Protect Liberia's Environment",
-    "source": "AllAfrica Business",
-    "url": "https://allafrica.com/stories/202608070298.html",
-    "publishedAt": "2026-08-07T12:01:18.000Z",
-    "category": "africa-markets",
-    "summary": "[FrontPageAfrica] Monrovia -- At a time when Liberia is confronting mounting environmental pressures from illegal mining, deforestation, river pollution and growing threats to its marine ecosystem, a high-level engagement between the Environmental Protection Agency (EPA) of Liber",
-    "type": "article",
-    "region": "africa"
-  },
-  {
     "id": "6b9edb1c97c9c6fe8f8c23103a311297cdfeef75",
     "title": "Liberia: Suspended Inchr Officials Reject Dismissal, Accuse Acting Chair of Abuse of Power and Political Vendetta",
     "source": "AllAfrica Business",
@@ -282,28 +249,6 @@
     "publishedAt": "2026-08-07T12:00:21.000Z",
     "category": "africa-markets",
     "summary": "[FrontPageAfrica] Monrovia -- Suspended Executive Director of the Independent National Commission on Human Rights (INCHR), Atty. Urias Teh-Pour, and the Commission's suspended Director for Planning, Internal Monitoring and Evaluation, Bah-Wah Brownell, have rejected their dismiss",
-    "type": "article",
-    "region": "africa"
-  },
-  {
-    "id": "eee6430109288f720645324ac7ab21ad55c71497",
-    "title": "Uganda: Stanbic Uganda Launches Direct Yuan Payment System to Boost Trade With China",
-    "source": "AllAfrica Business",
-    "url": "https://allafrica.com/stories/202608070292.html",
-    "publishedAt": "2026-08-07T11:56:42.000Z",
-    "category": "africa-markets",
-    "summary": "[Independent (Kampala)] Kampala -- Stanbic Bank Uganda has become the first financial institution in the country to integrate with China's Cross-Border Interbank Payment System (CIPS), a move expected to simplify cross-border transactions, reduce foreign exchange risks and streng",
-    "type": "article",
-    "region": "africa"
-  },
-  {
-    "id": "dc953696dfb2ee0274aed55abf9b37a7f17b8b28",
-    "title": "Uganda: Buhweju District Engineers Interdicted Over Alleged Misuse of Road Funds",
-    "source": "AllAfrica Business",
-    "url": "https://allafrica.com/stories/202608070291.html",
-    "publishedAt": "2026-08-07T11:50:58.000Z",
-    "category": "africa-markets",
-    "summary": "[Independent (Kampala)] Buhweju -- Buhweju District senior engineer Dicklus Twinamatsiko and an assistant engineering officer, Samuel Nkwasibwe, have been interdicted over allegations of misappropriating public funds and failing to execute road projects funded during the 2024/202",
     "type": "article",
     "region": "africa"
   },
@@ -341,6 +286,28 @@
     "region": "africa"
   },
   {
+    "id": "e7d041cd7149d667a623ba984e5a1e489b5cee16",
+    "title": "Tanzania: Uganda, Tanzania Seal Deal to Develop Tanga Into Regional Energy Hub",
+    "source": "AllAfrica Business",
+    "url": "https://allafrica.com/stories/202608070230.html",
+    "publishedAt": "2026-08-07T10:34:13.000Z",
+    "category": "africa-markets",
+    "summary": "[Independent (Kampala)] Dar es Salaam -- President Yoweri Kaguta Museveni of Uganda and Samia Suluhu Hassan of Tanzania have endorsed a landmark Memorandum of Understanding (MoU) aimed at reshaping East Africa's energy economy by shifting the region's focus from crude oil exports",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "ac84bcce6556dd16e707a8de47fc883fa4b2cc65",
+    "title": "Tanzania: Cotton Farmers Urged to Embrace Best Practices",
+    "source": "AllAfrica Business",
+    "url": "https://allafrica.com/stories/202608070223.html",
+    "publishedAt": "2026-08-07T10:10:16.000Z",
+    "category": "africa-markets",
+    "summary": "[Daily News] Mwanza -- COTTON farmers have been urged to adopt good agricultural practices, to increase productivity and improve crop quality. The call was made on Wednesday in Ilemela Municipality by Cotton Board Agricultural Officer Onesmo Kiwango during training sessions held ",
+    "type": "article",
+    "region": "africa"
+  },
+  {
     "id": "9020cc471b39bc2adf6e0f76dbaaa2d7c50a8472",
     "title": "Ethiopia: Conference Connecting African Youth Innovators With Investors Underway in Addis Ababa",
     "source": "AllAfrica Investment",
@@ -363,6 +330,17 @@
     "region": "global"
   },
   {
+    "id": "43316ebcf507bf220124fd433748227211903a41",
+    "title": "South Africa: Police Probe Two Nyanga Taxi Shootings - South African News Briefs - August 7, 2026",
+    "source": "AllAfrica Business",
+    "url": "https://allafrica.com/stories/202608070087.html",
+    "publishedAt": "2026-08-07T06:21:52.000Z",
+    "category": "africa-markets",
+    "summary": "[allAfrica]",
+    "type": "article",
+    "region": "africa"
+  },
+  {
     "id": "659b0e05f7e0e0b943da5be19cdb2e17772384aa",
     "title": "Zimbabwe: Zim's Next Test Is Unlocking Investment, Not Fighting Inflation, Says AfDB",
     "source": "AllAfrica Investment",
@@ -374,36 +352,15 @@
     "region": "africa"
   },
   {
-    "id": "99fb2c9671d1892adf1d9c227df21907b8c8abb3",
-    "title": "10Y-2Y spread: 0.46%",
-    "source": "FRED",
-    "url": "https://fred.stlouisfed.org/series/T10Y2Y",
-    "publishedAt": "2026-08-07T00:00:00.000Z",
-    "category": "yield-curve",
-    "summary": "10Y-2Y spread is 0.46% (+0.02% vs previous).",
-    "type": "market-data",
-    "region": "us",
-    "symbol": "T10Y2Y",
-    "value": 0.46,
-    "change": 0.020000000000000018,
-    "changePercent": 0.020000000000000018,
-    "unit": "%"
-  },
-  {
-    "id": "08a7ded744b5efa16265eae50219c8747bfc2edd",
-    "title": "10Y-3M spread: 0.78%",
-    "source": "FRED",
-    "url": "https://fred.stlouisfed.org/series/T10Y3M",
-    "publishedAt": "2026-08-07T00:00:00.000Z",
-    "category": "yield-curve",
-    "summary": "10Y-3M spread is 0.78% (-0.01% vs previous).",
-    "type": "market-data",
-    "region": "us",
-    "symbol": "T10Y3M",
-    "value": 0.78,
-    "change": -0.010000000000000009,
-    "changePercent": -0.010000000000000009,
-    "unit": "%"
+    "id": "4384de337aac3b47951ce076956fcf268da3c88e",
+    "title": "Africa: The LSF welcomes the Launch of the First African Government Bond (USD) ETF available in Europe",
+    "source": "AllAfrica Business",
+    "url": "https://allafrica.com/stories/202608060724.html",
+    "publishedAt": "2026-08-06T23:06:32.000Z",
+    "category": "africa-markets",
+    "summary": "[The Liquidity and Sustainability Facility] The Liquidity and Sustainability Facility (LSF) is pleased to welcome the launch of the L&amp;G LSF African Government Bond (USD) UCITS ETF, developed by Legal &amp; General Asset Management (L&amp;G), it is the first of its kind availa",
+    "type": "article",
+    "region": "africa"
   },
   {
     "id": "b1cbcaaafd442961600936065632f0472191cce8",
@@ -527,6 +484,17 @@
     "region": "global"
   },
   {
+    "id": "019ea6b7634503e381afc81764673fc4cdd3dff2",
+    "title": "Africa: Why Africa's Textile Story Is Bigger Than the Numbers Suggest",
+    "source": "AllAfrica Business",
+    "url": "https://allafrica.com/stories/202608060180.html",
+    "publishedAt": "2026-08-06T08:13:21.000Z",
+    "category": "africa-markets",
+    "summary": "[Bird Story Agency] Africa is beginning to reverse an age-old equation: exporting raw cotton and importing the value created from it. The challenge is to close the ''missing middle'', connect regional manufacturing strengths and scale a competitive industry that keeps jobs, skill",
+    "type": "article",
+    "region": "africa"
+  },
+  {
     "id": "1fbc07a18c62803c908f74d5c247c644e455e6a5",
     "title": "Tanzania: Tanzania Woos Investors With Reforms",
     "source": "AllAfrica Investment",
@@ -558,86 +526,6 @@
     "summary": "[AIM] Maputo -- The Mozambican Finance Minister, Carla Louveira, believes that the country's energy potential is crucial for attracting new investments.",
     "type": "article",
     "region": "africa"
-  },
-  {
-    "id": "bcb42e370882ea1e41308378d1eee87fe185783a",
-    "title": "US 2Y Treasury yield: 4.25%",
-    "source": "FRED",
-    "url": "https://fred.stlouisfed.org/series/DGS2",
-    "publishedAt": "2026-08-06T00:00:00.000Z",
-    "category": "yield-curve",
-    "summary": "US 2Y Treasury yield is 4.25% (+0.07% vs previous).",
-    "type": "market-data",
-    "region": "us",
-    "symbol": "DGS2",
-    "value": 4.25,
-    "change": 0.07000000000000028,
-    "changePercent": 0.07000000000000028,
-    "unit": "%"
-  },
-  {
-    "id": "4999a18f83b78c5373d2a5056cdae9934248beed",
-    "title": "US 10Y Treasury yield: 4.69%",
-    "source": "FRED",
-    "url": "https://fred.stlouisfed.org/series/DGS10",
-    "publishedAt": "2026-08-06T00:00:00.000Z",
-    "category": "yield-curve",
-    "summary": "US 10Y Treasury yield is 4.69% (+0.06% vs previous).",
-    "type": "market-data",
-    "region": "us",
-    "symbol": "DGS10",
-    "value": 4.69,
-    "change": 0.0600000000000005,
-    "changePercent": 0.0600000000000005,
-    "unit": "%"
-  },
-  {
-    "id": "9587b8c17e818217769a9eb67b410eed0a6f6c52",
-    "title": "US 30Y Treasury yield: 5.22%",
-    "source": "FRED",
-    "url": "https://fred.stlouisfed.org/series/DGS30",
-    "publishedAt": "2026-08-06T00:00:00.000Z",
-    "category": "yield-curve",
-    "summary": "US 30Y Treasury yield is 5.22% (+0.05% vs previous).",
-    "type": "market-data",
-    "region": "us",
-    "symbol": "DGS30",
-    "value": 5.22,
-    "change": 0.04999999999999982,
-    "changePercent": 0.04999999999999982,
-    "unit": "%"
-  },
-  {
-    "id": "3b40208df8a405c9e17af35279e5a91ff54bead4",
-    "title": "US 3M Treasury yield: 3.90%",
-    "source": "FRED",
-    "url": "https://fred.stlouisfed.org/series/DGS3MO",
-    "publishedAt": "2026-08-06T00:00:00.000Z",
-    "category": "yield-curve",
-    "summary": "US 3M Treasury yield is 3.90% (+0.01% vs previous).",
-    "type": "market-data",
-    "region": "us",
-    "symbol": "DGS3MO",
-    "value": 3.9,
-    "change": 0.009999999999999787,
-    "changePercent": 0.009999999999999787,
-    "unit": "%"
-  },
-  {
-    "id": "82b5acfed3c9de33d0b24394f8a3f6939b7f1dea",
-    "title": "US 10Y TIPS yield: 2.43%",
-    "source": "FRED",
-    "url": "https://fred.stlouisfed.org/series/DFII10",
-    "publishedAt": "2026-08-06T00:00:00.000Z",
-    "category": "yield-curve",
-    "summary": "US 10Y TIPS yield is 2.43% (+0.02% vs previous).",
-    "type": "market-data",
-    "region": "us",
-    "symbol": "DFII10",
-    "value": 2.43,
-    "change": 0.020000000000000018,
-    "changePercent": 0.020000000000000018,
-    "unit": "%"
   },
   {
     "id": "edc2f6f9a41f2ea83429db2eeeea35db9300e976",
@@ -893,28 +781,6 @@
     "region": "global"
   },
   {
-    "id": "0b96bcbf44c74101d2fd5e4b6705d4735591a936",
-    "title": "Bending Spoons to buy Airtable for $1.28B",
-    "source": "TechCrunch Startups",
-    "url": "https://techcrunch.com/2026/08/04/bending-spoons-to-buy-airtable-for-1-28b/",
-    "publishedAt": "2026-08-04T11:30:56.000Z",
-    "category": "early-stage",
-    "summary": "At its peak in 2021, Airtable was valued at over $11 billion, but earlier this year, its shares were said to be trading on the secondary markets at a valuation of $4 billion.",
-    "type": "article",
-    "region": "global"
-  },
-  {
-    "id": "b3d42d34a64b7feeab03c333c213b9559f2e3058",
-    "title": "Nigeria: Delta Woos Investors, Unveils $100m Fund to De-Risk Investments in State",
-    "source": "AllAfrica Investment",
-    "url": "https://allafrica.com/stories/202608040328.html",
-    "publishedAt": "2026-08-04T11:15:06.000Z",
-    "category": "africa-markets",
-    "summary": "[This Day] Asaba -- In a bid to attract investors, Delta State Government yesterday announced a $100 million (N136.5 billion) viability gap fund to de-risk investments in the state.",
-    "type": "article",
-    "region": "africa"
-  },
-  {
     "id": "2973bd6fa41380ccaf62e39167ed671c54eab7d3",
     "title": "A Record 14 Billion-Dollar Rounds In July Pushed Venture’s Historic Run Higher",
     "source": "Crunchbase News",
@@ -924,17 +790,6 @@
     "summary": "Global venture funding showed no signs of slowing in July. Startup capital totaled $65 billion, up 100% year over year, as the month notched the highest-ever number of billion-dollar venture rounds on record, per Crunchbase data.",
     "type": "article",
     "region": "global"
-  },
-  {
-    "id": "fab8d1373ee9d699286b9395ef127d5171df95d8",
-    "title": "Nigeria: Breastfeeding Most Effective Investment in Child Survival - Unicef",
-    "source": "AllAfrica Investment",
-    "url": "https://allafrica.com/stories/202608040095.html",
-    "publishedAt": "2026-08-04T06:13:59.000Z",
-    "category": "africa-markets",
-    "summary": "[Premium Times] The Chief of UNICEF Field office, Enugu, Juliet Chiluwe, said that although more than 90 per cent of Nigerian mothers breastfeed, optimal breastfeeding practices remained below national and global targets.",
-    "type": "article",
-    "region": "africa"
   },
   {
     "id": "1c65138775150b384ab55555034c92d4f59fdfed",
