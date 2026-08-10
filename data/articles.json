@@ -1,5 +1,269 @@
 [
   {
+    "id": "7b9eb1eb7c3b02bae951ebe33975588f578eb3f9",
+    "title": "Tanzania: Tanzania Puts Justice At the Heart of Economic Growth",
+    "source": "AllAfrica Business",
+    "url": "https://allafrica.com/stories/202608100289.html",
+    "publishedAt": "2026-08-10T10:35:36.000Z",
+    "category": "africa-markets",
+    "summary": "[Daily News] Dar es Salaam -- FOR decades, Tanzania's development story has largely been told through visible symbols of progress -- new roads connecting communities, railways linking markets, expanded ports handling growing trade volumes and power projects energising industries.",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "22235c6cb9792af6fcdffb1e8111cee7c65c495a",
+    "title": "Malawi: Malawi Warned of 'Chaos' in Fuel Sector Over Licence Fraud",
+    "source": "AllAfrica Business",
+    "url": "https://allafrica.com/stories/202608100288.html",
+    "publishedAt": "2026-08-10T10:31:57.000Z",
+    "category": "africa-markets",
+    "summary": "[Nyasa Times] A leading Malawian fuel importer has blown the whistle on a shocking scam after personally uncovering an attempt by a South Africa-based Indian fuel trader to forge his licence in a bid to illegally import fuel into the country.",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "298eabbed2dcc776b75e73f2db5875b24e536b21",
+    "title": "Ghana: Sanitation Crisis - Expert Decries Low Investment in Waste Management",
+    "source": "AllAfrica Investment",
+    "url": "https://allafrica.com/stories/202608100286.html",
+    "publishedAt": "2026-08-10T10:30:51.000Z",
+    "category": "africa-markets",
+    "summary": "[Ghanaian Times] An environmental communication expert, Dr Akwesi Bosompem Boateng, has called for increased investment in waste management, particularly in waste collection equipment, logistics and engineered landfill sites across all 260 districts, to address the country's wors",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "684fce42e57ab525dc965cc87dbec3f1b756bf95",
+    "title": "Nigeria: Economic Activities Expand Second Straight Month Despite Industry Contraction - - CBN",
+    "source": "AllAfrica Business",
+    "url": "https://allafrica.com/stories/202608100281.html",
+    "publishedAt": "2026-08-10T10:29:01.000Z",
+    "category": "africa-markets",
+    "summary": "[Vanguard] Economic activity in Nigeria expanded for the second consecutive month in July 2026 as the Central Bank of Nigeria (CBN) Purchasing Managers' Index (PMI) rose to 51.1 points, although the industrial sector remained in contraction.",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "23ec8bce3f6b4d4f36fd967a800292ca905406bb",
+    "title": "Nigeria: Economy in Recovery - Tinubu's Reforms Propel MTN, Dangote, Bua, Transcorp, Seplat, Others' H1 Revenues to N14.4trn, N4.99trn Profits",
+    "source": "AllAfrica Business",
+    "url": "https://allafrica.com/stories/202608100118.html",
+    "publishedAt": "2026-08-10T08:40:53.000Z",
+    "category": "africa-markets",
+    "summary": "[This Day] Ten major quoted companies have recorded a combined N14.4 trillion revenue and N4.99 trillion profit before tax (PBT) in the first half of the year (HI 2026), reaping from the reforms initiated by President Bola Tinubu's administration.",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "e2377eed672fcb597adf85df5e5613930ecd1b96",
+    "title": "Nigeria: Tinubu Scorecard Soaked in Blood Pledges Support for Soldiers' Salaries - Atiku",
+    "source": "AllAfrica Business",
+    "url": "https://allafrica.com/stories/202608100107.html",
+    "publishedAt": "2026-08-10T07:08:15.000Z",
+    "category": "africa-markets",
+    "summary": "[This Day] Abuja -- Presidential Candidate of the African Democratic Congress (ADC), Atiku Abubakar, has expresse worry over reports that 5,091 Nigerians were killed in violent incidents across the country within three months, saying the situation reflected that President Bola Ti",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "24b516a6ff22fddce440a02079d60126641b54fb",
+    "title": "Nigeria: Purging the 2026 Budget of Its Frivolities and Graft Bazaar",
+    "source": "AllAfrica Business",
+    "url": "https://allafrica.com/stories/202608100104.html",
+    "publishedAt": "2026-08-10T07:08:14.000Z",
+    "category": "africa-markets",
+    "summary": "[Premium Times] We believe that the \"zero budgeting\" system, which deals with the MDAs on a needs basis, rather than the \"envelope system,\" will help in curbing this craze of annual budget racketeering.",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "7045db1b8e3ca25ee08f94ab13e3328e4ddddf9d",
+    "title": "Kenya: Construction of Dangote's Lamu Oil Refinery to Start in October",
+    "source": "AllAfrica Business",
+    "url": "https://allafrica.com/stories/202608100100.html",
+    "publishedAt": "2026-08-10T05:38:52.000Z",
+    "category": "africa-markets",
+    "summary": "[Capital FM] Nairobi -- Construction of the proposed Dangote oil refinery in Lamu is set to begin in October, Africa's richest man Aliko Dangote has said.",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "eabd882f403069381434ee5c539a3d36f2244dd0",
+    "title": "Rwanda: New Bugesera Road Cuts Freight Time, Opens Up Trade Opportunities",
+    "source": "AllAfrica Business",
+    "url": "https://allafrica.com/stories/202608100093.html",
+    "publishedAt": "2026-08-10T05:37:33.000Z",
+    "category": "africa-markets",
+    "summary": "[New Times] A rehabilitated road linking Bugesera to Ngoma and Nyanza districts is opening a shorter route for freight trucks travelling between Tanzania and Rwanda's Southern and Western provinces, helping them avoid traffic congestion in Kigali while creating new opportunities ",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "a914fa23cd236a7e1878f43706b769ab18ef167d",
+    "title": "Sudan: Finance Ministry Increases Revenues After Implementing Reform Policies and Measures",
+    "source": "AllAfrica Business",
+    "url": "https://allafrica.com/stories/202608100092.html",
+    "publishedAt": "2026-08-10T05:37:32.000Z",
+    "category": "africa-markets",
+    "summary": "[SNA] Khartoum, August 9, 2026 (SUNA) - Performance reports from the Ministry of Finance have revealed a notable increase in the State's public revenues during the first half of 2026.",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "43e92ceecaf01def737b418382601fed33772165",
+    "title": "Nigeria: Senate Engages Financial Sector Stakeholders On Reforms, Economic Stability",
+    "source": "AllAfrica Business",
+    "url": "https://allafrica.com/stories/202608100087.html",
+    "publishedAt": "2026-08-10T05:36:05.000Z",
+    "category": "africa-markets",
+    "summary": "[This Day] The Senate Committee on Banking, Insurance and Other Financial Institutions has intensified efforts to strengthen Nigeria's financial system, convening an expanded stakeholders' engagement with key financial sector regulators and experts to promote economic stability, ",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "6227b7affc452efef706b3f509284da673d0a1c2",
+    "title": "Rwanda: How Gisagara Peat Power Plant Could Double Production to 70mw",
+    "source": "AllAfrica Business",
+    "url": "https://allafrica.com/stories/202608100078.html",
+    "publishedAt": "2026-08-10T05:25:55.000Z",
+    "category": "africa-markets",
+    "summary": "[New Times] Rwanda has received a proposal from an investor outlining a plan to extract and stockpile large quantities of peat during the dry season, enabling the Gisagara peat power plant to operate consistently throughout the year, Minister of Infrastructure Damien Murwanashyak",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "9e049858d5b2ac3788fc5295c2c72a1836ce82d6",
+    "title": "Somalia: Turkey Expands Overseas Energy Drive With Somalia Emerging As Key Focus",
+    "source": "AllAfrica Business",
+    "url": "https://allafrica.com/stories/202608100071.html",
+    "publishedAt": "2026-08-10T05:25:47.000Z",
+    "category": "africa-markets",
+    "summary": "[Shabelle] Istanbul -- Turkey is accelerating plans to expand the overseas operations of its state energy company Turkish Petroleum Corporation (TPAO), with Somalia, Iraq, Libya and Oman emerging as key destinations in Ankara's drive to boost oil and gas production.",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "16ee4c9edf846c2fa37c8c9bad8977569a4defa6",
+    "title": "South Africa: Eskom Welcomes Kusile Corruption Convictions",
+    "source": "AllAfrica Business",
+    "url": "https://allafrica.com/stories/202608100069.html",
+    "publishedAt": "2026-08-10T05:20:39.000Z",
+    "category": "africa-markets",
+    "summary": "[SAnews.gov.za] Eskom has welcomed the convictions in the Kusile Power Station corruption case, adding that it continues to advance actions to fight fraud and corruption.",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "ede120655744145d5f0888d7870db2358678b047",
+    "title": "Ethiopia: Conflicts, Geopolitical Rivalries and Economic Risks Shape a Turbulent World",
+    "source": "AllAfrica Business",
+    "url": "https://allafrica.com/stories/202608100048.html",
+    "publishedAt": "2026-08-10T04:46:09.000Z",
+    "category": "africa-markets",
+    "summary": "[ENA] August 9, 2026 (ENA)",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "e05f2979ba7de9b2aa4204af359dd5c47c85b77c",
+    "title": "Angola: Bus Rollover in Cabo Ledo Leaves 30 Injured",
+    "source": "AllAfrica Business",
+    "url": "https://allafrica.com/stories/202608100046.html",
+    "publishedAt": "2026-08-10T04:46:08.000Z",
+    "category": "africa-markets",
+    "summary": "[ANGOP] Luanda -- At least 30 people were injured this Sunday morning when a Real Express bus overturned in Cabo Ledo, Angola's northern province of Icolo e Bengo.",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "d834dc9ae9022f8e628956469ec8fb6d974a3523",
+    "title": "Angola: Angolan President Authorizes $73 Million Investment in the Okavango Tourism Hub",
+    "source": "AllAfrica Investment",
+    "url": "https://allafrica.com/stories/202608100047.html",
+    "publishedAt": "2026-08-10T04:46:08.000Z",
+    "category": "africa-markets",
+    "summary": "[ANGOP] Luanda -- The Angolan government will invest seventy-three million dollars in the construction of integrated infrastructure at the Okavango Tourism Development Hub, in accordance with Presidential Order 270/26 of August 5.",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "f547ea3a043c5b3a54bf57a9b6bedc120f9e7864",
+    "title": "Zimbabwe: Government Task Force to Tackle Illegal Mining",
+    "source": "AllAfrica Business",
+    "url": "https://allafrica.com/stories/202608100043.html",
+    "publishedAt": "2026-08-10T04:46:06.000Z",
+    "category": "africa-markets",
+    "summary": "[Agenzia Fides] Harare -- The Zimbabwean government has decided to establish a task force to tackle illegal mining, which the authorities consider to be at the root of many of the problems affecting the country.",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "9426a8ca5573e569ca82735a55915c524029e6dc",
+    "title": "Somalia: Somaliland President Pitches Investment, International Partnership in Nairobi Talks",
+    "source": "AllAfrica Investment",
+    "url": "https://allafrica.com/stories/202608100035.html",
+    "publishedAt": "2026-08-10T04:45:33.000Z",
+    "category": "africa-markets",
+    "summary": "[Horn Diplomat] Nairobi, Kenya -- Somaliland President Abdirahman Mohamed Abdullahi (Irro) has called for deeper international investment and cooperation based on mutual interests, saying his government wants to move its relationship with international partners beyond traditional",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "1e4133f7197d24bce1839913c175e57de60ec60e",
+    "title": "Nigeria: NCAA Moves to Mend Fences Between Airlines, Labour Over Planned Picketing",
+    "source": "AllAfrica Business",
+    "url": "https://allafrica.com/stories/202608100025.html",
+    "publishedAt": "2026-08-10T04:42:09.000Z",
+    "category": "africa-markets",
+    "summary": "[This Day] The Nigeria Civil Aviation Authority (NCAA) has decided to wade into the impasse between the aviation unions and airlines over the Ticket Sales Charge debt which accumulated during the US-Iran war due to sudden spike in the cost of aviation fuel.",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "edfccfce83dd36c4e18f789b38e713242a0a122c",
+    "title": "Nigeria: Nigeria, China Deepen Ties in Film, Creative Economy",
+    "source": "AllAfrica Business",
+    "url": "https://allafrica.com/stories/202608100021.html",
+    "publishedAt": "2026-08-10T04:42:07.000Z",
+    "category": "africa-markets",
+    "summary": "[Daily Trust] Nigeria and China have signed a strategic cooperation agreement aimed at expanding collaboration in film, broadcasting, digital media and the creative economy.",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "095e9f05a7e6fbb6449b26cd2fae26edf67cf921",
+    "title": "Congo-Kinshasa: Investigation Raises Alarm Over Uranium in DR Congo Cobalt Shipments to China",
+    "source": "AllAfrica Business",
+    "url": "https://allafrica.com/stories/202608100014.html",
+    "publishedAt": "2026-08-10T04:37:55.000Z",
+    "category": "africa-markets",
+    "summary": "[RFI] An investigation by Lighthouse Reports, The Financial Times and Le Monde traces the possible export of uranium from the Democratic Republic of Congo back to a confidential International Atomic Energy Agency memo obtained in 2024. Chinese mining group CMOC, which owns the ma",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "35800640d328e6c18a17509909cdd70053461b3f",
+    "title": "Africa: The World Has Changed. African Countries Must Rethink How They Grow Their Economies",
+    "source": "AllAfrica Business",
+    "url": "https://allafrica.com/stories/202608100009.html",
+    "publishedAt": "2026-08-10T04:34:59.000Z",
+    "category": "africa-markets",
+    "summary": "[The Conversation Africa] The prolonged disruption of shipping through the Strait of Hormuz has exposed how vulnerable Africa's economies are to geopolitical shocks. Fuel prices have remained elevated, squeezing economies that depend heavily on petroleum imports from the Middle E",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "12c14b40d40b6cb2b438d5db89aa43959c476454",
+    "title": "This former notorious red-light district is now one of the world’s top AI hubs",
+    "source": "TechCrunch Startups",
+    "url": "https://techcrunch.com/2026/08/09/this-former-notorious-red-light-district-is-now-one-of-the-worlds-top-ai-hubs/",
+    "publishedAt": "2026-08-09T13:00:00.000Z",
+    "category": "early-stage",
+    "summary": "More than 20 years ago, King's Cross was one of the seediest area's in London. Now it's sprouting something new.",
+    "type": "article",
+    "region": "global"
+  },
+  {
     "id": "c9329978009ef53ba58ba4b7c96833e19c68ef99",
     "title": "OpenAI acquires presentation startup NextSlide",
     "source": "TechCrunch Startups",
@@ -77,17 +341,6 @@
     "region": "global"
   },
   {
-    "id": "e90973745c00e68eff953dd18ee6ae99676d916f",
-    "title": "Africa: A Landmark for African Finance - Europe's First African Sovereign Bond ETF Opens a New Chapter",
-    "source": "AllAfrica Business",
-    "url": "https://allafrica.com/stories/202608070650.html",
-    "publishedAt": "2026-08-07T16:55:23.000Z",
-    "category": "africa-markets",
-    "summary": "[allAfrica] For years, African finance ministers have made the same case at investor conferences and multilateral summits: the continent is not short of bankable projects, it is short of affordable capital. This week, that case took a tangible step forward. Legal &amp; General As",
-    "type": "article",
-    "region": "africa"
-  },
-  {
     "id": "3dd5763c1e0a366eb50d6f873b96bd5750b6ff34",
     "title": "Tencent's Team Memory shares AI agent memory across a team — with no governance yet for when it's wrong",
     "source": "VentureBeat",
@@ -110,17 +363,6 @@
     "region": "global"
   },
   {
-    "id": "eacec49ad52cda93ba73c6c64ef08f6e71095cd7",
-    "title": "Nigeria: Sanwo-Olu, Fashola Advocate Non-Interest Finance to Drive Nigeria's Economic Growth",
-    "source": "AllAfrica Business",
-    "url": "https://allafrica.com/stories/202608070569.html",
-    "publishedAt": "2026-08-07T15:14:01.000Z",
-    "category": "africa-markets",
-    "summary": "[Premium Times] Other industry leaders urged greater adoption of non-interest finance, describing it as a critical tool for mobilising long-term capital and supporting Nigeria's productive economy.",
-    "type": "article",
-    "region": "africa"
-  },
-  {
     "id": "4c9c435ab6fcacdbb0e47ecd65515217050d07e9",
     "title": "South Africa: Team South Africa Advances Energy Investment Agenda in China",
     "source": "AllAfrica Investment",
@@ -128,50 +370,6 @@
     "publishedAt": "2026-08-07T15:07:01.000Z",
     "category": "africa-markets",
     "summary": "[SAnews.gov.za] Team South Africa has completed a mission to China aimed at unlocking critical investment for South Africa's energy infrastructure and strengthening cooperation with Chinese industrial players.",
-    "type": "article",
-    "region": "africa"
-  },
-  {
-    "id": "ce7155c2ae23a0d427c88070fdc201ee7affb320",
-    "title": "Uganda: Bell Lager Celebrates 75 Yeas With Gold At the 2026 Monde Selection Awards",
-    "source": "AllAfrica Business",
-    "url": "https://allafrica.com/stories/202608070555.html",
-    "publishedAt": "2026-08-07T15:02:24.000Z",
-    "category": "africa-markets",
-    "summary": "[Independent (Kampala)] Kampala -- Seventy-five years after its first brew, Uganda's original beer has once again earned international recognition for the consistent quality that has defined Bell Lager for generations.",
-    "type": "article",
-    "region": "africa"
-  },
-  {
-    "id": "a74f517b34bf90ac18e26d3010e990918c9733d4",
-    "title": "Liberia: 'We're Not Doing Drug Business Here' - Freeman Says U.S.$4m Beverage Plant to Create 300 Jobs",
-    "source": "AllAfrica Business",
-    "url": "https://allafrica.com/stories/202608070551.html",
-    "publishedAt": "2026-08-07T14:58:49.000Z",
-    "category": "africa-markets",
-    "summary": "[Liberian Investigator] GARDNERVILLE -- Movement for Progressive Change (MPC) Political Leader Simeon Freeman says his nearly completed US$4 million beverage manufacturing plant in Gardnerville will begin operations within the next 60 to 90 days, with the facility expected to cre",
-    "type": "article",
-    "region": "africa"
-  },
-  {
-    "id": "9eafe3c352cecd3516c073ef130a1fa9a3ef9e1d",
-    "title": "Kenya: Sugar Distributors Sue State Over Sh173.6mn Debt",
-    "source": "AllAfrica Business",
-    "url": "https://allafrica.com/stories/202608070546.html",
-    "publishedAt": "2026-08-07T14:53:25.000Z",
-    "category": "africa-markets",
-    "summary": "[Capital FM] Nairobi -- Six sugar distributors and other businesses have sued the State over Sh173.58 million they say they are owed by South Nyanza, Chemelil and Muhoroni sugar companies after the mills were leased to private operators.",
-    "type": "article",
-    "region": "africa"
-  },
-  {
-    "id": "68e3e37b6f4394ca88cf2455383e453832c9e1eb",
-    "title": "Nigeria: Dangote Refinery Supplied 20 Percent of Europe's Jet Fuel in July - - Report",
-    "source": "AllAfrica Business",
-    "url": "https://allafrica.com/stories/202608070540.html",
-    "publishedAt": "2026-08-07T14:43:35.000Z",
-    "category": "africa-markets",
-    "summary": "[Daily Trust] The Dangote Petroleum Refinery delivered over 400,000 tonnes of jet fuel to Europe in July.",
     "type": "article",
     "region": "africa"
   },
@@ -198,17 +396,6 @@
     "region": "africa"
   },
   {
-    "id": "ac1d83dbb8b674fa995a515a892b18aa99c00855",
-    "title": "Namibia: NUDO Demands Probe Into Power Utility Electrocution Deaths",
-    "source": "AllAfrica Business",
-    "url": "https://allafrica.com/stories/202608070466.html",
-    "publishedAt": "2026-08-07T12:52:01.000Z",
-    "category": "africa-markets",
-    "summary": "[Namibian] National Unity Democratic Organisation member of parliament Vetaruhe Kandorozu has called for an independent audit and investigation into a series of fatal electrocution incidents involving employees in the electricity sector, saying repeated workplace deaths point to ",
-    "type": "article",
-    "region": "africa"
-  },
-  {
     "id": "5449a683bdcdea238fb65eefa223174f77b6bb8c",
     "title": "Kenya: Aliko Dangote - Kenya Among 10 Promising African Countries for Investment",
     "source": "AllAfrica Investment",
@@ -231,39 +418,6 @@
     "region": "global"
   },
   {
-    "id": "2bbf170dba49c03fa44fe89425c78fea27768e43",
-    "title": "Ghana: Climate Change Now Economic Challenge - Minister",
-    "source": "AllAfrica Business",
-    "url": "https://allafrica.com/stories/202608070302.html",
-    "publishedAt": "2026-08-07T12:03:53.000Z",
-    "category": "africa-markets",
-    "summary": "[Ghanaian Times] The Northern Regional Minister, Mr Ali Adolf John Mburidiba, has described climate change as one of the biggest threats to Ghana's socio-economic development.",
-    "type": "article",
-    "region": "africa"
-  },
-  {
-    "id": "6b9edb1c97c9c6fe8f8c23103a311297cdfeef75",
-    "title": "Liberia: Suspended Inchr Officials Reject Dismissal, Accuse Acting Chair of Abuse of Power and Political Vendetta",
-    "source": "AllAfrica Business",
-    "url": "https://allafrica.com/stories/202608070297.html",
-    "publishedAt": "2026-08-07T12:00:21.000Z",
-    "category": "africa-markets",
-    "summary": "[FrontPageAfrica] Monrovia -- Suspended Executive Director of the Independent National Commission on Human Rights (INCHR), Atty. Urias Teh-Pour, and the Commission's suspended Director for Planning, Internal Monitoring and Evaluation, Bah-Wah Brownell, have rejected their dismiss",
-    "type": "article",
-    "region": "africa"
-  },
-  {
-    "id": "c840b34c36ee403fa30c9aca1a201fe6dd345203",
-    "title": "Africa: Open Skies Delays Keep Africa's Trade Costs High",
-    "source": "AllAfrica Business",
-    "url": "https://allafrica.com/stories/202608070271.html",
-    "publishedAt": "2026-08-07T11:22:10.000Z",
-    "category": "africa-markets",
-    "summary": "[Capital FM] Nairobi -- African governments and aviation industry leaders are pushing for faster implementation of open-skies policies, warning that fragmented air transport markets are raising business costs and limiting the benefits of the African Continental Free Trade Area.",
-    "type": "article",
-    "region": "africa"
-  },
-  {
     "id": "94f41061cee334edd011a7b28a7919a39b9e8d29",
     "title": "No Summer Doldrums For Active Startup Investors In July",
     "source": "Crunchbase News",
@@ -282,28 +436,6 @@
     "publishedAt": "2026-08-07T10:54:22.000Z",
     "category": "africa-markets",
     "summary": "[Ghanaian Times] More than a decade after Ghana joined the ranks of oil-producing nations, the country's upstream petroleum industry is facing a defining question: Is the steady decline in crude oil production the inevitable result of ageing oil fields, or has it been accelerated",
-    "type": "article",
-    "region": "africa"
-  },
-  {
-    "id": "e7d041cd7149d667a623ba984e5a1e489b5cee16",
-    "title": "Tanzania: Uganda, Tanzania Seal Deal to Develop Tanga Into Regional Energy Hub",
-    "source": "AllAfrica Business",
-    "url": "https://allafrica.com/stories/202608070230.html",
-    "publishedAt": "2026-08-07T10:34:13.000Z",
-    "category": "africa-markets",
-    "summary": "[Independent (Kampala)] Dar es Salaam -- President Yoweri Kaguta Museveni of Uganda and Samia Suluhu Hassan of Tanzania have endorsed a landmark Memorandum of Understanding (MoU) aimed at reshaping East Africa's energy economy by shifting the region's focus from crude oil exports",
-    "type": "article",
-    "region": "africa"
-  },
-  {
-    "id": "ac84bcce6556dd16e707a8de47fc883fa4b2cc65",
-    "title": "Tanzania: Cotton Farmers Urged to Embrace Best Practices",
-    "source": "AllAfrica Business",
-    "url": "https://allafrica.com/stories/202608070223.html",
-    "publishedAt": "2026-08-07T10:10:16.000Z",
-    "category": "africa-markets",
-    "summary": "[Daily News] Mwanza -- COTTON farmers have been urged to adopt good agricultural practices, to increase productivity and improve crop quality. The call was made on Wednesday in Ilemela Municipality by Cotton Board Agricultural Officer Onesmo Kiwango during training sessions held ",
     "type": "article",
     "region": "africa"
   },
@@ -330,17 +462,6 @@
     "region": "global"
   },
   {
-    "id": "43316ebcf507bf220124fd433748227211903a41",
-    "title": "South Africa: Police Probe Two Nyanga Taxi Shootings - South African News Briefs - August 7, 2026",
-    "source": "AllAfrica Business",
-    "url": "https://allafrica.com/stories/202608070087.html",
-    "publishedAt": "2026-08-07T06:21:52.000Z",
-    "category": "africa-markets",
-    "summary": "[allAfrica]",
-    "type": "article",
-    "region": "africa"
-  },
-  {
     "id": "659b0e05f7e0e0b943da5be19cdb2e17772384aa",
     "title": "Zimbabwe: Zim's Next Test Is Unlocking Investment, Not Fighting Inflation, Says AfDB",
     "source": "AllAfrica Investment",
@@ -348,17 +469,6 @@
     "publishedAt": "2026-08-07T05:46:52.000Z",
     "category": "africa-markets",
     "summary": "[The Herald] Zimbabwe's economic reforms have largely succeeded in restoring macroeconomic stability, but the country's next challenge is transforming that stability into higher levels of investment that can drive sustained economic growth, the African Development Bank (AfDB) has",
-    "type": "article",
-    "region": "africa"
-  },
-  {
-    "id": "4384de337aac3b47951ce076956fcf268da3c88e",
-    "title": "Africa: The LSF welcomes the Launch of the First African Government Bond (USD) ETF available in Europe",
-    "source": "AllAfrica Business",
-    "url": "https://allafrica.com/stories/202608060724.html",
-    "publishedAt": "2026-08-06T23:06:32.000Z",
-    "category": "africa-markets",
-    "summary": "[The Liquidity and Sustainability Facility] The Liquidity and Sustainability Facility (LSF) is pleased to welcome the launch of the L&amp;G LSF African Government Bond (USD) UCITS ETF, developed by Legal &amp; General Asset Management (L&amp;G), it is the first of its kind availa",
     "type": "article",
     "region": "africa"
   },
@@ -440,17 +550,6 @@
     "region": "global"
   },
   {
-    "id": "94416b6d6bf02610e271f92cb43cbf5f1c58f419",
-    "title": "East Africa: Uganda Pushes Saudi Arabia for More Investment in Agro-Processing, Technology and Trade",
-    "source": "AllAfrica Investment",
-    "url": "https://allafrica.com/stories/202608060557.html",
-    "publishedAt": "2026-08-06T14:27:18.000Z",
-    "category": "africa-markets",
-    "summary": "[Nile Post] Uganda has urged Saudi Arabia to increase investment and market access partnerships, highlighting opportunities in agriculture, technology, tourism and mineral value addition as the two countries seek to strengthen economic cooperation.",
-    "type": "article",
-    "region": "africa"
-  },
-  {
     "id": "55b1f87cd5e234f54aed09302598d93e709a437e",
     "title": "Tanzania: Textile Investment Helps Tanzania Close Its Manufacturing Gap",
     "source": "AllAfrica Investment",
@@ -482,17 +581,6 @@
     "summary": "We analyzed a dataset of repeat founders who have gone through Y Combinator’s cohorts and found some very interesting insights. The dataset, shared with us directly from YC, consisted of 454 repeat founders through the program as well as 935 founder-company records spanning 2005 ",
     "type": "article",
     "region": "global"
-  },
-  {
-    "id": "019ea6b7634503e381afc81764673fc4cdd3dff2",
-    "title": "Africa: Why Africa's Textile Story Is Bigger Than the Numbers Suggest",
-    "source": "AllAfrica Business",
-    "url": "https://allafrica.com/stories/202608060180.html",
-    "publishedAt": "2026-08-06T08:13:21.000Z",
-    "category": "africa-markets",
-    "summary": "[Bird Story Agency] Africa is beginning to reverse an age-old equation: exporting raw cotton and importing the value created from it. The challenge is to close the ''missing middle'', connect regional manufacturing strengths and scale a competitive industry that keeps jobs, skill",
-    "type": "article",
-    "region": "africa"
   },
   {
     "id": "1fbc07a18c62803c908f74d5c247c644e455e6a5",
@@ -682,28 +770,6 @@
     "region": "global"
   },
   {
-    "id": "90d61cfc92969a941a7283e20a82940f1d30a7fc",
-    "title": "Tanzania: Tanzania's Big Investment Pitch",
-    "source": "AllAfrica Investment",
-    "url": "https://allafrica.com/stories/202608050339.html",
-    "publishedAt": "2026-08-05T10:19:40.000Z",
-    "category": "africa-markets",
-    "summary": "[Daily News] DAR ES SALAAM: TANZANIA'S drive to accelerate infrastructure development and attract investment across key economic sectors takes centre stage today as the country hosts the historic Africa50 General Shareholders' Meeting (GSM) and Infra for Africa Forum.",
-    "type": "article",
-    "region": "africa"
-  },
-  {
-    "id": "f5c9358fe7afc31ccb96d364d9229836089fffe8",
-    "title": "Nigeria: Nigeria Seeks Stronger Investment, Tourism Ties With Saudi Arabia",
-    "source": "AllAfrica Investment",
-    "url": "https://allafrica.com/stories/202608050119.html",
-    "publishedAt": "2026-08-05T06:09:13.000Z",
-    "category": "africa-markets",
-    "summary": "[Leadership] The federal government has reaffirmed its commitment to strengthening investment, trade and tourism relations with the Kingdom of Saudi Arabia, declaring that Nigeria is open for business and well-positioned to attract greater foreign investment under President Bola ",
-    "type": "article",
-    "region": "africa"
-  },
-  {
     "id": "4610cd48714b64c5c855372d5b39fbef2bc51cc8",
     "title": "Malawi: Malawi's Economic Pressures Create Investment Opportunities, New Report Finds",
     "source": "AllAfrica Investment",
@@ -766,17 +832,6 @@
     "publishedAt": "2026-08-04T19:34:34.000Z",
     "category": "early-stage",
     "summary": "Wrinkles, available on both iOS and Android, essentially acts as an AI-powered audio tour guide that reveals hidden history and local stories.",
-    "type": "article",
-    "region": "global"
-  },
-  {
-    "id": "ed49a3d175830c49c41c486ecb335d187244b4f4",
-    "title": "Host a Side Event during TechCrunch Founder Summit Week in Boston",
-    "source": "TechCrunch Startups",
-    "url": "https://techcrunch.com/2026/08/04/host-a-side-event-during-techcrunch-founder-summit-week-in-boston/",
-    "publishedAt": "2026-08-04T15:00:00.000Z",
-    "category": "early-stage",
-    "summary": "Want to tap into the energy of 1,100+ startup founders, investors, and tech leaders descending on Boston for the Founder Summit 2026 on June 9? Host your own Side Event during “Founder Summit Week,” happening June 4-10!",
     "type": "article",
     "region": "global"
   },
