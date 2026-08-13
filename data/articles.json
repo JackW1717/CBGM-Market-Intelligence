@@ -1,5 +1,412 @@
 [
   {
+    "id": "4dc6144858b779549cc6283f12cc5f41d537361a",
+    "title": "South Africa: Dr Jana&#xEF;s Delport On a Mission to Protect SA's Honey From Fraud",
+    "source": "AllAfrica Business",
+    "url": "https://allafrica.com/stories/202608130191.html",
+    "publishedAt": "2026-08-13T11:39:03.000Z",
+    "category": "africa-markets",
+    "summary": "[UCT] From a small town of Tzaneen in Limpopo to the forefront of cutting-edge honey research at the University of Cape Town (UCT), Dr Janaïs Delport is helping to safeguard one of South Africa's sweetest natural treasures.",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "b1698e7c5a1646dd7bffaeae96c2ec6041a81dbd",
+    "title": "How A Teenage Carpenter Became The Founder Of AI Construction Startup Trunk Tools",
+    "source": "Crunchbase News",
+    "url": "https://news.crunchbase.com/venture/carpenter-founder-ai-construction-startup-trunk-tools-buchner/",
+    "publishedAt": "2026-08-13T11:00:23.000Z",
+    "category": "venture-capital",
+    "summary": "Our second in a series of articles about non-tech founders getting venture funding features Sarah Buchner, a \"blue-collar worker by background\" who set out to find a way to help construction companies manage their projects more efficiently using AI agents.",
+    "type": "article",
+    "region": "global"
+  },
+  {
+    "id": "9ed9a52c2f37e93e99992e27a6780e45e3004857",
+    "title": "Kenya: CBK Sees Inflation At 8pc If Average Oil Prices Stay At $110 Per Barrel",
+    "source": "AllAfrica Business",
+    "url": "https://allafrica.com/stories/202608130142.html",
+    "publishedAt": "2026-08-13T10:09:51.000Z",
+    "category": "africa-markets",
+    "summary": "[Capital FM] Nairobi -- The Central Bank of Kenya (CBK) expects inflation to rise to about eight percent if global oil prices average $110 per barrel amid a prolonged Middle East conflict.",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "cff074941f8871cc01e06323d6bb75c21c9fa2f0",
+    "title": "Liberia: Central Bank to Convene National Conference On Non-Performing Loans",
+    "source": "AllAfrica Business",
+    "url": "https://allafrica.com/stories/202608130140.html",
+    "publishedAt": "2026-08-13T10:09:05.000Z",
+    "category": "africa-markets",
+    "summary": "[Liberian Investigator] Liberians without land or a house could soon borrow against a vehicle or a piece of equipment under an enhanced collateral registry the Central Bank is putting before a national conference in September on loans that are not being repaid.",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "a210253f425b134e8d2f2349dbf0da9fdcc63f31",
+    "title": "South Africa: Makhado Plans New RDP Houses but Homes Built in 2021 Still Lack Water and Electricity",
+    "source": "AllAfrica Business",
+    "url": "https://allafrica.com/stories/202608130132.html",
+    "publishedAt": "2026-08-13T10:03:10.000Z",
+    "category": "africa-markets",
+    "summary": "[GroundUp] Residents have to buy water privately",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "0f0365e991f869f983833d84e7ca9c7dc0495f9e",
+    "title": "Tanzania: Can Tanzania Become an Upper-Middle Income Country?",
+    "source": "AllAfrica Business",
+    "url": "https://allafrica.com/stories/202608130125.html",
+    "publishedAt": "2026-08-13T10:00:19.000Z",
+    "category": "africa-markets",
+    "summary": "[Independent (Kampala)] Tanzania has set its sights on becoming a $1 trillion, upper-middle-income economy by mid-century. Under a long-term plan known as Vision 2050, the country is seeking to grow the size of its economy tenfold from current levels and to increase GDP per capit",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "b3db518fa6020f35036b9468ec0edb73f4cb0a2d",
+    "title": "Cash remains most widely accepted payment method in euro area",
+    "source": "ECB Press Releases",
+    "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260813~389729d6a9.en.html",
+    "publishedAt": "2026-08-13T09:00:00.000Z",
+    "category": "macro",
+    "summary": "",
+    "type": "article",
+    "region": "global"
+  },
+  {
+    "id": "a33354b204f62fa23bd8056ee6358e2d1c553463",
+    "title": "Africa: Migrant Deaths Climb Sharply in 2026, New UN Data Shows",
+    "source": "AllAfrica Business",
+    "url": "https://allafrica.com/stories/202608130034.html",
+    "publishedAt": "2026-08-13T07:50:44.000Z",
+    "category": "africa-markets",
+    "summary": "[UN News] Severe weather, war, economic pressure and shifting policies reshaped migration journeys across multiple regions in the first four months of 2026, driving a surge in deaths, according to new data released on Wednesday by the International Organization for Migration (IOM",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "68b170ca6716c3cd88f70b0c350ef05560a15fc5",
+    "title": "Malawi: Malawi Bets On Battery Storage to Climate-Proof Its Fragile Power Grid",
+    "source": "AllAfrica Business",
+    "url": "https://allafrica.com/stories/202608130019.html",
+    "publishedAt": "2026-08-13T07:37:39.000Z",
+    "category": "africa-markets",
+    "summary": "[IPS] Lilongwe -- For years, Malawi's electricity supply has been at the mercy of droughts, floods and cyclones that have repeatedly exposed the vulnerability of a power system heavily dependent on hydropower.",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "7064cabf87536017154e7c1d6bdf5871163f0f51",
+    "title": "Nigeria: Nigeria's Crude Oil Production Down 4 Percent in July - - NUPRC",
+    "source": "AllAfrica Business",
+    "url": "https://allafrica.com/stories/202608130010.html",
+    "publishedAt": "2026-08-13T07:29:32.000Z",
+    "category": "africa-markets",
+    "summary": "[Premium Times] Nigeria's crude oil production fell by four per cent month-on-month in July 2026, despite the country maintaining production above its OPEC quota for the third consecutive month, according to the Nigerian Upstream Petroleum Regulatory Commission (NUPRC).",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "15801d2fde5cb01d35feb32726e46f0e69685038",
+    "title": "Africa: What Investing in Africa Means to Aliko Dangote",
+    "source": "AllAfrica Investment",
+    "url": "https://allafrica.com/stories/202608130007.html",
+    "publishedAt": "2026-08-13T07:29:31.000Z",
+    "category": "africa-markets",
+    "summary": "[Premium Times] When conversations turn to investment in Africa, one name consistently dominates the discussion: Aliko Dangote. Over the past four decades, the Nigerian industrialist has become more than Africa's richest businessman - he has emerged as one of the continent's most",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "0757849306a758dd065ed8d8a45678a33822b40d",
+    "title": "Nigeria: Explainer - What Tinubu's New Deep Offshore Tax Incentives Mean for Nigeria",
+    "source": "AllAfrica Business",
+    "url": "https://allafrica.com/stories/202608130006.html",
+    "publishedAt": "2026-08-13T07:29:31.000Z",
+    "category": "africa-markets",
+    "summary": "[Premium Times] President Bola Tinubu has approved a new tax incentive framework for deep offshore oil and gas projects, designed to attract up to $50 billion in fresh investment, accelerate stalled developments and increase Nigeria's crude oil production.",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "01982401a66d1325ac89b3c3a1a3474f6767c9b5",
+    "title": "Uganda: Doctors Give Government 14 Days to Resolve Medical Intern Crisis",
+    "source": "AllAfrica Business",
+    "url": "https://allafrica.com/stories/202608120650.html",
+    "publishedAt": "2026-08-12T22:41:21.000Z",
+    "category": "africa-markets",
+    "summary": "[Nile Post] The Uganda Medical Association (UMA) has given government 14 days to resolve the standoff over the deployment and welfare of medical interns, warning that doctors will otherwise begin nationwide industrial action.",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "2b9ee630aca3cec1deb35cb8ed941a0a9142c14e",
+    "title": "Uganda: Trade Minister Tanna Courts Japanese Investment in Uganda",
+    "source": "AllAfrica Investment",
+    "url": "https://allafrica.com/stories/202608120644.html",
+    "publishedAt": "2026-08-12T22:41:19.000Z",
+    "category": "africa-markets",
+    "summary": "[Nile Post] Minister of Trade, Industry and Cooperatives Sanjay Tanna has urged Japanese investors to increase their presence in Uganda, particularly in infrastructure, agro-processing, tourism and technology.",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "cbc308a71f05e38b42e80eda25b51f8d12dd942d",
+    "title": "Nigeria: Renewable Energy Programmes Unlock $1.3bn Investment - FG",
+    "source": "AllAfrica Investment",
+    "url": "https://allafrica.com/stories/202608120612.html",
+    "publishedAt": "2026-08-12T20:07:49.000Z",
+    "category": "africa-markets",
+    "summary": "[Daily Trust] The federal government says its flagship renewable energy programmes have attracted more than $1.3 billion in investment commitments, underscoring growing investor confidence in the country's clean energy sector.",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "c5a4ff6b3a3cce921e9b8f782bf80a2a7e02bdfa",
+    "title": "Nigeria: New Investors to Manage Obudu Mountain Resort",
+    "source": "AllAfrica Investment",
+    "url": "https://allafrica.com/stories/202608120611.html",
+    "publishedAt": "2026-08-12T20:07:49.000Z",
+    "category": "africa-markets",
+    "summary": "[Daily Trust] The Cross River State Government has said the new investors taking over the iconic Obudu Mountain Resort will rehabilitate, modernise and manage the facility for an agreed period, after which the assets and improvements will revert to the state.",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "d1db2a2456b82fdc8f9540136968a18a84fe35ba",
+    "title": "Four of five enterprises that secured AI agent identities still can't contain one that goes rogue",
+    "source": "VentureBeat",
+    "url": "https://venturebeat.com/security/four-of-five-enterprises-that-secured-ai-agent-identities-still-cant-contain-one-that-goes-rogue",
+    "publishedAt": "2026-08-12T18:44:50.000Z",
+    "category": "ai",
+    "summary": "Visa's president of technology, Rajat Taneja, walked the VB Transform 2026 audience through aiming Anthropic's Mythos at Visa's own payment network. The model stitched minor weaknesses into working exploit chains, and Visa open-sourced the harness that governed the hunt. That's w",
+    "type": "article",
+    "region": "global"
+  },
+  {
+    "id": "b83b50f5183589b91db8ebef2c9dfb571a2014bb",
+    "title": "AI coding startup Cognition reportedly already in talks to raise at $40B valuation",
+    "source": "TechCrunch Startups",
+    "url": "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/",
+    "publishedAt": "2026-08-12T18:19:12.000Z",
+    "category": "early-stage",
+    "summary": "Cognition may be looking to raise another mega round just a few months after raising $1 billion at a $26 billion valuation.",
+    "type": "article",
+    "region": "global"
+  },
+  {
+    "id": "910f6826aea31f1b6a5410bf1ffd80075cbf6999",
+    "title": "Nigeria: Chevron Seeks Long-Term Investment to Secure Nigeria's Energy Future",
+    "source": "AllAfrica Investment",
+    "url": "https://allafrica.com/stories/202608120597.html",
+    "publishedAt": "2026-08-12T18:14:45.000Z",
+    "category": "africa-markets",
+    "summary": "[This Day] Chevron Nigeria Limited (CNL) has called for stronger collaboration across government, regulators and industry operators as the foundation for building a resilient oil and gas sector that can deliver growth, jobs and energy security for Nigeria.",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "d8ea38e802eb77ef06c226c7ad6e65467271e0c3",
+    "title": "SpaceXAI debuts Grok 4.6, overtaking Kimi K3's performance and matching GPT-5.6 Sol for world's third best on Artificial Analysis",
+    "source": "VentureBeat",
+    "url": "https://venturebeat.com/technology/spacexai-debuts-grok-4-6-overtaking-kimi-k3s-performance-and-matching-gpt-5-6-sol-for-worlds-third-best-on-artificial-analysis",
+    "publishedAt": "2026-08-12T17:26:58.000Z",
+    "category": "ai",
+    "summary": "Elon Musk's company SpaceXAI, formerly known as xAI, has released Grok 4.6, its latest frontier AI model, with a focus on long-running agents, coding and knowledge work — and a pricing strategy designed to make those workloads cheaper to run. The model scores 61 on the third-part",
+    "type": "article",
+    "region": "global"
+  },
+  {
+    "id": "d13fa83487d546909bc5491062eff1b0581b0021",
+    "title": "Central African Republic: UAE's Global South Utilities Inaugurates 50mw Solar Plant in Central African Republic",
+    "source": "AllAfrica Business",
+    "url": "https://allafrica.com/stories/202608120537.html",
+    "publishedAt": "2026-08-12T16:48:43.000Z",
+    "category": "africa-markets",
+    "summary": "[Horn Diplomat] Bangui (Horndiplomat) -- Abu Dhabi-based Global South Utilities (GSU) has inaugurated a 50-megawatt solar power plant in the Central African Republic, a project the company says is the largest infrastructure development in the country's history and will increase n",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "12039e33c82133a8f0f9cd2ce489a95891251320",
+    "title": "Why Stream ring-maker Sandbar says the future of AI wearables is voice",
+    "source": "TechCrunch Startups",
+    "url": "https://techcrunch.com/video/why-stream-ring-maker-sandbar-says-the-future-of-ai-wearables-is-voice/",
+    "publishedAt": "2026-08-12T16:46:02.000Z",
+    "category": "early-stage",
+    "summary": "AI notetaking hardware has taken off over the past couple of years, with credit-card-sized devices, pendants, pins, and even transcribing earbuds all promising to capture your meetings and turn them into summaries and action items. Now, a whole wave of wearables — rings especiall",
+    "type": "article",
+    "region": "global"
+  },
+  {
+    "id": "1880293b64f3ff8229b9629d1ca6bdf1f57bf0ba",
+    "title": "Lovable confirms new $13.3B valuation, raises another $400M",
+    "source": "TechCrunch Startups",
+    "url": "https://techcrunch.com/2026/08/12/lovable-confirms-new-13-3b-valuation-raises-another-400m/",
+    "publishedAt": "2026-08-12T16:04:27.000Z",
+    "category": "early-stage",
+    "summary": "This new funding comes after Lovable hit $500 million in annualized run rate revenue in June, the startup told TechCrunch.",
+    "type": "article",
+    "region": "global"
+  },
+  {
+    "id": "c102a64d07ece1b672798bb0c491a4d3ce64d201",
+    "title": "How a $250 million acquisition collapsed into allegations of fraud and forged signatures",
+    "source": "TechCrunch Startups",
+    "url": "https://techcrunch.com/2026/08/12/how-a-250-million-acquisition-collapsed-into-allegations-of-fraud-and-forged-signatures/",
+    "publishedAt": "2026-08-12T15:44:56.000Z",
+    "category": "early-stage",
+    "summary": "Investors are still waiting for their share of the $250 million windfall, and VideoVerse co-founder Vinayak Shrivastav is now at the center of multiple legal cases.",
+    "type": "article",
+    "region": "global"
+  },
+  {
+    "id": "d58d0ebf84db40e81dd0cde2d2932d86975bf33c",
+    "title": "Silkroad Innovation Hub’s Road to Battlefield competition continues",
+    "source": "TechCrunch Startups",
+    "url": "https://techcrunch.com/2026/08/12/silkroad-innovation-hubs-road-to-battlefield-competition-continues/",
+    "publishedAt": "2026-08-12T15:02:00.000Z",
+    "category": "early-stage",
+    "summary": "The Road to Battlefield competition is now in its second year, and its purpose is to give founders across Central Eurasia a direct route to Startup Battlefield",
+    "type": "article",
+    "region": "global"
+  },
+  {
+    "id": "aec1f01999c906cf6f9b18ceb02158326c532a5f",
+    "title": "Nigeria: Adeleke Cuts Osun's Domestic Debt By N69.18bn in Three Years",
+    "source": "AllAfrica Business",
+    "url": "https://allafrica.com/stories/202608120412.html",
+    "publishedAt": "2026-08-12T14:22:07.000Z",
+    "category": "africa-markets",
+    "summary": "[Premium Times] Osun State's domestic debt has fallen by nearly half since Governor Ademola Adeleke assumed office, dropping from N148.37 billion in December 2022 to N79.19 billion in March 2026, while the state continued to spend billions of naira servicing its debts.",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "7b115a886840b754d29f8d495723e1fb3c07042a",
+    "title": "Why Sandbar thinks it’s voice-enabled ring can avoid the AI hardware graveyard",
+    "source": "TechCrunch Startups",
+    "url": "https://techcrunch.com/podcast/why-sandbar-thinks-its-voice-enabled-ring-can-avoid-the-ai-hardware-graveyard/",
+    "publishedAt": "2026-08-12T14:22:00.000Z",
+    "category": "early-stage",
+    "summary": "AI notetaking hardware has taken off over the past couple of years, with credit-card-sized devices, pendants, pins, and even transcribing earbuds all promising to capture your meetings and turn them into summaries and action items. Now, a whole wave of wearables — rings especiall",
+    "type": "article",
+    "region": "global"
+  },
+  {
+    "id": "e32461494ec2487a33fb173b87deed7273e6f5ed",
+    "title": "Liberia: 'Liberia Must Compete for Investment, Not Dwindling Aid'",
+    "source": "AllAfrica Investment",
+    "url": "https://allafrica.com/stories/202608120395.html",
+    "publishedAt": "2026-08-12T13:44:04.000Z",
+    "category": "africa-markets",
+    "summary": "[Liberian Observer] United Nations Resident Coordinator and Deputy Chair of Liberia's ARREST Agenda for Inclusive Development (AAID) National Steering Committee, Christine N. Umutoni, has warned that Liberia must fundamentally change the way it finances national development, urgi",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "19645460495f8a9cd5fdc65c771e1098e90da8d4",
+    "title": "Liberia: Ngafuan Projects 5.5 Percent Growth in 2026",
+    "source": "AllAfrica Business",
+    "url": "https://allafrica.com/stories/202608120387.html",
+    "publishedAt": "2026-08-12T13:40:58.000Z",
+    "category": "africa-markets",
+    "summary": "[New Dawn] MONROVIA -- Finance and Development Planning Minister Augustine Kpehe Ngafuan says Liberia's economy continues to show signs of improvement, with economic growth projected at 5.5 percent in 2026 and domestic revenue collections reaching US$761.1 million by the end of J",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "a483868e63353991243a85d313bd4d4583cf0bde",
+    "title": "Uganda: Taxi Driver or Potential Killer? Uganda's Deadly Culture of Reckless Driving",
+    "source": "AllAfrica Business",
+    "url": "https://allafrica.com/stories/202608120379.html",
+    "publishedAt": "2026-08-12T13:36:16.000Z",
+    "category": "africa-markets",
+    "summary": "[Nile Post] Fourteen people died in Lwera. Two more died days later in Kakira. Now, 11 commuter taxi drivers have been arrested for allegedly engaging in dangerous loading during a night operation at Maya along the Kampala-Masaka Highway.",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "baa9a7fedb45bcb00e9aea5eca43b36ee9ae4284",
+    "title": "Liberia: MCSS Touts Infrastructure Gains, Payroll Relief for 459 Volunteer Teachers Amid Persistent Challenges",
+    "source": "AllAfrica Business",
+    "url": "https://allafrica.com/stories/202608120375.html",
+    "publishedAt": "2026-08-12T13:34:23.000Z",
+    "category": "africa-markets",
+    "summary": "[Liberian Investigator] MONROVIA -- Monrovia Consolidated School System Superintendent Augurie E. Stevens says the institution has secured funding to rehabilitate several schools, move more than 459 volunteer teachers onto the government payroll, expand scholarship opportunities ",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "6fe98e982bffc302fb3f05a2e2d82a9506d87458",
+    "title": "Nigeria: Nigerian Pharmacists Melody Okereke, Abdulbasit Ajumobi Call for Investment in HIV Drug Discovery Research",
+    "source": "AllAfrica Investment",
+    "url": "https://allafrica.com/stories/202608120352.html",
+    "publishedAt": "2026-08-12T13:24:07.000Z",
+    "category": "africa-markets",
+    "summary": "[Vanguard] Every day, across Nigeria, thousands of people living with HIV begin their morning with a simple routine. A small tablet, a glass of water, and the confidence that comes from knowing that science has transformed HIV from a condition that once carried significant mortal",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "6368cb4629b1ce79a1e22d699db138fe63313c50",
+    "title": "Nigeria: Airlines Resume Flights After Aviation Unions Temporarily Suspend Industrial Action",
+    "source": "AllAfrica Business",
+    "url": "https://allafrica.com/stories/202608120294.html",
+    "publishedAt": "2026-08-12T12:29:39.000Z",
+    "category": "africa-markets",
+    "summary": "[Premium Times] Airlines began restoring services after aviation unions temporarily suspended their industrial action, with Air Peace and United Nigeria Airlines resuming operations after the disruption left passengers stranded at airports in Lagos and Abuja.",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "0a76fd00b4ba29e9d1afa1f8029fc7ee9ddf54b2",
+    "title": "Nigeria: Attah, Investors Revive Ibom Science Park Plan, Seek Takeover As Eno Backs Out",
+    "source": "AllAfrica Investment",
+    "url": "https://allafrica.com/stories/202608120293.html",
+    "publishedAt": "2026-08-12T12:29:38.000Z",
+    "category": "africa-markets",
+    "summary": "[Premium Times] The promoters say the proposed technology hub, to be renamed Uyo World Trade Centre, has secured major investment commitments, including a proposed $250 million financing facility.",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "f0e64e67b6bab6bdb9034ed4e3924a39c906f697",
+    "title": "Kenya: Farmers Urged to Cut Use of Hazardous Pesticides",
+    "source": "AllAfrica Business",
+    "url": "https://allafrica.com/stories/202608120287.html",
+    "publishedAt": "2026-08-12T12:27:02.000Z",
+    "category": "africa-markets",
+    "summary": "[Capital FM] Nairobi -- The Harm Reduction Society of Kenya has called on the government to lower the cost of pesticides used by farmers and strengthen regulations to discourage the use of highly hazardous products.",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "ac8bae161336f730b7f901f1086b0a75e74f6131",
+    "title": "South Africa: Government Gets Tougher On Illegal Mining",
+    "source": "AllAfrica Business",
+    "url": "https://allafrica.com/stories/202608120285.html",
+    "publishedAt": "2026-08-12T12:25:56.000Z",
+    "category": "africa-markets",
+    "summary": "[Scrolla] · The proposed General Mining Laws Amendment Bill would change several laws and introduce a specific offence aimed at cracking down on illegal mining.",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "d3520087ddf59846ea4a04d0528344dfb7fa2c4a",
+    "title": "Exclusive: ClearJet raises $25M to build the ‘Uber of Cargo’",
+    "source": "Crunchbase News",
+    "url": "https://news.crunchbase.com/transportation/clearjet-raises-25m-logistics-ai-seriesb/",
+    "publishedAt": "2026-08-12T12:00:18.000Z",
+    "category": "venture-capital",
+    "summary": "Austin-based ClearJet, an AI-enabled logistics technology startup connects shippers with unused cargo capacity on commercial flights, has raised a $25 million Edison Partners-led Series B, it tells Crunchbase News exclusively.",
+    "type": "article",
+    "region": "global"
+  },
+  {
     "id": "aa112303e4d52907c6827519f8f368f4b1e78963",
     "title": "Sector Snapshot: Fitness Startup Funding Is Rebounding, But Investors Want AI And Data, Not Treadmills",
     "source": "Crunchbase News",
@@ -33,83 +440,6 @@
     "region": "global"
   },
   {
-    "id": "2702b2e8c755d0bf52233eeca3ce3e62ff57d085",
-    "title": "Tanzania: When Rural Women Gain Power, Families and Communities Grow Stronger",
-    "source": "AllAfrica Business",
-    "url": "https://allafrica.com/stories/202608120192.html",
-    "publishedAt": "2026-08-12T10:55:25.000Z",
-    "category": "africa-markets",
-    "summary": "[Daily News] Dodoma -- Talk of agriculture in many rural communities, a seed is more than something planted in the soil. It can represent food, income, family health and the future of farming. For women, however, access to resources and opportunities has often been shaped by soci",
-    "type": "article",
-    "region": "africa"
-  },
-  {
-    "id": "3a7258900091bd39f5a2b8e1e4ab0c522785b4f9",
-    "title": "Malawi: Mzuzu's New Toll Scheme Collapses Within 24 Hours Amid Chaos At Checkpoints",
-    "source": "AllAfrica Business",
-    "url": "https://allafrica.com/stories/202608120178.html",
-    "publishedAt": "2026-08-12T10:48:59.000Z",
-    "category": "africa-markets",
-    "summary": "[Nyasa Times] Mzuzu City Council has been forced to suspend its controversial new road-user fee programme, just one day after the scheme launched, following a chaotic first day marked by network failures and lengthy traffic congestion at checkpoints.",
-    "type": "article",
-    "region": "africa"
-  },
-  {
-    "id": "6f8716c6ab17c58da603cd61a3ea22ce8f7b9572",
-    "title": "Mozambique: Technical Team Established to Negotiate Sale of State's Stake in Tmcel",
-    "source": "AllAfrica Business",
-    "url": "https://allafrica.com/stories/202608120175.html",
-    "publishedAt": "2026-08-12T10:47:40.000Z",
-    "category": "africa-markets",
-    "summary": "[AIM] Maputo -- The Mozambican government has announced the establishment of a technical team to negotiate the sale of part of the State's stake in the publicly owned telecommunications company, Tmcel.",
-    "type": "article",
-    "region": "africa"
-  },
-  {
-    "id": "c934979051a83bb842584aa7577fedabf74db5b5",
-    "title": "Mozambique: Government Collects 183.3 Million Meticais in Revenue",
-    "source": "AllAfrica Business",
-    "url": "https://allafrica.com/stories/202608120174.html",
-    "publishedAt": "2026-08-12T10:47:20.000Z",
-    "category": "africa-markets",
-    "summary": "[AIM] Maputo -- The Mozambican government has collected, during the first half of 2026, 183.3 million meticais (2.9 million US dollars at the current exchange rate) in revenue, which corresponds to 45 percent of target set in the Economic and Social Plan.",
-    "type": "article",
-    "region": "africa"
-  },
-  {
-    "id": "8cfc70eaf6fd2528b70254f19b27f5eb0a163f7f",
-    "title": "Tanzania: Govt to Review Over 1,000 Laws to Attract Tech",
-    "source": "AllAfrica Business",
-    "url": "https://allafrica.com/stories/202608120146.html",
-    "publishedAt": "2026-08-12T10:03:59.000Z",
-    "category": "africa-markets",
-    "summary": "[Daily News] Dar es Salaam -- THE government plans to review more than 1,000 laws to create a regulatory framework capable of supporting artificial intelligence, digital commerce and technologydriven investment as it seeks to make Tanzania's economy more competitive.",
-    "type": "article",
-    "region": "africa"
-  },
-  {
-    "id": "845be5d8d733bf1376e54d16e4fa5383b5cef3cf",
-    "title": "South Africa: South Africa's Jobs Crisis Deepens As 345,000 Join Unemployed",
-    "source": "AllAfrica Business",
-    "url": "https://allafrica.com/stories/202608120117.html",
-    "publishedAt": "2026-08-12T09:43:33.000Z",
-    "category": "africa-markets",
-    "summary": "[Scrolla] · South Africa's official unemployment rate rose from 32.7% to 33.6%, leaving about 8.5 million people officially without jobs.",
-    "type": "article",
-    "region": "africa"
-  },
-  {
-    "id": "3ba9a68d1729818d9d8ef972723438ebc0a112a7",
-    "title": "Kenya: 'Who Takes Sodas?' Mbadi Says Rising Soft-Drink Consumption Shows Kenyans Have More Money",
-    "source": "AllAfrica Business",
-    "url": "https://allafrica.com/stories/202608120114.html",
-    "publishedAt": "2026-08-12T09:42:19.000Z",
-    "category": "africa-markets",
-    "summary": "[Capital FM] Nairobi -- National Treasury Cabinet Secretary John Mbadi has cited rising soft-drink consumption as an indication that some Kenyans have more disposable income, as he defended the economic record of President William Ruto's administration.",
-    "type": "article",
-    "region": "africa"
-  },
-  {
     "id": "b6d849ebad9956674c0116dfeec4bc4e18390b8d",
     "title": "Kenya: Vision 2030 Transformed Kenya, Lapsset Attracted Major Investment, Says Board Chair",
     "source": "AllAfrica Investment",
@@ -121,24 +451,13 @@
     "region": "africa"
   },
   {
-    "id": "226256cbca3632ee160123b321a865595fe9dd25",
-    "title": "Infrastructure and compute: Enterprises are buying AI compute for speed while flying blind on what it costs",
+    "id": "0a00c8b32b080aa03991546157799a1cdba7d2c2",
+    "title": "Agentic orchestration: Enterprise AI organizations know how to govern agents but still can't meter what they cost",
     "source": "VentureBeat",
-    "url": "https://venturebeat.com/resources/infrastructure-and-compute-enterprises-are-buying-ai-compute-for-speed-while-flying-blind-on-what-it-costs",
+    "url": "https://venturebeat.com/resources/agentic-orchestration-enterprise-ai-organizations-know-how-to-govern-agents-but-still-cant-meter-what-they-cost",
     "publishedAt": "2026-08-12T07:30:00.000Z",
     "category": "ai",
-    "summary": "Across 170 enterprises, AI infrastructure has moved decisively into production — two-thirds now run AI workloads live and three in 10 run them at scale — while the ability to account for what that infrastructure costs has not kept pace. Enterprises have quietly demoted cost in th",
-    "type": "article",
-    "region": "global"
-  },
-  {
-    "id": "93daa675932fbecfffc7cccac4d7a21ac94054d7",
-    "title": "Agentic reliability and evaluations : Enterprises that got burned by a bad eval are the most likely to remove humans from the loop, not the least",
-    "source": "VentureBeat",
-    "url": "https://venturebeat.com/resources/agentic-reliability-and-evaluations-enterprises-that-got-burned-by-a-bad-eval-are-the-most-likely-to-remove-humans-from-the-loop-not-the-least",
-    "publishedAt": "2026-08-12T07:30:00.000Z",
-    "category": "ai",
-    "summary": "Across 108 enterprises, trust in automated agent evaluation rose sharply in July — and the failure rate it is supposed to predict did not move at all. The share of organizations that fully trust automated evaluation nearly tripled, from 5% in June to 13%, and the complaint that e",
+    "summary": "Across 107 enterprises, agentic orchestration is not a choice of a single platform. The typical enterprise runs three orchestration platforms at once, and selects them for flexibility across models rather than affinity to any single one. Microsoft leads primary usage while Anthro",
     "type": "article",
     "region": "global"
   },
@@ -154,13 +473,13 @@
     "region": "global"
   },
   {
-    "id": "0a00c8b32b080aa03991546157799a1cdba7d2c2",
-    "title": "Agentic orchestration: Enterprise AI organizations know how to govern agents but still can't meter what they cost",
+    "id": "93daa675932fbecfffc7cccac4d7a21ac94054d7",
+    "title": "Agentic reliability and evaluations : Enterprises that got burned by a bad eval are the most likely to remove humans from the loop, not the least",
     "source": "VentureBeat",
-    "url": "https://venturebeat.com/resources/agentic-orchestration-enterprise-ai-organizations-know-how-to-govern-agents-but-still-cant-meter-what-they-cost",
+    "url": "https://venturebeat.com/resources/agentic-reliability-and-evaluations-enterprises-that-got-burned-by-a-bad-eval-are-the-most-likely-to-remove-humans-from-the-loop-not-the-least",
     "publishedAt": "2026-08-12T07:30:00.000Z",
     "category": "ai",
-    "summary": "Across 107 enterprises, agentic orchestration is not a choice of a single platform. The typical enterprise runs three orchestration platforms at once, and selects them for flexibility across models rather than affinity to any single one. Microsoft leads primary usage while Anthro",
+    "summary": "Across 108 enterprises, trust in automated agent evaluation rose sharply in July — and the failure rate it is supposed to predict did not move at all. The share of organizations that fully trust automated evaluation nearly tripled, from 5% in June to 13%, and the complaint that e",
     "type": "article",
     "region": "global"
   },
@@ -187,28 +506,6 @@
     "region": "africa"
   },
   {
-    "id": "84c17635515b55b40ccd62cc76e0bbcc8b961310",
-    "title": "Kenya: CBK Keeps Interest Rate At 8.75pc Amid Steady Inflation, Exchange Rate",
-    "source": "AllAfrica Business",
-    "url": "https://allafrica.com/stories/202608120026.html",
-    "publishedAt": "2026-08-12T07:09:25.000Z",
-    "category": "africa-markets",
-    "summary": "[Capital FM] Nairobi -- The Central Bank of Kenya (CBK) has kept its benchmark interest rate at 8.75 percent as inflation remains within the target range.",
-    "type": "article",
-    "region": "africa"
-  },
-  {
-    "id": "2f9407b211ec49e3912d91561f00f7530fd4d64c",
-    "title": "Kenya: NTSA Seeks to Retain Sh3bn for Road Safety Programmes",
-    "source": "AllAfrica Business",
-    "url": "https://allafrica.com/stories/202608120021.html",
-    "publishedAt": "2026-08-12T07:06:32.000Z",
-    "category": "africa-markets",
-    "summary": "[Capital FM] Nairobi -- The National Transport and Safety Authority (NTSA) has asked the National Assembly's Departmental Committee on Transport and Infrastructure to support its bid to retain Sh3 billion in own-source revenue to fund road safety programmes.",
-    "type": "article",
-    "region": "africa"
-  },
-  {
     "id": "848b0ad619084930e278b0027a87504cbcc83eca",
     "title": "India’s Yulu raises $93M as quick-commerce boom fuels e-bike demand",
     "source": "TechCrunch Startups",
@@ -220,15 +517,36 @@
     "region": "global"
   },
   {
-    "id": "f164615455b811265651095d374ce3e58e21323a",
-    "title": "West Africa: Nigeria Raises Military Pay Up to 80 Percent As Security Threats Persist",
-    "source": "AllAfrica Business",
-    "url": "https://allafrica.com/stories/202608110733.html",
-    "publishedAt": "2026-08-11T23:39:05.000Z",
-    "category": "africa-markets",
-    "summary": "[Daba Finance] Nigeria will raise military salaries by as much as 80% from Sept. 1 as President Bola Tinubu seeks to improve troop welfare while the armed forces fight insurgents, armed gangs and kidnappers across the country. About 250,000 personnel will benefit from the new pay",
-    "type": "article",
-    "region": "africa"
+    "id": "d85d486c57280369bbe43d806c3cf96041c1cf06",
+    "title": "10Y-2Y spread: 0.48%",
+    "source": "FRED",
+    "url": "https://fred.stlouisfed.org/series/T10Y2Y",
+    "publishedAt": "2026-08-12T00:00:00.000Z",
+    "category": "yield-curve",
+    "summary": "10Y-2Y spread is 0.48% (+0.00% vs previous).",
+    "type": "market-data",
+    "region": "us",
+    "symbol": "T10Y2Y",
+    "value": 0.48,
+    "change": 0,
+    "changePercent": 0,
+    "unit": "%"
+  },
+  {
+    "id": "43a1ab5c980b4ab3ffead7e0361da971681f6740",
+    "title": "10Y-3M spread: 0.81%",
+    "source": "FRED",
+    "url": "https://fred.stlouisfed.org/series/T10Y3M",
+    "publishedAt": "2026-08-12T00:00:00.000Z",
+    "category": "yield-curve",
+    "summary": "10Y-3M spread is 0.81% (+0.00% vs previous).",
+    "type": "market-data",
+    "region": "us",
+    "symbol": "T10Y3M",
+    "value": 0.81,
+    "change": 0,
+    "changePercent": 0,
+    "unit": "%"
   },
   {
     "id": "bc3b1527fb0398326720fbb5c6c29d7ea5def17e",
@@ -238,17 +556,6 @@
     "publishedAt": "2026-08-11T21:39:58.000Z",
     "category": "early-stage",
     "summary": "Phia, the shopping startup co-founded by Phoebe Gates and Sophia Kianni, is once again under fire for its alleged business practices.",
-    "type": "article",
-    "region": "global"
-  },
-  {
-    "id": "b9525c42baa56133626cd5e4facafa367f7a47b8",
-    "title": "SpaceXAI's Grok Bot turns agents into persistent digital coworkers that can operate your apps for $120-per-month",
-    "source": "VentureBeat",
-    "url": "https://venturebeat.com/orchestration/spacexais-grok-bot-turns-agents-into-persistent-digital-coworkers-that-can-operate-your-apps-for-120-per-month",
-    "publishedAt": "2026-08-11T21:07:00.000Z",
-    "category": "ai",
-    "summary": "SpaceXAI, the division of SpaceX formerly known as xAI, is launching an early beta version of Grok Bot, a new agent designed to move AI assistants beyond answering prompts and toward continuously executing work across the software employees already use. The central idea is straig",
     "type": "article",
     "region": "global"
   },
@@ -275,39 +582,6 @@
     "region": "global"
   },
   {
-    "id": "cd89771a44397300832412c8a6695240237ac1b3",
-    "title": "Kenya: MPs Urged to Use Part of NG-CDF Funds to Boost Road Safety",
-    "source": "AllAfrica Business",
-    "url": "https://allafrica.com/stories/202608110595.html",
-    "publishedAt": "2026-08-11T16:20:46.000Z",
-    "category": "africa-markets",
-    "summary": "[Capital FM] Nairobi -- Members of Parliament have been urged to channel part of the National Government Constituencies Development Fund (NG-CDF) towards road safety initiatives, including providing helmets for boda boda riders and passengers, amid continued fatalities on Kenyan ",
-    "type": "article",
-    "region": "africa"
-  },
-  {
-    "id": "61393741e6fdb32baedf385c35f14f947e60a70b",
-    "title": "Nigeria: NCAA Urges Aviation Unions to Suspend Strike Over Alleged Infractions By Air Peace",
-    "source": "AllAfrica Business",
-    "url": "https://allafrica.com/stories/202608110571.html",
-    "publishedAt": "2026-08-11T15:50:34.000Z",
-    "category": "africa-markets",
-    "summary": "[Premium Times] The regulator appealed for dialogue as the dispute over unionisation and the five per cent Ticket Sales Charge disrupted flights and stranded passengers in Lagos and Abuja.",
-    "type": "article",
-    "region": "africa"
-  },
-  {
-    "id": "24991c20bf37efc4b3d235fbb5f279836f26bdba",
-    "title": "South Africa: 12 Million South Africans Trapped in Debt",
-    "source": "AllAfrica Business",
-    "url": "https://allafrica.com/stories/202608110567.html",
-    "publishedAt": "2026-08-11T15:48:55.000Z",
-    "category": "africa-markets",
-    "summary": "[Scrolla] Millions of South Africans are sinking deeper into debt just to survive.",
-    "type": "article",
-    "region": "africa"
-  },
-  {
     "id": "d603e1d38a31503d52fdf237d302e440a9f697b3",
     "title": "Kyoto Fusioneering starts work on key fusion power plant device",
     "source": "TechCrunch Startups",
@@ -317,61 +591,6 @@
     "summary": "Fusion power startups are turning to Kyoto Fusioneering to supply components for future power plants. The Japan-based startup just received a grant to build a part of the fuel system.",
     "type": "article",
     "region": "global"
-  },
-  {
-    "id": "67e8d4022da540e2bb565bd11dc63bac233017d8",
-    "title": "Nigeria: ASUU Declares Indefinite Strike At Nasarawa Varsity",
-    "source": "AllAfrica Business",
-    "url": "https://allafrica.com/stories/202608110457.html",
-    "publishedAt": "2026-08-11T12:52:04.000Z",
-    "category": "africa-markets",
-    "summary": "[Premium Times] \"Dialogue without implementation cannot continue indefinitely,\" ASUU says.",
-    "type": "article",
-    "region": "africa"
-  },
-  {
-    "id": "920996a121e9f8aacba61a70d90b25705490154b",
-    "title": "Ghana: MTN Marks 30 Years With Renewed Focus On Digital Inclusion",
-    "source": "AllAfrica Business",
-    "url": "https://allafrica.com/stories/202608110432.html",
-    "publishedAt": "2026-08-11T12:45:00.000Z",
-    "category": "africa-markets",
-    "summary": "[Ghanaian Times] MTN Ghana has reaffirmed its commitment to promoting digital inclusion, economic growth and community development through sustained investments in network expansion, enterprise solutions, customer experience and social impact initiatives.",
-    "type": "article",
-    "region": "africa"
-  },
-  {
-    "id": "54499b9cd6d607f28d6c6f9c59554b03dd50af7f",
-    "title": "Ghana: Uefa, AFC, Concacaf Hit Out At Infantino Over World Cup Privatisation Plan",
-    "source": "AllAfrica Business",
-    "url": "https://allafrica.com/stories/202608110431.html",
-    "publishedAt": "2026-08-11T12:44:03.000Z",
-    "category": "africa-markets",
-    "summary": "[Ghanaian Times] FIFA President Gianni Infantino has come under renewed fire as a joint letter from three confederations UEFA, CONCACAF and AFC declared that football \"belongs to no individual\".",
-    "type": "article",
-    "region": "africa"
-  },
-  {
-    "id": "46d7b594fae24fdfa24792f8a05f1fdbe8043b7d",
-    "title": "Uganda: Rice Import Traders Accuse Brokers of Hijacking Business",
-    "source": "AllAfrica Business",
-    "url": "https://allafrica.com/stories/202608110426.html",
-    "publishedAt": "2026-08-11T12:42:20.000Z",
-    "category": "africa-markets",
-    "summary": "[Independent (Kampala)] Kampala -- Rice importers say brokers are allegedly working with officials in the Ministry of Trade, Industry and Cooperatives to take control of the country's rice import business through a permit allocation system. They claim that the permit allocation s",
-    "type": "article",
-    "region": "africa"
-  },
-  {
-    "id": "3d9a801569028467aaf7d80b63b59e7816e4b950",
-    "title": "Mozambique: Standard Bank Records Profit of 2.244 Billion Meticais",
-    "source": "AllAfrica Business",
-    "url": "https://allafrica.com/stories/202608110362.html",
-    "publishedAt": "2026-08-11T11:47:08.000Z",
-    "category": "africa-markets",
-    "summary": "[AIM] Maputo -- Mozambican branch of the South African Standard Bank has recorded, in the first half of 2026, a profit of 2.244 billion meticais (34.7 million US dollars at the current exchange rate).",
-    "type": "article",
-    "region": "africa"
   },
   {
     "id": "0431e278feed673a41543fe5eedcd06a6d4c1eb6",
@@ -427,6 +646,86 @@
     "summary": "[Nile Post] The Ministry of Works and Transport is preparing a new railway law that will separate regulation from operations and allow private investors to participate in passenger rail services and railway workshops.",
     "type": "article",
     "region": "africa"
+  },
+  {
+    "id": "cfcee77133d10b93282cbb3264bee3d016538a40",
+    "title": "US 2Y Treasury yield: 4.22%",
+    "source": "FRED",
+    "url": "https://fred.stlouisfed.org/series/DGS2",
+    "publishedAt": "2026-08-11T00:00:00.000Z",
+    "category": "yield-curve",
+    "summary": "US 2Y Treasury yield is 4.22% (-0.03% vs previous).",
+    "type": "market-data",
+    "region": "us",
+    "symbol": "DGS2",
+    "value": 4.22,
+    "change": -0.03000000000000025,
+    "changePercent": -0.03000000000000025,
+    "unit": "%"
+  },
+  {
+    "id": "19e1780066d4cd0e26c5a5a733cfcc077987432e",
+    "title": "US 10Y Treasury yield: 4.70%",
+    "source": "FRED",
+    "url": "https://fred.stlouisfed.org/series/DGS10",
+    "publishedAt": "2026-08-11T00:00:00.000Z",
+    "category": "yield-curve",
+    "summary": "US 10Y Treasury yield is 4.70% (-0.02% vs previous).",
+    "type": "market-data",
+    "region": "us",
+    "symbol": "DGS10",
+    "value": 4.7,
+    "change": -0.019999999999999574,
+    "changePercent": -0.019999999999999574,
+    "unit": "%"
+  },
+  {
+    "id": "96ccd59a688eb0b01a2bd8c4d4d556b8c0a2b7e8",
+    "title": "US 30Y Treasury yield: 5.24%",
+    "source": "FRED",
+    "url": "https://fred.stlouisfed.org/series/DGS30",
+    "publishedAt": "2026-08-11T00:00:00.000Z",
+    "category": "yield-curve",
+    "summary": "US 30Y Treasury yield is 5.24% (-0.01% vs previous).",
+    "type": "market-data",
+    "region": "us",
+    "symbol": "DGS30",
+    "value": 5.24,
+    "change": -0.009999999999999787,
+    "changePercent": -0.009999999999999787,
+    "unit": "%"
+  },
+  {
+    "id": "8e267751375cf3f41597037e74b799b0ccdf1ec5",
+    "title": "US 3M Treasury yield: 3.89%",
+    "source": "FRED",
+    "url": "https://fred.stlouisfed.org/series/DGS3MO",
+    "publishedAt": "2026-08-11T00:00:00.000Z",
+    "category": "yield-curve",
+    "summary": "US 3M Treasury yield is 3.89% (+0.00% vs previous).",
+    "type": "market-data",
+    "region": "us",
+    "symbol": "DGS3MO",
+    "value": 3.89,
+    "change": 0,
+    "changePercent": 0,
+    "unit": "%"
+  },
+  {
+    "id": "8a928a2a19c60c568d180c685cfc726521a9b687",
+    "title": "US 10Y TIPS yield: 2.43%",
+    "source": "FRED",
+    "url": "https://fred.stlouisfed.org/series/DFII10",
+    "publishedAt": "2026-08-11T00:00:00.000Z",
+    "category": "yield-curve",
+    "summary": "US 10Y TIPS yield is 2.43% (+0.00% vs previous).",
+    "type": "market-data",
+    "region": "us",
+    "symbol": "DFII10",
+    "value": 2.43,
+    "change": 0,
+    "changePercent": 0,
+    "unit": "%"
   },
   {
     "id": "700913fb15d70d190b95ce1dbbbf702fb770b572",
@@ -594,17 +893,6 @@
     "region": "global"
   },
   {
-    "id": "4c9c435ab6fcacdbb0e47ecd65515217050d07e9",
-    "title": "South Africa: Team South Africa Advances Energy Investment Agenda in China",
-    "source": "AllAfrica Investment",
-    "url": "https://allafrica.com/stories/202608070561.html",
-    "publishedAt": "2026-08-07T15:07:01.000Z",
-    "category": "africa-markets",
-    "summary": "[SAnews.gov.za] Team South Africa has completed a mission to China aimed at unlocking critical investment for South Africa's energy infrastructure and strengthening cooperation with Chinese industrial players.",
-    "type": "article",
-    "region": "africa"
-  },
-  {
     "id": "da6244c60407760ccd6b4767e2038d3b251732d8",
     "title": "Host your own piece of Disrupt: Apply to run a Side Event at TechCrunch Disrupt 2026",
     "source": "TechCrunch Startups",
@@ -614,17 +902,6 @@
     "summary": "You put together the concept — from a founder mixer, an after-hours panel, a themed party, a morning run, whatever fits your goal — and the TechCrunch team helps put it in front of the attendees already in town for Disrupt.",
     "type": "article",
     "region": "global"
-  },
-  {
-    "id": "5449a683bdcdea238fb65eefa223174f77b6bb8c",
-    "title": "Kenya: Aliko Dangote - Kenya Among 10 Promising African Countries for Investment",
-    "source": "AllAfrica Investment",
-    "url": "https://allafrica.com/stories/202608070460.html",
-    "publishedAt": "2026-08-07T12:50:47.000Z",
-    "category": "africa-markets",
-    "summary": "[Capital FM] Africa's richest man Aliko Dangote has mentioned Kenya as one of the top 10 African countries for investment, citing the opportunities available across the continent.",
-    "type": "article",
-    "region": "africa"
   },
   {
     "id": "e78b7b2aaf8e3b56b425651756cfcd7c83dc4bac",
@@ -649,28 +926,6 @@
     "region": "global"
   },
   {
-    "id": "9d01ef8212ec843c9b2a159781756952060308ab",
-    "title": "Ghana: Ghana's Oil Output Decline - Natural Maturity or Investment Deficit?",
-    "source": "AllAfrica Investment",
-    "url": "https://allafrica.com/stories/202608070248.html",
-    "publishedAt": "2026-08-07T10:54:22.000Z",
-    "category": "africa-markets",
-    "summary": "[Ghanaian Times] More than a decade after Ghana joined the ranks of oil-producing nations, the country's upstream petroleum industry is facing a defining question: Is the steady decline in crude oil production the inevitable result of ageing oil fields, or has it been accelerated",
-    "type": "article",
-    "region": "africa"
-  },
-  {
-    "id": "9020cc471b39bc2adf6e0f76dbaaa2d7c50a8472",
-    "title": "Ethiopia: Conference Connecting African Youth Innovators With Investors Underway in Addis Ababa",
-    "source": "AllAfrica Investment",
-    "url": "https://allafrica.com/stories/202608070126.html",
-    "publishedAt": "2026-08-07T08:20:49.000Z",
-    "category": "africa-markets",
-    "summary": "[ENA] Addis Ababa -- A conference, which aims at connecting African youth innovators driving climate action with investors, is underway in Addis Ababa.",
-    "type": "article",
-    "region": "africa"
-  },
-  {
     "id": "f64f1b9acdadda976cc285cc767b3302cea13d20",
     "title": "ECB publishes consolidated banking data for end-March 2026",
     "source": "ECB Press Releases",
@@ -680,17 +935,6 @@
     "summary": "",
     "type": "article",
     "region": "global"
-  },
-  {
-    "id": "659b0e05f7e0e0b943da5be19cdb2e17772384aa",
-    "title": "Zimbabwe: Zim's Next Test Is Unlocking Investment, Not Fighting Inflation, Says AfDB",
-    "source": "AllAfrica Investment",
-    "url": "https://allafrica.com/stories/202608070048.html",
-    "publishedAt": "2026-08-07T05:46:52.000Z",
-    "category": "africa-markets",
-    "summary": "[The Herald] Zimbabwe's economic reforms have largely succeeded in restoring macroeconomic stability, but the country's next challenge is transforming that stability into higher levels of investment that can drive sustained economic growth, the African Development Bank (AfDB) has",
-    "type": "article",
-    "region": "africa"
   },
   {
     "id": "f4269f89350a1e4ef952088f7fb39e0274c2d484",
@@ -715,39 +959,6 @@
     "region": "global"
   },
   {
-    "id": "cb9c8c68c6dcaff3738a0c4b3e8acea325c6655a",
-    "title": "Naïve raises $28.5M to automate the grunt work of setting up and running a company",
-    "source": "TechCrunch Startups",
-    "url": "https://techcrunch.com/2026/08/06/naive-raises-28-5m-to-automate-the-grunt-work-of-setting-up-and-running-a-company/",
-    "publishedAt": "2026-08-06T17:00:37.000Z",
-    "category": "early-stage",
-    "summary": "Taking vibe-coding a step further, Naïve claims its infra can automate most of the work in setting up and running a business.",
-    "type": "article",
-    "region": "global"
-  },
-  {
-    "id": "55b1f87cd5e234f54aed09302598d93e709a437e",
-    "title": "Tanzania: Textile Investment Helps Tanzania Close Its Manufacturing Gap",
-    "source": "AllAfrica Investment",
-    "url": "https://allafrica.com/stories/202608060480.html",
-    "publishedAt": "2026-08-06T12:22:41.000Z",
-    "category": "africa-markets",
-    "summary": "[Bird Story Agency] Tanzania produces more cotton than its textile industry can process, exporting most of its lint while garment factories and fashion designers import fabric. New investment could help close this industrial gap, creating manufacturing jobs and retaining more val",
-    "type": "article",
-    "region": "africa"
-  },
-  {
-    "id": "c62018892e4476d48cf74e386f85b5dd5fc360d7",
-    "title": "Omilia raises $67M to scale its customer support platform",
-    "source": "TechCrunch Startups",
-    "url": "https://techcrunch.com/2026/08/06/omilia-raises-67m-to-scale-its-customer-support-platform/",
-    "publishedAt": "2026-08-06T12:00:00.000Z",
-    "category": "early-stage",
-    "summary": "The Series B is the company's second fundraise since it last raised capital in 2020. In that time, it has increased its ARR by 10x to $60 million.",
-    "type": "article",
-    "region": "global"
-  },
-  {
     "id": "9f9e07772a7c38b5246eef1c2524cd0335f4ab46",
     "title": "The Return Of The Repeat Founder: Inside YC’s Growing Class Of Second-Timers",
     "source": "Crunchbase News",
@@ -755,39 +966,6 @@
     "publishedAt": "2026-08-06T11:00:56.000Z",
     "category": "venture-capital",
     "summary": "We analyzed a dataset of repeat founders who have gone through Y Combinator’s cohorts and found some very interesting insights. The dataset, shared with us directly from YC, consisted of 454 repeat founders through the program as well as 935 founder-company records spanning 2005 ",
-    "type": "article",
-    "region": "global"
-  },
-  {
-    "id": "1fbc07a18c62803c908f74d5c247c644e455e6a5",
-    "title": "Tanzania: Tanzania Woos Investors With Reforms",
-    "source": "AllAfrica Investment",
-    "url": "https://allafrica.com/stories/202608060179.html",
-    "publishedAt": "2026-08-06T07:41:24.000Z",
-    "category": "africa-markets",
-    "summary": "[Daily News] Dar es Salaam -- TANZANIA yesterday showcased investment opportunities to local and international investors, highlighting reforms that allow investment approvals within 24 hours and provide access to strategic sectors, including energy, manufacturing, tourism and log",
-    "type": "article",
-    "region": "africa"
-  },
-  {
-    "id": "edc2f6f9a41f2ea83429db2eeeea35db9300e976",
-    "title": "Trump’s DOJ gains oversight of OpenAI’s green-card employee sponsorships",
-    "source": "TechCrunch Startups",
-    "url": "https://techcrunch.com/2026/08/05/trumps-doj-gains-oversight-of-openais-green-card-employee-sponsorships/",
-    "publishedAt": "2026-08-05T21:05:37.000Z",
-    "category": "early-stage",
-    "summary": "The DOJ alleged that OpenAI did not meaningful attempt to hire U.S. citizens before seeking permanent residence for Visa-holding employees.",
-    "type": "article",
-    "region": "global"
-  },
-  {
-    "id": "725fce98b5609f58619deb4902a0a66322ab6aed",
-    "title": "How Lightspeed found its newest hire … via Instagram DM",
-    "source": "TechCrunch Startups",
-    "url": "https://techcrunch.com/2026/08/05/how-lightspeed-found-its-newest-hire-via-instagram-dm/",
-    "publishedAt": "2026-08-05T20:48:56.000Z",
-    "category": "early-stage",
-    "summary": "Lightspeed partners Josh Machiz and Claire Zau stopped by the Equity studio to talk about the strategies behind their growing social media presence and their podcast, Lightwork.",
     "type": "article",
     "region": "global"
   },
@@ -801,50 +979,6 @@
     "summary": "Speech At the 2026 Economic Luncheon of the Anchorage Economic Development Corporation, Anchorage, Alaska",
     "type": "article",
     "region": "us"
-  },
-  {
-    "id": "e9f9bc817190c643f37ba9c0e1047e44c51189e1",
-    "title": "Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders",
-    "source": "TechCrunch Startups",
-    "url": "https://techcrunch.com/2026/08/05/klaviyo-acquires-elias-torres-agency-in-full-circle-reunion-for-tech-founders/",
-    "publishedAt": "2026-08-05T20:05:00.000Z",
-    "category": "early-stage",
-    "summary": "The serial entrepreneur joins the e-commerce company as CPO to lead its AI agents.",
-    "type": "article",
-    "region": "global"
-  },
-  {
-    "id": "83ed2b433207622a16d2f65b5be5847b6725f0ff",
-    "title": "The Crunchbase Tech Layoffs Tracker",
-    "source": "Crunchbase News",
-    "url": "https://news.crunchbase.com/startups/tech-layoffs/",
-    "publishedAt": "2026-08-05T18:09:30.000Z",
-    "category": "venture-capital",
-    "summary": "Over 127,000 workers at U.S.-based tech companies were laid off in mass job cuts in 2025, per a Crunchbase News tally, and the layoffs have continued into 2026. See the latest companies to cut roles.",
-    "type": "article",
-    "region": "global"
-  },
-  {
-    "id": "9edcd4dca487df81c946067eb51ec516e3795757",
-    "title": "Kenya: A New Harvest Of Hope - Bt Cotton Revives Lamu",
-    "source": "AllAfrica Investment",
-    "url": "https://allafrica.com/stories/202608050579.html",
-    "publishedAt": "2026-08-05T13:07:26.000Z",
-    "category": "africa-markets",
-    "summary": "[allAfrica] The trip to Lamu is long and torturous but on arrival, one is met by unmatched beauty in this island off the Kenyan coast.",
-    "type": "article",
-    "region": "africa"
-  },
-  {
-    "id": "f0e6d08f7fc97f36683dc977f1648e8a2fb22426",
-    "title": "‘Nobody Wanted to Give A Former Principal Money’: How An Educator Built An Edtech AI Startup With $63M From VCs",
-    "source": "Crunchbase News",
-    "url": "https://news.crunchbase.com/venture/educator-built-edtech-startup-ai-magicschool-kahn/",
-    "publishedAt": "2026-08-05T11:00:41.000Z",
-    "category": "venture-capital",
-    "summary": "Founded by an educator fascinated by the educational potential of ChatGPT, MagicSchool AI leads off a series of articles featuring startup founders from non-technical backgrounds who have launched successful venture-backed companies.",
-    "type": "article",
-    "region": "global"
   },
   {
     "id": "1edd7b3e6105f99c371875d4b199e1210e0be6e8",
@@ -1061,17 +1195,6 @@
     "source": "ECB Press Releases",
     "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.mp260723~29f24d99bc.en.html",
     "publishedAt": "2026-07-23T12:15:00.000Z",
-    "category": "macro",
-    "summary": "",
-    "type": "article",
-    "region": "global"
-  },
-  {
-    "id": "3ee2a1521ddbd89b012c9649123416a16222878e",
-    "title": "ECB appoints Boris Kisselevsky as Director General Secretariat",
-    "source": "ECB Press Releases",
-    "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260721_1~8c6ba4c5fb.en.html",
-    "publishedAt": "2026-07-21T14:00:00.000Z",
     "category": "macro",
     "summary": "",
     "type": "article",
