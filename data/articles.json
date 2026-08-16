@@ -1,5 +1,38 @@
 [
   {
+    "id": "e618025645489e679f27cbcbeda7dd965fc55701",
+    "title": "An eval harness found what qualitative review couldn't: AI models are most confident when wrong",
+    "source": "VentureBeat",
+    "url": "https://venturebeat.com/orchestration/an-eval-harness-found-what-qualitative-review-couldnt-ai-models-are-most-confident-when-wrong",
+    "publishedAt": "2026-08-15T19:00:00.000Z",
+    "category": "ai",
+    "summary": "There is a step in the development process for large language model (LLM)-assisted tooling that most teams skip because it's tedious, time-consuming, and doesn't produce results visible to end users: Verifying that what the model is saying is actually correct. Not fluent, not coh",
+    "type": "article",
+    "region": "global"
+  },
+  {
+    "id": "c2a2d25fa30b61f80a593c8d6b4fd4e4a28e25ed",
+    "title": "SpaceX officially closes its Cursor acquisition",
+    "source": "TechCrunch Startups",
+    "url": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
+    "publishedAt": "2026-08-15T16:30:00.000Z",
+    "category": "early-stage",
+    "summary": "AI coding startup Cursor is now officially a part of SpaceX.",
+    "type": "article",
+    "region": "global"
+  },
+  {
+    "id": "5817172d2bd440fe901709525db0398d3368ed53",
+    "title": "Every fusion startup that has raised over $100M",
+    "source": "TechCrunch Startups",
+    "url": "https://techcrunch.com/2026/08/15/every-fusion-startup-that-has-raised-over-100m/",
+    "publishedAt": "2026-08-15T13:15:20.000Z",
+    "category": "early-stage",
+    "summary": "Fusion startups have raised $7.1 billion to date, with the majority of it going to a handful of companies.",
+    "type": "article",
+    "region": "global"
+  },
+  {
     "id": "ae29ff86b4ffcc132e94e3902657802cceebf1a4",
     "title": "Nigeria: Akwete Weavers Carry An Igbo Textile Tradition Into Modern Fashion",
     "source": "AllAfrica Investment",
@@ -40,17 +73,6 @@
     "publishedAt": "2026-08-14T21:04:53.000Z",
     "category": "africa-markets",
     "summary": "[Ghanaian Times] Africa's labour market is changing fast, but one question remains stubbornly relevant: who gets a fair chance at work? For millions of women, having a job does not always mean having decent work. Low pay, unsafe conditions, unpaid care responsibilities, weak soci",
-    "type": "article",
-    "region": "africa"
-  },
-  {
-    "id": "10e526f6fbd120e15e7b04250524224054fe9cf8",
-    "title": "Cote d'Ivoire: BRVM-Listed Orange C&#xF4;te d'Ivoire Hits Record High in Market Rally",
-    "source": "AllAfrica Business",
-    "url": "https://allafrica.com/stories/202608140584.html",
-    "publishedAt": "2026-08-14T21:00:13.000Z",
-    "category": "africa-markets",
-    "summary": "[Daba Finance] Orange Côte d'Ivoire shares rose 4.32% to 18,000 FCFA on Thursday, returning to the highest closing level reached since Jan. 29, 2025, when the stock also finished at 18,000 FCFA.",
     "type": "article",
     "region": "africa"
   },
@@ -249,6 +271,17 @@
     "publishedAt": "2026-08-14T07:34:17.000Z",
     "category": "africa-markets",
     "summary": "[The Conversation Africa] For centuries, useful metals have been developed by starting with one core element and adding small amounts of other elements. Steel, for example, is composed primarily of iron; carbon is added in varied amounts to produce different grades of steel. Bron",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "923fadfe781005262f4a95bdaeb27a25be7cde80",
+    "title": "Sudan: Refugees, Lost Trade and Security Costs - How Conflict in One African Country Drives Up Debt for Its Neighbours",
+    "source": "AllAfrica Business",
+    "url": "https://allafrica.com/stories/202608140062.html",
+    "publishedAt": "2026-08-14T07:33:35.000Z",
+    "category": "africa-markets",
+    "summary": "[The Conversation Africa] Conflicts in Africa vary in scope and intensity. They range from large-scale civil wars to territorial disputes, localised insurgencies, inter-communal violence, political instability, armed conflict and terrorism. The continent has earned the reputation",
     "type": "article",
     "region": "africa"
   },
@@ -517,17 +550,6 @@
     "region": "africa"
   },
   {
-    "id": "d1db2a2456b82fdc8f9540136968a18a84fe35ba",
-    "title": "Four of five enterprises that secured AI agent identities still can't contain one that goes rogue",
-    "source": "VentureBeat",
-    "url": "https://venturebeat.com/security/four-of-five-enterprises-that-secured-ai-agent-identities-still-cant-contain-one-that-goes-rogue",
-    "publishedAt": "2026-08-12T18:44:50.000Z",
-    "category": "ai",
-    "summary": "Visa's president of technology, Rajat Taneja, walked the VB Transform 2026 audience through aiming Anthropic's Mythos at Visa's own payment network. The model stitched minor weaknesses into working exploit chains, and Visa open-sourced the harness that governed the hunt. That's w",
-    "type": "article",
-    "region": "global"
-  },
-  {
     "id": "b83b50f5183589b91db8ebef2c9dfb571a2014bb",
     "title": "AI coding startup Cognition reportedly already in talks to raise at $40B valuation",
     "source": "TechCrunch Startups",
@@ -770,17 +792,6 @@
     "region": "global"
   },
   {
-    "id": "393ea70e1fb7c3c098b13bc6e7d357aab7c42d49",
-    "title": "Discovered Materials is playing AI whack-a-mole to hunt cooler chips",
-    "source": "TechCrunch Startups",
-    "url": "https://techcrunch.com/2026/08/10/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips/",
-    "publishedAt": "2026-08-10T12:00:00.000Z",
-    "category": "early-stage",
-    "summary": "Discovered Materials raised $9 million to fund the hunt for more novel materials to build more efficient chips.",
-    "type": "article",
-    "region": "global"
-  },
-  {
     "id": "c8aa4f23b90a80a8f6498dae5b2fe3cf1514a4f0",
     "title": "Global New Unicorn Counts In The First Half Of 2026 Have Already Surpassed 2025’s Totals",
     "source": "Crunchbase News",
@@ -799,17 +810,6 @@
     "publishedAt": "2026-08-10T11:00:36.000Z",
     "category": "venture-capital",
     "summary": "A wave of major AI IPOs could return significant liquidity to limited partners, fueling a new venture fundraising cycle rather than simply affecting public-market valuations. That capital is likely to flow disproportionately to the largest, established VC firms, writes guest auth",
-    "type": "article",
-    "region": "global"
-  },
-  {
-    "id": "12c14b40d40b6cb2b438d5db89aa43959c476454",
-    "title": "This former notorious red-light district is now one of the world’s top AI hubs",
-    "source": "TechCrunch Startups",
-    "url": "https://techcrunch.com/2026/08/09/this-former-notorious-red-light-district-is-now-one-of-the-worlds-top-ai-hubs/",
-    "publishedAt": "2026-08-09T13:00:00.000Z",
-    "category": "early-stage",
-    "summary": "More than 20 years ago, King's Cross was one of the seediest area's in London. Now it's sprouting something new.",
     "type": "article",
     "region": "global"
   },
