@@ -1,5 +1,313 @@
 [
   {
+    "id": "71bcc4603165aa2dca2a06b934fc54d5f1444a16",
+    "title": "Nigeria: Five Dead, 10 Rescued in Kano Building Collapse",
+    "source": "AllAfrica Business",
+    "url": "https://allafrica.com/stories/202608170417.html",
+    "publishedAt": "2026-08-17T11:08:23.000Z",
+    "category": "africa-markets",
+    "summary": "[Premium Times] The Kano State Fire Service's spokesperson, Saminu Abdullahi, in a statement on Sunday, said the incidents occurred at Gaida in the Kumbotso Local Government Area and at Kurna in the Fagge LGA.",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "cdbaaba26f2299571e33c0528ccd9bdc1c924bc7",
+    "title": "Africa: Africa's Ancient Grains Find New Favour With Gluten-Free Foodies",
+    "source": "AllAfrica Business",
+    "url": "https://allafrica.com/stories/202608170410.html",
+    "publishedAt": "2026-08-17T11:02:36.000Z",
+    "category": "africa-markets",
+    "summary": "[Daily Maverick] Drought-resistant and locally sourced, they are sustainable alternatives to wheat and the market for them is growing.",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "972adcb222e7d9c276f7ae70407fc7318187c741",
+    "title": "Semiconductor Giants Are Busy Backing Startups This Year",
+    "source": "Crunchbase News",
+    "url": "https://news.crunchbase.com/venture/semiconductor-giants-nvda-intc-backing-ai-robotics-starups-2026/",
+    "publishedAt": "2026-08-17T11:00:24.000Z",
+    "category": "venture-capital",
+    "summary": "Massive AI spending has helped push earnings and valuations for semiconductor industry leaders to record levels, prompting the sector's giants to invest record sums in artificial intelligence and robotics startups.",
+    "type": "article",
+    "region": "global"
+  },
+  {
+    "id": "d9f57ed793d1867e95a9ed1d7df29283bde69171",
+    "title": "Kenya: Government Warns Against 'Outsourcing Our Brains' to AI",
+    "source": "AllAfrica Business",
+    "url": "https://allafrica.com/stories/202608170401.html",
+    "publishedAt": "2026-08-17T10:58:05.000Z",
+    "category": "africa-markets",
+    "summary": "[Capital FM] Nairobi -- Kenya's Special Envoy on Technology Phillip Thigo has warned against excessive dependence on artificial intelligence, saying it could undermine people's ability to think independently.",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "2a560e5ec009a514d88b1af8cef24435c26719a4",
+    "title": "Namibia: Banks Must Reveal Executive Salaries, Owners and Assets",
+    "source": "AllAfrica Business",
+    "url": "https://allafrica.com/stories/202608170393.html",
+    "publishedAt": "2026-08-17T10:57:05.000Z",
+    "category": "africa-markets",
+    "summary": "[Namibian] Banks will have to disclose executive pay, major shareholders and encumbered assets under new transparency rules issued by the Bank of Namibia.",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "ecbcf9bbb997d44d3f0fa432d3ecc5d28ae59848",
+    "title": "Africa: From Capital to Prosperity",
+    "source": "AllAfrica Investment",
+    "url": "https://allafrica.com/stories/202608170300.html",
+    "publishedAt": "2026-08-17T10:24:38.000Z",
+    "category": "africa-markets",
+    "summary": "[allAfrica] Africa has no shortage of industrial ambition. What it lacks is the financial machinery to turn ambition into factories.",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "a06695349cced0846321002eb83b078c564648b1",
+    "title": "Ghana: Govt Targets 100,000 Hectares Palm Plantation",
+    "source": "AllAfrica Business",
+    "url": "https://allafrica.com/stories/202608170292.html",
+    "publishedAt": "2026-08-17T10:19:29.000Z",
+    "category": "africa-markets",
+    "summary": "[Ghanaian Times] The Government has reaffirmed its commitment to transforming Ghana's oil palm industry, with plans to support the establishment of 100,000 hectares of new oil palm plantations as part of efforts to boost domestic production, create jobs and reduce the country's d",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "332a2a86ffdeecf16b844e739aba4aabaf4648ea",
+    "title": "Ghana: Ghana, U.S. Business Leaders to Meet At Global Summit",
+    "source": "AllAfrica Business",
+    "url": "https://allafrica.com/stories/202608170291.html",
+    "publishedAt": "2026-08-17T10:17:02.000Z",
+    "category": "africa-markets",
+    "summary": "[Ghanaian Times] Ghana's Ambassador to the United States of America (USA), Mr Victor Emmanuel Smith; the Executive Chairman of the Jospong Group of Companies, Dr Joseph Siaw Agyepong; and the Chief Executive Officer of the National Youth Authority, Mr Osman Abdulai Ayariga, are a",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "1cdc6a73d2c5ec6660c5e1082ba1d4735496ce57",
+    "title": "Africa: Building a Case for Value Addition in Africa",
+    "source": "AllAfrica Investment",
+    "url": "https://allafrica.com/stories/202608170283.html",
+    "publishedAt": "2026-08-17T10:15:13.000Z",
+    "category": "africa-markets",
+    "summary": "[allAfrica] Only an integrated approach to value addition will elevate African economies, create new jobs and leapfrog development stages.",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "48cdaf3a276dc580e9800bd7012513fe23116210",
+    "title": "Tanzania: Tanzania's Digital Rise - What the Latest Tcra Report Tells Us",
+    "source": "AllAfrica Business",
+    "url": "https://allafrica.com/stories/202608170282.html",
+    "publishedAt": "2026-08-17T10:14:13.000Z",
+    "category": "africa-markets",
+    "summary": "[Daily News] Dar es Salaam -- TANZANIA is becoming more digital every day. From mobile phones and mobile money to internet banking, social media, online government services and digital businesses, communications technology is increasingly becoming part of our daily lives.",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "bfa0d6d38d46d5ce5583025bb9bc18ee3ece0b7e",
+    "title": "Tanzania: Mobile Money Reshapes Economy",
+    "source": "AllAfrica Business",
+    "url": "https://allafrica.com/stories/202608170281.html",
+    "publishedAt": "2026-08-17T10:13:50.000Z",
+    "category": "africa-markets",
+    "summary": "[Daily News] Dar es Salaam -- MOBILE money is becoming an increasingly important part of Tanzania's economic plumbing, with mobile-payment transactions jumping 28.3 per cent to 255.1tri/- in 2025 as digital payments spread.",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "c91f1f11b4e6ba64c18054a390a4cde6f8a7e799",
+    "title": "Nigeria: Nigeria-China Trade Hits $18bn in H1'26",
+    "source": "AllAfrica Business",
+    "url": "https://allafrica.com/stories/202608170278.html",
+    "publishedAt": "2026-08-17T10:10:30.000Z",
+    "category": "africa-markets",
+    "summary": "[Vanguard] Nigeria's aquatic products have secured zero-tariff access to China's market of about 1.4 billion consumers under a new protocol, as bilateral trade between both countries reaches $18 billion in the first half of 2026 (H1'26).",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "b8e2cb5dee86f335e27a9b414f7d1ddbb4e22006",
+    "title": "Kenya: Senators Want Six-Month Strategic Oil Reserve",
+    "source": "AllAfrica Business",
+    "url": "https://allafrica.com/stories/202608170257.html",
+    "publishedAt": "2026-08-17T09:53:38.000Z",
+    "category": "africa-markets",
+    "summary": "[Capital FM] Nairobi -- Senators have given the Ministry of Energy and Petroleum 12 months to develop a framework for establishing a national strategic oil reserve capable of holding at least six months of the country's fuel consumption.",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "df34aca2dd0c0fd2118b6b2be3a7c8bac91aa22e",
+    "title": "Kenya: 'Jobs Will Be Lost' - Thigo Urges Kenyans to Adapt to AI Revolution",
+    "source": "AllAfrica Business",
+    "url": "https://allafrica.com/stories/202608170255.html",
+    "publishedAt": "2026-08-17T09:53:36.000Z",
+    "category": "africa-markets",
+    "summary": "[Capital FM] Nairobi -- Kenya must invest in talent, digital infrastructure and skills to maximise the economic opportunities presented by artificial intelligence while preparing workers for job displacement, Special Envoy on Technology Ambassador Philip Thigo has said.",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "01b17465ef3accc9df9f08d7d7bc4373027e15e3",
+    "title": "Philip R. Lane: The rise in defence spending and the euro area economy",
+    "source": "ECB Press Releases",
+    "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260817~1f9f7149c9.en.pdf",
+    "publishedAt": "2026-08-17T09:30:00.000Z",
+    "category": "macro",
+    "summary": "",
+    "type": "article",
+    "region": "global"
+  },
+  {
+    "id": "11a116ba7c192fbefa59d63be7147549f0b07c40",
+    "title": "Kenya: AI Will Take Some Jobs - but Create 78 Million More, Kenya's Tech Envoy Forecasts",
+    "source": "AllAfrica Business",
+    "url": "https://allafrica.com/stories/202608170191.html",
+    "publishedAt": "2026-08-17T09:01:34.000Z",
+    "category": "africa-markets",
+    "summary": "[Capital FM] Nairobi -- The global artificial intelligence revolution could result in a net gain of about 78 million jobs by 2030, despite the expected displacement of millions of workers, Kenya's Special Envoy on Technology has said.",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "dbfceb81aa52147d2f41ab2c551bb56814909f60",
+    "title": "Africa: All of Africa Today - August 17, 2026",
+    "source": "AllAfrica Business",
+    "url": "https://allafrica.com/stories/202608170167.html",
+    "publishedAt": "2026-08-17T06:44:43.000Z",
+    "category": "africa-markets",
+    "summary": "[allAfrica]",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "87d61d43dc796ae55b5c72b41d763f589e62c382",
+    "title": "Nigeria: Plaude Counters Claims Over Disputed $13.07m Currency Deal, Says $8.95m Was Settled, $1bn Processed in 2 Years",
+    "source": "AllAfrica Business",
+    "url": "https://allafrica.com/stories/202608170165.html",
+    "publishedAt": "2026-08-17T06:40:56.000Z",
+    "category": "africa-markets",
+    "summary": "[Vanguard] Plaude Technologies Limited has rejected what it described as misleading and inaccurate claims arising from a disputed currency transaction involving Zacuten Technologies Limited and Crossbeam Financial Services Limited.",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "e8fcf257fb79fa5856f309a94381889f6e4d6fb5",
+    "title": "Nigeria: EFCC Recovers $60 Million for Nestoil Lenders in Ongoing Debt Investigation",
+    "source": "AllAfrica Business",
+    "url": "https://allafrica.com/stories/202608170162.html",
+    "publishedAt": "2026-08-17T06:40:54.000Z",
+    "category": "africa-markets",
+    "summary": "[Premium Times] At a meeting facilitated by the EFCC, Nestoil and a consortium of banks agreed to a structured debt repayment.",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "391e0558696101ab7a60e4cf9daa0352485c6273",
+    "title": "Nigeria: Manufacturers Groan As Rising Credit, Production Costs Threaten Recovery",
+    "source": "AllAfrica Business",
+    "url": "https://allafrica.com/stories/202608170161.html",
+    "publishedAt": "2026-08-17T06:40:53.000Z",
+    "category": "africa-markets",
+    "summary": "[Vanguard] Nigeria have warned that the high cost of credit and rising production expenses remain major threats to the recovery of the manufacturing sector, despite a renewed improvement in manufacturers' confidence in the economy.",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "8edb01d0516419e9cd86fd1a3a963dc6d31170c8",
+    "title": "Kenya: Treasury Doubles Domestic Borrowing to Sh138bn in July",
+    "source": "AllAfrica Business",
+    "url": "https://allafrica.com/stories/202608170159.html",
+    "publishedAt": "2026-08-17T06:40:51.000Z",
+    "category": "africa-markets",
+    "summary": "[Capital FM] Nairobi -- The government more than doubled its domestic borrowing in July, raising Sh138.25 billion from the local market as it began the 2026/27 financial year.",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "3312360d339dc1f871b1827fba256fb4a83d2c22",
+    "title": "Africa: Tanzania's VAT Refund Revolution - the Quiet Reform That Could Unlock Billions in Private Investment",
+    "source": "AllAfrica Investment",
+    "url": "https://allafrica.com/stories/202608170065.html",
+    "publishedAt": "2026-08-17T04:18:40.000Z",
+    "category": "africa-markets",
+    "summary": "[African Arguments] When governments unveil annual budgets, headlines focus on the big numbers: spending, growth and tax collection.",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "df7bb0a1f93bb517e3e82db4a164a277d12cba6a",
+    "title": "Uganda: Njeru Investors Raise Land Grabbing Concerns, Warn of Impact On Investment",
+    "source": "AllAfrica Investment",
+    "url": "https://allafrica.com/stories/202608170045.html",
+    "publishedAt": "2026-08-17T03:19:10.000Z",
+    "category": "africa-markets",
+    "summary": "[Nile Post] Investors in Njeru Municipality, Buikwe District, have raised concerns over alleged land grabbing, warning that prolonged land disputes are affecting business expansion and could undermine the area's attractiveness to potential investors.",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "ad7768999d3d4a9cd0de2fcd114c37037c8c74d6",
+    "title": "Uganda: Three Months On, Arua District Yet to Relocate to New Shs1bn Headquarters",
+    "source": "AllAfrica Investment",
+    "url": "https://allafrica.com/stories/202608170039.html",
+    "publishedAt": "2026-08-17T03:19:07.000Z",
+    "category": "africa-markets",
+    "summary": "[Nile Post] Three months after the new Arua District headquarters at Odumi in Vurra Town Council was commissioned and declared ready to accommodate key district offices, the district leadership is yet to relocate from Arua City.",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "fafd24ceadc9a76f9ffc07d526b63c9fce64c2d8",
+    "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
+    "source": "TechCrunch Startups",
+    "url": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
+    "publishedAt": "2026-08-16T20:57:04.000Z",
+    "category": "early-stage",
+    "summary": "OpenRouter's CEO recently described the startup as Stripe for AI.",
+    "type": "article",
+    "region": "global"
+  },
+  {
+    "id": "8c74bb6a9cc0b29907945fdf08f53885baa4e1c7",
+    "title": "Cutting RAG inference costs 6x starts with deciding what never reaches the LLM",
+    "source": "VentureBeat",
+    "url": "https://venturebeat.com/orchestration/cutting-rag-inference-costs-6x-starts-with-deciding-what-never-reaches-the-llm",
+    "publishedAt": "2026-08-16T20:45:00.000Z",
+    "category": "ai",
+    "summary": "Most teams building retrieval augmented generation (RAG) systems for high stakes classification make the same architectural bet: Route every ambiguous case straight to the language model and trust the retrieved context to sort it out. This works fine in a demo. It falls apart the",
+    "type": "article",
+    "region": "global"
+  },
+  {
+    "id": "b1ba623efb3cdf6a5b8d789b0910988b87cf2a9d",
+    "title": "West Africa: Lithium in the Sahel - How Armed Groups Are Exploiting the Global Scramble for the Critical Mineral",
+    "source": "AllAfrica Business",
+    "url": "https://allafrica.com/stories/202608160006.html",
+    "publishedAt": "2026-08-16T15:37:32.000Z",
+    "category": "africa-markets",
+    "summary": "[The Conversation Africa] Every electric vehicle, smartphone and laptop battery begins with one essential ingredient: lithium.",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "d73aac4d65f3585b0c492a837540757c93e26064",
+    "title": "DeepSeek's top-ranked V4 Flash stumbles on real agent tasks as its prices surge",
+    "source": "VentureBeat",
+    "url": "https://venturebeat.com/orchestration/deepseeks-top-ranked-v4-flash-stumbles-on-real-agent-tasks-as-its-prices-surge",
+    "publishedAt": "2026-08-16T13:00:00.000Z",
+    "category": "ai",
+    "summary": "DeepSeek's V4 Flash has topped model leaderboards and been hailed by developers as a \"total monster\" since its rollout. But in real-world testing, it completed just 53.8% of a batch of complex agent tasks. Composio ran the model through eight different agent harnesses, including ",
+    "type": "article",
+    "region": "global"
+  },
+  {
     "id": "e618025645489e679f27cbcbeda7dd965fc55701",
     "title": "An eval harness found what qualitative review couldn't: AI models are most confident when wrong",
     "source": "VentureBeat",
@@ -66,17 +374,6 @@
     "region": "global"
   },
   {
-    "id": "523b9cca2b4112e9c05eed0e1616992bb276652b",
-    "title": "Africa: Feminism As a Labour Instrument - Advancing Workers' Rights and Decent Work in Africa",
-    "source": "AllAfrica Business",
-    "url": "https://allafrica.com/stories/202608140593.html",
-    "publishedAt": "2026-08-14T21:04:53.000Z",
-    "category": "africa-markets",
-    "summary": "[Ghanaian Times] Africa's labour market is changing fast, but one question remains stubbornly relevant: who gets a fair chance at work? For millions of women, having a job does not always mean having decent work. Low pay, unsafe conditions, unpaid care responsibilities, weak soci",
-    "type": "article",
-    "region": "africa"
-  },
-  {
     "id": "b87b90eef4f7fd05ca4b8e2831da61da3118ab44",
     "title": "The Week’s 10 Biggest Funding Rounds: Data, Neolab, AI Infrastructure, Defense And AI Coding Lead",
     "source": "Crunchbase News",
@@ -95,61 +392,6 @@
     "publishedAt": "2026-08-14T18:03:16.000Z",
     "category": "africa-markets",
     "summary": "[ANGOP] Luanda -- Angola on Wednesday proposed in Durban, South Africa, that a meeting of SADC member states be held in Benguela province to attract regional interest in financing the Lobito Refinery.",
-    "type": "article",
-    "region": "africa"
-  },
-  {
-    "id": "0513e0266116428db649751b8df694d288c6fb5d",
-    "title": "Southern Africa: Angola and Brazil Strengthen Dialogue On Agribusiness Investment",
-    "source": "AllAfrica Investment",
-    "url": "https://allafrica.com/stories/202608140474.html",
-    "publishedAt": "2026-08-14T18:03:15.000Z",
-    "category": "africa-markets",
-    "summary": "[ANGOP] Luanda -- State Minister for Economic Coordination José de Lima Massano on Wednesday received in Luanda a Brazilian business delegation interested in expanding investment in Angola's agribusiness sector.",
-    "type": "article",
-    "region": "africa"
-  },
-  {
-    "id": "9d892c2a75ebbea6ef882e5fbf3db631e08cb99c",
-    "title": "Gambia: Why Don't Boats in the Gambia Have Number Plates?",
-    "source": "AllAfrica Business",
-    "url": "https://allafrica.com/stories/202608140395.html",
-    "publishedAt": "2026-08-14T15:49:39.000Z",
-    "category": "africa-markets",
-    "summary": "[Foroyaa] The question of why passenger and artisanal fishing boats in The Gambia do not have a clear and widely enforced identification system has been on the national agenda for years. Unlike motor vehicles, which are required to carry registration numbers that allow them to be",
-    "type": "article",
-    "region": "africa"
-  },
-  {
-    "id": "e6aff892c5f153005082c24a9bda152c50ba0bcd",
-    "title": "Liberia: Gbarnga Residents Say CMC's Jor River Bridge Project Abandoned",
-    "source": "AllAfrica Business",
-    "url": "https://allafrica.com/stories/202608140393.html",
-    "publishedAt": "2026-08-14T15:47:39.000Z",
-    "category": "africa-markets",
-    "summary": "[Liberian Investigator] GBARNGA -- A US$500,000 bridge meant to end dangerous crossings between Civil Compound and Jorkpanmue remains unbuilt three months after contractors left the site, and residents say the excavation the workers left behind has made the creek deeper and more ",
-    "type": "article",
-    "region": "africa"
-  },
-  {
-    "id": "aba0db4d5055b122b0a7e7100249b7eb651267c9",
-    "title": "Liberia: Boakai Signs Ports Autonomy Bills, Clearing Way for Major Overhaul of Liberia's Port Governance",
-    "source": "AllAfrica Business",
-    "url": "https://allafrica.com/stories/202608140389.html",
-    "publishedAt": "2026-08-14T15:44:34.000Z",
-    "category": "africa-markets",
-    "summary": "[Liberian Investigator] President Joseph N. Boakai has signed into law two landmark ports autonomy bills, clearing the way for one of Liberia's most significant reforms of port governance in decades following months of legislative hearings, stakeholder consultations and debate.",
-    "type": "article",
-    "region": "africa"
-  },
-  {
-    "id": "23209aa69d488a08c50ebec5dfc326d4946450b6",
-    "title": "Nigeria: Telco Deploys Over 1,000 New 5G Sites As Data Use Surges 31 Percent",
-    "source": "AllAfrica Business",
-    "url": "https://allafrica.com/stories/202608140375.html",
-    "publishedAt": "2026-08-14T15:34:59.000Z",
-    "category": "africa-markets",
-    "summary": "[Leadership] Airtel Nigeria has accelerated the expansion of its fifth-generation (5G) network, integrating more than 1,000 new 5G sites in the last one year as rising data consumption puts increasing pressure on mobile networks across the country.",
     "type": "article",
     "region": "africa"
   },
@@ -198,39 +440,6 @@
     "region": "africa"
   },
   {
-    "id": "9a9552b1525429e75b95c6d741e85e20f42b099b",
-    "title": "Ghana: Ghana Must Shift From Vehicle Imports to Local Assembly - Prof. Hinson",
-    "source": "AllAfrica Business",
-    "url": "https://allafrica.com/stories/202608140169.html",
-    "publishedAt": "2026-08-14T10:38:35.000Z",
-    "category": "africa-markets",
-    "summary": "[Ghanaian Times] Ghana's automobile industry must move beyond vehicle importation and sales to embrace full-scale local assembly and manufacturing to boost the economy and enhance job creation, Professor Robert Ebo Hinson, has stated.",
-    "type": "article",
-    "region": "africa"
-  },
-  {
-    "id": "089198f21aa6ecfeffd07fb8e001d451b396484c",
-    "title": "Tanzania: Tech Sector Is Engine of Future Growth",
-    "source": "AllAfrica Business",
-    "url": "https://allafrica.com/stories/202608140153.html",
-    "publishedAt": "2026-08-14T10:23:56.000Z",
-    "category": "africa-markets",
-    "summary": "[Daily News] Tanzania -- TANZANIA wants to become one of Africa's leading digital economies and it is putting technology at the heart of its journey to Dira 2050.",
-    "type": "article",
-    "region": "africa"
-  },
-  {
-    "id": "dec4d5168079b7f859f62af3dec6a5967b074f88",
-    "title": "Zimbabwe: Mnangagwa Orders Replacement Ferry for Ill-Fated Mbuya Nehanda Boat, Rehabilitation of Abandoned Road",
-    "source": "AllAfrica Business",
-    "url": "https://allafrica.com/stories/202608140151.html",
-    "publishedAt": "2026-08-14T10:23:20.000Z",
-    "category": "africa-markets",
-    "summary": "[New Zimbabwe] GOVERNMENT has pledged to replace the passenger ferry involved in Tuesday's Lake Kariba disaster and urgently rehabilitate the impassable road linking Kariba, Siakobvu and Chalala, but the commitments have come only after dozens of people lost their lives.",
-    "type": "article",
-    "region": "africa"
-  },
-  {
     "id": "db69a6a200d1a32df9c02d0d3609288e84d0abc8",
     "title": "Zambia: A Harvest That Keeps Zambia's Children Learning",
     "source": "AllAfrica Investment",
@@ -238,72 +447,6 @@
     "publishedAt": "2026-08-14T10:18:01.000Z",
     "category": "africa-markets",
     "summary": "[Bird Story Agency] In a farming settlement in southern Zambia, families use income from a drought-resilient crop to buy uniforms and books, meet college costs and put food on the table. Farmers say better seed, stronger prices and faster payments could help more rural households",
-    "type": "article",
-    "region": "africa"
-  },
-  {
-    "id": "8e69fb0adfee8c9ac029dfcc9e333613470fe805",
-    "title": "Liberia: Mfdp, Agriculture Ministry Review Sector Performance",
-    "source": "AllAfrica Business",
-    "url": "https://allafrica.com/stories/202608140128.html",
-    "publishedAt": "2026-08-14T10:02:01.000Z",
-    "category": "africa-markets",
-    "summary": "[New Dawn] Lewis S. Teh -- The Ministry of Finance and Development Planning (MFDP) and the Ministry of Agriculture have conducted a high-level review of Liberia's agriculture sector, focusing on budget execution, ongoing projects and priorities aimed at improving performance and ",
-    "type": "article",
-    "region": "africa"
-  },
-  {
-    "id": "8f4774bfe8fe4d4beda7fc53761ba018b9af0a6a",
-    "title": "South Africa: Electricity and Paraffin Now Cost Families R122 More",
-    "source": "AllAfrica Business",
-    "url": "https://allafrica.com/stories/202608140073.html",
-    "publishedAt": "2026-08-14T08:19:03.000Z",
-    "category": "africa-markets",
-    "summary": "[Scrolla] PMBEJD found 350kWh of prepaid electricity rose by R81.57 a month after a 6.9% tariff increase. Buying 20 litres of paraffin now costs R40.60 more, taking the combined monthly increase to R122.17.",
-    "type": "article",
-    "region": "africa"
-  },
-  {
-    "id": "f255693ac1b9f1c93faacc0a99d0f3d2e0a2f293",
-    "title": "Africa: A New Class of Metals Could Transform Africa's Clean Energy Economy - Scientists Explain",
-    "source": "AllAfrica Business",
-    "url": "https://allafrica.com/stories/202608140064.html",
-    "publishedAt": "2026-08-14T07:34:17.000Z",
-    "category": "africa-markets",
-    "summary": "[The Conversation Africa] For centuries, useful metals have been developed by starting with one core element and adding small amounts of other elements. Steel, for example, is composed primarily of iron; carbon is added in varied amounts to produce different grades of steel. Bron",
-    "type": "article",
-    "region": "africa"
-  },
-  {
-    "id": "923fadfe781005262f4a95bdaeb27a25be7cde80",
-    "title": "Sudan: Refugees, Lost Trade and Security Costs - How Conflict in One African Country Drives Up Debt for Its Neighbours",
-    "source": "AllAfrica Business",
-    "url": "https://allafrica.com/stories/202608140062.html",
-    "publishedAt": "2026-08-14T07:33:35.000Z",
-    "category": "africa-markets",
-    "summary": "[The Conversation Africa] Conflicts in Africa vary in scope and intensity. They range from large-scale civil wars to territorial disputes, localised insurgencies, inter-communal violence, political instability, armed conflict and terrorism. The continent has earned the reputation",
-    "type": "article",
-    "region": "africa"
-  },
-  {
-    "id": "14a7bfc023623d90a7f224def5b8bc8d5c60a100",
-    "title": "Africa: The Beijing of It All - Africa's Development Terms Are No Longer Written in Washington or Brussels",
-    "source": "AllAfrica Business",
-    "url": "https://allafrica.com/stories/202608140057.html",
-    "publishedAt": "2026-08-14T07:29:43.000Z",
-    "category": "africa-markets",
-    "summary": "[African Arguments] In the period that followed decolonisation, Africa's development landscape continued to be shaped by Western partnerships. By the late 1990s and early 2000s, this Western-facing architecture took the form of policy conditionality, governance agendas and instit",
-    "type": "article",
-    "region": "africa"
-  },
-  {
-    "id": "49131dd5a4e9f99415e858b4acda97b06bbb8521",
-    "title": "South Africa: Nearly Half of Young People Are Not Working or in Training",
-    "source": "AllAfrica Business",
-    "url": "https://allafrica.com/stories/202608140048.html",
-    "publishedAt": "2026-08-14T07:16:51.000Z",
-    "category": "africa-markets",
-    "summary": "[GroundUp] NEET rate for 15-34 year olds has risen from 38% to 45% since 2012",
     "type": "article",
     "region": "africa"
   },
@@ -326,17 +469,6 @@
     "publishedAt": "2026-08-14T07:10:51.000Z",
     "category": "africa-markets",
     "summary": "[Premium Times] NNPC said the new order establishes a transparent, predictable, and globally competitive fiscal framework for qualifying greenfield deep offshore developments.",
-    "type": "article",
-    "region": "africa"
-  },
-  {
-    "id": "2acca5dfb9ec6c4135eadeb9b608630c57675750",
-    "title": "Ghana: Stanbic Bank Ghana Named Best Investment Bank",
-    "source": "AllAfrica Investment",
-    "url": "https://allafrica.com/stories/202608140002.html",
-    "publishedAt": "2026-08-14T00:09:10.000Z",
-    "category": "africa-markets",
-    "summary": "[Ghanaian Times] Stanbic Bank Ghana has been named Ghana's Best Investment Bank at the Euromoney Awards for Excellence 2026, contributing to Standard Bank Group's 17 awards across Africa.",
     "type": "article",
     "region": "africa"
   },
@@ -418,17 +550,6 @@
     "region": "global"
   },
   {
-    "id": "5653c7a136b2bd30d8fdb2e689759e73be05c910",
-    "title": "Nigeria: Pipeline Surveillance Crucial for $50bn Upstream Investment - Stakeholders",
-    "source": "AllAfrica Investment",
-    "url": "https://allafrica.com/stories/202608130399.html",
-    "publishedAt": "2026-08-13T15:26:08.000Z",
-    "category": "africa-markets",
-    "summary": "[Daily Trust] Stakeholders in the oil and gas sector have welcomed the Nigerian Upstream Petroleum Regulatory Commission (NUPRC) projection that Nigeria's upstream oil and gas sector is to attract between $30 billion and $50 billion in offshore investments between 2026 and 2030.",
-    "type": "article",
-    "region": "africa"
-  },
-  {
     "id": "4a05721678c735479f98ac3b679797ecfe242edc",
     "title": "Federal Reserve Board issues enforcement action with former employee of Regions Bank",
     "source": "Federal Reserve Press Releases",
@@ -449,50 +570,6 @@
     "summary": "Over 127,000 workers at U.S.-based tech companies were laid off in mass job cuts in 2025, per a Crunchbase News tally, and the layoffs have continued into 2026. See the latest companies to cut roles.",
     "type": "article",
     "region": "global"
-  },
-  {
-    "id": "0a0176ceadcbf950764a40dacffd4e4e639da816",
-    "title": "Why Capital One built its multi-agent AI platform around open-weight models",
-    "source": "VentureBeat",
-    "url": "https://venturebeat.com/orchestration/why-capital-one-built-its-multi-agent-ai-platform-around-open-weight-models",
-    "publishedAt": "2026-08-13T14:00:00.000Z",
-    "category": "ai",
-    "summary": "Presented by Capital One At VB Transform 2026, Kel Vanee, MVP of machine learning engineering at Capital One, spoke with Sam Witteveen, Senior Technology Contributor at VentureBeat, about how the bank built a scalable multi-agent AI architecture around deeply customized open-weig",
-    "type": "article",
-    "region": "global"
-  },
-  {
-    "id": "8607f38703c63a09aab09539cd499fb055ed32b9",
-    "title": "Writer says its new Palmyra X6 model cuts AI agent costs by 52% as token spending surges",
-    "source": "VentureBeat",
-    "url": "https://venturebeat.com/orchestration/writer-says-its-new-palmyra-x6-model-cuts-ai-agent-costs-by-52-as-token-spending-surges",
-    "publishedAt": "2026-08-13T13:00:00.000Z",
-    "category": "ai",
-    "summary": "Writer, the enterprise AI agent platform used by Fortune 500 companies including Accenture, Uber, and Vanguard, released its new flagship model Palmyra X6 today, alongside a rebuilt agent orchestration \"harness\" and new governance tools designed to give IT leaders control over ru",
-    "type": "article",
-    "region": "global"
-  },
-  {
-    "id": "282d054a04f4a24b12c72eef466b1c56a1017146",
-    "title": "Uganda: 'We Need Alcohol to Work' - Mubende Residents Reject 3pm Bar Opening Directive",
-    "source": "AllAfrica Business",
-    "url": "https://allafrica.com/stories/202608130249.html",
-    "publishedAt": "2026-08-13T12:45:31.000Z",
-    "category": "africa-markets",
-    "summary": "[Nile Post] Residents of Mubende Municipality have opposed a directive by Minister for Local Government Balaam Barugahara requiring bars to open from 3pm, arguing that the restriction could disrupt their livelihoods and daily routines.",
-    "type": "article",
-    "region": "africa"
-  },
-  {
-    "id": "1bb57abdf0ec02198b80e4871326b744df7264dd",
-    "title": "South Africa: Urgent Govt Action Urged As Unemployment Crisis Deepens",
-    "source": "AllAfrica Business",
-    "url": "https://allafrica.com/stories/202608130204.html",
-    "publishedAt": "2026-08-13T12:15:30.000Z",
-    "category": "africa-markets",
-    "summary": "[SAnews.gov.za] The Department of Employment and Labour has called for urgent and coordinated action to address South Africa's worsening employment crisis, following the release of the Quarterly Labour Force Survey (QLFS) for the second quarter of 2026.",
-    "type": "article",
-    "region": "africa"
   },
   {
     "id": "b1698e7c5a1646dd7bffaeae96c2ec6041a81dbd",
@@ -524,17 +601,6 @@
     "publishedAt": "2026-08-13T07:29:31.000Z",
     "category": "africa-markets",
     "summary": "[Premium Times] When conversations turn to investment in Africa, one name consistently dominates the discussion: Aliko Dangote. Over the past four decades, the Nigerian industrialist has become more than Africa's richest businessman - he has emerged as one of the continent's most",
-    "type": "article",
-    "region": "africa"
-  },
-  {
-    "id": "2b9ee630aca3cec1deb35cb8ed941a0a9142c14e",
-    "title": "Uganda: Trade Minister Tanna Courts Japanese Investment in Uganda",
-    "source": "AllAfrica Investment",
-    "url": "https://allafrica.com/stories/202608120644.html",
-    "publishedAt": "2026-08-12T22:41:19.000Z",
-    "category": "africa-markets",
-    "summary": "[Nile Post] Minister of Trade, Industry and Cooperatives Sanjay Tanna has urged Japanese investors to increase their presence in Uganda, particularly in infrastructure, agro-processing, tourism and technology.",
     "type": "article",
     "region": "africa"
   },
@@ -682,17 +748,6 @@
     "region": "global"
   },
   {
-    "id": "b6d849ebad9956674c0116dfeec4bc4e18390b8d",
-    "title": "Kenya: Vision 2030 Transformed Kenya, Lapsset Attracted Major Investment, Says Board Chair",
-    "source": "AllAfrica Investment",
-    "url": "https://allafrica.com/stories/202608120069.html",
-    "publishedAt": "2026-08-12T07:45:00.000Z",
-    "category": "africa-markets",
-    "summary": "[Capital FM] Vision 2030 has played a major role in transforming Kenya's development landscape and attracting large-scale private investment, Vision 2030 Board Chairman Dr Emmanuel Nzai has said.",
-    "type": "article",
-    "region": "africa"
-  },
-  {
     "id": "8947b71483c9ead466d2e243e558fa824e397278",
     "title": "Africa: A Century of Agricultural Investment in Sudan - Why Has Development Failed?",
     "source": "AllAfrica Investment",
@@ -781,17 +836,6 @@
     "region": "global"
   },
   {
-    "id": "f1e480bffee7bd99167497c10fbeb941fbe09abe",
-    "title": "Tech industry is buzzing after a Claude agent hacked into a gym",
-    "source": "TechCrunch Startups",
-    "url": "https://techcrunch.com/2026/08/10/tech-industry-is-buzzing-after-a-claude-agent-hacked-into-a-gym/",
-    "publishedAt": "2026-08-10T20:04:24.000Z",
-    "category": "early-stage",
-    "summary": "An OpenClaw agent hacked into a gym's reservation system to bump its human boss higher on a class' waitlist. And the tech industry took notice.",
-    "type": "article",
-    "region": "global"
-  },
-  {
     "id": "c8aa4f23b90a80a8f6498dae5b2fe3cf1514a4f0",
     "title": "Global New Unicorn Counts In The First Half Of 2026 Have Already Surpassed 2025’s Totals",
     "source": "Crunchbase News",
@@ -799,17 +843,6 @@
     "publishedAt": "2026-08-10T11:00:38.000Z",
     "category": "venture-capital",
     "summary": "A total 195 companies joined The Crunchbase Unicorn Board in the first half of 2026 — far surpassing counts seen since the second half of 2022. Already, H1 is above the new unicorn totals for all of 2025, when 193 companies were minted with that status.",
-    "type": "article",
-    "region": "global"
-  },
-  {
-    "id": "aa6ad50e173c83fc759f001c5b861c0e323bd8fa",
-    "title": "The Biggest Consequence Of An AI IPO Isn’t The IPO Itself. It’s What Happens Afterward.",
-    "source": "Crunchbase News",
-    "url": "https://news.crunchbase.com/public/ai-ipo-results-lp-liquidity-gershfeld-flint/",
-    "publishedAt": "2026-08-10T11:00:36.000Z",
-    "category": "venture-capital",
-    "summary": "A wave of major AI IPOs could return significant liquidity to limited partners, fueling a new venture fundraising cycle rather than simply affecting public-market valuations. That capital is likely to flow disproportionately to the largest, established VC firms, writes guest auth",
     "type": "article",
     "region": "global"
   },
@@ -1039,17 +1072,6 @@
     "source": "ECB Press Releases",
     "url": "https://www.ecb.europa.eu//press/press_conference/monetary-policy-statement/2026/html/ecb.is260723~b6fadd48f4.en.html",
     "publishedAt": "2026-07-23T13:00:00.000Z",
-    "category": "macro",
-    "summary": "",
-    "type": "article",
-    "region": "global"
-  },
-  {
-    "id": "6957988c85e1f6784350dc46b6f6ef94a2e37503",
-    "title": "Monetary policy decisions",
-    "source": "ECB Press Releases",
-    "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.mp260723~29f24d99bc.en.html",
-    "publishedAt": "2026-07-23T12:15:00.000Z",
     "category": "macro",
     "summary": "",
     "type": "article",
