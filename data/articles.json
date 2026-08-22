@@ -1,7 +1,205 @@
 [
   {
+    "id": "421416c34215e514774475b88eb2bcb82fca32b1",
+    "title": "Japanese space tech startup Letara expands beyond satellite thrusters with $16M",
+    "source": "TechCrunch Startups",
+    "url": "https://techcrunch.com/2026/08/21/japanese-space-tech-startup-letara-expands-beyond-satellite-thrusters-with-16m/",
+    "publishedAt": "2026-08-22T01:03:06.000Z",
+    "category": "early-stage",
+    "summary": "Japanese space startup Letara is betting its hybrid rocket technology can move beyond small satellite thrusters into a broader market for space, defense and security, after raising ¥2.6 billion ($16 million).",
+    "type": "article",
+    "region": "global"
+  },
+  {
+    "id": "e1b06620a2d815858419e10297c86d5db3b5b74d",
+    "title": "How AI accounting startup Rillet raised $100M and became a unicorn in 48 hours",
+    "source": "TechCrunch Startups",
+    "url": "https://techcrunch.com/2026/08/21/how-ai-accounting-startup-rillet-raised-100m-and-became-a-unicorn-in-48-hours/",
+    "publishedAt": "2026-08-21T22:10:01.000Z",
+    "category": "early-stage",
+    "summary": "Rillet CEO Nicolas Kopp shared growth numbers at a board meeting and set off a fundraising frenzy from Iconiq, Sequoia and others. Without even trying.",
+    "type": "article",
+    "region": "global"
+  },
+  {
+    "id": "2a35ed6f008b08e42e79472d9e0d1268f85bc978",
+    "title": "Africa: Inaugural Africa Business Investment Summit Convenes 27-28 August in Washington DC",
+    "source": "AllAfrica Investment",
+    "url": "https://allafrica.com/stories/202608210689.html",
+    "publishedAt": "2026-08-21T21:15:29.000Z",
+    "category": "africa-markets",
+    "summary": "[Africa Business Investment Summit] Africa's business leaders will convene in Washington D.C., for the inaugural Africa Business Investment Summit (ABIS) 2026, taking place at MGM National Harbor 27-28 August 2026 as the centerpiece of Millennium Excellence Awards America.",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "4ac7f26dcb93c1b283eeca7731df0efcf50a5f0f",
+    "title": "Last chance: Save up to $300 on your TechCrunch Disrupt 2026 ticket today",
+    "source": "TechCrunch Startups",
+    "url": "https://techcrunch.com/2026/08/21/last-chance-save-up-to-300-on-your-techcrunch-disrupt-2026-ticket-today/",
+    "publishedAt": "2026-08-21T19:16:15.000Z",
+    "category": "early-stage",
+    "summary": "If you’ve been circling around Disrupt, then now’s the best time to lock in your pass and start getting ready to join the rest of the startup community gathering in San Francisco from October 13-15 at Moscone West!",
+    "type": "article",
+    "region": "global"
+  },
+  {
+    "id": "cbba00d91b43242194182945a97403ee4110bccb",
+    "title": "Why is the DOJ investigating Andreessen Horowitz’s board seats?",
+    "source": "TechCrunch Startups",
+    "url": "https://techcrunch.com/video/why-is-the-doj-investigating-andreessen-horowitzs-board-seats/",
+    "publishedAt": "2026-08-21T16:53:39.000Z",
+    "category": "early-stage",
+    "summary": "Andreessen Horowitz has two partners sitting on the boards of companies that now compete with each other: Ben Horowitz at Databricks and Martin Casado at Fivetran. Nothing too scandalous on the surface, except the Department of Justice has reportedly been investigating the arrang",
+    "type": "article",
+    "region": "global"
+  },
+  {
+    "id": "9b9153c29f10a4ecec6de70890836ae780cad571",
+    "title": "Nvidia finds that simple linear math can replace costly AI model handoffs",
+    "source": "VentureBeat",
+    "url": "https://venturebeat.com/technology/nvidia-finds-that-simple-linear-math-can-replace-costly-ai-model-handoffs",
+    "publishedAt": "2026-08-21T16:33:56.000Z",
+    "category": "ai",
+    "summary": "When an agentic AI system hands a task from a small model to a larger one — or back down again — it pays a steep tax: the receiving model has to recompute the entire conversation from scratch, driving up compute costs and latency. This is a major bottleneck for enterprises buildi",
+    "type": "article",
+    "region": "global"
+  },
+  {
+    "id": "fea4881428c8a43b8389d8e095fe72b9e3db3f79",
+    "title": "The Week’s 10 Biggest Funding Rounds: Defense Tech, AI Tools And Infrastructure Lead The Way",
+    "source": "Crunchbase News",
+    "url": "https://news.crunchbase.com/venture/biggest-funding-rounds-defense-tech-ai-infrastructure-castelion/",
+    "publishedAt": "2026-08-21T15:42:23.000Z",
+    "category": "venture-capital",
+    "summary": "The biggest financing of the week went to Castelion, a defense tech startup developing a hypersonic missile. Other sizable rounds went to companies developing AI inference technology, a video-creation platform, data centers and voice-to-text tools.",
+    "type": "article",
+    "region": "global"
+  },
+  {
+    "id": "5e205ad228170ae00c3420407caa5c0be043031f",
+    "title": "Mozambique: Police Commander Arrested for Illegal Mining",
+    "source": "AllAfrica Business",
+    "url": "https://allafrica.com/stories/202608210591.html",
+    "publishedAt": "2026-08-21T15:14:03.000Z",
+    "category": "africa-markets",
+    "summary": "[AIM] Maputo -- The Police commander of Chinde District, in the central Mozambican province of Zambezia, has been arrested on suspicion of involvement in the illegal mining of tantalite.",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "874e71f9e11a05c9e9a04a480da6640fe5cb0bee",
+    "title": "Mozambique: Generational Challenge Demands Measures Toward Economic Independence",
+    "source": "AllAfrica Business",
+    "url": "https://allafrica.com/stories/202608210590.html",
+    "publishedAt": "2026-08-21T15:13:35.000Z",
+    "category": "africa-markets",
+    "summary": "[AIM] Maputo -- The Mozambican President Daniel Chapo, as leader of the ruling Frelimo party, believes that the country's generational challenge demands a paradigm shift toward the achievement of economic independence.",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "9afa6c4a520e0bc79888762997fe60e00999b806",
+    "title": "Mozambique: Tanzanian Metl Group to Invest 250 Million Dollars in Mozambique",
+    "source": "AllAfrica Business",
+    "url": "https://allafrica.com/stories/202608210589.html",
+    "publishedAt": "2026-08-21T15:13:03.000Z",
+    "category": "africa-markets",
+    "summary": "[AIM] Maputo -- MeTL Group, a Tanzanian conglomerate and one of the country's largest companies, has announced 250 million dollars investment in Mozambique.",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "3c952abd1bd8276325b268735465b85dc2d7ca24",
+    "title": "Kenya: Siaya County Links Salary Delays to Slow Budget Process",
+    "source": "AllAfrica Business",
+    "url": "https://allafrica.com/stories/202608210568.html",
+    "publishedAt": "2026-08-21T14:44:35.000Z",
+    "category": "africa-markets",
+    "summary": "[Capital FM] Nairobi -- Siaya County has attributed delays in the payment of July and August 2026 salaries to the prolonged approval of its 2026/27 budget.",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "999fb8c8da0c54d82567176a97a7ebd9d2484047",
+    "title": "Kenya: Can Satellite Technology Cut the Cost of Rural Road Construction in Kenya?",
+    "source": "AllAfrica Business",
+    "url": "https://allafrica.com/stories/202608210562.html",
+    "publishedAt": "2026-08-21T14:22:35.000Z",
+    "category": "africa-markets",
+    "summary": "[Capital FM] Nairobi -- Makueni County is turning to satellite imagery, artificial intelligence and geographic information systems (GIS) to determine where rural roads should be built or upgraded, in a move officials and engineers say could reduce the cost of infrastructure proje",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "897ae96f35ff355b173021bf293eb4d81e090b32",
+    "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
+    "source": "TechCrunch Startups",
+    "url": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
+    "publishedAt": "2026-08-21T14:00:00.000Z",
+    "category": "early-stage",
+    "summary": "Andreessen Horowitz has two partners sitting on the boards of companies that now compete with each other: Ben Horowitz at Databricks and Martin Casado at Fivetran. Nothing too scandalous on the surface, except the Department of Justice has reportedly been investigating the arrang",
+    "type": "article",
+    "region": "global"
+  },
+  {
+    "id": "8a5a6d190a21bcd2d7a565a2436b4ca1ed2863d0",
+    "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
+    "source": "TechCrunch Startups",
+    "url": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
+    "publishedAt": "2026-08-21T14:00:00.000Z",
+    "category": "early-stage",
+    "summary": "There's about to be a big fight to secure access to space.",
+    "type": "article",
+    "region": "global"
+  },
+  {
+    "id": "0b06241af330a08d3da5217ce67204fd651aae02",
+    "title": "East Africa: Dangote Offers East Africa 30 Percent Stake in Kenya Refinery",
+    "source": "AllAfrica Business",
+    "url": "https://allafrica.com/stories/202608210512.html",
+    "publishedAt": "2026-08-21T13:11:22.000Z",
+    "category": "africa-markets",
+    "summary": "[Daba Finance] Aliko Dangote is offering East African governments a combined 30% stake in a planned refinery in Kenya as he seeks regional backing for a project designed to cut dependence on imported fuel. Kenya, Ethiopia and Rwanda have shown interest, according to David Ndii, a",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "91e4234f9908974bbd7427627e82218e42d78b67",
+    "title": "Southern Africa: Zambia's Hichilema Wins Second Term As Investors Eye Growth",
+    "source": "AllAfrica Investment",
+    "url": "https://allafrica.com/stories/202608210509.html",
+    "publishedAt": "2026-08-21T13:11:20.000Z",
+    "category": "africa-markets",
+    "summary": "[Daba Finance] Zambian President Hakainde Hichilema won a second 5-year term, giving investors policy continuity as the government seeks to build on its debt restructuring and increase copper production.",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "a7689ce0295c30d1f3513563b24860e9bf292189",
+    "title": "Kenya: Beyond the Cotton Field - The Race to Build Kenya's Cotton-to-Textile Industry",
+    "source": "AllAfrica Business",
+    "url": "https://allafrica.com/stories/202608210477.html",
+    "publishedAt": "2026-08-21T12:34:30.000Z",
+    "category": "africa-markets",
+    "summary": "[allAfrica] Kenya is growing more cotton again, but the bigger opportunity lies in what happens after the harvest -- from ginning and spinning to fabric, garments, jobs and industrial investment. For decades, Kenya's cotton story has largely been told from the farm.",
+    "type": "article",
+    "region": "africa"
+  },
+  {
+    "id": "790cf55b2104d52b483b077dc66c7781ba90f3f3",
+    "title": "Zimbabwe: Young Africa Marks 25 Years With 693 New Skilled Workers",
+    "source": "AllAfrica Business",
+    "url": "https://allafrica.com/stories/202608210437.html",
+    "publishedAt": "2026-08-21T12:11:10.000Z",
+    "category": "africa-markets",
+    "summary": "[263Chat] Young Africa Zimbabwe has graduated 693 young people from 16 vocational trades as the organisation marked 25 years of providing skills training to young people across the country.",
+    "type": "article",
+    "region": "africa"
+  },
+  {
     "id": "1f2123eeccd21118633c9d57f4348fb152290302",
-    "title": "Africa: U.S. Launches 'Ip for Growth' Programme to Boost Africa's Creative Economy",
+    "title": "Africa: U.S. Launches 'IP for Growth' Programme to Boost Africa's Creative Economy",
     "source": "AllAfrica Business",
     "url": "https://allafrica.com/stories/202608210372.html",
     "publishedAt": "2026-08-21T11:02:50.000Z",
@@ -88,39 +286,6 @@
     "region": "africa"
   },
   {
-    "id": "48d2ec1749432c1e1bffe4a1fdfea66084d5f49b",
-    "title": "Nigeria: Presidency, Wike Tackle Atiku Over Pledge to Restore Fuel Subsidy",
-    "source": "AllAfrica Business",
-    "url": "https://allafrica.com/stories/202608210158.html",
-    "publishedAt": "2026-08-21T08:48:19.000Z",
-    "category": "africa-markets",
-    "summary": "[Leadership] The Presidency has described former Vice President Atiku Abubakar's proposal to restore petrol subsidy as retrogressive and an attempt to regain political power, arguing that it would return Nigeria to a wasteful and fiscally burdensome petroleum regime.",
-    "type": "article",
-    "region": "africa"
-  },
-  {
-    "id": "fd72bab691dc00db5fd2fdd8dda0dc70357e6147",
-    "title": "Nigeria: Atiku in Dramatic U-Turn, Wants Fuel Subsidy Returned",
-    "source": "AllAfrica Business",
-    "url": "https://allafrica.com/stories/202608210159.html",
-    "publishedAt": "2026-08-21T08:48:19.000Z",
-    "category": "africa-markets",
-    "summary": "[This Day] Former Vice President Atiku Abubakar yesterday reopened one of Nigeria's most contentious economic debates, promising to restore petrol subsidy if elected president in 2027.",
-    "type": "article",
-    "region": "africa"
-  },
-  {
-    "id": "9dda47c2f4c32eac93b526c6e43cdaefef5a2cdf",
-    "title": "Sudan: Finance Undersecretary Says Plans Underway for Economic Recovery and Reconstruction",
-    "source": "AllAfrica Business",
-    "url": "https://allafrica.com/stories/202608210136.html",
-    "publishedAt": "2026-08-21T08:23:07.000Z",
-    "category": "africa-markets",
-    "summary": "[SNA] Finance Undersecretary Dr. Mohamed Ali Jumaa said the war had caused extensive destruction and losses across Sudan, noting that the Ministry of Finance is working to develop plans for economic recovery and reconstruction, assess the extent of the damage, evaluate economic l",
-    "type": "article",
-    "region": "africa"
-  },
-  {
     "id": "5b07faaa097b5d1376d160a10aace0b6711a7bd1",
     "title": "Sudan: Azerbaijan Expresses Interest in Investing in Sudan's Electricity and Oil Sectors",
     "source": "AllAfrica Investment",
@@ -141,17 +306,6 @@
     "summary": "",
     "type": "article",
     "region": "global"
-  },
-  {
-    "id": "bb403d2ef9eaaf08f4c3bc6cac7ddb408a607920",
-    "title": "Kenya: Nearly 3 in 5 Kenyans Oppose Proposed Ride-Hailing Fare Hikes",
-    "source": "AllAfrica Business",
-    "url": "https://allafrica.com/stories/202608210117.html",
-    "publishedAt": "2026-08-21T07:36:31.000Z",
-    "category": "africa-markets",
-    "summary": "[Capital FM] Nairobi -- Passengers are divided over government intervention in the pricing of ride-hailing services, with affordability emerging as the biggest concern.",
-    "type": "article",
-    "region": "africa"
   },
   {
     "id": "86e014e86324413e530b425379c5267214f8ffe0",
@@ -187,17 +341,6 @@
     "region": "africa"
   },
   {
-    "id": "de6459aa9a66ffe67efbee10fd5ab99d006d0853",
-    "title": "Nigeria: 47 Dead As Boat Capsizes in Sokoto",
-    "source": "AllAfrica Business",
-    "url": "https://allafrica.com/stories/202608210099.html",
-    "publishedAt": "2026-08-21T06:07:40.000Z",
-    "category": "africa-markets",
-    "summary": "[Vanguard] Officials have told the Associated Press that 47 people died when a boat capsized in a river in Sokoto State on Thursday.",
-    "type": "article",
-    "region": "africa"
-  },
-  {
     "id": "dd97d3a310f8f63cd90002008125a38fe491e581",
     "title": "Africa: Lamola Calls for South Africa-Zimbabwe Ties to Deliver Jobs, Investment and Infrastructure",
     "source": "AllAfrica Investment",
@@ -205,17 +348,6 @@
     "publishedAt": "2026-08-21T06:07:39.000Z",
     "category": "africa-markets",
     "summary": "[SAnews.gov.za] South Africa and Zimbabwe must move beyond their strong historical and political ties and translate their bilateral relationship into tangible economic opportunities, including investment, trade, jobs, infrastructure and improved livelihoods.",
-    "type": "article",
-    "region": "africa"
-  },
-  {
-    "id": "d500d19031707e82ccd9f5c5de7bbddc76c09369",
-    "title": "Central African Republic: Over 100 Labourers Killed in Gold Mine Collapse in Central African Republic",
-    "source": "AllAfrica Business",
-    "url": "https://allafrica.com/stories/202608210071.html",
-    "publishedAt": "2026-08-21T05:54:38.000Z",
-    "category": "africa-markets",
-    "summary": "[Premium Times] The toll rose from about 30 labourers to 107 as Rescue officials recovered more bodies trapped under the mine in the past hours.",
     "type": "article",
     "region": "africa"
   },
@@ -253,17 +385,6 @@
     "region": "africa"
   },
   {
-    "id": "1b55e48266b30d32545d1a52b0ccfa2653ff0369",
-    "title": "Central African Republic: Deadly Border Mine Collapse Exposes Risks Behind Central Africa's Gold Rush",
-    "source": "AllAfrica Business",
-    "url": "https://allafrica.com/stories/202608210008.html",
-    "publishedAt": "2026-08-21T04:51:24.000Z",
-    "category": "africa-markets",
-    "summary": "[RFI] A deadly landslide at a gold mine on the Cameroon-Central African Republic border has triggered calls for greater oversight of mining operations, after dozens of people were killed and many more were reported missing.",
-    "type": "article",
-    "region": "africa"
-  },
-  {
     "id": "35f97ccf8783655210bf71e746ad9a9328f86749",
     "title": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
     "source": "TechCrunch Startups",
@@ -284,6 +405,38 @@
     "summary": "Slack wants to drag AI coding out of the terminal and into the group chat. The Salesforce-owned messaging platform today announced Slack Code, a new product that embeds AI coding agents — including Anthropic's Claude Code, Cognition's Devin, GitHub Copilot, and Vercel's agent — d",
     "type": "article",
     "region": "global"
+  },
+  {
+    "id": "67d82421a14166d5daf81a9ab708f803459663b3",
+    "title": "10Y-2Y spread: 0.50%",
+    "source": "FRED",
+    "url": "https://fred.stlouisfed.org/series/T10Y2Y",
+    "publishedAt": "2026-08-21T00:00:00.000Z",
+    "category": "yield-curve",
+    "summary": "10Y-2Y spread is 0.50% (+0.00% vs previous).",
+    "type": "market-data",
+    "region": "us",
+    "symbol": "T10Y2Y",
+    "value": 0.5,
+    "change": 0,
+    "changePercent": 0,
+    "unit": "%"
+  },
+  {
+    "id": "9d50b0ce301c40d19f1130a6d71bbfc42e3967aa",
+    "title": "10Y-3M spread: 0.86%",
+    "source": "FRED",
+    "url": "https://fred.stlouisfed.org/series/T10Y3M",
+    "publishedAt": "2026-08-21T00:00:00.000Z",
+    "category": "yield-curve",
+    "summary": "10Y-3M spread is 0.86% (+0.04% vs previous).",
+    "type": "market-data",
+    "region": "us",
+    "symbol": "T10Y3M",
+    "value": 0.86,
+    "change": 0.040000000000000036,
+    "changePercent": 0.040000000000000036,
+    "unit": "%"
   },
   {
     "id": "51331926d1617c1381b7bbf531d62bf5883206e7",
@@ -352,26 +505,15 @@
     "region": "global"
   },
   {
-    "id": "1a6de40ec549b50267f0da10bd6935b9e339f5fb",
-    "title": "Mozambique: Mozambique LNG Already Trained 100 SMEs in Cabo Delgado",
-    "source": "AllAfrica Business",
-    "url": "https://allafrica.com/stories/202608200597.html",
-    "publishedAt": "2026-08-20T16:24:55.000Z",
-    "category": "africa-markets",
-    "summary": "[AIM] Maputo -- The French oil and gas company TotalEnergies, which heads the liquefied natural gas (LNG) consortium, in Palma district, in the northern Mozambican province of Cabo Delgado, has already trained 100 small and medium enterprises (SMEs) in that province.",
+    "id": "9c25d151328b26c0c0257fcfba99433304f7d765",
+    "title": "Inertia Enterprises finds a way to make its fusion fuel fast",
+    "source": "TechCrunch Startups",
+    "url": "https://techcrunch.com/2026/08/20/inertia-enterprises-finds-a-way-to-make-its-fusion-fuel-fast/",
+    "publishedAt": "2026-08-20T16:00:00.000Z",
+    "category": "early-stage",
+    "summary": "Fusion power startup Inertia Enterprises reduced the fuel filling process from a week to just a few hours. It's one of 10 hurdles the company must overcome to make a profitable power plant.",
     "type": "article",
-    "region": "africa"
-  },
-  {
-    "id": "cdd97666bdd8ee51b9b303ba4e8c1cba53da612e",
-    "title": "Rwanda: Congress Members 'Alarmed' By U.S.-DR Congo Mineral Deal",
-    "source": "AllAfrica Business",
-    "url": "https://allafrica.com/stories/202608200595.html",
-    "publishedAt": "2026-08-20T16:19:45.000Z",
-    "category": "africa-markets",
-    "summary": "[New Times] Dozens of members of the United States Congress have raised concerns about the Trump administration's critical minerals agreements with the DR Congo and other countries.",
-    "type": "article",
-    "region": "africa"
+    "region": "global"
   },
   {
     "id": "e958fb1ae40d0cc2dd010ab1c701addf2fbe506a",
@@ -385,17 +527,6 @@
     "region": "global"
   },
   {
-    "id": "9c25d151328b26c0c0257fcfba99433304f7d765",
-    "title": "Inertia Enterprises finds a way to make its fusion fuel fast",
-    "source": "TechCrunch Startups",
-    "url": "https://techcrunch.com/2026/08/20/inertia-enterprises-finds-a-way-to-make-its-fusion-fuel-fast/",
-    "publishedAt": "2026-08-20T16:00:00.000Z",
-    "category": "early-stage",
-    "summary": "Fusion power startup Inertia Enterprises reduced the fuel filling process from a week to just a few hours. It's one of 10 hurdles the company must overcome to make a profitable power plant.",
-    "type": "article",
-    "region": "global"
-  },
-  {
     "id": "a360e441f6a2ff0e404172d06ea715a2f7c9ae59",
     "title": "Kenya: Invest Kenya, Eavca Partner to Attract Private Capital",
     "source": "AllAfrica Investment",
@@ -405,17 +536,6 @@
     "summary": "[Capital FM] Nairobi -- The Kenya Investment Authority (Invest Kenya) and the East Africa Venture Capital Association (EAVCA) have signed a partnership to attract more private capital into the country and position Kenya as a leading hub for investment in East Africa.",
     "type": "article",
     "region": "africa"
-  },
-  {
-    "id": "54c3164be61510169faa76e26e5183eb244c58de",
-    "title": "There are less than 48 hours to save up to $300 on your TechCrunch Disrupt 2026 ticket",
-    "source": "TechCrunch Startups",
-    "url": "https://techcrunch.com/2026/08/20/there-are-less-than-48-hours-to-save-up-to-300-on-your-techcrunch-disrupt-2026-ticket/",
-    "publishedAt": "2026-08-20T15:53:49.000Z",
-    "category": "early-stage",
-    "summary": "If you’ve been circling around Disrupt, then now’s the best time to lock in your pass and start getting ready to join the rest of the startup community gathering in San Francisco from October 13-15 at Moscone West!",
-    "type": "article",
-    "region": "global"
   },
   {
     "id": "9e559a2c074cc6253f4685bd3b83b6714c9089e9",
@@ -484,35 +604,83 @@
     "region": "africa"
   },
   {
-    "id": "6b3821b582bb7673e93b23088307fb8e6a7c8413",
-    "title": "10Y-2Y spread: 0.50%",
+    "id": "8bf59eef2b82239af7d17328b4024cc26baf55b6",
+    "title": "US 2Y Treasury yield: 4.19%",
     "source": "FRED",
-    "url": "https://fred.stlouisfed.org/series/T10Y2Y",
+    "url": "https://fred.stlouisfed.org/series/DGS2",
     "publishedAt": "2026-08-20T00:00:00.000Z",
     "category": "yield-curve",
-    "summary": "10Y-2Y spread is 0.50% (+0.04% vs previous).",
+    "summary": "US 2Y Treasury yield is 4.19% (+0.00% vs previous).",
     "type": "market-data",
     "region": "us",
-    "symbol": "T10Y2Y",
-    "value": 0.5,
-    "change": 0.03999999999999998,
-    "changePercent": 0.03999999999999998,
+    "symbol": "DGS2",
+    "value": 4.19,
+    "change": 0,
+    "changePercent": 0,
     "unit": "%"
   },
   {
-    "id": "acf10352c365a9c4004e4732177ea83b20b63355",
-    "title": "10Y-3M spread: 0.82%",
+    "id": "9e7ed8164e2bc931261a4b999b845f9c39b8ba58",
+    "title": "US 10Y Treasury yield: 4.69%",
     "source": "FRED",
-    "url": "https://fred.stlouisfed.org/series/T10Y3M",
+    "url": "https://fred.stlouisfed.org/series/DGS10",
     "publishedAt": "2026-08-20T00:00:00.000Z",
     "category": "yield-curve",
-    "summary": "10Y-3M spread is 0.82% (+0.03% vs previous).",
+    "summary": "US 10Y Treasury yield is 4.69% (+0.04% vs previous).",
     "type": "market-data",
     "region": "us",
-    "symbol": "T10Y3M",
-    "value": 0.82,
-    "change": 0.029999999999999916,
-    "changePercent": 0.029999999999999916,
+    "symbol": "DGS10",
+    "value": 4.69,
+    "change": 0.040000000000000036,
+    "changePercent": 0.040000000000000036,
+    "unit": "%"
+  },
+  {
+    "id": "1934a47cb54092a49ea60c77497601064e19d5d9",
+    "title": "US 30Y Treasury yield: 5.23%",
+    "source": "FRED",
+    "url": "https://fred.stlouisfed.org/series/DGS30",
+    "publishedAt": "2026-08-20T00:00:00.000Z",
+    "category": "yield-curve",
+    "summary": "US 30Y Treasury yield is 5.23% (+0.04% vs previous).",
+    "type": "market-data",
+    "region": "us",
+    "symbol": "DGS30",
+    "value": 5.23,
+    "change": 0.040000000000000036,
+    "changePercent": 0.040000000000000036,
+    "unit": "%"
+  },
+  {
+    "id": "9ae1cd8b9c53da7a5870fa91477ff5a14191d955",
+    "title": "US 3M Treasury yield: 3.87%",
+    "source": "FRED",
+    "url": "https://fred.stlouisfed.org/series/DGS3MO",
+    "publishedAt": "2026-08-20T00:00:00.000Z",
+    "category": "yield-curve",
+    "summary": "US 3M Treasury yield is 3.87% (+0.01% vs previous).",
+    "type": "market-data",
+    "region": "us",
+    "symbol": "DGS3MO",
+    "value": 3.87,
+    "change": 0.010000000000000231,
+    "changePercent": 0.010000000000000231,
+    "unit": "%"
+  },
+  {
+    "id": "7fff5edbd1e0a69df3a189fa20ab3b02df0e0298",
+    "title": "US 10Y TIPS yield: 2.35%",
+    "source": "FRED",
+    "url": "https://fred.stlouisfed.org/series/DFII10",
+    "publishedAt": "2026-08-20T00:00:00.000Z",
+    "category": "yield-curve",
+    "summary": "US 10Y TIPS yield is 2.35% (+0.00% vs previous).",
+    "type": "market-data",
+    "region": "us",
+    "symbol": "DFII10",
+    "value": 2.35,
+    "change": 0,
+    "changePercent": 0,
     "unit": "%"
   },
   {
@@ -681,17 +849,6 @@
     "region": "global"
   },
   {
-    "id": "77cbd57761ef57aaf13c81019767c771d1e64f77",
-    "title": "GLM-5.3 hits the API at $1.4/$4.4 per million tokens",
-    "source": "VentureBeat",
-    "url": "https://venturebeat.com/technology/glm-5-3-hits-the-api-at-1-4-4-4-per-million-tokens",
-    "publishedAt": "2026-08-19T02:00:00.000Z",
-    "category": "ai",
-    "summary": "After a stunning debut last week with cyber capabilities so advanced they reportedly found a previously undetected vulnerability in Cursor, GLM-5.3, the new frontier open source language model from Chinese startup z.ai, has now hit the application programming interface (API) — al",
-    "type": "article",
-    "region": "global"
-  },
-  {
     "id": "dfcdd7fd499fdeb8cecb94aa2269693fd1f587bc",
     "title": "Nigeria: Sahara Deepens Investment in African Oilfield Services",
     "source": "AllAfrica Investment",
@@ -701,86 +858,6 @@
     "summary": "[This Day] Sahara Upstream is accelerating the next phase of its oilfield services strategy, strengthening Arahas Global Oilfield Services (Arahas) and SGIR Rigs and Energy Limited as integrated platforms designed to support growing demand for world-class upstream services across",
     "type": "article",
     "region": "africa"
-  },
-  {
-    "id": "d63be55dde9b4a643b38f5b7422c8324fbda49b4",
-    "title": "US 2Y Treasury yield: 4.19%",
-    "source": "FRED",
-    "url": "https://fred.stlouisfed.org/series/DGS2",
-    "publishedAt": "2026-08-19T00:00:00.000Z",
-    "category": "yield-curve",
-    "summary": "US 2Y Treasury yield is 4.19% (+0.00% vs previous).",
-    "type": "market-data",
-    "region": "us",
-    "symbol": "DGS2",
-    "value": 4.19,
-    "change": 0,
-    "changePercent": 0,
-    "unit": "%"
-  },
-  {
-    "id": "26d9b75e200a7101919cf048980c1380d90fea12",
-    "title": "US 10Y Treasury yield: 4.65%",
-    "source": "FRED",
-    "url": "https://fred.stlouisfed.org/series/DGS10",
-    "publishedAt": "2026-08-19T00:00:00.000Z",
-    "category": "yield-curve",
-    "summary": "US 10Y Treasury yield is 4.65% (-0.06% vs previous).",
-    "type": "market-data",
-    "region": "us",
-    "symbol": "DGS10",
-    "value": 4.65,
-    "change": -0.05999999999999961,
-    "changePercent": -0.05999999999999961,
-    "unit": "%"
-  },
-  {
-    "id": "05d05717ea69e47c16478311e9f693dcce0bed51",
-    "title": "US 30Y Treasury yield: 5.19%",
-    "source": "FRED",
-    "url": "https://fred.stlouisfed.org/series/DGS30",
-    "publishedAt": "2026-08-19T00:00:00.000Z",
-    "category": "yield-curve",
-    "summary": "US 30Y Treasury yield is 5.19% (-0.09% vs previous).",
-    "type": "market-data",
-    "region": "us",
-    "symbol": "DGS30",
-    "value": 5.19,
-    "change": -0.08999999999999986,
-    "changePercent": -0.08999999999999986,
-    "unit": "%"
-  },
-  {
-    "id": "d939e17477ca43e5ba4cec38527d39184435c37e",
-    "title": "US 3M Treasury yield: 3.86%",
-    "source": "FRED",
-    "url": "https://fred.stlouisfed.org/series/DGS3MO",
-    "publishedAt": "2026-08-19T00:00:00.000Z",
-    "category": "yield-curve",
-    "summary": "US 3M Treasury yield is 3.86% (+0.00% vs previous).",
-    "type": "market-data",
-    "region": "us",
-    "symbol": "DGS3MO",
-    "value": 3.86,
-    "change": 0,
-    "changePercent": 0,
-    "unit": "%"
-  },
-  {
-    "id": "a17721dc0bcfdf9a0258e1fd865e762515df9a5f",
-    "title": "US 10Y TIPS yield: 2.35%",
-    "source": "FRED",
-    "url": "https://fred.stlouisfed.org/series/DFII10",
-    "publishedAt": "2026-08-19T00:00:00.000Z",
-    "category": "yield-curve",
-    "summary": "US 10Y TIPS yield is 2.35% (-0.06% vs previous).",
-    "type": "market-data",
-    "region": "us",
-    "symbol": "DFII10",
-    "value": 2.35,
-    "change": -0.06000000000000005,
-    "changePercent": -0.06000000000000005,
-    "unit": "%"
   },
   {
     "id": "7d26bb4b9e08ab199e8177765b0fd4083aa1a626",
@@ -816,28 +893,6 @@
     "region": "global"
   },
   {
-    "id": "d4f09d555b2dc2ddd122eff278745e8ded3649f3",
-    "title": "Perplexity’s free AI offer left it with millions more users in India",
-    "source": "TechCrunch Startups",
-    "url": "https://techcrunch.com/2026/08/18/perplexitys-free-ai-offer-left-it-with-millions-more-users-in-india/",
-    "publishedAt": "2026-08-18T13:45:40.000Z",
-    "category": "early-stage",
-    "summary": "Perplexity's India revenue rose about 60% after the Airtel offer ended for new users, even as downloads declined.",
-    "type": "article",
-    "region": "global"
-  },
-  {
-    "id": "acb810d2bbcdb71cc309b7ade67a3e5d54779884",
-    "title": "Daniel Ek’s body-scanning startup Neko Health opens first US office, in New York",
-    "source": "TechCrunch Startups",
-    "url": "https://techcrunch.com/2026/08/18/daniel-eks-body-scanning-startup-neko-health-opens-first-us-office-in-new-york/",
-    "publishedAt": "2026-08-18T13:00:00.000Z",
-    "category": "early-stage",
-    "summary": "The scanning and bloodwork health startup founded by Spotify's founder will officially launch in New York in about a month.",
-    "type": "article",
-    "region": "global"
-  },
-  {
     "id": "26ba032854340800c0a71bb4cac628aeb7090cb3",
     "title": "VCs Pour Billions Into Physical AI As The Next Wave Of AI Investing Takes Shape",
     "source": "Crunchbase News",
@@ -849,50 +904,6 @@
     "region": "global"
   },
   {
-    "id": "27c7331414f4de3d76f3793fb2f4979d3901fb6a",
-    "title": "Reach Capital raises $265M Fund V to back AI founders building to ‘expand human potential’",
-    "source": "TechCrunch Startups",
-    "url": "https://techcrunch.com/2026/08/18/reach-capital-raises-265m-fund-v-to-back-ai-founders-building-to-expand-human-potential/",
-    "publishedAt": "2026-08-18T11:00:00.000Z",
-    "category": "early-stage",
-    "summary": "Reach Capital announced Tuesday an oversubscribed $265 million Fund V.",
-    "type": "article",
-    "region": "global"
-  },
-  {
-    "id": "a68ceb3fde4a2c1a862b37d795759960b3c41df9",
-    "title": "Detroit startup Grounded raises $5M to customize electric and gas-powered vans",
-    "source": "TechCrunch Startups",
-    "url": "https://techcrunch.com/2026/08/18/detroit-startup-grounded-raises-5m-to-customize-electric-and-gas-powered-vans/",
-    "publishedAt": "2026-08-18T10:00:00.000Z",
-    "category": "early-stage",
-    "summary": "The company has shifted from making van-life builds to custom outfitting vehicles for small businesses, all while the EV landscape in the U.S. changed dramatically.",
-    "type": "article",
-    "region": "global"
-  },
-  {
-    "id": "343bf50224f39dac65d219302649cb1bb564432a",
-    "title": "Ghana: GIPA Seeks Parliament's Backing for Investment Reforms",
-    "source": "AllAfrica Investment",
-    "url": "https://allafrica.com/stories/202608180225.html",
-    "publishedAt": "2026-08-18T08:45:15.000Z",
-    "category": "africa-markets",
-    "summary": "[Ghanaian Times] The Parliamentary Select Committee on Trade, Industry and Tourism has commended the Ghana Investment Promotion Authority (GIPA) for its efforts to attract quality investments into the country and pledged its support for reforms aimed at strengthening the investme",
-    "type": "article",
-    "region": "africa"
-  },
-  {
-    "id": "964a3cf5d42c7d218fc6775921696760650de944",
-    "title": "South Africa: Thrive By Five Uses Data to Drive Smarter Investment in Early Childhood",
-    "source": "AllAfrica Investment",
-    "url": "https://allafrica.com/stories/202608180197.html",
-    "publishedAt": "2026-08-18T08:09:03.000Z",
-    "category": "africa-markets",
-    "summary": "[Daily Maverick] Sonja Giese's more-than-30-year career in child development has seen her take on a pioneering role in using data to transform early learning outcomes in South Africa. Through initiatives like the Thrive by Five Index, she has helped empower communities, educators",
-    "type": "article",
-    "region": "africa"
-  },
-  {
     "id": "9e03c4abe56c262bfd72e94868f6c6e61a85ab49",
     "title": "Zimbabwe: Victoria Falls to Host Global Labour and Investment Summit",
     "source": "AllAfrica Investment",
@@ -902,17 +913,6 @@
     "summary": "[263Chat] More than 1 000 delegates from across Zimbabwe and abroad are expected to attend the Tripartite Negotiating Forum (TNF) Global Summit in Victoria Falls in September.",
     "type": "article",
     "region": "africa"
-  },
-  {
-    "id": "fe74a3e5d15e66ed95374b9971df41a70c6981e4",
-    "title": "Higgsfield raises $400M Series B, quadrupling its valuation in 8 months to $5.4B",
-    "source": "TechCrunch Startups",
-    "url": "https://techcrunch.com/2026/08/17/higgsfield-raises-400m-series-b-quadrupling-its-valuation-in-8-months-to-5-4b/",
-    "publishedAt": "2026-08-17T19:04:27.000Z",
-    "category": "early-stage",
-    "summary": "Higgsfield, founded by former Snap exec Alex Mashrabov, lets users create AI images and videos.",
-    "type": "article",
-    "region": "global"
   },
   {
     "id": "77728300a7eebbbba8dcfda1ce4920012d7fcd76",
@@ -1021,17 +1021,6 @@
     "publishedAt": "2026-08-13T14:00:30.000Z",
     "category": "venture-capital",
     "summary": "Over 127,000 workers at U.S.-based tech companies were laid off in mass job cuts in 2025, per a Crunchbase News tally, and the layoffs have continued into 2026. See the latest companies to cut roles.",
-    "type": "article",
-    "region": "global"
-  },
-  {
-    "id": "b1698e7c5a1646dd7bffaeae96c2ec6041a81dbd",
-    "title": "How A Teenage Carpenter Became The Founder Of AI Construction Startup Trunk Tools",
-    "source": "Crunchbase News",
-    "url": "https://news.crunchbase.com/venture/carpenter-founder-ai-construction-startup-trunk-tools-buchner/",
-    "publishedAt": "2026-08-13T11:00:23.000Z",
-    "category": "venture-capital",
-    "summary": "Our second in a series of articles about non-tech founders getting venture funding features Sarah Buchner, a \"blue-collar worker by background\" who set out to find a way to help construction companies manage their projects more efficiently using AI agents.",
     "type": "article",
     "region": "global"
   },
