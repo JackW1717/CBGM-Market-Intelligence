@@ -1,5 +1,38 @@
 [
   {
+    "id": "adca07b703578c96020a9961919fbb4e7c873210",
+    "title": "Two years after launch, Walmart’s Flipkart is closing in on India’s quick-commerce leaders",
+    "source": "TechCrunch Startups",
+    "url": "https://techcrunch.com/2026/08/22/two-years-after-launch-walmarts-flipkart-is-closing-in-on-indias-quick-commerce-leaders/",
+    "publishedAt": "2026-08-23T03:00:00.000Z",
+    "category": "early-stage",
+    "summary": "Flipkart's quick-commerce venture is delivering 1.1 million to 1.2 million orders a day, nearly triple its November volume.",
+    "type": "article",
+    "region": "global"
+  },
+  {
+    "id": "43d972d3706921b2e8cc22c929092569f06c8bc0",
+    "title": "Enterprises winning with AI agents are limiting how much the agents can do alone",
+    "source": "VentureBeat",
+    "url": "https://venturebeat.com/orchestration/enterprises-winning-with-ai-agents-are-limiting-how-much-the-agents-can-do-alone",
+    "publishedAt": "2026-08-22T21:30:00.000Z",
+    "category": "ai",
+    "summary": "For much of the past two years, the general belief in enterprise AI has been that more autonomy equals better performance. Build agents that can plan, decide, and act across multi-step workflows, and give them as much room to run as possible. That assumption is now being tested a",
+    "type": "article",
+    "region": "global"
+  },
+  {
+    "id": "1cc0ab8d11ffc8f927076df301fd7830dd120f0a",
+    "title": "Egypt: Egypt Sets 50 Percent Cash Collateral Limit in New Rules for Short Selling",
+    "source": "AllAfrica Business",
+    "url": "https://allafrica.com/stories/202608220072.html",
+    "publishedAt": "2026-08-22T14:58:56.000Z",
+    "category": "africa-markets",
+    "summary": "[Daba Finance] Egypt has issued new rules for short selling on the Egyptian Exchange, requiring investors to provide cash collateral equal to at least 50% of the market value of borrowed securities. The Financial Regulatory Authority approved the framework under Resolution No. 15",
+    "type": "article",
+    "region": "africa"
+  },
+  {
     "id": "421416c34215e514774475b88eb2bcb82fca32b1",
     "title": "Japanese space tech startup Letara expands beyond satellite thrusters with $16M",
     "source": "TechCrunch Startups",
@@ -132,17 +165,6 @@
     "region": "africa"
   },
   {
-    "id": "897ae96f35ff355b173021bf293eb4d81e090b32",
-    "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
-    "source": "TechCrunch Startups",
-    "url": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
-    "publishedAt": "2026-08-21T14:00:00.000Z",
-    "category": "early-stage",
-    "summary": "Andreessen Horowitz has two partners sitting on the boards of companies that now compete with each other: Ben Horowitz at Databricks and Martin Casado at Fivetran. Nothing too scandalous on the surface, except the Department of Justice has reportedly been investigating the arrang",
-    "type": "article",
-    "region": "global"
-  },
-  {
     "id": "8a5a6d190a21bcd2d7a565a2436b4ca1ed2863d0",
     "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
     "source": "TechCrunch Startups",
@@ -154,15 +176,15 @@
     "region": "global"
   },
   {
-    "id": "0b06241af330a08d3da5217ce67204fd651aae02",
-    "title": "East Africa: Dangote Offers East Africa 30 Percent Stake in Kenya Refinery",
-    "source": "AllAfrica Business",
-    "url": "https://allafrica.com/stories/202608210512.html",
-    "publishedAt": "2026-08-21T13:11:22.000Z",
-    "category": "africa-markets",
-    "summary": "[Daba Finance] Aliko Dangote is offering East African governments a combined 30% stake in a planned refinery in Kenya as he seeks regional backing for a project designed to cut dependence on imported fuel. Kenya, Ethiopia and Rwanda have shown interest, according to David Ndii, a",
+    "id": "897ae96f35ff355b173021bf293eb4d81e090b32",
+    "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
+    "source": "TechCrunch Startups",
+    "url": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
+    "publishedAt": "2026-08-21T14:00:00.000Z",
+    "category": "early-stage",
+    "summary": "Andreessen Horowitz has two partners sitting on the boards of companies that now compete with each other: Ben Horowitz at Databricks and Martin Casado at Fivetran. Nothing too scandalous on the surface, except the Department of Justice has reportedly been investigating the arrang",
     "type": "article",
-    "region": "africa"
+    "region": "global"
   },
   {
     "id": "91e4234f9908974bbd7427627e82218e42d78b67",
@@ -772,17 +794,6 @@
     "region": "global"
   },
   {
-    "id": "e2f95ae810b5d581a130f1a340431f89009d648d",
-    "title": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push",
-    "source": "VentureBeat",
-    "url": "https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push",
-    "publishedAt": "2026-08-19T14:18:12.000Z",
-    "category": "ai",
-    "summary": "Rob Strechay, until recently managing director and principal analyst at theCUBE Research, has joined VentureBeat as our first Lead Analyst and a founding analyst of VentureBeat Research. His arrival is the next step in a deliberate move at VentureBeat toward deeper specialization",
-    "type": "article",
-    "region": "global"
-  },
-  {
     "id": "d4455889cff2e0e65214a7d3db45cbaeefe30712",
     "title": "The founder’s secret weapon: Work at TechCrunch Disrupt 2026 and learn how the pros do it",
     "source": "TechCrunch Startups",
@@ -880,17 +891,6 @@
     "summary": "[Premium Times] \"A central feature of the Policy is the use of Government's collective purchasing power to accelerate domestic infrastructure investment,\" the ministry stated.",
     "type": "article",
     "region": "africa"
-  },
-  {
-    "id": "ce35b2f34bf8608cd0f4932b02713dbf4ce2e14e",
-    "title": "Anthro Energy breaks ground on factory that could pave the road to solid-state batteries",
-    "source": "TechCrunch Startups",
-    "url": "https://techcrunch.com/2026/08/18/anthro-energy-breaks-ground-on-factory-that-could-pave-the-road-to-solid-state-batteries/",
-    "publishedAt": "2026-08-18T14:00:00.000Z",
-    "category": "early-stage",
-    "summary": "Battery materials startup Anthro Energy has broken ground on a Louisville factory to make electrolytes, including those for solid-state batteries.",
-    "type": "article",
-    "region": "global"
   },
   {
     "id": "26ba032854340800c0a71bb4cac628aeb7090cb3",
